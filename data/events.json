@@ -15,7 +15,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "6d78622f0560": {
@@ -34,7 +34,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "4687cc360325": {
@@ -53,7 +53,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "cac8ba2245e6": {
@@ -73,7 +73,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "68c082b7d223": {
@@ -81,8 +81,8 @@
   "venue_id": "rottstr5",
   "title": "Possessed by Paul James",
   "date": "2026-11-19",
-  "time": null,
-  "time_known": false,
+  "time": "19:00",
+  "time_known": true,
   "tags": [
    "konzert",
    "theater"
@@ -93,7 +93,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "967bf68fc526": {
@@ -114,7 +114,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "986afcac594a": {
@@ -134,7 +134,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "7292292bb990": {
@@ -153,7 +153,7 @@
   "location_override": "Wattenscheid",
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "9c3d29094074": {
@@ -172,7 +172,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "7e146ca4b2c4": {
@@ -192,7 +192,7 @@
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
   "last_seen": "2026-11-19T00:13:22+01:00",
-  "gone": false
+  "gone": true
  },
  "01e5b11cac27": {
   "id": "01e5b11cac27",
@@ -211,7 +211,7 @@
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
   "last_seen": "2026-11-19T00:13:22+01:00",
-  "gone": false
+  "gone": true
  },
  "bd526f3a155b": {
   "id": "bd526f3a155b",
@@ -231,7 +231,7 @@
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
   "last_seen": "2026-11-19T00:13:22+01:00",
-  "gone": false
+  "gone": true
  },
  "2dafbb5365c5": {
   "id": "2dafbb5365c5",
@@ -245,12 +245,12 @@
    "party"
   ],
   "genre": null,
-  "description": "The Dorf - Utopian Beats! 20 Jahre The Dorf - Finale!",
+  "description": "Die Jazztage Dortmund stehen seit fast vier Jahrzehnten für musikalische Grenzgänge, überraschende Begegnungen und künstlerische Neugier.",
   "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "fce6f26ccd96": {
@@ -261,7 +261,7 @@
   "time": "20:00",
   "time_known": true,
   "tags": [
-   "party"
+   "sonstiges"
   ],
   "genre": null,
   "description": "Kneipenquiz – Demokratie am Tresen",
@@ -269,7 +269,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "e3b9f2fa7930": {
@@ -288,7 +288,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "62c6f89171b8": {
@@ -308,7 +308,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "694eef6922de": {
@@ -327,7 +327,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "fb2690ca432b": {
@@ -346,7 +346,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "85d94d66e966": {
@@ -365,7 +365,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "172b8d3f3826": {
@@ -379,12 +379,12 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-8/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "e08990dee11c": {
@@ -403,7 +403,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "807f38fecd5f": {
@@ -417,12 +417,12 @@
    "workshop"
   ],
   "genre": null,
-  "description": "Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsystem",
+  "description": "Workshop mit Scala Soundsystem: Auflegen mit Vinyl für Anfänger",
   "url": "https://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "a4053fd1054a": {
@@ -436,12 +436,12 @@
    "workshop"
   ],
   "genre": null,
-  "description": "Klangerzeugung durch analoge Synthese – Workshop mit Scala Soundsystem",
+  "description": "Workshop mit Scala Soundsystem: Klangerzeugung durch analoge Synthese",
   "url": "https://www.pelmke.de/veranstaltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsystem-2/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "c43e9517dcdb": {
@@ -460,7 +460,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "008d26edf8b2": {
@@ -479,7 +479,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "13e2f0cfbd79": {
@@ -499,7 +499,7 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
   "last_seen": "2026-11-19T00:13:22+01:00",
-  "gone": false
+  "gone": true
  },
  "8dcc1ce84db1": {
   "id": "8dcc1ce84db1",
@@ -517,7 +517,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  },
  "7d893bd9647b": {
@@ -537,6 +537,103 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
   "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": true
+ },
+ "170e04f3f33a": {
+  "id": "170e04f3f33a",
+  "venue_id": "pelmke",
+  "title": "Situationen der Demokratie – Situation 1: Demokratie & Digitalität",
+  "date": "2026-12-05",
+  "time": "18:30",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+  "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:16:06+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
+  "gone": false
+ },
+ "0376ab6d9333": {
+  "id": "0376ab6d9333",
+  "venue_id": "pelmke",
+  "title": "Graz 2026 – eine andere Kommunalpolitik ist möglich",
+  "date": "2026-12-09",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Vortrag von und mit attac Hagen",
+  "url": "https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:16:06+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
+  "gone": false
+ },
+ "a6d9f75feca2": {
+  "id": "a6d9f75feca2",
+  "venue_id": "domicil",
+  "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & Stephan Mattner: Nucleus",
+  "date": "2026-11-20",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon",
+  "url": "https://domicil-dortmund.de/programm-details/fallen-crooner.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:16:06+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
+  "gone": false
+ },
+ "6834bdbbb013": {
+  "id": "6834bdbbb013",
+  "venue_id": "domicil",
+  "title": "33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet",
+  "date": "2026-11-21",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session",
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+  "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:16:06+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
+  "gone": false
+ },
+ "ba6cdef969e7": {
+  "id": "ba6cdef969e7",
+  "venue_id": "domicil",
+  "title": "Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Konzert",
+  "date": "2026-11-28",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "konzert",
+   "lesung"
+  ],
+  "genre": "Jazz",
+  "description": "Interessante Live-Gespräche in Kooperation mit der Redaktion terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Foyer.",
+  "url": "https://domicil-dortmund.de",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:16:06+01:00",
+  "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": false
  }
 }

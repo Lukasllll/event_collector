@@ -2,10 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Jazztage Jam Session feat. p.h.k. quartet
+SUMMARY:33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T231336Z
+DTSTAMP:20261118T231628Z
+UID:6834bdbbb013@event-collector
+DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
+ l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
+ et.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-m
+ it-dem-p-h-k-quartet.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[entfällt?] Jazztage Jam Session feat. p.h.k. quartet
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+DTSTAMP:20261118T231628Z
 UID:bd526f3a155b@event-collector
 DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
  l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart

@@ -2,11 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Julie Campiche "Unspoken" / Filippa Gojo & Stephan Mattner: Nucleu
- s
+SUMMARY:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Gojo & 
+ Stephan Mattner: Nucleus
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261118T231336Z
+DTSTAMP:20261118T231628Z
+UID:a6d9f75feca2@event-collector
+DESCRIPTION:Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon\nhtt
+ ps://domicil-dortmund.de/programm-details/fallen-crooner.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/programm-details/fallen-crooner.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[entfällt?] Julie Campiche "Unspoken" / Filippa Gojo & Stephan Ma
+ ttner: Nucleus
+DTSTART:20261120T190000Z
+DTEND:20261120T210000Z
+DTSTAMP:20261118T231628Z
 UID:7e146ca4b2c4@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Neue Klangwelten: Harfe + Electronics /
   Stimme + Saxophon\nhttps://domicil-dortmund.de/programm-details/goio-matt
@@ -15,10 +27,23 @@ LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/goio-mattner.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fallen Crooner (fällt aus)
+SUMMARY:33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T231336Z
+DTSTAMP:20261118T231628Z
+UID:6834bdbbb013@event-collector
+DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
+ l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
+ et.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-m
+ it-dem-p-h-k-quartet.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[entfällt?] Fallen Crooner (fällt aus)
+DTSTART:20261121T190000Z
+DTEND:20261121T210000Z
+DTSTAMP:20261118T231628Z
 UID:01e5b11cac27@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Fallen Crooner. Conversational Jazz. Hi
  nweis: fällt krankheitsbedingt aus.\nhttps://domicil-dortmund.de/programm
@@ -27,10 +52,10 @@ LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/fallen-crooner.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jazztage Jam Session feat. p.h.k. quartet
+SUMMARY:[entfällt?] Jazztage Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T231336Z
+DTSTAMP:20261118T231628Z
 UID:bd526f3a155b@event-collector
 DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
  l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
@@ -43,11 +68,24 @@ BEGIN:VEVENT
 SUMMARY:The Dorf: Utopian Beats!
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261118T231336Z
+DTSTAMP:20261118T231628Z
 UID:2dafbb5365c5@event-collector
-DESCRIPTION:The Dorf - Utopian Beats! 20 Jahre The Dorf - Finale!\nhttps:/
- /domicil-dortmund.de/programm-details/the-dorf-11958.html
+DESCRIPTION:Die Jazztage Dortmund stehen seit fast vier Jahrzehnten für m
+ usikalische Grenzgänge\, überraschende Begegnungen und künstlerische Ne
+ ugier.\nhttps://domicil-dortmund.de/programm-details/the-dorf-11958.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/the-dorf-11958.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Konzert
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+DTSTAMP:20261118T231628Z
+UID:ba6cdef969e7@event-collector
+DESCRIPTION:Interessante Live-Gespräche in Kooperation mit der Redaktion 
+ terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Fo
+ yer.\nhttps://domicil-dortmund.de
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de
 END:VEVENT
 END:VCALENDAR
