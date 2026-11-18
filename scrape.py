@@ -123,15 +123,20 @@ def from_llm(text, v):
 def scrape_venue(v, cache):
     kind, url = v.get("type", "html"), v["source"]
     r = requests.get(url, headers=UA, timeout=30); r.raise_for_status()
-    if kind == "ics": return from_ics(r.content)
+    if kind == "ics":
+        print(f"  {v['id']}: ICS")
+        return from_ics(r.content)
     if kind == "html":
-        found = from_jsonld(r.text, url)
-        if found: return found
+        found = [x for x in from_jsonld(r.text, url) if TODAY <= x.date <= TODAY + MAX_AHEAD]
+        if found:
+            print(f"  {v['id']}: JSON-LD")
+            return found
     text = page_text(r.text, url)
     h, c = sha(text), cache.get(v["id"])
     if c and c["hash"] == h:
         print(f"  {v['id']}: Seite unverändert, Cache")
         return [Raw(**e) for e in c["events"]]
+    print(f"  {v['id']}: LLM, {len(text)} Zeichen Text")
     evs = from_llm(text, v)
     cache[v["id"]] = {"hash": h, "events": [json.loads(e.model_dump_json()) for e in evs]}
     return evs
