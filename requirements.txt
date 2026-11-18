@@ -5,3 +5,4 @@ python-dateutil
 icalendar
 pydantic>=2
 anthropic
+playwright

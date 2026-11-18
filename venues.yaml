@@ -17,6 +17,7 @@ venues:
     city: Hagen
     url: https://pelmke.de
     source: https://www.pelmke.de/veranstaltungen/
+    render: browser
     rules:
       - {match: 'Klangteppich', tags: [jam-session]}
   - id: theater-an-der-volme
@@ -24,19 +25,17 @@ venues:
     city: Hagen
     url: https://theaterandervolme.de
     source: https://theaterandervolme.de/spielplan/
-    default_tags: [theater]
   - id: rottstr5
     name: Rottstr5 Theater
     city: Bochum
     url: https://rottstr5-theater.de
     source: https://rottstr5-theater.de/spielplan.html
-    default_tags: [theater]
   - id: domicil
     name: domicil
     city: Dortmund
     url: https://domicil-dortmund.de
     source: https://domicil-dortmund.de/alle-veranstaltungen.html
-    default_tags: [konzert]
+    render: browser
   - id: affenhack
     name: Affenhack Studios
     city: Herne
