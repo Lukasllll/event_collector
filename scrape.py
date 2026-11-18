@@ -120,18 +120,52 @@ def from_llm(text, v):
     return out
 
 
+def fetch_rendered(v, rounds=25):
+    """Seite im Browser laden, bis zum Ende scrollen (optional 'Mehr laden'-Button klicken), dann HTML liefern."""
+    from playwright.sync_api import sync_playwright
+    btn = v.get("load_more")
+    with sync_playwright() as p:
+        b = p.chromium.launch()
+        page = b.new_page(user_agent=UA["User-Agent"])
+        page.goto(v["source"], wait_until="load", timeout=60000)
+        page.wait_for_timeout(1500)
+        last, stable = -1, 0
+        for _ in range(rounds):
+            if btn and page.locator(btn).count():
+                try: page.locator(btn).first.click(timeout=3000)
+                except Exception: pass
+            page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            page.wait_for_timeout(1500)
+            h = page.evaluate("document.body.scrollHeight")
+            stable = stable + 1 if h == last else 0
+            last = h
+            if stable >= 2: break
+        html = page.content()
+        b.close()
+    return html
+
+
 def scrape_venue(v, cache):
     kind, url = v.get("type", "html"), v["source"]
-    r = requests.get(url, headers=UA, timeout=30); r.raise_for_status()
-    if kind == "ics": return from_ics(r.content)
+    if kind == "ics":
+        r = requests.get(url, headers=UA, timeout=30); r.raise_for_status()
+        print(f"  {v['id']}: ICS")
+        return from_ics(r.content)
+    if v.get("render") == "browser":
+        html = fetch_rendered(v)
+    else:
+        r = requests.get(url, headers=UA, timeout=30); r.raise_for_status(); html = r.text
     if kind == "html":
-        found = from_jsonld(r.text, url)
-        if found: return found
-    text = page_text(r.text, url)
+        found = [x for x in from_jsonld(html, url) if TODAY <= x.date <= TODAY + MAX_AHEAD]
+        if found:
+            print(f"  {v['id']}: JSON-LD")
+            return found
+    text = page_text(html, url)
     h, c = sha(text), cache.get(v["id"])
     if c and c["hash"] == h:
         print(f"  {v['id']}: Seite unverändert, Cache")
         return [Raw(**e) for e in c["events"]]
+    print(f"  {v['id']}: LLM, {len(text)} Zeichen Text" + (" (Browser)" if v.get("render") == "browser" else ""))
     evs = from_llm(text, v)
     cache[v["id"]] = {"hash": h, "events": [json.loads(e.model_dump_json()) for e in evs]}
     return evs
