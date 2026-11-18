@@ -16,9 +16,9 @@ venues:
     name: Pelmke
     city: Hagen
     url: https://pelmke.de
-    source: https://pelmke.de
+    source: https://www.pelmke.de/veranstaltungen/
     rules:
-      - {match: 'Klangteppich', tags: [konzert]}
+      - {match: 'Klangteppich', tags: [jam-session]}
   - id: theater-an-der-volme
     name: Theater an der Volme
     city: Hagen
