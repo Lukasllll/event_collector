@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pyyaml
+python-dateutil
+icalendar
+pydantic>=2
+anthropic

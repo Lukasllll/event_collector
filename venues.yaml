@@ -1,0 +1,44 @@
+# type: ics   -> source ist ein ICS-Feed (kein LLM)
+# type: html  -> erst JSON-LD (Schema.org Event) probieren, sonst LLM (Standard)
+# type: llm   -> immer LLM (falls die JSON-LD-Daten der Seite unvollständig sind)
+# Ohne "source": wird nicht gescrapt, nur recurring.yaml (z.B. Facebook-Orte).
+# TODO: bei "source" die echte Programmseite eintragen (ich habe die Seiten nicht geprüft).
+
+# Regeln über Titel+Beschreibung, gelten für alle Venues (Regex, ohne Beachtung der Groß-/Kleinschreibung)
+global_rules:
+  - {match: 'jam[ -]?session', tags: [jam-session]}
+  - {match: '\bLesung\b', tags: [lesung]}
+  - {match: '\bWorkshop\b', tags: [workshop]}
+  - {match: '\bAusstellung\b|\bVernissage\b', tags: [ausstellung]}
+
+venues:
+  - id: pelmke
+    name: Pelmke
+    city: Hagen
+    url: https://pelmke.de
+    source: https://pelmke.de
+    rules:
+      - {match: 'Klangteppich', tags: [konzert]}
+  - id: theater-an-der-volme
+    name: Theater an der Volme
+    city: Hagen
+    url: https://theaterandervolme.de
+    source: https://theaterandervolme.de
+    default_tags: [theater]
+  - id: rottstr5
+    name: Rottstr5 Theater
+    city: Bochum
+    url: https://rottstr5-theater.de
+    source: https://rottstr5-theater.de
+    default_tags: [theater]
+  - id: domicil
+    name: domicil
+    city: Dortmund
+    url: https://domicil-dortmund.de
+    source: https://domicil-dortmund.de
+    default_tags: [konzert]
+  - id: affenhack
+    name: Affenhack Studios
+    city: Herne
+    url: https://www.facebook.com/people/Affenhack-Studios-Herne-NEU
+    # kein source: Facebook wird nicht gescrapt, Termine über recurring.yaml

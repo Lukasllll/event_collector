@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Veranstaltungen</title>
+<style>
+:root{--bg:#eceeef;--fg:#181c22;--mut:#5d6570;--line:#c5cad0;--acc:#3a39c8;--accfg:#fff;color-scheme:light dark}
+@media(prefers-color-scheme:dark){:root{--bg:#13151a;--fg:#e8eaee;--mut:#98a0ab;--line:#2c313a;--acc:#9a98ff;--accfg:#13151a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:46rem;margin:0 auto;padding:1.5rem 1rem 4rem}
+h1{font-size:1.9rem;letter-spacing:-.02em;margin:0 0 1rem}
+.filters{display:grid;gap:.5rem;margin-bottom:2rem}
+.row{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
+.row>b{font-weight:600;color:var(--mut);min-width:4.2rem;font-size:.9rem}
+.chip{font:inherit;font-size:.9rem;padding:.2rem .7rem;border:1px solid var(--line);border-radius:99px;background:none;color:var(--fg);cursor:pointer}
+.chip.on{background:var(--acc);border-color:var(--acc);color:var(--accfg)}
+.chip:focus-visible,a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.day{display:grid;grid-template-columns:4.5rem 1fr;gap:0 1rem;border-top:1px solid var(--line);padding:.9rem 0}
+.date{position:sticky;top:.5rem;align-self:start}
+.date b{display:block;font-size:2.2rem;line-height:1;font-weight:800;color:var(--acc)}
+.date span{font-size:.85rem;color:var(--mut)}
+.ev{display:grid;grid-template-columns:3.2rem 1fr;gap:0 .5rem;padding:.35rem 0 .8rem}
+.ev h3{font-size:1.05rem;margin:0}
+.ev a{color:inherit}
+.time{font-variant-numeric:tabular-nums;color:var(--mut)}
+.mut{color:var(--mut);font-size:.9rem}
+.ev p{margin:.3rem 0 0;font-size:.92rem;max-width:62ch}
+.tag{display:inline-block;margin:.25rem .3rem 0 0;padding:0 .5rem;border:1px solid var(--line);border-radius:4px;font-size:.8rem;color:var(--mut)}
+.gone h3{text-decoration:line-through}
+.feeds{margin-top:3rem;border-top:1px solid var(--line);padding-top:1rem}
+.feeds a{margin-right:.9rem;white-space:nowrap}
+@media(max-width:30rem){.day{grid-template-columns:3.2rem 1fr}.date b{font-size:1.6rem}}
+</style>
+</head>
+<body>
+<main>
+<h1>Veranstaltungen</h1>
+<div class="filters">
+  <div class="row"><b>Stadt</b><span id="f-city" class="row"></span></div>
+  <div class="row"><b>Ort</b><span id="f-venue" class="row"></span></div>
+  <div class="row"><b>Art</b><span id="f-tag" class="row"></span></div>
+</div>
+<div id="list"></div>
+<div class="feeds">
+  <p class="mut">Kalender-Abos: Link kopieren und im Kalender als Abo hinzufügen (nicht herunterladen). Stand: <span id="gen"></span></p>
+  <div id="feeds"></div>
+</div>
+</main>
+<script>
+const $=s=>document.querySelector(s);
+const el=(t,a={},...k)=>{const e=document.createElement(t);Object.assign(e,a);e.append(...k);return e};
+const slug=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,'-');
+const sel={city:new Set(),venue:new Set(),tag:new Set()};
+let D,V;
+fetch('events.json').then(r=>r.json()).then(d=>{
+  D=d;V=Object.fromEntries(d.venues.map(v=>[v.id,v]));
+  chips('#f-city','city',[...new Set(d.venues.map(v=>v.city))].sort().map(c=>[c,c]));
+  chips('#f-venue','venue',d.venues.map(v=>[v.id,v.name]));
+  chips('#f-tag','tag',d.tags_used.map(t=>[t,t]));
+  feeds();$('#gen').textContent=new Date(d.generated).toLocaleString('de-DE');render();
+}).catch(()=>{$('#list').textContent='events.json konnte nicht geladen werden. Lief der Workflow schon?'});
+function chips(id,key,items){
+  const box=$(id);
+  for(const[val,label]of items){
+    const b=el('button',{className:'chip',textContent:label});
+    b.onclick=()=>{sel[key].has(val)?sel[key].delete(val):sel[key].add(val);b.classList.toggle('on');render()};
+    box.append(b);
+  }
+}
+function render(){
+  const today=new Date().toLocaleDateString('sv');
+  const list=D.events.filter(e=>e.date>=today
+    &&(!sel.city.size||sel.city.has(V[e.venue_id].city))
+    &&(!sel.venue.size||sel.venue.has(e.venue_id))
+    &&(!sel.tag.size||e.tags.some(t=>sel.tag.has(t))));
+  const root=$('#list');root.replaceChildren();
+  if(!list.length){root.append(el('p',{className:'mut',textContent:'Keine Veranstaltungen für diese Auswahl.'}));return}
+  let day,box;
+  for(const e of list){
+    if(e.date!==day){
+      day=e.date;const d=new Date(e.date+'T12:00');
+      box=el('div');
+      root.append(el('section',{className:'day'},
+        el('div',{className:'date'},el('b',{textContent:d.getDate()}),el('span',{textContent:d.toLocaleDateString('de-DE',{weekday:'short',month:'short'})})),box));
+    }
+    const v=V[e.venue_id];
+    const title=/^https?:\/\//.test(e.url||'')?el('a',{href:e.url,textContent:e.title,rel:'noopener'}):document.createTextNode(e.title);
+    const info=el('div',{},el('h3',{},title),
+      el('div',{className:'mut',textContent:(e.location_override||v.name+', '+v.city)+(e.genre?' – '+e.genre:'')+(e.gone?' – evtl. entfallen':'')}));
+    for(const t of e.tags)info.append(el('span',{className:'tag',textContent:t}));
+    if(e.description)info.append(el('p',{textContent:e.description}));
+    box.append(el('article',{className:'ev'+(e.gone?' gone':'')},el('div',{className:'time',textContent:e.time_known?e.time:''}),info));
+  }
+}
+function feeds(){
+  const box=$('#feeds'),add=(n,l)=>box.append(el('a',{href:'feeds/'+n+'.ics',textContent:l}));
+  add('all','Alle');
+  [...new Set(D.venues.map(v=>v.city))].forEach(c=>add('stadt-'+slug(c),c));
+  D.tags_used.forEach(t=>add('tag-'+slug(t),t));
+  D.venues.forEach(v=>add('venue-'+slug(v.id),v.name));
+}
+</script>
+</body>
+</html>
