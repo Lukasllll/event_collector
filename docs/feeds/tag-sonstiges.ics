@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Kneipenquiz – Demokratie am Tresen
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:fce6f26ccd96@event-collector
 DESCRIPTION:Kneipenquiz – Demokratie am Tresen\nhttps://www.pelmke.de/ve
  ranstaltungen/kneipenquiz-demokratie-am-tresen-3/
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz
 DTSTART:20261121T100000Z
 DTEND:20261121T120000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:e3b9f2fa7930@event-collector
 DESCRIPTION:VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz\nht
  tps://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigkeitsko
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Wintergrillen
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:008d26edf8b2@event-collector
 DESCRIPTION:Wintergrillen\nhttps://www.pelmke.de/veranstaltungen/wintergri
  llen/
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Reset Pelmke
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:8dcc1ce84db1@event-collector
 DESCRIPTION:Reset Pelmke\nhttps://www.pelmke.de/veranstaltungen/reset-pelm
  ke-22/
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Graz 2026 – eine andere Kommunalpolitik ist möglich
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:0376ab6d9333@event-collector
 DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
  altungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-un
@@ -66,7 +66,7 @@ SUMMARY:[entfällt?] Graz 2026 – eine andere Kommunalpolitik ist möglic
  h | Vortrag von und mit attac Hagen
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:7d893bd9647b@event-collector
 DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
  altungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-un

@@ -10,12 +10,12 @@
    "theater"
   ],
   "genre": null,
-  "description": "Premiere. Eine Weihnachtsgeschichte. Preisgruppe B",
+  "description": "Premiere: eine Weihnachtsgeschichte. Preisgruppe B",
   "url": "https://theaterandervolme.de/event/charles-dickens/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "6d78622f0560": {
@@ -93,7 +93,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "967bf68fc526": {
@@ -114,7 +114,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "986afcac594a": {
@@ -134,7 +134,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "7292292bb990": {
@@ -153,7 +153,7 @@
   "location_override": "Wattenscheid",
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "9c3d29094074": {
@@ -172,7 +172,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "7e146ca4b2c4": {
@@ -269,7 +269,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "e3b9f2fa7930": {
@@ -288,7 +288,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "62c6f89171b8": {
@@ -308,7 +308,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "694eef6922de": {
@@ -327,7 +327,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "fb2690ca432b": {
@@ -346,7 +346,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "85d94d66e966": {
@@ -365,7 +365,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "172b8d3f3826": {
@@ -379,12 +379,12 @@
    "party"
   ],
   "genre": null,
-  "description": "After Work Party, freestyling w/ inagee",
+  "description": "freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-8/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "e08990dee11c": {
@@ -403,7 +403,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "807f38fecd5f": {
@@ -417,12 +417,12 @@
    "workshop"
   ],
   "genre": null,
-  "description": "Workshop mit Scala Soundsystem: Auflegen mit Vinyl für Anfänger",
+  "description": "Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsystem",
   "url": "https://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "a4053fd1054a": {
@@ -436,12 +436,12 @@
    "workshop"
   ],
   "genre": null,
-  "description": "Workshop mit Scala Soundsystem: Klangerzeugung durch analoge Synthese",
+  "description": "Klangerzeugung durch analoge Synthese – Workshop mit Scala Soundsystem",
   "url": "https://www.pelmke.de/veranstaltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsystem-2/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "c43e9517dcdb": {
@@ -460,7 +460,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "008d26edf8b2": {
@@ -479,7 +479,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "13e2f0cfbd79": {
@@ -517,7 +517,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "7d893bd9647b": {
@@ -555,7 +555,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "0376ab6d9333": {
@@ -574,7 +574,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "a6d9f75feca2": {
@@ -607,14 +607,14 @@
    "jam-session",
    "konzert"
   ],
-  "genre": "Jazz",
-  "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+  "genre": null,
+  "description": "33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet",
   "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T00:16:06+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T00:44:13+01:00",
+  "gone": false
  },
  "ba6cdef969e7": {
   "id": "ba6cdef969e7",
@@ -647,12 +647,12 @@
    "theater"
   ],
   "genre": null,
-  "description": "oder Lavalampe und Flokati – Die wilden 70er. Preisgruppe A",
+  "description": "oder Lavalampe und Flokati Die wilden 70er. Preisgruppe A",
   "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "752922d87709": {
@@ -671,7 +671,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "aae50e3a0f33": {
@@ -690,7 +690,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "64c029bbc72f": {
@@ -709,7 +709,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "8c984c5088f1": {
@@ -729,7 +729,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "492c5f5f771b": {
@@ -748,7 +748,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "d96eab78084d": {
@@ -767,7 +767,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "2f3cacafac31": {
@@ -787,7 +787,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "a7a1ff828460": {
@@ -807,7 +807,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "1abb5f2fd3bc": {
@@ -826,7 +826,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "ffd0e6a6fd93": {
@@ -845,7 +845,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "12b56c6f25d0": {
@@ -864,7 +864,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "23b84073bdf0": {
@@ -877,13 +877,13 @@
   "tags": [
    "theater"
   ],
-  "genre": "Sketchcomedy",
+  "genre": "Sketch Comedy",
   "description": "Jahrhundertsketche in Neuauflage. Preisgruppe A",
   "url": "https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-4/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "78d59e71d44f": {
@@ -902,7 +902,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "d9aecb40209d": {
@@ -921,7 +921,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "7b9f10b712c0": {
@@ -932,7 +932,6 @@
   "time": "21:00",
   "time_known": true,
   "tags": [
-   "party",
    "theater"
   ],
   "genre": "Silvestershow",
@@ -941,7 +940,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "507b2423be94": {
@@ -949,7 +948,7 @@
   "venue_id": "rottstr5",
   "title": "Törleß",
   "date": "2026-12-05",
-  "time": "19:30",
+  "time": "20:00",
   "time_known": true,
   "tags": [
    "theater"
@@ -960,7 +959,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "3634d818e2ef": {
@@ -968,7 +967,7 @@
   "venue_id": "rottstr5",
   "title": "Waveland",
   "date": "2026-12-12",
-  "time": "20:00",
+  "time": "19:30",
   "time_known": true,
   "tags": [
    "konzert",
@@ -980,7 +979,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "32afa4eb940d": {
@@ -999,7 +998,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "9a5b4927fa02": {
@@ -1018,7 +1017,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "7833b68d9ed9": {
@@ -1038,7 +1037,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "98258dea9a68": {
@@ -1058,7 +1057,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "bd7a046e435b": {
@@ -1079,7 +1078,7 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
   "last_seen": "2026-11-19T00:40:12+01:00",
-  "gone": false
+  "gone": true
  },
  "4deebb544d9f": {
   "id": "4deebb544d9f",
@@ -1098,7 +1097,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "9a8ce7d22c62": {
@@ -1118,7 +1117,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "314858e8b1ca": {
@@ -1137,7 +1136,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "1d138b027dd2": {
@@ -1157,7 +1156,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "4eeaf6bfcb14": {
@@ -1176,7 +1175,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  },
  "e7f641fec46f": {
@@ -1195,7 +1194,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
+  "last_seen": "2026-11-19T00:44:13+01:00",
   "gone": false
  }
 }

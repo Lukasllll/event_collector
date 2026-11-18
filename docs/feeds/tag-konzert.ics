@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Possessed by Paul James
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:68c082b7d223@event-collector
 DESCRIPTION:Singer-Songwriter | Support: Linda LoFi\nhttps://rottstr5-thea
  ter.de/possessed-by-paul-james.html
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Blue in Green: Jazz Listening Bar
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:7833b68d9ed9@event-collector
 DESCRIPTION:Blue in Green: Jazz Listening Bar\nhttps://domicil-dortmund.de
  /programm-details/blue-in-green-jazz-listening-bar-12666.html
@@ -29,7 +29,7 @@ SUMMARY:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Gojo &
  St ...
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:98258dea9a68@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Goj
  o & St ...\nhttps://domicil-dortmund.de/programm-details/goio-mattner.html
@@ -41,7 +41,7 @@ SUMMARY:[entfällt?] 33. Jazztage Dortmund: Julie Campiche "Unspoken" / Fi
  lippa Gojo & Stephan Mattner: Nucleus
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:a6d9f75feca2@event-collector
 DESCRIPTION:Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon\nhtt
  ps://domicil-dortmund.de/programm-details/fallen-crooner.html
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Gaga Extravanza | Serving Cunts | Die Öffnung | DDDR
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:967bf68fc526@event-collector
 DESCRIPTION:Pussy-Punk | Techno\nhttps://rottstr5-theater.de/gaga-extravag
  anza-serving-cunts-die-%C3%B6ffnung-dddr.html
@@ -65,7 +65,7 @@ SUMMARY:[entfällt?] Julie Campiche "Unspoken" / Filippa Gojo & Stephan Ma
  ttner: Nucleus
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:7e146ca4b2c4@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Neue Klangwelten: Harfe + Electronics /
   Stimme + Saxophon\nhttps://domicil-dortmund.de/programm-details/goio-matt
@@ -77,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Bernd Begemann
 DTSTART:20261121T180000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:986afcac594a@event-collector
 DESCRIPTION:Singer Songwriter | Indie Pop\nhttps://rottstr5-theater.de/ber
  nd-begemann.html
@@ -85,24 +85,23 @@ LOCATION:Rottstr5 Theater\, Bochum
 URL:https://rottstr5-theater.de/bernd-begemann.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] 33. Jazztage Dortmund: Jam Session feat. p.h.k. quart
- et
+SUMMARY:33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:6834bdbbb013@event-collector
-DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
- l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
- et.html
+DESCRIPTION:33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet\nhttps
+ ://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-
+ h-k-quartet.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-m
  it-dem-p-h-k-quartet.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:33. Jazztage: Jam Session feat. p.h.k. quartet
+SUMMARY:[entfällt?] 33. Jazztage: Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:bd7a046e435b@event-collector
 DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
  l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
@@ -115,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Fallen Crooner (fällt aus)
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:01e5b11cac27@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Fallen Crooner. Conversational Jazz. Hi
  nweis: fällt krankheitsbedingt aus.\nhttps://domicil-dortmund.de/programm
@@ -127,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Jazztage Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:bd526f3a155b@event-collector
 DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
  l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
@@ -140,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Hagen Soul Night
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:62c6f89171b8@event-collector
 DESCRIPTION:Hagen Soul Night\nhttps://www.pelmke.de/veranstaltungen/hagen-
  soul-night/
@@ -151,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:„Deux Couleurs“ Saxophonquartett
 DTSTART:20261122T153000Z
 DTEND:20261122T173000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:fb2690ca432b@event-collector
 DESCRIPTION:„Deux Couleurs“ Saxophonquartett\nhttps://www.pelmke.de/ve
  ranstaltungen/deux-couleurs-saxophonquartett-2/
@@ -163,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyl Shake
 DTSTART:20261123T190000Z
 DTEND:20261123T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:4deebb544d9f@event-collector
 DESCRIPTION:Vinyl Shake\nhttps://domicil-dortmund.de/programm-details/viny
  l-shake-12658.html
@@ -174,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261123T193000Z
 DTEND:20261123T213000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:9a8ce7d22c62@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/programm-det
  ails/monday-night-session-12626.html
@@ -186,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Das Dortmunder Rudelsingen
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:314858e8b1ca@event-collector
 DESCRIPTION:Das Dortmunder Rudelsingen\nhttps://domicil-dortmund.de/progra
  mm-details/das-dortmunder-rudelsingen-11987.html
@@ -198,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: 20 Jahre The Dorf
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:4eeaf6bfcb14@event-collector
 DESCRIPTION:33. Jazztage Dortmund: 20 Jahre The Dorf\nhttps://domicil-dort
  mund.de/programm-details/the-dorf-11958.html
@@ -209,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:Bue in Green: Jazz Listening Bar
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:1d138b027dd2@event-collector
 DESCRIPTION:Bue in Green: Jazz Listening Bar\nhttps://domicil-dortmund.de/
  programm-details/bue-in-green-jazz-listening-bar.html
@@ -221,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] The Dorf: Utopian Beats!
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:2dafbb5365c5@event-collector
 DESCRIPTION:Die Jazztage Dortmund stehen seit fast vier Jahrzehnten für m
  usikalische Grenzgänge\, überraschende Begegnungen und künstlerische Ne
@@ -233,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: Marialy Pacheco Trio
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:e7f641fec46f@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Marialy Pacheco Trio\nhttps://domicil-d
  ortmund.de/programm-details/marialy-pacheco.html
@@ -245,7 +244,7 @@ SUMMARY:[entfällt?] Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Ko
  nzert
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:ba6cdef969e7@event-collector
 DESCRIPTION:Interessante Live-Gespräche in Kooperation mit der Redaktion 
  terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Fo
@@ -257,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Ich brauch Tapetenwechsel
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:8c984c5088f1@event-collector
 DESCRIPTION:Ein Chansonabend und eine Hommage an die große Hildegard Knef
   mit Nina Tripp. Preisgruppe A\nhttps://theaterandervolme.de/event/ich-bra
@@ -270,7 +269,7 @@ SUMMARY:Situationen der Demokratie – Situation 1: Demokratie & Digitalit
  ät
 DTSTART:20261205T173000Z
 DTEND:20261205T193000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:170e04f3f33a@event-collector
 DESCRIPTION:Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nht
  tps://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
@@ -284,7 +283,7 @@ SUMMARY:[entfällt?] Situationen der Demokratie – Situation 1: Demokrati
  rt
 DTSTART:20261205T173000Z
 DTEND:20261205T193000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:13e2f0cfbd79@event-collector
 DESCRIPTION:Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nht
  tps://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
@@ -296,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Metamorphose
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:2f3cacafac31@event-collector
 DESCRIPTION:Klavierkonzert mit Martin Brödemann. Preisgruppe A\nhttps://t
  heaterandervolme.de/event/metamorphose/
@@ -307,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Ein bisschen Baum muss sein
 DTSTART:20261210T183000Z
 DTEND:20261210T203000Z
-DTSTAMP:20261118T234016Z
+DTSTAMP:20261118T234438Z
 UID:a7a1ff828460@event-collector
 DESCRIPTION:Satirisch-musikalisches Weihnachtskabarett von und mit Stefan 
  Keim und Leslie Sternefeld. Preisgruppe A\nhttps://theaterandervolme.de/ev
@@ -317,9 +316,9 @@ URL:https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Waveland
-DTSTART:20261212T190000Z
-DTEND:20261212T210000Z
-DTSTAMP:20261118T234016Z
+DTSTART:20261212T183000Z
+DTEND:20261212T203000Z
+DTSTAMP:20261118T234438Z
 UID:3634d818e2ef@event-collector
 DESCRIPTION:Rock | Electronic\nhttps://rottstr5-theater.de/waveland.html
 LOCATION:Rottstr5 Theater\, Bochum
