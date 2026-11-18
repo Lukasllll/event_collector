@@ -1,1 +1,1256 @@
-{"generated":"2026-11-18T00:00:00+01:00","tags":[],"tags_used":[],"venues":[],"events":[]}
+{
+ "generated": "2026-11-19T00:25:38+01:00",
+ "tags": [
+  "konzert",
+  "jam-session",
+  "theater",
+  "lesung",
+  "party",
+  "film",
+  "workshop",
+  "ausstellung",
+  "sonstiges"
+ ],
+ "tags_used": [
+  "jam-session",
+  "konzert",
+  "lesung",
+  "party",
+  "sonstiges",
+  "theater",
+  "workshop"
+ ],
+ "venues": [
+  {
+   "id": "pelmke",
+   "name": "Pelmke",
+   "city": "Hagen",
+   "url": "https://pelmke.de"
+  },
+  {
+   "id": "theater-an-der-volme",
+   "name": "Theater an der Volme",
+   "city": "Hagen",
+   "url": "https://theaterandervolme.de"
+  },
+  {
+   "id": "rottstr5",
+   "name": "Rottstr5 Theater",
+   "city": "Bochum",
+   "url": "https://rottstr5-theater.de"
+  },
+  {
+   "id": "domicil",
+   "name": "domicil",
+   "city": "Dortmund",
+   "url": "https://domicil-dortmund.de"
+  },
+  {
+   "id": "affenhack",
+   "name": "Affenhack Studios",
+   "city": "Herne",
+   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU"
+  }
+ ],
+ "events": [
+  {
+   "id": "68c082b7d223",
+   "venue_id": "rottstr5",
+   "title": "Possessed by Paul James",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Singer-Songwriter",
+   "description": "Singer-Songwriter | Support: Linda LoFi",
+   "url": "https://rottstr5-theater.de/possessed-by-paul-james.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "7833b68d9ed9",
+   "venue_id": "domicil",
+   "title": "Blue in Green: Jazz Listening Bar",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Blue in Green: Jazz Listening Bar",
+   "url": "https://domicil-dortmund.de/programm-details/blue-in-green-jazz-listening-bar-12666.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "fce6f26ccd96",
+   "venue_id": "pelmke",
+   "title": "Kneipenquiz – Demokratie am Tresen",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "sonstiges"
+   ],
+   "genre": null,
+   "description": "Kneipenquiz – Demokratie am Tresen",
+   "url": "https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen-3/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "581fcb255e21",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Premiere. Eine Weihnachtsgeschichte. Preisgruppe B",
+   "url": "https://theaterandervolme.de/event/charles-dickens/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "98258dea9a68",
+   "venue_id": "domicil",
+   "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St ...",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": "Jazz, Experimental, Modern Jazz",
+   "description": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St ...",
+   "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "a6d9f75feca2",
+   "venue_id": "domicil",
+   "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & Stephan Mattner: Nucleus",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon",
+   "url": "https://domicil-dortmund.de/programm-details/fallen-crooner.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "967bf68fc526",
+   "venue_id": "rottstr5",
+   "title": "Gaga Extravanza | Serving Cunts | Die Öffnung | DDDR",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party",
+    "theater"
+   ],
+   "genre": "Pussy-Punk | Techno",
+   "description": "Pussy-Punk | Techno",
+   "url": "https://rottstr5-theater.de/gaga-extravaganza-serving-cunts-die-%C3%B6ffnung-dddr.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "7e146ca4b2c4",
+   "venue_id": "domicil",
+   "title": "Julie Campiche \"Unspoken\" / Filippa Gojo & Stephan Mattner: Nucleus",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "33. Jazztage Dortmund: Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon",
+   "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:13:22+01:00",
+   "gone": true
+  },
+  {
+   "id": "e3b9f2fa7930",
+   "venue_id": "pelmke",
+   "title": "VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz",
+   "date": "2026-11-21",
+   "time": "11:00",
+   "time_known": true,
+   "tags": [
+    "sonstiges"
+   ],
+   "genre": null,
+   "description": "VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz",
+   "url": "https://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigkeitskonferenz/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "986afcac594a",
+   "venue_id": "rottstr5",
+   "title": "Bernd Begemann",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Singer Songwriter | Indie Pop",
+   "description": "Singer Songwriter | Indie Pop",
+   "url": "https://rottstr5-theater.de/bernd-begemann.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "00342d67182c",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ein Bett im Kornfeld",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "oder Lavalampe und Flokati – Die wilden 70er. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "6d78622f0560",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ein Bett im Kornfeld oder Lavalampe und Flokati",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Die wilden 70er „Ein Bett im Kornfeld oder Lavalampe und Flokati“ hören Sie von und mit Dario Weberg und Karolin Kersting",
+   "url": "https://theaterandervolme.de",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "6834bdbbb013",
+   "venue_id": "domicil",
+   "title": "33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+   "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "bd7a046e435b",
+   "venue_id": "domicil",
+   "title": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": null,
+   "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+   "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "01e5b11cac27",
+   "venue_id": "domicil",
+   "title": "Fallen Crooner (fällt aus)",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "33. Jazztage Dortmund: Fallen Crooner. Conversational Jazz. Hinweis: fällt krankheitsbedingt aus.",
+   "url": "https://domicil-dortmund.de/programm-details/fallen-crooner.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:13:22+01:00",
+   "gone": true
+  },
+  {
+   "id": "bd526f3a155b",
+   "venue_id": "domicil",
+   "title": "Jazztage Jam Session feat. p.h.k. quartet",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+   "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:13:22+01:00",
+   "gone": true
+  },
+  {
+   "id": "62c6f89171b8",
+   "venue_id": "pelmke",
+   "title": "Hagen Soul Night",
+   "date": "2026-11-21",
+   "time": "21:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": "Soul",
+   "description": "Hagen Soul Night",
+   "url": "https://www.pelmke.de/veranstaltungen/hagen-soul-night/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "cac8ba2245e6",
+   "venue_id": "theater-an-der-volme",
+   "title": "Buchvorstellung 2026",
+   "date": "2026-11-22",
+   "time": null,
+   "time_known": false,
+   "tags": [
+    "lesung",
+    "theater"
+   ],
+   "genre": null,
+   "description": "Buchvorstellung 2026 am 22.11.",
+   "url": "https://theaterandervolme.de/buchvorstellung-2026/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "694eef6922de",
+   "venue_id": "pelmke",
+   "title": "Leselounge im Kinocafé",
+   "date": "2026-11-22",
+   "time": "15:00",
+   "time_known": true,
+   "tags": [
+    "lesung"
+   ],
+   "genre": null,
+   "description": "Leselounge im Kinocafé",
+   "url": "https://www.pelmke.de/veranstaltungen/leselounge-im-kinocafe-4/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "fb2690ca432b",
+   "venue_id": "pelmke",
+   "title": "„Deux Couleurs“ Saxophonquartett",
+   "date": "2026-11-22",
+   "time": "16:30",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Saxophonquartett",
+   "description": "„Deux Couleurs“ Saxophonquartett",
+   "url": "https://www.pelmke.de/veranstaltungen/deux-couleurs-saxophonquartett-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "752922d87709",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "oder Island für Anfänger. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "4687cc360325",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfänger",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Freuen Sie sich auf „FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfänger“ mit Dario Weberg und Karolin Kersting",
+   "url": "https://theaterandervolme.de",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "4deebb544d9f",
+   "venue_id": "domicil",
+   "title": "Vinyl Shake",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Vinyl Shake",
+   "url": "https://domicil-dortmund.de/programm-details/vinyl-shake-12658.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "9a8ce7d22c62",
+   "venue_id": "domicil",
+   "title": "Monday Night Session",
+   "date": "2026-11-23",
+   "time": "20:30",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "Monday Night Session",
+   "url": "https://domicil-dortmund.de/programm-details/monday-night-session-12626.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "314858e8b1ca",
+   "venue_id": "domicil",
+   "title": "Das Dortmunder Rudelsingen",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Pop",
+   "description": "Das Dortmunder Rudelsingen",
+   "url": "https://domicil-dortmund.de/programm-details/das-dortmunder-rudelsingen-11987.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "85d94d66e966",
+   "venue_id": "pelmke",
+   "title": "»Alte Wut« – Warum ich an den Ort reiste, von dem mein Vater einst fliehen musste",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "lesung"
+   ],
+   "genre": null,
+   "description": "Lesung und Gespräch mit der Autorin Caro Matzko",
+   "url": "https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "172b8d3f3826",
+   "venue_id": "pelmke",
+   "title": "Sundowner Collective – After Work Party",
+   "date": "2026-11-26",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "party"
+   ],
+   "genre": null,
+   "description": "After Work Party, freestyling w/ inagee",
+   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-8/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "4eeaf6bfcb14",
+   "venue_id": "domicil",
+   "title": "33. Jazztage Dortmund: 20 Jahre The Dorf",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Avantgarde, Improvisation, Urban",
+   "description": "33. Jazztage Dortmund: 20 Jahre The Dorf",
+   "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "1d138b027dd2",
+   "venue_id": "domicil",
+   "title": "Bue in Green: Jazz Listening Bar",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Bue in Green: Jazz Listening Bar",
+   "url": "https://domicil-dortmund.de/programm-details/bue-in-green-jazz-listening-bar.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "2dafbb5365c5",
+   "venue_id": "domicil",
+   "title": "The Dorf: Utopian Beats!",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Die Jazztage Dortmund stehen seit fast vier Jahrzehnten für musikalische Grenzgänge, überraschende Begegnungen und künstlerische Neugier.",
+   "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "aae50e3a0f33",
+   "venue_id": "theater-an-der-volme",
+   "title": "Kasimir und Karoline",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Eine Produktion des Jugendclubs des Theaters an der Volme. Nach Ödön von Horváth. Preisgruppe C",
+   "url": "https://theaterandervolme.de/event/kasimir-und-karoline-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "e7f641fec46f",
+   "venue_id": "domicil",
+   "title": "33. Jazztage Dortmund: Marialy Pacheco Trio",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Jazz, Latin",
+   "description": "33. Jazztage Dortmund: Marialy Pacheco Trio",
+   "url": "https://domicil-dortmund.de/programm-details/marialy-pacheco.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "e08990dee11c",
+   "venue_id": "pelmke",
+   "title": "Poetry Slam – moderiert von Jan Schmidt",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "lesung"
+   ],
+   "genre": "Poetry Slam",
+   "description": "Poetry Slam – moderiert von Jan Schmidt",
+   "url": "https://www.pelmke.de/veranstaltungen/poetry-slammoderiert-von-jan-schmidt-5/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "807f38fecd5f",
+   "venue_id": "pelmke",
+   "title": "Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsystem",
+   "date": "2026-11-28",
+   "time": "11:00",
+   "time_known": true,
+   "tags": [
+    "workshop"
+   ],
+   "genre": null,
+   "description": "Workshop mit Scala Soundsystem: Auflegen mit Vinyl für Anfänger",
+   "url": "https://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "ba6cdef969e7",
+   "venue_id": "domicil",
+   "title": "Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Konzert",
+   "date": "2026-11-28",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "lesung"
+   ],
+   "genre": "Jazz",
+   "description": "Interessante Live-Gespräche in Kooperation mit der Redaktion terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Foyer.",
+   "url": "https://domicil-dortmund.de",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "64c029bbc72f",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-11-28",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/charles-dickens-4/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "a4053fd1054a",
+   "venue_id": "pelmke",
+   "title": "Klangerzeugung durch analoge Synthese – Workshop mit Scala Soundsystem",
+   "date": "2026-11-29",
+   "time": "11:00",
+   "time_known": true,
+   "tags": [
+    "workshop"
+   ],
+   "genre": null,
+   "description": "Workshop mit Scala Soundsystem: Klangerzeugung durch analoge Synthese",
+   "url": "https://www.pelmke.de/veranstaltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsystem-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "8c984c5088f1",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ich brauch Tapetenwechsel",
+   "date": "2026-11-29",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Chanson",
+   "description": "Ein Chansonabend und eine Hommage an die große Hildegard Knef mit Nina Tripp. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/ich-brauch-tapetenwechsel/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "c43e9517dcdb",
+   "venue_id": "pelmke",
+   "title": "Mukke am Mittwoch w/ WHLKLNG",
+   "date": "2026-12-02",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "party"
+   ],
+   "genre": null,
+   "description": "DJ Set und Happy Hour",
+   "url": "https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "7292292bb990",
+   "venue_id": "rottstr5",
+   "title": "Pop Up Theater in Wattenscheid: Die Wand",
+   "date": "2026-12-03",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Von Marlen Haushofer | Regie Alexander Ritter",
+   "url": "https://rottstr5-theater.de/pop-up-theater-die-wand.html",
+   "location_override": "Wattenscheid",
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "008d26edf8b2",
+   "venue_id": "pelmke",
+   "title": "Wintergrillen",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "sonstiges"
+   ],
+   "genre": null,
+   "description": "Wintergrillen",
+   "url": "https://www.pelmke.de/veranstaltungen/wintergrillen/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "492c5f5f771b",
+   "venue_id": "theater-an-der-volme",
+   "title": "Er kam, sah und sie siegte",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Männer sind anders, Frauen auch. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "9c3d29094074",
+   "venue_id": "rottstr5",
+   "title": "Schuld und Sühne",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander Ritter",
+   "url": "https://rottstr5-theater.de/schuld-und-s%C3%BChne.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-18T23:59:30+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "170e04f3f33a",
+   "venue_id": "pelmke",
+   "title": "Situationen der Demokratie – Situation 1: Demokratie & Digitalität",
+   "date": "2026-12-05",
+   "time": "18:30",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": null,
+   "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+   "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "13e2f0cfbd79",
+   "venue_id": "pelmke",
+   "title": "Situationen der Demokratie – Situation 1: Demokratie & Digitalität. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+   "date": "2026-12-05",
+   "time": "18:30",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": null,
+   "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+   "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:13:22+01:00",
+   "gone": true
+  },
+  {
+   "id": "d96eab78084d",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2026-12-05",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "oder Island für Anfänger. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-1/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "507b2423be94",
+   "venue_id": "rottstr5",
+   "title": "Törleß",
+   "date": "2026-12-05",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "nach Robert Musil | Regie Akbar Paktin",
+   "url": "https://rottstr5-theater.de/T%C3%B6rle%C3%9F.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "2f3cacafac31",
+   "venue_id": "theater-an-der-volme",
+   "title": "Metamorphose",
+   "date": "2026-12-06",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Klavier",
+   "description": "Klavierkonzert mit Martin Brödemann. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/metamorphose/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "8dcc1ce84db1",
+   "venue_id": "pelmke",
+   "title": "Reset Pelmke",
+   "date": "2026-12-06",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "sonstiges"
+   ],
+   "genre": null,
+   "description": "Reset Pelmke",
+   "url": "https://www.pelmke.de/veranstaltungen/reset-pelmke-22/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "0376ab6d9333",
+   "venue_id": "pelmke",
+   "title": "Graz 2026 – eine andere Kommunalpolitik ist möglich",
+   "date": "2026-12-09",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "sonstiges"
+   ],
+   "genre": null,
+   "description": "Vortrag von und mit attac Hagen",
+   "url": "https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "7d893bd9647b",
+   "venue_id": "pelmke",
+   "title": "Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortrag von und mit attac Hagen",
+   "date": "2026-12-09",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "sonstiges"
+   ],
+   "genre": null,
+   "description": "Vortrag von und mit attac Hagen",
+   "url": "https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:13:22+01:00",
+   "last_seen": "2026-11-19T00:13:22+01:00",
+   "gone": true
+  },
+  {
+   "id": "a7a1ff828460",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ein bisschen Baum muss sein",
+   "date": "2026-12-10",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Kabarett",
+   "description": "Satirisch-musikalisches Weihnachtskabarett von und mit Stefan Keim und Leslie Sternefeld. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "1abb5f2fd3bc",
+   "venue_id": "theater-an-der-volme",
+   "title": "Der Mörder war es!",
+   "date": "2026-12-11",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimikomödie",
+   "description": "Krimikomödie von Indra Janorschke und Dario Weberg. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/der-moerder-war-es-4/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "ffd0e6a6fd93",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-12-12",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/charles-dickens-1/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "3634d818e2ef",
+   "venue_id": "rottstr5",
+   "title": "Waveland",
+   "date": "2026-12-12",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Rock | Electronic",
+   "description": "Rock | Electronic",
+   "url": "https://rottstr5-theater.de/waveland.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "12b56c6f25d0",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-12-13",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/charles-dickens-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "32afa4eb940d",
+   "venue_id": "rottstr5",
+   "title": "Schuld und Sühne",
+   "date": "2026-12-13",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander Ritter",
+   "url": "https://rottstr5-theater.de/schuld-und-s%C3%BChne.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "9a5b4927fa02",
+   "venue_id": "rottstr5",
+   "title": "Das große Heft",
+   "date": "2026-12-18",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "von Ágota Kristóf | Regie Martina van Boxen",
+   "url": "https://rottstr5-theater.de/das-grosse-heft.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "23b84073bdf0",
+   "venue_id": "theater-an-der-volme",
+   "title": "Sketch Comedy Club 2.0",
+   "date": "2026-12-18",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Sketchcomedy",
+   "description": "Jahrhundertsketche in Neuauflage. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-4/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "78d59e71d44f",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2026-12-19",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "oder Island für Anfänger. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-3/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "d9aecb40209d",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-12-20",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/charles-dickens-3/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "7b9f10b712c0",
+   "venue_id": "theater-an-der-volme",
+   "title": "Das Beste kommt zum Schluss",
+   "date": "2026-12-31",
+   "time": "21:00",
+   "time_known": true,
+   "tags": [
+    "party",
+    "theater"
+   ],
+   "genre": "Silvestershow",
+   "description": "Die ultimative Show zu Silvester. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/das-beste-kommt-zum-schluss-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  }
+ ]
+}
