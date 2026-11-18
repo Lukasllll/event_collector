@@ -15,7 +15,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "6d78622f0560": {
@@ -34,7 +34,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "4687cc360325": {
@@ -53,7 +53,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "cac8ba2245e6": {
@@ -73,7 +73,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "68c082b7d223": {
@@ -93,7 +93,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "967bf68fc526": {
@@ -114,7 +114,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "986afcac594a": {
@@ -134,7 +134,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "7292292bb990": {
@@ -153,7 +153,7 @@
   "location_override": "Wattenscheid",
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "9c3d29094074": {
@@ -172,7 +172,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "7e146ca4b2c4": {
@@ -191,7 +191,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "01e5b11cac27": {
@@ -210,7 +210,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "bd526f3a155b": {
@@ -230,7 +230,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  },
  "2dafbb5365c5": {
@@ -250,7 +250,293 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "fce6f26ccd96": {
+  "id": "fce6f26ccd96",
+  "venue_id": "pelmke",
+  "title": "Kneipenquiz – Demokratie am Tresen",
+  "date": "2026-11-19",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "Kneipenquiz – Demokratie am Tresen",
+  "url": "https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen-3/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "e3b9f2fa7930": {
+  "id": "e3b9f2fa7930",
+  "venue_id": "pelmke",
+  "title": "VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz",
+  "date": "2026-11-21",
+  "time": "11:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz",
+  "url": "https://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigkeitskonferenz/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "62c6f89171b8": {
+  "id": "62c6f89171b8",
+  "venue_id": "pelmke",
+  "title": "Hagen Soul Night",
+  "date": "2026-11-21",
+  "time": "21:00",
+  "time_known": true,
+  "tags": [
+   "konzert",
+   "party"
+  ],
+  "genre": "Soul",
+  "description": "Hagen Soul Night",
+  "url": "https://www.pelmke.de/veranstaltungen/hagen-soul-night/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "694eef6922de": {
+  "id": "694eef6922de",
+  "venue_id": "pelmke",
+  "title": "Leselounge im Kinocafé",
+  "date": "2026-11-22",
+  "time": "15:00",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": null,
+  "description": "Leselounge im Kinocafé",
+  "url": "https://www.pelmke.de/veranstaltungen/leselounge-im-kinocafe-4/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "fb2690ca432b": {
+  "id": "fb2690ca432b",
+  "venue_id": "pelmke",
+  "title": "„Deux Couleurs“ Saxophonquartett",
+  "date": "2026-11-22",
+  "time": "16:30",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Saxophonquartett",
+  "description": "„Deux Couleurs“ Saxophonquartett",
+  "url": "https://www.pelmke.de/veranstaltungen/deux-couleurs-saxophonquartett-2/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "85d94d66e966": {
+  "id": "85d94d66e966",
+  "venue_id": "pelmke",
+  "title": "»Alte Wut« – Warum ich an den Ort reiste, von dem mein Vater einst fliehen musste",
+  "date": "2026-11-25",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": null,
+  "description": "Lesung und Gespräch mit der Autorin Caro Matzko",
+  "url": "https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "172b8d3f3826": {
+  "id": "172b8d3f3826",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2026-11-26",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-8/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "e08990dee11c": {
+  "id": "e08990dee11c",
+  "venue_id": "pelmke",
+  "title": "Poetry Slam – moderiert von Jan Schmidt",
+  "date": "2026-11-27",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": "Poetry Slam",
+  "description": "Poetry Slam – moderiert von Jan Schmidt",
+  "url": "https://www.pelmke.de/veranstaltungen/poetry-slammoderiert-von-jan-schmidt-5/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "807f38fecd5f": {
+  "id": "807f38fecd5f",
+  "venue_id": "pelmke",
+  "title": "Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsystem",
+  "date": "2026-11-28",
+  "time": "11:00",
+  "time_known": true,
+  "tags": [
+   "workshop"
+  ],
+  "genre": null,
+  "description": "Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsystem",
+  "url": "https://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "a4053fd1054a": {
+  "id": "a4053fd1054a",
+  "venue_id": "pelmke",
+  "title": "Klangerzeugung durch analoge Synthese – Workshop mit Scala Soundsystem",
+  "date": "2026-11-29",
+  "time": "11:00",
+  "time_known": true,
+  "tags": [
+   "workshop"
+  ],
+  "genre": null,
+  "description": "Klangerzeugung durch analoge Synthese – Workshop mit Scala Soundsystem",
+  "url": "https://www.pelmke.de/veranstaltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsystem-2/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "c43e9517dcdb": {
+  "id": "c43e9517dcdb",
+  "venue_id": "pelmke",
+  "title": "Mukke am Mittwoch w/ WHLKLNG",
+  "date": "2026-12-02",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "DJ Set und Happy Hour",
+  "url": "https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "008d26edf8b2": {
+  "id": "008d26edf8b2",
+  "venue_id": "pelmke",
+  "title": "Wintergrillen",
+  "date": "2026-12-04",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Wintergrillen",
+  "url": "https://www.pelmke.de/veranstaltungen/wintergrillen/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "13e2f0cfbd79": {
+  "id": "13e2f0cfbd79",
+  "venue_id": "pelmke",
+  "title": "Situationen der Demokratie – Situation 1: Demokratie & Digitalität. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+  "date": "2026-12-05",
+  "time": "18:30",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+  "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "8dcc1ce84db1": {
+  "id": "8dcc1ce84db1",
+  "venue_id": "pelmke",
+  "title": "Reset Pelmke",
+  "date": "2026-12-06",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Reset Pelmke",
+  "url": "https://www.pelmke.de/veranstaltungen/reset-pelmke-22/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
+  "gone": false
+ },
+ "7d893bd9647b": {
+  "id": "7d893bd9647b",
+  "venue_id": "pelmke",
+  "title": "Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortrag von und mit attac Hagen",
+  "date": "2026-12-09",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Vortrag von und mit attac Hagen",
+  "url": "https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T00:13:22+01:00",
+  "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": false
  }
 }

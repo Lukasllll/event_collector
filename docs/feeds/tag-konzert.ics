@@ -4,7 +4,7 @@ PRODID:-//event-collector//DE
 BEGIN:VEVENT
 SUMMARY:Possessed by Paul James
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:68c082b7d223@event-collector
 DESCRIPTION:Singer-Songwriter | Support: Linda LoFi\nhttps://rottstr5-thea
  ter.de/possessed-by-paul-james.html
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Gaga Extravanza | Serving Cunts | Die Öffnung | DDDR
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:967bf68fc526@event-collector
 DESCRIPTION:Pussy-Punk | Techno\nhttps://rottstr5-theater.de/gaga-extravag
  anza-serving-cunts-die-%C3%B6ffnung-dddr.html
@@ -28,7 +28,7 @@ SUMMARY:Julie Campiche "Unspoken" / Filippa Gojo & Stephan Mattner: Nucleu
  s
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:7e146ca4b2c4@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Neue Klangwelten: Harfe + Electronics /
   Stimme + Saxophon\nhttps://domicil-dortmund.de/programm-details/goio-matt
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Bernd Begemann
 DTSTART:20261121T180000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:986afcac594a@event-collector
 DESCRIPTION:Singer Songwriter | Indie Pop\nhttps://rottstr5-theater.de/ber
  nd-begemann.html
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Fallen Crooner (fällt aus)
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:01e5b11cac27@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Fallen Crooner. Conversational Jazz. Hi
  nweis: fällt krankheitsbedingt aus.\nhttps://domicil-dortmund.de/programm
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Jazztage Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:bd526f3a155b@event-collector
 DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
  l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
@@ -73,14 +73,50 @@ URL:https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-m
  it-dem-p-h-k-quartet.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hagen Soul Night
+DTSTART:20261121T200000Z
+DTEND:20261121T220000Z
+DTSTAMP:20261118T231336Z
+UID:62c6f89171b8@event-collector
+DESCRIPTION:Hagen Soul Night\nhttps://www.pelmke.de/veranstaltungen/hagen-
+ soul-night/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/hagen-soul-night/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:„Deux Couleurs“ Saxophonquartett
+DTSTART:20261122T153000Z
+DTEND:20261122T173000Z
+DTSTAMP:20261118T231336Z
+UID:fb2690ca432b@event-collector
+DESCRIPTION:„Deux Couleurs“ Saxophonquartett\nhttps://www.pelmke.de/ve
+ ranstaltungen/deux-couleurs-saxophonquartett-2/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/deux-couleurs-saxophonquartett-2
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Dorf: Utopian Beats!
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:2dafbb5365c5@event-collector
 DESCRIPTION:The Dorf - Utopian Beats! 20 Jahre The Dorf - Finale!\nhttps:/
  /domicil-dortmund.de/programm-details/the-dorf-11958.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/the-dorf-11958.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Situationen der Demokratie – Situation 1: Demokratie & Digitalit
+ ät. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert
+DTSTART:20261205T173000Z
+DTEND:20261205T193000Z
+DTSTAMP:20261118T231336Z
+UID:13e2f0cfbd79@event-collector
+DESCRIPTION:Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nht
+ tps://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalit
+ aet/
 END:VEVENT
 END:VCALENDAR

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens Eine Weihnachtsgeschichte
 DTSTART:20261120T183000Z
 DTEND:20261120T203000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:581fcb255e21@event-collector
 DESCRIPTION:Die nächste Premiere: „Charles Dickens Eine Weihnachtsgesch
  ichte“ erzählt von Dario Weberg\nhttps://theaterandervolme.de
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Ein Bett im Kornfeld oder Lavalampe und Flokati
 DTSTART:20261121T183000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:6d78622f0560@event-collector
 DESCRIPTION:Die wilden 70er „Ein Bett im Kornfeld oder Lavalampe und Flo
  kati“ hören Sie von und mit Dario Weberg und Karolin Kersting\nhttps://
@@ -27,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buchvorstellung 2026
 DTSTART;VALUE=DATE:20261122
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:cac8ba2245e6@event-collector
 DESCRIPTION:Buchvorstellung 2026 am 22.11.\nhttps://theaterandervolme.de/b
  uchvorstellung-2026/
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfänger
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261118T225946Z
+DTSTAMP:20261118T231336Z
 UID:4687cc360325@event-collector
 DESCRIPTION:Freuen Sie sich auf „FROSTBEULEN & FAMILIENGLÜCK oder Islan
  d für Anfänger“ mit Dario Weberg und Karolin Kersting\nhttps://theater
