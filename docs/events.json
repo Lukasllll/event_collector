@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T00:16:06+01:00",
+ "generated": "2026-11-19T00:25:38+01:00",
  "tags": [
   "konzert",
   "jam-session",
@@ -70,7 +70,27 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "7833b68d9ed9",
+   "venue_id": "domicil",
+   "title": "Blue in Green: Jazz Listening Bar",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Blue in Green: Jazz Listening Bar",
+   "url": "https://domicil-dortmund.de/programm-details/blue-in-green-jazz-listening-bar-12666.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -89,13 +109,13 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
    "id": "581fcb255e21",
    "venue_id": "theater-an-der-volme",
-   "title": "Charles Dickens Eine Weihnachtsgeschichte",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
    "date": "2026-11-20",
    "time": "19:30",
    "time_known": true,
@@ -103,12 +123,32 @@
     "theater"
    ],
    "genre": null,
-   "description": "Die nächste Premiere: „Charles Dickens Eine Weihnachtsgeschichte“ erzählt von Dario Weberg",
-   "url": "https://theaterandervolme.de",
+   "description": "Premiere. Eine Weihnachtsgeschichte. Preisgruppe B",
+   "url": "https://theaterandervolme.de/event/charles-dickens/",
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "98258dea9a68",
+   "venue_id": "domicil",
+   "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St ...",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": "Jazz, Experimental, Modern Jazz",
+   "description": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St ...",
+   "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -128,7 +168,7 @@
    "recurring": false,
    "first_seen": "2026-11-19T00:16:06+01:00",
    "last_seen": "2026-11-19T00:16:06+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "967bf68fc526",
@@ -148,7 +188,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -186,7 +226,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -206,7 +246,26 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "00342d67182c",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ein Bett im Kornfeld",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "oder Lavalampe und Flokati – Die wilden 70er. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -226,7 +285,7 @@
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
    "last_seen": "2026-11-19T00:16:06+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "6834bdbbb013",
@@ -246,6 +305,26 @@
    "recurring": false,
    "first_seen": "2026-11-19T00:16:06+01:00",
    "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "bd7a046e435b",
+   "venue_id": "domicil",
+   "title": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": null,
+   "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+   "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -304,7 +383,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -325,7 +404,7 @@
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
    "last_seen": "2026-11-19T00:16:06+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "694eef6922de",
@@ -343,7 +422,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -362,7 +441,26 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "752922d87709",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "oder Island für Anfänger. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -382,6 +480,65 @@
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
    "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "4deebb544d9f",
+   "venue_id": "domicil",
+   "title": "Vinyl Shake",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Vinyl Shake",
+   "url": "https://domicil-dortmund.de/programm-details/vinyl-shake-12658.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "9a8ce7d22c62",
+   "venue_id": "domicil",
+   "title": "Monday Night Session",
+   "date": "2026-11-23",
+   "time": "20:30",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "Monday Night Session",
+   "url": "https://domicil-dortmund.de/programm-details/monday-night-session-12626.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "314858e8b1ca",
+   "venue_id": "domicil",
+   "title": "Das Dortmunder Rudelsingen",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Pop",
+   "description": "Das Dortmunder Rudelsingen",
+   "url": "https://domicil-dortmund.de/programm-details/das-dortmunder-rudelsingen-11987.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -400,7 +557,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -419,7 +576,46 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "4eeaf6bfcb14",
+   "venue_id": "domicil",
+   "title": "33. Jazztage Dortmund: 20 Jahre The Dorf",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Avantgarde, Improvisation, Urban",
+   "description": "33. Jazztage Dortmund: 20 Jahre The Dorf",
+   "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "1d138b027dd2",
+   "venue_id": "domicil",
+   "title": "Bue in Green: Jazz Listening Bar",
+   "date": "2026-11-26",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Bue in Green: Jazz Listening Bar",
+   "url": "https://domicil-dortmund.de/programm-details/bue-in-green-jazz-listening-bar.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -440,6 +636,44 @@
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
    "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "aae50e3a0f33",
+   "venue_id": "theater-an-der-volme",
+   "title": "Kasimir und Karoline",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Eine Produktion des Jugendclubs des Theaters an der Volme. Nach Ödön von Horváth. Preisgruppe C",
+   "url": "https://theaterandervolme.de/event/kasimir-und-karoline-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "e7f641fec46f",
+   "venue_id": "domicil",
+   "title": "33. Jazztage Dortmund: Marialy Pacheco Trio",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Jazz, Latin",
+   "description": "33. Jazztage Dortmund: Marialy Pacheco Trio",
+   "url": "https://domicil-dortmund.de/programm-details/marialy-pacheco.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -458,7 +692,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -477,7 +711,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -498,6 +732,25 @@
    "recurring": false,
    "first_seen": "2026-11-19T00:16:06+01:00",
    "last_seen": "2026-11-19T00:16:06+01:00",
+   "gone": true
+  },
+  {
+   "id": "64c029bbc72f",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-11-28",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/charles-dickens-4/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -516,7 +769,27 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "8c984c5088f1",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ich brauch Tapetenwechsel",
+   "date": "2026-11-29",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Chanson",
+   "description": "Ein Chansonabend und eine Hommage an die große Hildegard Knef mit Nina Tripp. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/ich-brauch-tapetenwechsel/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -535,7 +808,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -543,7 +816,7 @@
    "venue_id": "rottstr5",
    "title": "Pop Up Theater in Wattenscheid: Die Wand",
    "date": "2026-12-03",
-   "time": "19:00",
+   "time": "19:30",
    "time_known": true,
    "tags": [
     "theater"
@@ -554,7 +827,7 @@
    "location_override": "Wattenscheid",
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -573,7 +846,26 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "492c5f5f771b",
+   "venue_id": "theater-an-der-volme",
+   "title": "Er kam, sah und sie siegte",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Männer sind anders, Frauen auch. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -592,7 +884,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -611,7 +903,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:16:06+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -634,6 +926,64 @@
    "gone": true
   },
   {
+   "id": "d96eab78084d",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2026-12-05",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "oder Island für Anfänger. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-1/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "507b2423be94",
+   "venue_id": "rottstr5",
+   "title": "Törleß",
+   "date": "2026-12-05",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "nach Robert Musil | Regie Akbar Paktin",
+   "url": "https://rottstr5-theater.de/T%C3%B6rle%C3%9F.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "2f3cacafac31",
+   "venue_id": "theater-an-der-volme",
+   "title": "Metamorphose",
+   "date": "2026-12-06",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Klavier",
+   "description": "Klavierkonzert mit Martin Brödemann. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/metamorphose/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
    "id": "8dcc1ce84db1",
    "venue_id": "pelmke",
    "title": "Reset Pelmke",
@@ -649,7 +999,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -668,7 +1018,7 @@
    "location_override": null,
    "recurring": false,
    "first_seen": "2026-11-19T00:16:06+01:00",
-   "last_seen": "2026-11-19T00:16:06+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
    "gone": false
   },
   {
@@ -689,6 +1039,218 @@
    "first_seen": "2026-11-19T00:13:22+01:00",
    "last_seen": "2026-11-19T00:13:22+01:00",
    "gone": true
+  },
+  {
+   "id": "a7a1ff828460",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ein bisschen Baum muss sein",
+   "date": "2026-12-10",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Kabarett",
+   "description": "Satirisch-musikalisches Weihnachtskabarett von und mit Stefan Keim und Leslie Sternefeld. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "1abb5f2fd3bc",
+   "venue_id": "theater-an-der-volme",
+   "title": "Der Mörder war es!",
+   "date": "2026-12-11",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimikomödie",
+   "description": "Krimikomödie von Indra Janorschke und Dario Weberg. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/der-moerder-war-es-4/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "ffd0e6a6fd93",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-12-12",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/charles-dickens-1/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "3634d818e2ef",
+   "venue_id": "rottstr5",
+   "title": "Waveland",
+   "date": "2026-12-12",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Rock | Electronic",
+   "description": "Rock | Electronic",
+   "url": "https://rottstr5-theater.de/waveland.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "12b56c6f25d0",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-12-13",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/charles-dickens-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "32afa4eb940d",
+   "venue_id": "rottstr5",
+   "title": "Schuld und Sühne",
+   "date": "2026-12-13",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander Ritter",
+   "url": "https://rottstr5-theater.de/schuld-und-s%C3%BChne.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "9a5b4927fa02",
+   "venue_id": "rottstr5",
+   "title": "Das große Heft",
+   "date": "2026-12-18",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "von Ágota Kristóf | Regie Martina van Boxen",
+   "url": "https://rottstr5-theater.de/das-grosse-heft.html",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "23b84073bdf0",
+   "venue_id": "theater-an-der-volme",
+   "title": "Sketch Comedy Club 2.0",
+   "date": "2026-12-18",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Sketchcomedy",
+   "description": "Jahrhundertsketche in Neuauflage. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-4/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "78d59e71d44f",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2026-12-19",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "oder Island für Anfänger. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-3/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "d9aecb40209d",
+   "venue_id": "theater-an-der-volme",
+   "title": "Charles Dickens – eine Weihnachtsgeschichte",
+   "date": "2026-12-20",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": null,
+   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/charles-dickens-3/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
+  },
+  {
+   "id": "7b9f10b712c0",
+   "venue_id": "theater-an-der-volme",
+   "title": "Das Beste kommt zum Schluss",
+   "date": "2026-12-31",
+   "time": "21:00",
+   "time_known": true,
+   "tags": [
+    "party",
+    "theater"
+   ],
+   "genre": "Silvestershow",
+   "description": "Die ultimative Show zu Silvester. Preisgruppe A",
+   "url": "https://theaterandervolme.de/event/das-beste-kommt-zum-schluss-2/",
+   "location_override": null,
+   "recurring": false,
+   "first_seen": "2026-11-19T00:25:38+01:00",
+   "last_seen": "2026-11-19T00:25:38+01:00",
+   "gone": false
   }
  ]
 }

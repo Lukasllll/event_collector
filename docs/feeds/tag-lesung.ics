@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Buchvorstellung 2026
+SUMMARY:[entfällt?] Buchvorstellung 2026
 DTSTART;VALUE=DATE:20261122
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:cac8ba2245e6@event-collector
 DESCRIPTION:Buchvorstellung 2026 am 22.11.\nhttps://theaterandervolme.de/b
  uchvorstellung-2026/
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:694eef6922de@event-collector
 DESCRIPTION:Leselounge im Kinocafé\nhttps://www.pelmke.de/veranstaltungen
  /leselounge-im-kinocafe-4/
@@ -27,7 +27,7 @@ SUMMARY:»Alte Wut« – Warum ich an den Ort reiste\, von dem mein Vater
  einst fliehen musste
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:85d94d66e966@event-collector
 DESCRIPTION:Lesung und Gespräch mit der Autorin Caro Matzko\nhttps://www.
  pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mei
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry Slam – moderiert von Jan Schmidt
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:e08990dee11c@event-collector
 DESCRIPTION:Poetry Slam – moderiert von Jan Schmidt\nhttps://www.pelmke.
  de/veranstaltungen/poetry-slammoderiert-von-jan-schmidt-5/
@@ -51,10 +51,11 @@ URL:https://www.pelmke.de/veranstaltungen/poetry-slammoderiert-von-jan-sch
  midt-5/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Konzert
+SUMMARY:[entfällt?] Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Ko
+ nzert
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:ba6cdef969e7@event-collector
 DESCRIPTION:Interessante Live-Gespräche in Kooperation mit der Redaktion 
  terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Fo

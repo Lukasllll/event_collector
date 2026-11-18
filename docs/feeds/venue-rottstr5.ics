@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Possessed by Paul James
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:68c082b7d223@event-collector
 DESCRIPTION:Singer-Songwriter | Support: Linda LoFi\nhttps://rottstr5-thea
  ter.de/possessed-by-paul-james.html
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Gaga Extravanza | Serving Cunts | Die Öffnung | DDDR
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:967bf68fc526@event-collector
 DESCRIPTION:Pussy-Punk | Techno\nhttps://rottstr5-theater.de/gaga-extravag
  anza-serving-cunts-die-%C3%B6ffnung-dddr.html
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Bernd Begemann
 DTSTART:20261121T180000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:986afcac594a@event-collector
 DESCRIPTION:Singer Songwriter | Indie Pop\nhttps://rottstr5-theater.de/ber
  nd-begemann.html
@@ -37,9 +37,9 @@ URL:https://rottstr5-theater.de/bernd-begemann.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pop Up Theater in Wattenscheid: Die Wand
-DTSTART:20261203T180000Z
-DTEND:20261203T200000Z
-DTSTAMP:20261118T231628Z
+DTSTART:20261203T183000Z
+DTEND:20261203T203000Z
+DTSTAMP:20261118T232559Z
 UID:7292292bb990@event-collector
 DESCRIPTION:Von Marlen Haushofer | Regie Alexander Ritter\nhttps://rottstr
  5-theater.de/pop-up-theater-die-wand.html
@@ -50,11 +50,54 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261118T231628Z
+DTSTAMP:20261118T232559Z
 UID:9c3d29094074@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
 LOCATION:Rottstr5 Theater\, Bochum
 URL:https://rottstr5-theater.de/schuld-und-s%C3%BChne.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Törleß
+DTSTART:20261205T183000Z
+DTEND:20261205T203000Z
+DTSTAMP:20261118T232559Z
+UID:507b2423be94@event-collector
+DESCRIPTION:nach Robert Musil | Regie Akbar Paktin\nhttps://rottstr5-theat
+ er.de/T%C3%B6rle%C3%9F.html
+LOCATION:Rottstr5 Theater\, Bochum
+URL:https://rottstr5-theater.de/T%C3%B6rle%C3%9F.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waveland
+DTSTART:20261212T190000Z
+DTEND:20261212T210000Z
+DTSTAMP:20261118T232559Z
+UID:3634d818e2ef@event-collector
+DESCRIPTION:Rock | Electronic\nhttps://rottstr5-theater.de/waveland.html
+LOCATION:Rottstr5 Theater\, Bochum
+URL:https://rottstr5-theater.de/waveland.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Schuld und Sühne
+DTSTART:20261213T183000Z
+DTEND:20261213T203000Z
+DTSTAMP:20261118T232559Z
+UID:32afa4eb940d@event-collector
+DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
+ itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
+LOCATION:Rottstr5 Theater\, Bochum
+URL:https://rottstr5-theater.de/schuld-und-s%C3%BChne.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das große Heft
+DTSTART:20261218T183000Z
+DTEND:20261218T203000Z
+DTSTAMP:20261118T232559Z
+UID:9a5b4927fa02@event-collector
+DESCRIPTION:von Ágota Kristóf | Regie Martina van Boxen\nhttps://rottstr
+ 5-theater.de/das-grosse-heft.html
+LOCATION:Rottstr5 Theater\, Bochum
+URL:https://rottstr5-theater.de/das-grosse-heft.html
 END:VEVENT
 END:VCALENDAR
