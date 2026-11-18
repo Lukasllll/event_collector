@@ -1,0 +1,256 @@
+{
+ "581fcb255e21": {
+  "id": "581fcb255e21",
+  "venue_id": "theater-an-der-volme",
+  "title": "Charles Dickens Eine Weihnachtsgeschichte",
+  "date": "2026-11-20",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "Die nächste Premiere: „Charles Dickens Eine Weihnachtsgeschichte“ erzählt von Dario Weberg",
+  "url": "https://theaterandervolme.de",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "6d78622f0560": {
+  "id": "6d78622f0560",
+  "venue_id": "theater-an-der-volme",
+  "title": "Ein Bett im Kornfeld oder Lavalampe und Flokati",
+  "date": "2026-11-21",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "Die wilden 70er „Ein Bett im Kornfeld oder Lavalampe und Flokati“ hören Sie von und mit Dario Weberg und Karolin Kersting",
+  "url": "https://theaterandervolme.de",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "4687cc360325": {
+  "id": "4687cc360325",
+  "venue_id": "theater-an-der-volme",
+  "title": "FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfänger",
+  "date": "2026-11-22",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "Freuen Sie sich auf „FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfänger“ mit Dario Weberg und Karolin Kersting",
+  "url": "https://theaterandervolme.de",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "cac8ba2245e6": {
+  "id": "cac8ba2245e6",
+  "venue_id": "theater-an-der-volme",
+  "title": "Buchvorstellung 2026",
+  "date": "2026-11-22",
+  "time": null,
+  "time_known": false,
+  "tags": [
+   "lesung",
+   "theater"
+  ],
+  "genre": null,
+  "description": "Buchvorstellung 2026 am 22.11.",
+  "url": "https://theaterandervolme.de/buchvorstellung-2026/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "68c082b7d223": {
+  "id": "68c082b7d223",
+  "venue_id": "rottstr5",
+  "title": "Possessed by Paul James",
+  "date": "2026-11-19",
+  "time": null,
+  "time_known": false,
+  "tags": [
+   "konzert",
+   "theater"
+  ],
+  "genre": "Singer-Songwriter",
+  "description": "Singer-Songwriter | Support: Linda LoFi",
+  "url": "https://rottstr5-theater.de/possessed-by-paul-james.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "967bf68fc526": {
+  "id": "967bf68fc526",
+  "venue_id": "rottstr5",
+  "title": "Gaga Extravanza | Serving Cunts | Die Öffnung | DDDR",
+  "date": "2026-11-20",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert",
+   "party",
+   "theater"
+  ],
+  "genre": "Pussy-Punk | Techno",
+  "description": "Pussy-Punk | Techno",
+  "url": "https://rottstr5-theater.de/gaga-extravaganza-serving-cunts-die-%C3%B6ffnung-dddr.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "986afcac594a": {
+  "id": "986afcac594a",
+  "venue_id": "rottstr5",
+  "title": "Bernd Begemann",
+  "date": "2026-11-21",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "konzert",
+   "theater"
+  ],
+  "genre": "Singer Songwriter | Indie Pop",
+  "description": "Singer Songwriter | Indie Pop",
+  "url": "https://rottstr5-theater.de/bernd-begemann.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "7292292bb990": {
+  "id": "7292292bb990",
+  "venue_id": "rottstr5",
+  "title": "Pop Up Theater in Wattenscheid: Die Wand",
+  "date": "2026-12-03",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "Von Marlen Haushofer | Regie Alexander Ritter",
+  "url": "https://rottstr5-theater.de/pop-up-theater-die-wand.html",
+  "location_override": "Wattenscheid",
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "9c3d29094074": {
+  "id": "9c3d29094074",
+  "venue_id": "rottstr5",
+  "title": "Schuld und Sühne",
+  "date": "2026-12-04",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander Ritter",
+  "url": "https://rottstr5-theater.de/schuld-und-s%C3%BChne.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "7e146ca4b2c4": {
+  "id": "7e146ca4b2c4",
+  "venue_id": "domicil",
+  "title": "Julie Campiche \"Unspoken\" / Filippa Gojo & Stephan Mattner: Nucleus",
+  "date": "2026-11-20",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "33. Jazztage Dortmund: Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon",
+  "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "01e5b11cac27": {
+  "id": "01e5b11cac27",
+  "venue_id": "domicil",
+  "title": "Fallen Crooner (fällt aus)",
+  "date": "2026-11-21",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "33. Jazztage Dortmund: Fallen Crooner. Conversational Jazz. Hinweis: fällt krankheitsbedingt aus.",
+  "url": "https://domicil-dortmund.de/programm-details/fallen-crooner.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "bd526f3a155b": {
+  "id": "bd526f3a155b",
+  "venue_id": "domicil",
+  "title": "Jazztage Jam Session feat. p.h.k. quartet",
+  "date": "2026-11-21",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session",
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
+  "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ },
+ "2dafbb5365c5": {
+  "id": "2dafbb5365c5",
+  "venue_id": "domicil",
+  "title": "The Dorf: Utopian Beats!",
+  "date": "2026-11-26",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert",
+   "party"
+  ],
+  "genre": null,
+  "description": "The Dorf - Utopian Beats! 20 Jahre The Dorf - Finale!",
+  "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-18T23:59:30+01:00",
+  "last_seen": "2026-11-18T23:59:30+01:00",
+  "gone": false
+ }
+}

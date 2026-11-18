@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//event-collector//DE
+BEGIN:VEVENT
+SUMMARY:Buchvorstellung 2026
+DTSTART;VALUE=DATE:20261122
+DTSTAMP:20261118T225946Z
+UID:cac8ba2245e6@event-collector
+DESCRIPTION:Buchvorstellung 2026 am 22.11.\nhttps://theaterandervolme.de/b
+ uchvorstellung-2026/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/buchvorstellung-2026/
+END:VEVENT
+END:VCALENDAR
