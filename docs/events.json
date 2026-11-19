@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T02:01:43+01:00",
+ "generated": "2026-11-19T11:57:18+01:00",
  "tags": [
   "konzert",
   "jam-session",
@@ -12,7 +12,6 @@
   "sonstiges"
  ],
  "tags_used": [
-  "ausstellung",
   "film",
   "jam-session",
   "konzert",
@@ -75,15 +74,16 @@
    "time": "18:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "party"
    ],
    "genre": null,
-   "description": "&lt;p&gt;PREWEEKEND IM WERKHOF Am 19. November startet im Werkhof Hohenlimburg  [...]&lt;/p&gt;\\n",
+   "description": "PREWEEKEND IM WERKHOF Am 19. November startet im Werkhof Hohenlimburg [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/preweekend-am-19-11-2026/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -101,8 +101,9 @@
    "url": "https://rottstr5-theater.de/possessed-by-paul-james.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -120,8 +121,9 @@
    "url": "https://domicil-dortmund.de/programm-details/blue-in-green-jazz-listening-bar-12666.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -139,8 +141,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen-3/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -165,7 +168,7 @@
   {
    "id": "98258dea9a68",
    "venue_id": "domicil",
-   "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St ...",
+   "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
    "date": "2026-11-20",
    "time": "20:00",
    "time_known": true,
@@ -173,12 +176,13 @@
     "konzert"
    ],
    "genre": "Jazz, Experimental, Modern Jazz",
-   "description": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St ...",
+   "description": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
    "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -216,8 +220,9 @@
    "url": "https://rottstr5-theater.de/gaga-extravaganza-serving-cunts-die-%C3%B6ffnung-dddr.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -240,22 +245,23 @@
    "gone": true
   },
   {
-   "id": "f7d2136180df",
+   "id": "2c5fa06c7075",
    "venue_id": "werkhof",
-   "title": "Theater unterm Schloss &#8211; Mordstödlich!",
+   "title": "Theater unterm Schloss – Mordstödlich!",
    "date": "2026-11-20",
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "theater"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Achtung: Aus Krankheitsgründen kann das Stück &quot;Mordstödlich!&quot; nicht stattfinden. Stattdessen  [...]&lt;/p&gt;\\n",
+   "genre": "Krimi-Komödie",
+   "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoedlich-2/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -273,8 +279,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigkeitskonferenz/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -292,8 +299,9 @@
    "url": "https://rottstr5-theater.de/bernd-begemann.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -370,8 +378,9 @@
    "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -382,15 +391,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Clashing Minds spielen schon seit 2017 zusammen Musik und sind  [...]&lt;/p&gt;\\n",
+   "genre": "Rock",
+   "description": "Clashing Minds spielen schon seit 2017 zusammen Musik und sind [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/clashing-friends-festival-vol-iii/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -440,6 +450,7 @@
    "time": "21:00",
    "time_known": true,
    "tags": [
+    "konzert",
     "party"
    ],
    "genre": "Soul",
@@ -447,8 +458,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/hagen-soul-night/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -486,8 +498,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/leselounge-im-kinocafe-4/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -498,16 +511,16 @@
    "time": "15:00",
    "time_known": true,
    "tags": [
-    "ausstellung",
     "workshop"
    ],
-   "genre": null,
-   "description": "Begegne dem Kind, das du warst, und lass es sich gesehen fühlen. Kunst hat die Kraft, unserem inneren erleben eine Greifbarkeit zu verleihen. In diesem Workshop nehmen wir uns Zeit für das Kind, das wir einmal waren, und geben ihm Raum, Farbe und Aufmerksamkeit.",
+   "genre": "Aquarell",
+   "description": "Schecke deinem inneren Kind ein Bild. Begegne dem Kind, das du warst, und lass es sich gesehen fühlen. Kunst hat die Kraft, unserem inneren erleben eine Greifbarkeit zu verleihen.",
    "url": "https://www.wirrwarr-wehringhausen.de/events/nature-journaling-ka57l-3krf4",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -520,13 +533,14 @@
    "tags": [
     "konzert"
    ],
-   "genre": "Saxophonquartett",
+   "genre": "Saxophon",
    "description": "„Deux Couleurs“ Saxophonquartett",
    "url": "https://www.pelmke.de/veranstaltungen/deux-couleurs-saxophonquartett-2/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -568,22 +582,23 @@
    "gone": true
   },
   {
-   "id": "bb4ba33dfa4b",
+   "id": "9f63b7cce7eb",
    "venue_id": "werkhof",
-   "title": "Theater unterm Schloss &#8211; Mordstödlich!",
+   "title": "Theater unterm Schloss – Mordstödlich!",
    "date": "2026-11-22",
    "time": "18:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "theater"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Achtung: Aus Krankheitsgründen kann das Stück &quot;Mordstödlich!&quot; nicht stattfinden. Stattdessen  [...]&lt;/p&gt;\\n",
+   "genre": "Krimi-Komödie",
+   "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoedlich-3/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -601,8 +616,9 @@
    "url": "https://domicil-dortmund.de/programm-details/vinyl-shake-12658.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -620,8 +636,9 @@
    "url": "https://domicil-dortmund.de/programm-details/monday-night-session-12626.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -639,8 +656,9 @@
    "url": "https://domicil-dortmund.de/programm-details/das-dortmunder-rudelsingen-11987.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -658,8 +676,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -677,8 +696,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-8/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -696,8 +716,9 @@
    "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -715,8 +736,9 @@
    "url": "https://domicil-dortmund.de/programm-details/bue-in-green-jazz-listening-bar.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -749,13 +771,14 @@
    "tags": [
     "jam-session"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre  [...]&lt;/p&gt;\\n",
+   "genre": "Rock",
+   "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -792,8 +815,9 @@
    "url": "https://domicil-dortmund.de/programm-details/marialy-pacheco.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -811,8 +835,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/poetry-slammoderiert-von-jan-schmidt-5/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -830,8 +855,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -888,27 +914,29 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/ingrid-laubrock.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
-   "id": "fccd27c10b5c",
+   "id": "014bfbe4eb66",
    "venue_id": "werkhof",
-   "title": "TH &#038; the Boneshakerz",
+   "title": "TH & the Boneshakerz",
    "date": "2026-11-28",
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde  [...]&lt;/p&gt;\\n",
+   "genre": "Southern Rock",
+   "description": "Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/th-the-boneshakerz/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -926,8 +954,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/finibaggies-presents-saturday-soul-12523.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -940,13 +969,14 @@
    "tags": [
     "workshop"
    ],
-   "genre": null,
+   "genre": "Analoge Synthese",
    "description": "Klangerzeugung durch analoge Synthese – Workshop mit Scala Soundsystem",
    "url": "https://www.pelmke.de/veranstaltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsystem-2/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -964,8 +994,9 @@
    "url": "https://www.wirrwarr-wehringhausen.de/events/quartiersfruestuec-juli-kreative-projekte-d6npk-mt6ms-sc4ab-y65h9-hay5l-y3d9s-nedr2-yn8mz-swcn5",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -976,15 +1007,17 @@
    "time": "15:00",
    "time_known": true,
    "tags": [
-    "film"
+    "film",
+    "lesung"
    ],
    "genre": null,
-   "description": "Filme über Kunst und Gespräche über das Leben! An 5 Terminen werden im Kino Babylon 2026 in Kooperation mit dem Fliegenden Salon Filme gezeigt, die das Leben und Wirken in und aus der Kunstwelt zeigen. Salon-Gastgeberin Kimberly Hardt lädt anschließend zum Gespräch ein.",
+   "description": "Filme über Kunst und Gespräche über das Leben! Filme, die das Leben und Wirken in und aus der Kunstwelt zeigen, anschließend Gespräch im Salon mit Gastgeberin Kimberly Hardt. In Kooperation mit dem Fliegenden Salon.",
    "url": "https://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hagen-nov26",
    "location_override": "Kino Babylon",
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1022,8 +1055,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/bartholomae.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1041,8 +1075,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/vinyl-shake-12659.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1060,8 +1095,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12627.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1079,8 +1115,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/wortklub-12292.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1098,8 +1135,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/folkwang-jazz-12097.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1112,13 +1150,14 @@
    "tags": [
     "party"
    ],
-   "genre": "DJ Set",
+   "genre": null,
    "description": "DJ Set und Happy Hour",
    "url": "https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1136,8 +1175,9 @@
    "url": "https://rottstr5-theater.de/pop-up-theater-die-wand.html",
    "location_override": "Wattenscheid",
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1155,8 +1195,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/shining-hour-11975.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1170,12 +1211,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/4-music-night-3/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1193,8 +1235,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/wintergrillen/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1231,8 +1274,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/jugend-jazzt-preistr%C3%A4gerkonzert.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1250,8 +1294,9 @@
    "url": "https://rottstr5-theater.de/schuld-und-s%C3%BChne.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1269,9 +1314,10 @@
    "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:16:06+01:00",
-   "last_seen": "2026-11-19T00:44:13+01:00",
-   "gone": true
+   "last_seen": "2026-11-19T11:57:18+01:00",
+   "gone": false
   },
   {
    "id": "13e2f0cfbd79",
@@ -1290,7 +1336,7 @@
    "recurring": false,
    "first_seen": "2026-11-19T00:13:22+01:00",
    "last_seen": "2026-11-19T02:01:43+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "d96eab78084d",
@@ -1326,8 +1372,9 @@
    "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
    "location_override": null,
    "recurring": true,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1345,8 +1392,9 @@
    "url": "https://rottstr5-theater.de/T%C3%B6rle%C3%9F.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1364,8 +1412,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/40-party-12072.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1376,15 +1425,16 @@
    "time": "12:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "party"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Flohmarkt für Gothic, Metal, Rockabilly, Punk &amp; More - Eintritt  [...]&lt;/p&gt;\\n",
+   "genre": "Gothic/Metal/Rockabilly/Punk",
+   "description": "Flohmarkt für Gothic, Metal, Rockabilly, Punk & More - Eintritt [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-12-2026/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1421,8 +1471,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/reset-pelmke-22/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1440,8 +1491,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12628.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1459,8 +1511,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:16:06+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1498,8 +1551,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/flinta-session-12323.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1534,12 +1588,13 @@
     "konzert"
    ],
    "genre": "Improvisation",
-   "description": "Musik, live und improvisiert",
+   "description": "Der Klangteppich – Musik, live und improvisiert",
    "url": "https://www.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-improvisiert-10/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1557,8 +1612,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/tineke-postma-group-feat-theo-bleckmann.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1572,12 +1628,13 @@
     "party"
    ],
    "genre": null,
-   "description": "In den letzten drei Jahren ist viel passiert. Wir haben das WirrWarr gemeinsam zu einem Ort gemacht, an dem wir uns wohlfühlen, uns ausprobieren und unsere kreativen Visionen verwirklichen können. Wir wollen am Freitag, 11. Dezember auf die letzten drei Jahre zurück schauen und uns gemeinsam mit euch auf neue Abenteuer freuen.",
+   "description": "In den letzten drei Jahren ist viel passiert. Wir wollen am Freitag, 11. Dezember auf die letzten drei Jahre zurück schauen und uns gemeinsam mit euch auf neue Abenteuer freuen.",
    "url": "https://www.wirrwarr-wehringhausen.de/events/jahresabschluss-sober-dancefloor",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1607,15 +1664,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kulturzentrum  [...]&lt;/p&gt;\\n",
+   "genre": "Rock",
+   "description": "Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kulturzentrum [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/rockpalast-revival-2-0/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1633,8 +1691,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/standup-comedy-5/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1645,15 +1704,16 @@
    "time": "19:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;UNITED ON THE ROCK – ROCK, METAL &amp; SANDKUNST Vier  [...]&lt;/p&gt;\\n",
+   "genre": "Rock/Metal",
+   "description": "UNITED ON THE ROCK – ROCK, METAL & SANDKUNST Vier [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1690,8 +1750,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/projazz-festival-12474.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1709,8 +1770,9 @@
    "url": "https://rottstr5-theater.de/waveland.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1728,8 +1790,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/finibaggies-presents-saturday-soul-12524.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1747,8 +1810,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/soundzz-12304.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1785,8 +1849,9 @@
    "url": "https://rottstr5-theater.de/schuld-und-s%C3%BChne.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1804,8 +1869,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12629.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1823,8 +1889,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/wortklub-demokratie-labor-5-anne-brorhilker-und-christoph-bartmann-12398.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1835,15 +1902,16 @@
    "time": "18:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "party"
    ],
    "genre": null,
-   "description": "&lt;p&gt;TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER &gt;&gt;&gt;  [...]&lt;/p&gt;\\n",
+   "description": "TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1861,8 +1929,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen-4/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1880,8 +1949,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-11960.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1899,8 +1969,9 @@
    "url": "https://rottstr5-theater.de/das-grosse-heft.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1918,8 +1989,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/kickerturnier-2026/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1949,15 +2021,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember  [...]&lt;/p&gt;\\n",
+   "genre": "Irish Folk Punk",
+   "description": "KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12-2026/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -1975,8 +2048,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/herbelicious.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2014,8 +2088,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slippers-the-mad-moiselles-putrid-cave/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2033,27 +2108,29 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/stefan-bauer-12338.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
-   "id": "ec1d41577ea3",
+   "id": "f842c26cda89",
    "venue_id": "werkhof",
-   "title": "CountryRock Night &#8211; Jahresabschluss mit Siiri am 19.12.2026",
+   "title": "CountryRock Night – Jahresabschluss mit Siiri am 19.12.2026",
    "date": "2026-12-19",
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;CountryRock Night - Jahresabschluss mit Siiri -  Wenn ehrliche Songs  [...]&lt;/p&gt;\\n",
+   "genre": "Country Rock",
+   "description": "CountryRock Night - Jahresabschluss mit Siiri - Wenn ehrliche Songs [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/countryrock-jahresabschluss-mit-siiri/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2090,8 +2167,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-um-die-welt-aegypten/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2109,8 +2187,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12630.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2128,8 +2207,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/54-weihnachts-jazzmatinee-im-opernhaus.html",
    "location_override": "Opernhaus",
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2140,15 +2220,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "party"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Ho, ho, ho – Schluss mit stiller Nacht! Am 26.  [...]&lt;/p&gt;\\n",
+   "description": "Ho, ho, ho – Schluss mit stiller Nacht! Am 26. [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-kneipe/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2166,8 +2247,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/leselounge-im-kinocafe-6/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2204,8 +2286,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/silvesterparty-11970.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2223,8 +2306,9 @@
    "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
    "location_override": null,
    "recurring": true,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2242,8 +2326,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12632.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2257,12 +2342,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-6/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2280,8 +2366,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/alexandra-lehmler-trio.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2299,84 +2386,89 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/stevies-call-12283.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
-   "id": "c1b4ef46d8cf",
+   "id": "aa169f5e888e",
    "venue_id": "werkhof",
-   "title": "VON WELT &#8211; Adrenalin Tour 2027 am 09-01-2027",
+   "title": "VON WELT – Adrenalin Tour 2027 am 09-01-2027",
    "date": "2027-01-09",
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;VON WELT denken Rock neu. Intelligent, kompromisslos und voller Atmosphäre  [...]&lt;/p&gt;\\n",
+   "genre": "Rock",
+   "description": "VON WELT denken Rock neu. Intelligent, kompromisslos und voller Atmosphäre [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/von-welt-adrenalin-tour-2027-am-09-01-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
-   "id": "9805833e4cad",
+   "id": "c6412bb52fc5",
    "venue_id": "werkhof",
-   "title": "Die Physiker &#8211; am 15.01.2027",
+   "title": "Die Physiker – am 15.01.2027",
    "date": "2027-01-15",
    "time": "19:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "theater"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker.  [...]&lt;/p&gt;\\n",
+   "genre": "Klassiker",
+   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-15-01-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
-   "id": "dd8da30c4cf0",
+   "id": "534b475df5e7",
    "venue_id": "werkhof",
-   "title": "Die Physiker &#8211; am 17.01.2027",
+   "title": "Die Physiker – am 17.01.2027",
    "date": "2027-01-17",
    "time": "19:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "theater"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker.  [...]&lt;/p&gt;\\n",
+   "genre": "Klassiker",
+   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-17-01-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
-   "id": "311e508fbb63",
+   "id": "410a6da75a84",
    "venue_id": "werkhof",
-   "title": "Die Physiker &#8211; am 19.01.2027",
+   "title": "Die Physiker – am 19.01.2027",
    "date": "2027-01-19",
    "time": "19:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "theater"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker.  [...]&lt;/p&gt;\\n",
+   "genre": "Klassiker",
+   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-19-01-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2394,8 +2486,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-12381.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2406,15 +2499,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;THE BEATLES ON PIANO Bastian Korn &amp; Band Eine musikalische  [...]&lt;/p&gt;\\n",
+   "genre": "Tribute",
+   "description": "THE BEATLES ON PIANO Bastian Korn & Band Eine musikalische [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2432,14 +2526,15 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-6/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
    "id": "20cd4467aac4",
    "venue_id": "domicil",
-   "title": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia ...",
+   "title": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia...",
    "date": "2027-01-28",
    "time": "20:00",
    "time_known": true,
@@ -2447,12 +2542,13 @@
     "konzert"
    ],
    "genre": "Jazz, Contemporary, Modern Jazz",
-   "description": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia ...",
+   "description": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia...",
    "url": "https://domicil-dortmund.de/index.php/programm-details/jorge-rossy-quartet-feat-jorge-rossy-milena-casado-robert-landfermann-cornelia-nilsson.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2466,12 +2562,13 @@
     "jam-session"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre  [...]&lt;/p&gt;\\n",
+   "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/jam-session-open-mic/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2489,8 +2586,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/franks-white-canvas-support-neue-paranoia/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2508,8 +2606,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/schlakks.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2520,15 +2619,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;SONS OF ODIN – A Tribute to Manowar Wenn epischer  [...]&lt;/p&gt;\\n",
+   "genre": "Tribute/Heavy Metal",
+   "description": "SONS OF ODIN – A Tribute to Manowar Wenn epischer [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2542,12 +2642,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-7/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2565,8 +2666,9 @@
    "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
    "location_override": null,
    "recurring": true,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2577,15 +2679,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;ACHTUNG, Ersatztermin für den 07.11.2026 Die Tickets behalten ihre Gültigkeit!  [...]&lt;/p&gt;\\n",
+   "description": "ACHTUNG, Ersatztermin für den 07.11.2026 Die Tickets behalten ihre Gültigkeit! [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/katy-wirtz/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2603,8 +2706,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/knobil.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2615,15 +2719,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Vielseitiger und detailreicher denn je wandelt die Band Wait For  [...]&lt;/p&gt;\\n",
+   "description": "Vielseitiger und detailreicher denn je wandelt die Band Wait For [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2641,8 +2746,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-12382.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2653,15 +2759,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Mother Black Cat – Alternative Rock mit Leidenschaft und ordentlich  [...]&lt;/p&gt;\\n",
+   "genre": "Alternative Rock",
+   "description": "Mother Black Cat – Alternative Rock mit Leidenschaft und ordentlich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/mother-black-cat/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2679,8 +2786,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/nathan-noah-east.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2698,8 +2806,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/ersatztemrin-f%C3%BCr-wortklub-17-11-26.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2717,8 +2826,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-10/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2736,8 +2846,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/nubiyan-twist-12345.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2748,34 +2859,37 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "konzert"
+    "konzert",
+    "theater"
    ],
    "genre": null,
    "description": "QUICHOTTE „Guter Dinge“",
    "url": "https://www.pelmke.de/veranstaltungen/quichotte-guter-dinge/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
-   "id": "d174bab2d54a",
+   "id": "0fab2d653fa6",
    "venue_id": "werkhof",
-   "title": "John Fogerty Coveration &#038; King/Bon",
+   "title": "John Fogerty Coveration & King/Bon",
    "date": "2027-02-27",
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! Freut euch  [...]&lt;/p&gt;\\n",
+   "genre": "Rock/Tribute",
+   "description": "Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! Freut euch [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/john-fogerty-coveration-king-bon/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2793,8 +2907,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/opt2-girls-in-airports.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2808,12 +2923,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-8/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2831,8 +2947,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/nightflow-markt-nachttroedel-5/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2843,15 +2960,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher  [...]&lt;/p&gt;\\n",
+   "genre": "Tribute/Blues Rock",
+   "description": "BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2862,15 +2980,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Edelweiss ist eine AC/DC-Coverband aus Rheinland-Pfalz, die man – wie  [...]&lt;/p&gt;",
+   "genre": "Tribute/Hard Rock",
+   "description": "Edelweiss ist eine AC/DC-Coverband aus Rheinland-Pfalz, die man – wie [...]",
    "url": "https://werkhof-kulturzentrum.de/event/edelweiss/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2881,15 +3000,16 @@
    "time": "19:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST  [...]&lt;/p&gt;\\n",
+   "genre": "Progressive Metal",
+   "description": "THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-tour-2027-special-guest-sunburst/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2900,15 +3020,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Nach „Dish Of The Day“ geht die Reise weiter, zurück  [...]&lt;/p&gt;\\n",
+   "genre": "Pop/Rock",
+   "description": "Nach „Dish Of The Day“ geht die Reise weiter, zurück [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/foolsgarden/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2926,8 +3047,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-11/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2945,8 +3067,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/theodor.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2960,12 +3083,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-9/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -2976,15 +3100,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Genaue Infos folgen! Stehplatz - freie Platzwahl VVK  15 €  [...]&lt;/p&gt;\\n",
+   "genre": "Metal",
+   "description": "Genaue Infos folgen! Stehplatz - freie Platzwahl VVK 15 € [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-04-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3002,8 +3127,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/fortuna-ehrenfeld.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3014,15 +3140,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;STADTAFFEN – Die ultimative Tribute-Show für alle Fans von Peter  [...]&lt;/p&gt;\\n",
+   "genre": "Tribute/Pop",
+   "description": "STADTAFFEN – Die ultimative Tribute-Show für alle Fans von Peter [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3040,27 +3167,29 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-13/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
-   "id": "007310093cf1",
+   "id": "c5233740463e",
    "venue_id": "werkhof",
-   "title": "It´s All Pink &#8211; Tour 2027",
+   "title": "It´s All Pink – Tour 2027",
    "date": "2027-04-24",
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die größten Hits  [...]&lt;/p&gt;\\n",
+   "genre": "Tribute/Pop Rock",
+   "description": "Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die größten Hits [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/its-all-pink-tour-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3074,12 +3203,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-10/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3097,8 +3227,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/f%C3%BCr-dr-soul-zonta-verlegung.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3116,8 +3247,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-14/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3131,12 +3263,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-11/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3154,8 +3287,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/clashing-minds/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3173,8 +3307,9 @@
    "url": "https://domicil-dortmund.de/index.php/programm-details/quadro-nuevo-12196.html",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3192,8 +3327,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-15/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3207,12 +3343,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-12/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3230,8 +3367,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-16/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3242,15 +3380,17 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert",
+    "theater"
    ],
    "genre": null,
    "description": "Jan Philipp Zymny – „VILLAIN ERA“",
    "url": "https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villain-era/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3261,15 +3401,17 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert",
+    "theater"
    ],
    "genre": null,
    "description": "Jan Philipp Zymny – „VILLAIN ERA“",
    "url": "https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villain-era-2/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3280,15 +3422,16 @@
    "time": "18:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "konzert"
    ],
-   "genre": null,
-   "description": "&lt;p&gt;Das Heavy Metal Fans Festival geht in die neunte Runde!  [...]&lt;/p&gt;\\n",
+   "genre": "Heavy Metal",
+   "description": "Das Heavy Metal Fans Festival geht in die neunte Runde! [...] \\n",
    "url": "https://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027-am-15-16-10-2027/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3306,8 +3449,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-17/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   },
   {
@@ -3325,8 +3469,9 @@
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-12/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
+   "last_seen": "2026-11-19T11:57:18+01:00",
    "gone": false
   }
  ]
