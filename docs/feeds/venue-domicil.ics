@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Blue in Green: Jazz Listening Bar
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:7833b68d9ed9@event-collector
 DESCRIPTION:Blue in Green: Jazz Listening Bar\nhttps://domicil-dortmund.de
  /programm-details/blue-in-green-jazz-listening-bar-12666.html
@@ -18,7 +18,7 @@ SUMMARY:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Gojo &
  St...
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:98258dea9a68@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Goj
  o & St...\nhttps://domicil-dortmund.de/programm-details/goio-mattner.html
@@ -30,7 +30,7 @@ SUMMARY:[entfällt?] 33. Jazztage Dortmund: Julie Campiche "Unspoken" / Fi
  lippa Gojo & Stephan Mattner: Nucleus
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:a6d9f75feca2@event-collector
 DESCRIPTION:Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon\nhtt
  ps://domicil-dortmund.de/programm-details/fallen-crooner.html
@@ -42,7 +42,7 @@ SUMMARY:[entfällt?] Julie Campiche "Unspoken" / Filippa Gojo & Stephan Ma
  ttner: Nucleus
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:7e146ca4b2c4@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Neue Klangwelten: Harfe + Electronics /
   Stimme + Saxophon\nhttps://domicil-dortmund.de/programm-details/goio-matt
@@ -51,24 +51,23 @@ LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/goio-mattner.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] 33. Jazztage Dortmund: Jam Session feat. p.h.k. quart
- et
+SUMMARY:33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:6834bdbbb013@event-collector
-DESCRIPTION:33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet\nhttps
- ://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-
- h-k-quartet.html
+DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
+ l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
+ et.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-m
  it-dem-p-h-k-quartet.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:33. Jazztage: Jam Session feat. p.h.k. quartet
+SUMMARY:[entfällt?] 33. Jazztage: Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:bd7a046e435b@event-collector
 DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
  l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
@@ -81,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Fallen Crooner (fällt aus)
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:01e5b11cac27@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Fallen Crooner. Conversational Jazz. Hi
  nweis: fällt krankheitsbedingt aus.\nhttps://domicil-dortmund.de/programm
@@ -93,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Jazztage Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:bd526f3a155b@event-collector
 DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
  l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
@@ -106,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyl Shake
 DTSTART:20261123T190000Z
 DTEND:20261123T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:4deebb544d9f@event-collector
 DESCRIPTION:Vinyl Shake\nhttps://domicil-dortmund.de/programm-details/viny
  l-shake-12658.html
@@ -117,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261123T193000Z
 DTEND:20261123T213000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:9a8ce7d22c62@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/programm-det
  ails/monday-night-session-12626.html
@@ -129,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Das Dortmunder Rudelsingen
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:314858e8b1ca@event-collector
 DESCRIPTION:Das Dortmunder Rudelsingen\nhttps://domicil-dortmund.de/progra
  mm-details/das-dortmunder-rudelsingen-11987.html
@@ -141,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: 20 Jahre The Dorf
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:4eeaf6bfcb14@event-collector
 DESCRIPTION:33. Jazztage Dortmund: 20 Jahre The Dorf\nhttps://domicil-dort
  mund.de/programm-details/the-dorf-11958.html
@@ -152,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Bue in Green: Jazz Listening Bar
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:1d138b027dd2@event-collector
 DESCRIPTION:Bue in Green: Jazz Listening Bar\nhttps://domicil-dortmund.de/
  programm-details/bue-in-green-jazz-listening-bar.html
@@ -164,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] The Dorf: Utopian Beats!
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:2dafbb5365c5@event-collector
 DESCRIPTION:Die Jazztage Dortmund stehen seit fast vier Jahrzehnten für m
  usikalische Grenzgänge\, überraschende Begegnungen und künstlerische Ne
@@ -176,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: Marialy Pacheco Trio
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:e7f641fec46f@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Marialy Pacheco Trio\nhttps://domicil-d
  ortmund.de/programm-details/marialy-pacheco.html
@@ -188,7 +187,7 @@ SUMMARY:[entfällt?] Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Ko
  nzert
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:ba6cdef969e7@event-collector
 DESCRIPTION:Interessante Live-Gespräche in Kooperation mit der Redaktion 
  terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Fo
@@ -200,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:0ef16fb6f2f7@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season\nhttps:
  //domicil-dortmund.de/index.php/programm-details/ingrid-laubrock.html
@@ -212,7 +211,7 @@ BEGIN:VEVENT
 SUMMARY:Finibaggies presents: Saturday Soul
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:cead21dcb903@event-collector
 DESCRIPTION:Finibaggies presents: Saturday Soul\nhttps://domicil-dortmund.
  de/index.php/programm-details/finibaggies-presents-saturday-soul-12523.htm
@@ -225,7 +224,7 @@ BEGIN:VEVENT
 SUMMARY:DiS Festival: Das große Finale mit Batomae X Tonstudio 13
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:ecfa49a5735d@event-collector
 DESCRIPTION:DiS Festival: Das große Finale mit Batomae X Tonstudio 13\nht
  tps://domicil-dortmund.de/index.php/programm-details/bartholomae.html
@@ -237,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyl Shake
 DTSTART:20261130T190000Z
 DTEND:20261130T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:13022732f003@event-collector
 DESCRIPTION:Vinyl Shake\nhttps://domicil-dortmund.de/index.php/programm-de
  tails/vinyl-shake-12659.html
@@ -249,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261130T193000Z
 DTEND:20261130T213000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:bcc8df82edf0@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12627.html
@@ -262,7 +261,7 @@ SUMMARY:Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph Bar
  tmann
 DTSTART:20261201T190000Z
 DTEND:20261201T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:6f6591b52cd2@event-collector
 DESCRIPTION:Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph
   Bartmann\nhttps://domicil-dortmund.de/index.php/programm-details/wortklub
@@ -275,7 +274,7 @@ BEGIN:VEVENT
 SUMMARY:Folkwang Jazz
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:4c8cbcf28f7a@event-collector
 DESCRIPTION:Folkwang Jazz\nhttps://domicil-dortmund.de/index.php/programm-
  details/folkwang-jazz-12097.html
@@ -287,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Shining Hour - Duo-Konzert Frank Scheele & Peter H. Köcke
 DTSTART:20261203T190000Z
 DTEND:20261203T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:242887ecaf3f@event-collector
 DESCRIPTION:Shining Hour - Duo-Konzert Frank Scheele & Peter H. Köcke\nht
  tps://domicil-dortmund.de/index.php/programm-details/shining-hour-11975.ht
@@ -300,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Jugend Jazzt NRW - Preisträger*innenkonzert 2026
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:55641828f61c@event-collector
 DESCRIPTION:Jugend Jazzt NRW - Preisträger*innenkonzert 2026\nhttps://dom
  icil-dortmund.de/index.php/programm-details/jugend-jazzt-preistr%C3%A4gerk
@@ -313,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:40+ Party
 DTSTART:20261205T200000Z
 DTEND:20261205T220000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:902928165a50@event-collector
 DESCRIPTION:40+ Party\nhttps://domicil-dortmund.de/index.php/programm-deta
  ils/40-party-12072.html
@@ -325,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261207T193000Z
 DTEND:20261207T213000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:0513f6a19df0@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12628.html
@@ -337,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Flinta* Session feat. Open Circuit
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:94444b57e4d9@event-collector
 DESCRIPTION:Flinta* Session feat. Open Circuit\nhttps://domicil-dortmund.d
  e/index.php/programm-details/flinta-session-12323.html
@@ -349,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Tineke Postma Group feat. Theo Bleckmann
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:4ab0d9c41dd6@event-collector
 DESCRIPTION:Tineke Postma Group feat. Theo Bleckmann\nhttps://domicil-dort
  mund.de/index.php/programm-details/tineke-postma-group-feat-theo-bleckmann
@@ -362,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:ProJazz Festival 2026
 DTSTART:20261212T183000Z
 DTEND:20261212T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:18ab088c9477@event-collector
 DESCRIPTION:ProJazz Festival 2026\nhttps://domicil-dortmund.de/index.php/p
  rogramm-details/projazz-festival-12474.html
@@ -374,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Finibaggies presents: Saturday Soul
 DTSTART:20261212T210000Z
 DTEND:20261212T230000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:68d6b1182886@event-collector
 DESCRIPTION:Finibaggies presents: Saturday Soul\nhttps://domicil-dortmund.
  de/index.php/programm-details/finibaggies-presents-saturday-soul-12524.htm
@@ -387,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:SOUNDZZ Familienkonzert feat. Talking Horns
 DTSTART:20261213T150000Z
 DTEND:20261213T170000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:7dfcc140bad1@event-collector
 DESCRIPTION:SOUNDZZ Familienkonzert feat. Talking Horns\nhttps://domicil-d
  ortmund.de/index.php/programm-details/soundzz-12304.html
@@ -399,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261214T193000Z
 DTEND:20261214T213000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:9a8b22a13ca0@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12629.html
@@ -411,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowideit
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:f4475d9d227f@event-collector
 DESCRIPTION:Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowi
  deit\nhttps://domicil-dortmund.de/index.php/programm-details/wortklub-demo
@@ -424,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:The Dorf
 DTSTART:20261217T190000Z
 DTEND:20261217T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:dee8ecf7fc6a@event-collector
 DESCRIPTION:The Dorf\nhttps://domicil-dortmund.de/index.php/programm-detai
  ls/the-dorf-11960.html
@@ -436,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:Herbelicious
 DTSTART:20261218T200000Z
 DTEND:20261218T220000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:f538bbcb678c@event-collector
 DESCRIPTION:Herbelicious\nhttps://domicil-dortmund.de/index.php/programm-d
  etails/herbelicious.html
@@ -449,7 +448,7 @@ SUMMARY:Benny`s Long Shadow feat. Stefan Bauer\, Chris Bacas\, Mike Roelof
  s\, Yonga Sun
 DTSTART:20261219T190000Z
 DTEND:20261219T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:b3b7be3a0e84@event-collector
 DESCRIPTION:Benny`s Long Shadow feat. Stefan Bauer\, Chris Bacas\, Mike Ro
  elofs\, Yonga Sun\nhttps://domicil-dortmund.de/index.php/programm-details/
@@ -462,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261221T193000Z
 DTEND:20261221T213000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:966aa7f22c51@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12630.html
@@ -474,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:54. Weihnachts-Jazzmatinee im Opernhaus
 DTSTART:20261226T100000Z
 DTEND:20261226T120000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:4d110bb33010@event-collector
 DESCRIPTION:54. Weihnachts-Jazzmatinee im Opernhaus\nhttps://domicil-dortm
  und.de/index.php/programm-details/54-weihnachts-jazzmatinee-im-opernhaus.h
@@ -487,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Silvesterparty im domicil
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:951b1487dfa3@event-collector
 DESCRIPTION:Silvesterparty im domicil\nhttps://domicil-dortmund.de/index.p
  hp/programm-details/silvesterparty-11970.html
@@ -499,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20270104T193000Z
 DTEND:20270104T213000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:ae68356f137c@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12632.html
@@ -511,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Alexandra Lehmler Trio
 DTSTART:20270108T190000Z
 DTEND:20270108T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:9ac988a18d20@event-collector
 DESCRIPTION:Alexandra Lehmler Trio\nhttps://domicil-dortmund.de/index.php/
  programm-details/alexandra-lehmler-trio.html
@@ -523,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:Stevie's Call– The Jazz of Stevie Wonder
 DTSTART:20270109T190000Z
 DTEND:20270109T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:f96714e480bc@event-collector
 DESCRIPTION:Stevie's Call– The Jazz of Stevie Wonder\nhttps://domicil-do
  rtmund.de/index.php/programm-details/stevies-call-12283.html
@@ -535,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:The Dorf
 DTSTART:20270121T190000Z
 DTEND:20270121T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:8bd7eb276615@event-collector
 DESCRIPTION:The Dorf\nhttps://domicil-dortmund.de/index.php/programm-detai
  ls/the-dorf-12381.html
@@ -548,7 +547,7 @@ SUMMARY:Jorge Rossy Vibes Quartet feat. Milena Casado\, Robert Landfermann
  \, Cornelia...
 DTSTART:20270128T190000Z
 DTEND:20270128T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:20cd4467aac4@event-collector
 DESCRIPTION:Jorge Rossy Vibes Quartet feat. Milena Casado\, Robert Landfer
  mann\, Cornelia...\nhttps://domicil-dortmund.de/index.php/programm-details
@@ -563,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:Bunt oder Blau präsentiert: Schlakks
 DTSTART:20270129T190000Z
 DTEND:20270129T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:07e65f5c0c32@event-collector
 DESCRIPTION:Bunt oder Blau präsentiert: Schlakks\nhttps://domicil-dortmun
  d.de/index.php/programm-details/schlakks.html
@@ -574,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Knobil
 DTSTART:20270212T190000Z
 DTEND:20270212T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:4ab46e1d6d41@event-collector
 DESCRIPTION:Knobil\nhttps://domicil-dortmund.de/index.php/programm-details
  /knobil.html
@@ -582,10 +581,22 @@ LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/knobil.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eivind Aarset 4tet "Strange Hands"
+DTSTART:20270217T190000Z
+DTEND:20270217T210000Z
+DTSTAMP:20261119T221009Z
+UID:9e56da880ecd@event-collector
+DESCRIPTION:Eivind Aarset 4tet "Strange Hands"\nhttps://domicil-dortmund.d
+ e/index.php/programm-details/eivind-aarset-12432.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/index.php/programm-details/eivind-aarset-1
+ 2432.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Dorf
 DTSTART:20270218T190000Z
 DTEND:20270218T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:683f3254c4d5@event-collector
 DESCRIPTION:The Dorf\nhttps://domicil-dortmund.de/index.php/programm-detai
  ls/the-dorf-12382.html
@@ -597,7 +608,7 @@ BEGIN:VEVENT
 SUMMARY:Nathan & Noah East
 DTSTART:20270220T190000Z
 DTEND:20270220T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:02bb3236718a@event-collector
 DESCRIPTION:Nathan & Noah East\nhttps://domicil-dortmund.de/index.php/prog
  ramm-details/nathan-noah-east.html
@@ -610,7 +621,7 @@ SUMMARY:Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine Optio
  n
 DTSTART:20270223T183000Z
 DTEND:20270223T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:db92d523b27b@event-collector
 DESCRIPTION:Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine O
  ption\nhttps://domicil-dortmund.de/index.php/programm-details/ersatztemrin
@@ -623,7 +634,7 @@ BEGIN:VEVENT
 SUMMARY:Bunt oder Blau präsentiert: Nubiyan Twist
 DTSTART:20270225T190000Z
 DTEND:20270225T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:ea0ac255ade5@event-collector
 DESCRIPTION:Bunt oder Blau präsentiert: Nubiyan Twist\nhttps://domicil-do
  rtmund.de/index.php/programm-details/nubiyan-twist-12345.html
@@ -635,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:Girls In Airports
 DTSTART:20270304T190000Z
 DTEND:20270304T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:75ca0e76528f@event-collector
 DESCRIPTION:Girls In Airports\nhttps://domicil-dortmund.de/index.php/progr
  amm-details/opt2-girls-in-airports.html
@@ -644,10 +655,35 @@ URL:https://domicil-dortmund.de/index.php/programm-details/opt2-girls-in-a
  irports.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paul Wallfisch & Dana Schechter
+DTSTART:20270312T190000Z
+DTEND:20270312T210000Z
+DTSTAMP:20261119T221009Z
+UID:01adee834c47@event-collector
+DESCRIPTION:Paul Wallfisch & Dana Schechter\nhttps://domicil-dortmund.de/i
+ ndex.php/programm-details/neuer-termin-paul-wallfisch-dana-schechter-12653
+ .html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/index.php/programm-details/neuer-termin-pa
+ ul-wallfisch-dana-schechter-12653.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joanna Duda Trio
+DTSTART:20270319T190000Z
+DTEND:20270319T210000Z
+DTSTAMP:20261119T221009Z
+UID:eb6aaafbe436@event-collector
+DESCRIPTION:Joanna Duda Trio\nhttps://domicil-dortmund.de/index.php/progra
+ mm-details/melissa-aldana.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/index.php/programm-details/melissa-aldana.
+ html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Theodor
 DTSTART:20270331T180000Z
 DTEND:20270331T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:ff5498528af7@event-collector
 DESCRIPTION:Theodor\nhttps://domicil-dortmund.de/index.php/programm-detail
  s/theodor.html
@@ -655,10 +691,22 @@ LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/theodor.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Orchestre National De Jazz: With Carla
+DTSTART:20270401T180000Z
+DTEND:20270401T200000Z
+DTSTAMP:20261119T221009Z
+UID:973582352d11@event-collector
+DESCRIPTION:Orchestre National De Jazz: With Carla\nhttps://domicil-dortmu
+ nd.de/index.php/programm-details/1-orchestre-national-de-jazz.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/index.php/programm-details/1-orchestre-nat
+ ional-de-jazz.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fortuna Ehrenfeld
 DTSTART:20270409T180000Z
 DTEND:20270409T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:390bd5f5941e@event-collector
 DESCRIPTION:Fortuna Ehrenfeld\nhttps://domicil-dortmund.de/index.php/progr
  amm-details/fortuna-ehrenfeld.html
@@ -671,7 +719,7 @@ SUMMARY:Benefiz-Konzert des Zonta-Clubs Dortmund: Dr. Soul & Marilyn Boadu
   Band
 DTSTART:20270507T180000Z
 DTEND:20270507T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:0fde6b6e5d40@event-collector
 DESCRIPTION:Benefiz-Konzert des Zonta-Clubs Dortmund: Dr. Soul & Marilyn B
  oadu Band\nhttps://domicil-dortmund.de/index.php/programm-details/f%C3%BCr
@@ -681,10 +729,22 @@ URL:https://domicil-dortmund.de/index.php/programm-details/f%C3%BCr-dr-sou
  l-zonta-verlegung.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Monika Roscher Big Band
+DTSTART:20270522T180000Z
+DTEND:20270522T200000Z
+DTSTAMP:20261119T221009Z
+UID:55b33b6623f9@event-collector
+DESCRIPTION:Monika Roscher Big Band\nhttps://domicil-dortmund.de/index.php
+ /programm-details/monika-roscher-big-band-12426.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/index.php/programm-details/monika-roscher-
+ big-band-12426.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quadro Nuevo
 DTSTART:20270612T180000Z
 DTEND:20270612T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:f30775275d1b@event-collector
 DESCRIPTION:Quadro Nuevo\nhttps://domicil-dortmund.de/index.php/programm-d
  etails/quadro-nuevo-12196.html

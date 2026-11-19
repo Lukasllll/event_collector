@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//event-collector//DE
+BEGIN:VEVENT
+SUMMARY:Die Sache mit der Angst
+DTSTART;VALUE=DATE:20261119
+DTSTAMP:20261119T221009Z
+UID:6e7d8ffa76eb@event-collector
+DESCRIPTION:https://loch-wuppertal.de/
+LOCATION:Loch\, Wuppertal
+URL:https://loch-wuppertal.de/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chorprobe im LOCH
+DTSTART:20261124T183000Z
+DTEND:20261124T203000Z
+DTSTAMP:20261119T221009Z
+UID:1eb2eda9847c@event-collector
+DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/
+LOCATION:Loch\, Wuppertal
+URL:https://loch-wuppertal.de/
+END:VEVENT
+END:VCALENDAR

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Kneipenquiz – Demokratie am Tresen
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:fce6f26ccd96@event-collector
 DESCRIPTION:Kneipenquiz – Demokratie am Tresen\nhttps://www.pelmke.de/ve
  ranstaltungen/kneipenquiz-demokratie-am-tresen-3/
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz
 DTSTART:20261121T100000Z
 DTEND:20261121T120000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:e3b9f2fa7930@event-collector
 DESCRIPTION:VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz\nht
  tps://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigkeitsko
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Hagen Soul Night
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:62c6f89171b8@event-collector
 DESCRIPTION:Hagen Soul Night\nhttps://www.pelmke.de/veranstaltungen/hagen-
  soul-night/
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:694eef6922de@event-collector
 DESCRIPTION:Leselounge im Kinocafé\nhttps://www.pelmke.de/veranstaltungen
  /leselounge-im-kinocafe-4/
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:„Deux Couleurs“ Saxophonquartett
 DTSTART:20261122T153000Z
 DTEND:20261122T173000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:fb2690ca432b@event-collector
 DESCRIPTION:„Deux Couleurs“ Saxophonquartett\nhttps://www.pelmke.de/ve
  ranstaltungen/deux-couleurs-saxophonquartett-2/
@@ -61,10 +61,11 @@ URL:https://www.pelmke.de/veranstaltungen/deux-couleurs-saxophonquartett-2
  /
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:»Alte Wut« – Lesung und Gespräch mit der Autorin Caro Matzko
+SUMMARY:[entfällt?] »Alte Wut« – Lesung und Gespräch mit der Autorin
+  Caro Matzko
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:1f526172564a@event-collector
 DESCRIPTION:»Alte Wut» – Warum ich an den Ort reiste\, von dem mein Va
  ter einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko
@@ -77,11 +78,11 @@ URL:https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-re
  autorin-caro-matzko/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] »Alte Wut« – Warum ich an den Ort reiste\, von de
- m mein Vater einst fliehen musste
+SUMMARY:»Alte Wut« – Warum ich an den Ort reiste\, von dem mein Vater 
+ einst fliehen musste
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:85d94d66e966@event-collector
 DESCRIPTION:Lesung und Gespräch mit der Autorin Caro Matzko\nhttps://www.
  pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mei
@@ -96,11 +97,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20261126T180000Z
 DTEND:20261126T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:172b8d3f3826@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-8/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-8/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-8/
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry Slam – moderiert von Jan Schmidt
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:e08990dee11c@event-collector
 DESCRIPTION:Poetry Slam – moderiert von Jan Schmidt\nhttps://www.pelmke.
  de/veranstaltungen/poetry-slammoderiert-von-jan-schmidt-5/
@@ -122,7 +122,7 @@ SUMMARY:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsyst
  em
 DTSTART:20261128T100000Z
 DTEND:20261128T120000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:807f38fecd5f@event-collector
 DESCRIPTION:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Sound
  system\nhttps://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfa
@@ -136,7 +136,7 @@ SUMMARY:Klangerzeugung durch analoge Synthese – Workshop mit Scala Sound
  system
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:a4053fd1054a@event-collector
 DESCRIPTION:Klangerzeugung durch analoge Synthese – Workshop mit Scala S
  oundsystem\nhttps://www.pelmke.de/veranstaltungen/klangerzeugung-durch-ana
@@ -149,11 +149,10 @@ BEGIN:VEVENT
 SUMMARY:Mukke am Mittwoch w/ WHLKLNG
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:c43e9517dcdb@event-collector
-DESCRIPTION:Mukke am Mittwoch w/ WHLKLNG – DJ Set und Happy Hour\nhttps:
- //www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-hap
- py-hour-20/
+DESCRIPTION:DJ Set und Happy Hour\nhttps://www.pelmke.de/veranstaltungen/m
+ ukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-s
  et-und-happy-hour-20/
@@ -162,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Wintergrillen
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:008d26edf8b2@event-collector
 DESCRIPTION:Wintergrillen\nhttps://www.pelmke.de/veranstaltungen/wintergri
  llen/
@@ -174,7 +173,7 @@ SUMMARY:[entfällt?] Situationen der Demokratie – Situation 1: Demokrati
  e & Digitalität
 DTSTART:20261205T173000Z
 DTEND:20261205T193000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:170e04f3f33a@event-collector
 DESCRIPTION:Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nht
  tps://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
@@ -187,11 +186,10 @@ SUMMARY:Situationen der Demokratie – Situation 1: Demokratie & Digitalit
  ät. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert
 DTSTART:20261205T173000Z
 DTEND:20261205T193000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:13e2f0cfbd79@event-collector
-DESCRIPTION:Situationen der Demokratie – Situation 1: Demokratie & Digit
- alität. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nhttps
- ://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
+DESCRIPTION:Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nht
+ tps://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalit
  aet/
@@ -200,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Reset Pelmke
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:8dcc1ce84db1@event-collector
 DESCRIPTION:Reset Pelmke\nhttps://www.pelmke.de/veranstaltungen/reset-pelm
  ke-22/
@@ -208,11 +206,10 @@ LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/reset-pelmke-22/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Graz 2026 – eine andere Kommunalpolitik ist möglic
- h
+SUMMARY:Graz 2026 – eine andere Kommunalpolitik ist möglich
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:0376ab6d9333@event-collector
 DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
  altungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-un
@@ -222,11 +219,11 @@ URL:https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpo
  litik-ist-moeglich-vortrag-von-und-mit-attac-hagen/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortrag v
- on und mit attac Hagen
+SUMMARY:[entfällt?] Graz 2026 – eine andere Kommunalpolitik ist möglic
+ h | Vortrag von und mit attac Hagen
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:7d893bd9647b@event-collector
 DESCRIPTION:Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortr
  ag von und mit attac Hagen\nhttps://www.pelmke.de/veranstaltungen/graz-202
@@ -240,11 +237,10 @@ BEGIN:VEVENT
 SUMMARY:Der Klangteppich – Musik\, live und improvisiert
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:425862258d2c@event-collector
-DESCRIPTION:Der Klangteppich – Musik\, live und improvisiert\nhttps://ww
- w.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-improvisiert-1
- 0/
+DESCRIPTION:Musik\, live und improvisiert\nhttps://www.pelmke.de/veranstal
+ tungen/der-klangteppich-musik-live-und-improvisiert-10/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-
  improvisiert-10/
@@ -253,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:StandUp-Comedy
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:52b0b6a002ae@event-collector
 DESCRIPTION:StandUp-Comedy\nhttps://www.pelmke.de/veranstaltungen/standup-
  comedy-5/
@@ -264,7 +260,7 @@ BEGIN:VEVENT
 SUMMARY:Kneipenquiz – Demokratie am Tresen
 DTSTART:20261217T190000Z
 DTEND:20261217T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:7ea89a0e93da@event-collector
 DESCRIPTION:Kneipenquiz – Demokratie am Tresen\nhttps://www.pelmke.de/ve
  ranstaltungen/kneipenquiz-demokratie-am-tresen-4/
@@ -276,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Erwin-Kostedde-Kickerturnier 2026
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:cc52c6857db4@event-collector
 DESCRIPTION:Erwin-Kostedde-Kickerturnier 2026\nhttps://www.pelmke.de/veran
  staltungen/kickerturnier-2026/
@@ -287,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Soul Invaders / Tuffi Slippers / Putrid Cave / tba
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:3b548bf3b4b9@event-collector
 DESCRIPTION:Soul Invaders / Tuffi Slippers / Putrid Cave / tba\nhttps://ww
  w.pelmke.de/veranstaltungen/soul-invaders-tuffi-slippers-the-mad-moiselles
@@ -300,7 +296,7 @@ BEGIN:VEVENT
 SUMMARY:Mit »Pelmke kulinarisch« um die Welt – Ägypten
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:a80fe59c05b6@event-collector
 DESCRIPTION:Mit »Pelmke kulinarisch« um die Welt – Ägypten\nhttps://w
  ww.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-um-die-welt-aegypten/
@@ -312,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261227T140000Z
 DTEND:20261227T160000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:64b3251aa67d@event-collector
 DESCRIPTION:Leselounge im Kinocafé\nhttps://www.pelmke.de/veranstaltungen
  /leselounge-im-kinocafe-6/
@@ -323,11 +319,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270128T180000Z
 DTEND:20270128T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:56d069484319@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-6/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-6/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-6/
@@ -336,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:FRANK’S WHITE CANVAS // Support: Neue Paranoia
 DTSTART:20270129T183000Z
 DTEND:20270129T203000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:5936231e39f5@event-collector
 DESCRIPTION:FRANK’S WHITE CANVAS // Support: Neue Paranoia\nhttps://www.
  pelmke.de/veranstaltungen/franks-white-canvas-support-neue-paranoia/
@@ -348,11 +343,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270225T180000Z
 DTEND:20270225T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:a2fd1a96a40d@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-10/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-10/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-10/
@@ -361,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:QUICHOTTE „Guter Dinge“
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:391b60045fed@event-collector
 DESCRIPTION:QUICHOTTE „Guter Dinge“\nhttps://www.pelmke.de/veranstaltu
  ngen/quichotte-guter-dinge/
@@ -372,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Nightflow Markt – Nachttrödel
 DTSTART:20270306T170000Z
 DTEND:20270306T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:f6269084ad8b@event-collector
 DESCRIPTION:Nightflow Markt – Nachttrödel\nhttps://www.pelmke.de/verans
  taltungen/nightflow-markt-nachttroedel-5/
@@ -383,11 +377,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270325T180000Z
 DTEND:20270325T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:8c7cca35467d@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-11/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-11/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-11/
@@ -396,11 +389,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270422T170000Z
 DTEND:20270422T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:10a0dcf50e34@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-13/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-13/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-13/
@@ -409,11 +401,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270520T170000Z
 DTEND:20270520T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:705e48be0a17@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-14/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-14/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-14/
@@ -422,10 +413,10 @@ BEGIN:VEVENT
 SUMMARY:10 Jahre Clashing Minds – Das Jubiläumskonzert
 DTSTART:20270612T170000Z
 DTEND:20270612T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:287370c32f6f@event-collector
-DESCRIPTION:10 Jahre Clashing Minds – Das Jubiläumskonzert\nhttps://www
- .pelmke.de/veranstaltungen/clashing-minds/
+DESCRIPTION:Das Jubiläumskonzert\nhttps://www.pelmke.de/veranstaltungen/c
+ lashing-minds/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/clashing-minds/
 END:VEVENT
@@ -433,11 +424,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270624T170000Z
 DTEND:20270624T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:5144c0ed3e8a@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-15/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-15/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-15/
@@ -446,11 +436,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270923T170000Z
 DTEND:20270923T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:517b6f49687c@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-16/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-16/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-16/
@@ -459,7 +448,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270924T180000Z
 DTEND:20270924T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:1b65c561d058@event-collector
 DESCRIPTION:Jan Philipp Zymny – „VILLAIN ERA“\nhttps://www.pelmke.de
  /veranstaltungen/jan-philipp-zymny-villain-era/
@@ -470,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270925T180000Z
 DTEND:20270925T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:83509c18a3c4@event-collector
 DESCRIPTION:Jan Philipp Zymny – „VILLAIN ERA“\nhttps://www.pelmke.de
  /veranstaltungen/jan-philipp-zymny-villain-era-2/
@@ -481,11 +470,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20271028T170000Z
 DTEND:20271028T190000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:a7645eda1305@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-17/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-17/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-17/
@@ -494,11 +482,10 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20271125T180000Z
 DTEND:20271125T200000Z
-DTSTAMP:20261119T142715Z
+DTSTAMP:20261119T221009Z
 UID:5c283d41ed80@event-collector
-DESCRIPTION:Sundowner Collective – After Work Party\, freestyling w/ ina
- gee\nhttps://www.pelmke.de/veranstaltungen/sundowner-collective-after-work
- -party-freestyling-w-inagee-12/
+DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
+ undowner-collective-after-work-party-freestyling-w-inagee-12/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-12/
