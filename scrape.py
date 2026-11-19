@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Sammelt Veranstaltungen -> data/events.json (Datenbank), docs/events.json + docs/feeds/*.ics (Ausgabe)."""
-import datetime as dt, hashlib, json, os, re, sys
+import datetime as dt, hashlib, html as _html, json, os, re, sys
 from pathlib import Path
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
@@ -27,6 +27,19 @@ def sha(s): return hashlib.sha1(s.encode()).hexdigest()
 def norm(s): return re.sub(r"\W+", "", s.lower())
 
 
+def clean(s):
+    """HTML-Entities auflösen, (auch maskierte) HTML-Tags entfernen, Whitespace normalisieren."""
+    s = _html.unescape(s or "")
+    if "<" in s: s = BeautifulSoup(s, "html.parser").get_text(" ", strip=True)
+    s = re.sub(r"\s+", " ", _html.unescape(s)).strip()
+    return re.sub(r"\s+([.,;:!?])", r"\1", s)
+
+
+def merge_tags(*sets):
+    t = set().union(*sets) - {"sonstiges"}
+    return sorted(t) or ["sonstiges"]
+
+
 class Raw(BaseModel):
     title: str
     date: dt.date
@@ -42,9 +55,13 @@ class Raw(BaseModel):
     def _time(cls, v):
         return v if v and re.fullmatch(r"([01]\d|2[0-3]):[0-5]\d", v) else None
 
+    @field_validator("title", "genre", "location_override", mode="before")
+    @classmethod
+    def _clean(cls, v): return clean(v) if isinstance(v, str) else v
+
     @field_validator("description", mode="before")
     @classmethod
-    def _desc(cls, v): return v or ""
+    def _desc(cls, v): return clean(v) if isinstance(v, str) else ""
 
 
 def parts(x, has_time):
@@ -73,7 +90,7 @@ def from_jsonld(html, base):
             if any(isinstance(x, str) and x.endswith("Event") for x in (t if isinstance(t, list) else [t])) and n.get("startDate"):
                 s = str(n["startDate"])
                 d, tm = parts(dtparse.parse(s), "T" in s or ":" in s)
-                out.append(Raw(title=str(n.get("name", "")), date=d, time=tm, description=str(n.get("description") or "")[:500],
+                out.append(Raw(title=str(n.get("name", "")), date=d, time=tm, description=str(n.get("description") or ""),
                                url=urljoin(base, n["url"]) if isinstance(n.get("url"), str) else None))
             for x in n.values(): walk(x)
     for tag in BeautifulSoup(html, "html.parser").find_all("script", type="application/ld+json"):
@@ -117,6 +134,30 @@ def from_llm(text, v):
             for e in b.input.get("events", []):
                 try: out.append(Raw(**e))
                 except Exception as ex: print(f"  verworfen: {e.get('title')} ({ex})")
+    return out
+
+
+def classify(items, v):
+    """Tags/Genre für Events ohne Tags (ICS/JSON-LD) per LLM bestimmen. Gibt {Index: (tags, genre)} zurück."""
+    import anthropic
+    out = {}
+    tool = {"name": "save_tags", "description": "Speichert Tags je Veranstaltung.",
+            "input_schema": {"type": "object", "required": ["events"], "properties": {"events": {"type": "array", "items": {
+                "type": "object", "required": ["i", "tags"], "properties": {
+                    "i": {"type": "integer"}, "tags": {"type": "array", "items": {"type": "string", "enum": TAGS}},
+                    "genre": {"type": ["string", "null"]}}}}}}}
+    for s in range(0, len(items), 60):
+        chunk = items[s:s + 60]
+        lines = "\n".join(f"{i}: {e['title']} | {e['description'][:200]}" for i, e in enumerate(chunk))
+        prompt = (f"Ordne jeder Veranstaltung von '{v['name']}' ({v['city']}) passende Tags zu (mehrere erlaubt, 'sonstiges' nur wenn nichts passt) "
+                  "und nenne optional ein kurzes Genre-Stichwort (z.B. 'Rock', 'Kabarett'). Nutze die Nummer i aus der Liste. Rufe save_tags auf.\n\n" + lines)
+        msg = anthropic.Anthropic().messages.create(model=MODEL, max_tokens=4000, tools=[tool],
+              tool_choice={"type": "tool", "name": "save_tags"}, messages=[{"role": "user", "content": prompt}])
+        for b in msg.content:
+            if b.type == "tool_use":
+                for x in b.input.get("events", []):
+                    try: out[s + int(x["i"])] = ([t for t in x.get("tags", []) if t in TAGS], clean(x.get("genre") or "") or None)
+                    except Exception: pass
     return out
 
 
@@ -178,13 +219,21 @@ def make_event(r, v, cfg, recurring):
     for rule in cfg.get("global_rules", []) + v.get("rules", []):
         if re.search(rule["match"], hay, re.I): tags |= set(rule["tags"])
     if len(tags) > 1: tags.discard("sonstiges")
-    if not tags:
-        tags = {"sonstiges"}
-        print(f"  [sonstiges] {v['id']}: {r.title}")
+    if not tags: tags = {"sonstiges"}
     return {"id": sha(f"{v['id']}|{r.date}|{norm(r.title)}")[:12], "venue_id": v["id"], "title": r.title.strip(),
             "date": r.date.isoformat(), "time": r.time, "time_known": bool(r.time), "tags": sorted(tags),
             "genre": r.genre, "description": (r.description or "")[:500], "url": r.url or v.get("url"),
             "location_override": r.location_override, "recurring": recurring}
+
+
+def migrate(db):
+    """Alte Einträge bereinigen (Entities/HTML) und IDs neu berechnen. Idempotent."""
+    out = {}
+    for e in db.values():
+        e["title"], e["description"] = clean(e["title"]), clean(e.get("description", ""))
+        e["id"] = sha(f"{e['venue_id']}|{e['date']}|{norm(e['title'])}")[:12]
+        out[e["id"]] = e
+    return out
 
 
 def load(p):
@@ -234,19 +283,41 @@ def main():
     cfg = yaml.safe_load((ROOT / "venues.yaml").read_text("utf-8"))
     venues = {v["id"]: v for v in cfg["venues"]}
     DATA.mkdir(exist_ok=True)
-    db = {k: e for k, e in load(DATA / "events.json").items() if e["venue_id"] in venues}
+    db = migrate({k: e for k, e in load(DATA / "events.json").items() if e["venue_id"] in venues})
     cache = load(DATA / "cache.json")
     now, errors, seen = NOW.isoformat(timespec="seconds"), [], set()
 
     def in_range(r): return TODAY <= r.date <= TODAY + MAX_AHEAD
 
     def ingest(vid, raws, recurring):
+        v, todo, fresh = venues[vid], [], []
         for r in raws:
             if not r.title.strip(): continue
-            e = make_event(r, venues[vid], cfg, recurring)
+            e = make_event(r, v, cfg, recurring)
             old = db.get(e["id"])
+            if old and old.get("classified"):  # frühere Klassifikation behalten
+                e["tags"] = merge_tags(e["tags"], old["tags"])
+                e["genre"] = e["genre"] or old.get("genre")
+                e["classified"] = True
+            elif r.tags or recurring:
+                e["classified"] = True
+            else:
+                e["classified"] = False; todo.append(e)
+            if not old: fresh.append(e)
             e.update(first_seen=old["first_seen"] if old else now, last_seen=now, gone=False)
             db[e["id"]] = e
+        if todo:
+            try:
+                res = classify(todo, v)
+                for i, e in enumerate(todo):
+                    if i in res:
+                        tags, genre = res[i]
+                        e["tags"] = merge_tags(e["tags"], tags); e["genre"] = e["genre"] or genre; e["classified"] = True
+                print(f"  {len(res)}/{len(todo)} Events per LLM klassifiziert")
+            except Exception as ex:
+                print(f"  WARNUNG Klassifikation {vid}: {type(ex).__name__}: {ex}")
+        for e in fresh:
+            if e["tags"] == ["sonstiges"]: print(f"  [sonstiges] {vid}: {e['title']}")
 
     for v in venues.values():
         if not v.get("source"): continue
