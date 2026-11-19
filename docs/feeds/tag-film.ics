@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//event-collector//DE
+BEGIN:VEVENT
+SUMMARY:KUNSTLEBEN Filmsalon
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+DTSTAMP:20261119T010227Z
+UID:29ccd8d0dd02@event-collector
+DESCRIPTION:Filme über Kunst und Gespräche über das Leben! An 5 Termine
+ n werden im Kino Babylon 2026 in Kooperation mit dem Fliegenden Salon Film
+ e gezeigt\, die das Leben und Wirken in und aus der Kunstwelt zeigen. Salo
+ n-Gastgeberin Kimberly Hardt lädt anschließend zum Gespräch ein.\nhttps
+ ://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hagen-nov26
+LOCATION:Kino Babylon
+URL:https://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hag
+ en-nov26
+END:VEVENT
+END:VCALENDAR

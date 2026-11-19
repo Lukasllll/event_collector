@@ -15,7 +15,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "6d78622f0560": {
@@ -92,7 +92,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "967bf68fc526": {
@@ -112,7 +112,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "986afcac594a": {
@@ -131,7 +131,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "7292292bb990": {
@@ -150,7 +150,7 @@
   "location_override": "Wattenscheid",
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "9c3d29094074": {
@@ -169,7 +169,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "7e146ca4b2c4": {
@@ -266,7 +266,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "e3b9f2fa7930": {
@@ -285,7 +285,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "62c6f89171b8": {
@@ -304,7 +304,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "694eef6922de": {
@@ -323,7 +323,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "fb2690ca432b": {
@@ -342,7 +342,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "85d94d66e966": {
@@ -361,7 +361,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "172b8d3f3826": {
@@ -380,7 +380,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "e08990dee11c": {
@@ -399,7 +399,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "807f38fecd5f": {
@@ -418,7 +418,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "a4053fd1054a": {
@@ -437,7 +437,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "c43e9517dcdb": {
@@ -456,7 +456,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "008d26edf8b2": {
@@ -475,7 +475,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "13e2f0cfbd79": {
@@ -494,7 +494,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "8dcc1ce84db1": {
@@ -513,7 +513,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "7d893bd9647b": {
@@ -570,7 +570,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "a6d9f75feca2": {
@@ -648,7 +648,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "752922d87709": {
@@ -667,7 +667,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "aae50e3a0f33": {
@@ -686,7 +686,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "64c029bbc72f": {
@@ -705,7 +705,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "8c984c5088f1": {
@@ -725,7 +725,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "492c5f5f771b": {
@@ -744,7 +744,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "d96eab78084d": {
@@ -763,7 +763,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "2f3cacafac31": {
@@ -782,7 +782,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "a7a1ff828460": {
@@ -802,7 +802,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "1abb5f2fd3bc": {
@@ -821,7 +821,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "ffd0e6a6fd93": {
@@ -840,7 +840,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "12b56c6f25d0": {
@@ -859,7 +859,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "23b84073bdf0": {
@@ -878,7 +878,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "78d59e71d44f": {
@@ -897,7 +897,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "d9aecb40209d": {
@@ -916,7 +916,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "7b9f10b712c0": {
@@ -935,7 +935,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "507b2423be94": {
@@ -954,7 +954,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "3634d818e2ef": {
@@ -973,7 +973,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "32afa4eb940d": {
@@ -992,7 +992,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "9a5b4927fa02": {
@@ -1011,7 +1011,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "7833b68d9ed9": {
@@ -1030,7 +1030,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "98258dea9a68": {
@@ -1049,7 +1049,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "bd7a046e435b": {
@@ -1069,7 +1069,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "4deebb544d9f": {
@@ -1088,7 +1088,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "9a8ce7d22c62": {
@@ -1107,7 +1107,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "314858e8b1ca": {
@@ -1126,7 +1126,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "1d138b027dd2": {
@@ -1145,7 +1145,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "4eeaf6bfcb14": {
@@ -1164,7 +1164,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "e7f641fec46f": {
@@ -1183,7 +1183,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "425862258d2c": {
@@ -1203,7 +1203,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "52b0b6a002ae": {
@@ -1222,7 +1222,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "7ea89a0e93da": {
@@ -1241,7 +1241,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "cc52c6857db4": {
@@ -1260,7 +1260,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "3b548bf3b4b9": {
@@ -1280,7 +1280,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "a80fe59c05b6": {
@@ -1299,7 +1299,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "64b3251aa67d": {
@@ -1318,7 +1318,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "56d069484319": {
@@ -1337,7 +1337,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "5936231e39f5": {
@@ -1356,7 +1356,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "a2fd1a96a40d": {
@@ -1375,7 +1375,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "391b60045fed": {
@@ -1394,7 +1394,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "f6269084ad8b": {
@@ -1413,7 +1413,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "8c7cca35467d": {
@@ -1432,7 +1432,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "10a0dcf50e34": {
@@ -1451,7 +1451,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "705e48be0a17": {
@@ -1470,7 +1470,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "287370c32f6f": {
@@ -1489,7 +1489,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "5144c0ed3e8a": {
@@ -1508,7 +1508,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "517b6f49687c": {
@@ -1527,7 +1527,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "1b65c561d058": {
@@ -1546,7 +1546,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "83509c18a3c4": {
@@ -1565,7 +1565,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "a7645eda1305": {
@@ -1584,7 +1584,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "5c283d41ed80": {
@@ -1603,7 +1603,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "0ef16fb6f2f7": {
@@ -1622,7 +1622,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "cead21dcb903": {
@@ -1641,7 +1641,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "ecfa49a5735d": {
@@ -1660,7 +1660,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "13022732f003": {
@@ -1679,7 +1679,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "bcc8df82edf0": {
@@ -1698,7 +1698,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "6f6591b52cd2": {
@@ -1717,7 +1717,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "4c8cbcf28f7a": {
@@ -1736,7 +1736,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "242887ecaf3f": {
@@ -1755,7 +1755,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "55641828f61c": {
@@ -1774,7 +1774,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "902928165a50": {
@@ -1793,7 +1793,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "0513f6a19df0": {
@@ -1812,7 +1812,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "94444b57e4d9": {
@@ -1832,7 +1832,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "4ab0d9c41dd6": {
@@ -1851,7 +1851,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "18ab088c9477": {
@@ -1870,7 +1870,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "68d6b1182886": {
@@ -1889,7 +1889,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "7dfcc140bad1": {
@@ -1908,7 +1908,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "9a8b22a13ca0": {
@@ -1927,7 +1927,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "f4475d9d227f": {
@@ -1946,7 +1946,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "dee8ecf7fc6a": {
@@ -1965,7 +1965,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "f538bbcb678c": {
@@ -1984,7 +1984,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "b3b7be3a0e84": {
@@ -2003,7 +2003,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "966aa7f22c51": {
@@ -2022,7 +2022,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "4d110bb33010": {
@@ -2041,7 +2041,7 @@
   "location_override": "Opernhaus",
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "951b1487dfa3": {
@@ -2060,7 +2060,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "ae68356f137c": {
@@ -2079,7 +2079,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "9ac988a18d20": {
@@ -2098,7 +2098,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "f96714e480bc": {
@@ -2117,7 +2117,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "8bd7eb276615": {
@@ -2136,7 +2136,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "20cd4467aac4": {
@@ -2155,7 +2155,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "07e65f5c0c32": {
@@ -2174,7 +2174,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "4ab46e1d6d41": {
@@ -2193,7 +2193,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "683f3254c4d5": {
@@ -2212,7 +2212,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "02bb3236718a": {
@@ -2231,7 +2231,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "db92d523b27b": {
@@ -2250,7 +2250,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "ea0ac255ade5": {
@@ -2269,7 +2269,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "75ca0e76528f": {
@@ -2288,7 +2288,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "ff5498528af7": {
@@ -2307,7 +2307,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "390bd5f5941e": {
@@ -2326,7 +2326,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "0fde6b6e5d40": {
@@ -2345,7 +2345,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "f30775275d1b": {
@@ -2364,7 +2364,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "3def69bff9a3": {
@@ -2383,7 +2383,7 @@
   "location_override": null,
   "recurring": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "870fe70b6c35": {
@@ -2402,7 +2402,7 @@
   "location_override": null,
   "recurring": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  },
  "1bb634e1bd14": {
@@ -2421,7 +2421,844 @@
   "location_override": null,
   "recurring": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "d07526fffd7e": {
+  "id": "d07526fffd7e",
+  "venue_id": "wirrwarr",
+  "title": "Traumreise & Aquarell Workshop",
+  "date": "2026-11-22",
+  "time": "15:00",
+  "time_known": true,
+  "tags": [
+   "ausstellung",
+   "workshop"
+  ],
+  "genre": null,
+  "description": "Begegne dem Kind, das du warst, und lass es sich gesehen fühlen. Kunst hat die Kraft, unserem inneren erleben eine Greifbarkeit zu verleihen. In diesem Workshop nehmen wir uns Zeit für das Kind, das wir einmal waren, und geben ihm Raum, Farbe und Aufmerksamkeit.",
+  "url": "https://www.wirrwarr-wehringhausen.de/events/nature-journaling-ka57l-3krf4",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "665a7cad37dd": {
+  "id": "665a7cad37dd",
+  "venue_id": "wirrwarr",
+  "title": "Quartiers Brunch",
+  "date": "2026-11-29",
+  "time": "11:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Monatlicher Quartiersbrunch mit Beratung für Kreative & Projekte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen, deswegen laden wir einmal monatlich zum Quatsch und Brunch ins WirrWarr ein.",
+  "url": "https://www.wirrwarr-wehringhausen.de/events/quartiersfruestuec-juli-kreative-projekte-d6npk-mt6ms-sc4ab-y65h9-hay5l-y3d9s-nedr2-yn8mz-swcn5",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "29ccd8d0dd02": {
+  "id": "29ccd8d0dd02",
+  "venue_id": "wirrwarr",
+  "title": "KUNSTLEBEN Filmsalon",
+  "date": "2026-11-29",
+  "time": "15:00",
+  "time_known": true,
+  "tags": [
+   "film"
+  ],
+  "genre": null,
+  "description": "Filme über Kunst und Gespräche über das Leben! An 5 Terminen werden im Kino Babylon 2026 in Kooperation mit dem Fliegenden Salon Filme gezeigt, die das Leben und Wirken in und aus der Kunstwelt zeigen. Salon-Gastgeberin Kimberly Hardt lädt anschließend zum Gespräch ein.",
+  "url": "https://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hagen-nov26",
+  "location_override": "Kino Babylon",
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "7ac550485064": {
+  "id": "7ac550485064",
+  "venue_id": "wirrwarr",
+  "title": "abschied & Neuanfang",
+  "date": "2026-12-11",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "In den letzten drei Jahren ist viel passiert. Wir haben das WirrWarr gemeinsam zu einem Ort gemacht, an dem wir uns wohlfühlen, uns ausprobieren und unsere kreativen Visionen verwirklichen können. Wir wollen am Freitag, 11. Dezember auf die letzten drei Jahre zurück schauen und uns gemeinsam mit euch auf neue Abenteuer freuen.",
+  "url": "https://www.wirrwarr-wehringhausen.de/events/jahresabschluss-sober-dancefloor",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "979bad09d7e1": {
+  "id": "979bad09d7e1",
+  "venue_id": "werkhof",
+  "title": "PreWeekend am 19.11.2026",
+  "date": "2026-11-19",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;PREWEEKEND IM WERKHOF Am 19. November startet im Werkhof Hohenlimburg  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/preweekend-am-19-11-2026/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "f7d2136180df": {
+  "id": "f7d2136180df",
+  "venue_id": "werkhof",
+  "title": "Theater unterm Schloss &#8211; Mordstödlich!",
+  "date": "2026-11-20",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Achtung: Aus Krankheitsgründen kann das Stück &quot;Mordstödlich!&quot; nicht stattfinden. Stattdessen  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoedlich-2/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "80eaa15c6132": {
+  "id": "80eaa15c6132",
+  "venue_id": "werkhof",
+  "title": "Clashing Friends Festival Vol. III",
+  "date": "2026-11-21",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Clashing Minds spielen schon seit 2017 zusammen Musik und sind  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/clashing-friends-festival-vol-iii/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "bb4ba33dfa4b": {
+  "id": "bb4ba33dfa4b",
+  "venue_id": "werkhof",
+  "title": "Theater unterm Schloss &#8211; Mordstödlich!",
+  "date": "2026-11-22",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Achtung: Aus Krankheitsgründen kann das Stück &quot;Mordstödlich!&quot; nicht stattfinden. Stattdessen  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoedlich-3/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "a6bb6b0ea571": {
+  "id": "a6bb6b0ea571",
+  "venue_id": "werkhof",
+  "title": "Jam Session / Open Mic",
+  "date": "2026-11-27",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "fccd27c10b5c": {
+  "id": "fccd27c10b5c",
+  "venue_id": "werkhof",
+  "title": "TH &#038; the Boneshakerz",
+  "date": "2026-11-28",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/th-the-boneshakerz/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "fffd2d771fa3": {
+  "id": "fffd2d771fa3",
+  "venue_id": "werkhof",
+  "title": "4Music Night",
+  "date": "2026-12-03",
+  "time": "20:15",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/4-music-night-3/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "f8c6b1d33c59": {
+  "id": "f8c6b1d33c59",
+  "venue_id": "werkhof",
+  "title": "Szeneflohmarkt am 06.12.2026",
+  "date": "2026-12-06",
+  "time": "12:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Flohmarkt für Gothic, Metal, Rockabilly, Punk &amp; More - Eintritt  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-12-2026/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "6fec57885be4": {
+  "id": "6fec57885be4",
+  "venue_id": "werkhof",
+  "title": "Rockpalast Revival 2.0",
+  "date": "2026-12-11",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kulturzentrum  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/rockpalast-revival-2-0/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "4bc42ed99449": {
+  "id": "4bc42ed99449",
+  "venue_id": "werkhof",
+  "title": "United on the Rock 12-12-2026",
+  "date": "2026-12-12",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;UNITED ON THE ROCK – ROCK, METAL &amp; SANDKUNST Vier  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "5d7d13c686d5": {
+  "id": "5d7d13c686d5",
+  "venue_id": "werkhof",
+  "title": "PreWeekend am 17.12.2026",
+  "date": "2026-12-17",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER &gt;&gt;&gt;  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "83eb4188b4f9": {
+  "id": "83eb4188b4f9",
+  "venue_id": "werkhof",
+  "title": "Kilkenny Bastards am 18.12.2026",
+  "date": "2026-12-18",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12-2026/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "ec1d41577ea3": {
+  "id": "ec1d41577ea3",
+  "venue_id": "werkhof",
+  "title": "CountryRock Night &#8211; Jahresabschluss mit Siiri am 19.12.2026",
+  "date": "2026-12-19",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;CountryRock Night - Jahresabschluss mit Siiri -  Wenn ehrliche Songs  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/countryrock-jahresabschluss-mit-siiri/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "38b5d451846b": {
+  "id": "38b5d451846b",
+  "venue_id": "werkhof",
+  "title": "Weihnachtsausklang in der Werkhof-Kneipe",
+  "date": "2026-12-26",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Ho, ho, ho – Schluss mit stiller Nacht! Am 26.  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-kneipe/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "39fbc07465ca": {
+  "id": "39fbc07465ca",
+  "venue_id": "werkhof",
+  "title": "4Music Night",
+  "date": "2027-01-07",
+  "time": "20:15",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/4music-night-6/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "c1b4ef46d8cf": {
+  "id": "c1b4ef46d8cf",
+  "venue_id": "werkhof",
+  "title": "VON WELT &#8211; Adrenalin Tour 2027 am 09-01-2027",
+  "date": "2027-01-09",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;VON WELT denken Rock neu. Intelligent, kompromisslos und voller Atmosphäre  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/von-welt-adrenalin-tour-2027-am-09-01-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "9805833e4cad": {
+  "id": "9805833e4cad",
+  "venue_id": "werkhof",
+  "title": "Die Physiker &#8211; am 15.01.2027",
+  "date": "2027-01-15",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker.  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-15-01-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "dd8da30c4cf0": {
+  "id": "dd8da30c4cf0",
+  "venue_id": "werkhof",
+  "title": "Die Physiker &#8211; am 17.01.2027",
+  "date": "2027-01-17",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker.  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-17-01-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "311e508fbb63": {
+  "id": "311e508fbb63",
+  "venue_id": "werkhof",
+  "title": "Die Physiker &#8211; am 19.01.2027",
+  "date": "2027-01-19",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker.  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-19-01-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "7a136dbfcb54": {
+  "id": "7a136dbfcb54",
+  "venue_id": "werkhof",
+  "title": "Beatles on Piano am 22.01.2027",
+  "date": "2027-01-22",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;THE BEATLES ON PIANO Bastian Korn &amp; Band Eine musikalische  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "e9b31ea2b867": {
+  "id": "e9b31ea2b867",
+  "venue_id": "werkhof",
+  "title": "Jam Session / Open Mic",
+  "date": "2027-01-29",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/jam-session-open-mic/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "a65eb84d240a": {
+  "id": "a65eb84d240a",
+  "venue_id": "werkhof",
+  "title": "Sons of Odin am 30.01.2027",
+  "date": "2027-01-30",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;SONS OF ODIN – A Tribute to Manowar Wenn epischer  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "c379fc899123": {
+  "id": "c379fc899123",
+  "venue_id": "werkhof",
+  "title": "4Music Night",
+  "date": "2027-02-04",
+  "time": "20:15",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/4music-night-7/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "cb789116ef72": {
+  "id": "cb789116ef72",
+  "venue_id": "werkhof",
+  "title": "Ersatztermin Katy Wirtz mit Band am 12.02.2027",
+  "date": "2027-02-12",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;ACHTUNG, Ersatztermin für den 07.11.2026 Die Tickets behalten ihre Gültigkeit!  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/katy-wirtz/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "f8d2b61044ff": {
+  "id": "f8d2b61044ff",
+  "venue_id": "werkhof",
+  "title": "Wait for June am 13.02.2027",
+  "date": "2027-02-13",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Vielseitiger und detailreicher denn je wandelt die Band Wait For  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "5a25c676c73e": {
+  "id": "5a25c676c73e",
+  "venue_id": "werkhof",
+  "title": "Mother Black Cat",
+  "date": "2027-02-19",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Mother Black Cat – Alternative Rock mit Leidenschaft und ordentlich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/mother-black-cat/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "d174bab2d54a": {
+  "id": "d174bab2d54a",
+  "venue_id": "werkhof",
+  "title": "John Fogerty Coveration &#038; King/Bon",
+  "date": "2027-02-27",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! Freut euch  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/john-fogerty-coveration-king-bon/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "ee69596d3a20": {
+  "id": "ee69596d3a20",
+  "venue_id": "werkhof",
+  "title": "4Music Night",
+  "date": "2027-03-04",
+  "time": "20:15",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/4music-night-8/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "07788ad5c570": {
+  "id": "07788ad5c570",
+  "venue_id": "werkhof",
+  "title": "Brute Force and Ignorance",
+  "date": "2027-03-12",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "ca27fc611135": {
+  "id": "ca27fc611135",
+  "venue_id": "werkhof",
+  "title": "Edelweiss",
+  "date": "2027-03-13",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Edelweiss ist eine AC/DC-Coverband aus Rheinland-Pfalz, die man – wie  [...]&lt;/p&gt;",
+  "url": "https://werkhof-kulturzentrum.de/event/edelweiss/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "f515843593b4": {
+  "id": "f515843593b4",
+  "venue_id": "werkhof",
+  "title": "THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST",
+  "date": "2027-03-14",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-tour-2027-special-guest-sunburst/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "1024c841faad": {
+  "id": "1024c841faad",
+  "venue_id": "werkhof",
+  "title": "Fools Garden am 24.03.2027",
+  "date": "2027-03-24",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Nach „Dish Of The Day“ geht die Reise weiter, zurück  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/foolsgarden/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "184a77a18d05": {
+  "id": "184a77a18d05",
+  "venue_id": "werkhof",
+  "title": "4Music Night",
+  "date": "2027-04-01",
+  "time": "20:15",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/4music-night-9/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "169e77246474": {
+  "id": "169e77246474",
+  "venue_id": "werkhof",
+  "title": "Black Equinox Festival am 03.04.2027",
+  "date": "2027-04-03",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Genaue Infos folgen! Stehplatz - freie Platzwahl VVK  15 €  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-04-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "1feaddb5fad3": {
+  "id": "1feaddb5fad3",
+  "venue_id": "werkhof",
+  "title": "Stadtaffen am 16.04.2027",
+  "date": "2027-04-16",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;STADTAFFEN – Die ultimative Tribute-Show für alle Fans von Peter  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "007310093cf1": {
+  "id": "007310093cf1",
+  "venue_id": "werkhof",
+  "title": "It´s All Pink &#8211; Tour 2027",
+  "date": "2027-04-24",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die größten Hits  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/its-all-pink-tour-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "dd74c13a0653": {
+  "id": "dd74c13a0653",
+  "venue_id": "werkhof",
+  "title": "4Music Night",
+  "date": "2027-05-06",
+  "time": "08:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/4music-night-10/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "b0a4daaef101": {
+  "id": "b0a4daaef101",
+  "venue_id": "werkhof",
+  "title": "4Music Night",
+  "date": "2027-06-03",
+  "time": "20:15",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/4music-night-11/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "dc4c9cd54a13": {
+  "id": "dc4c9cd54a13",
+  "venue_id": "werkhof",
+  "title": "4Music Night",
+  "date": "2027-07-01",
+  "time": "20:15",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/4music-night-12/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
+  "gone": false
+ },
+ "50ef9ead9d4e": {
+  "id": "50ef9ead9d4e",
+  "venue_id": "werkhof",
+  "title": "Heavy Metal Fans Festival 2027 am 15. + 16.10.2027",
+  "date": "2027-10-15",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "&lt;p&gt;Das Heavy Metal Fans Festival geht in die neunte Runde!  [...]&lt;/p&gt;\\n",
+  "url": "https://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027-am-15-16-10-2027/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T02:01:43+01:00",
   "gone": false
  }
 }
