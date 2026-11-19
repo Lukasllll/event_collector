@@ -5,11 +5,11 @@
 #   start: 2026-01-01                 # Startdatum der Regel
 #   time: "20:00"
 #   tags: [jam-session]
-[
+
 - venue: affenhack
   title: Jam Session
-  rrule: "FREQ=MONTHLY;BYDAY=1SA"   # jeden 1. Dienstag; wöchentlich: "FREQ=WEEKLY;BYDAY=TH"
+  rrule: "FREQ=MONTHLY;BYDAY=1SA"   # jeden 1. Samstag im Monat
   start: 2026-12-05                 # Startdatum der Regel
   time: "20:00"
   tags: [jam-session]
-]
+
