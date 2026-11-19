@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:DAZWISCHEN UND DARÜBER HINAUS
 DTSTART:20261123T180000Z
 DTEND:20261123T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:71dd79d5fb93@event-collector
 DESCRIPTION:DAZWISCHEN UND DARÜBER HINAUS\nhttps://loch-wuppertal.de/prog
  ramm/kalender/dazwischen-und-darueber-hinaus-3116
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:29ccd8d0dd02@event-collector
 DESCRIPTION:Filme über Kunst und Gespräche über das Leben! An 5 Termine
  n werden im Kino Babylon 2026 in Kooperation mit dem Fliegenden Salon Film
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:fem goes short - Kurzfilmscreening
 DTSTART:20261130T180000Z
 DTEND:20261130T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e9a00a5a5659@event-collector
 DESCRIPTION:fem goes short - Kurzfilmscreening\nhttps://loch-wuppertal.de/
  programm/kalender/fem-goes-short-kurzfilmscreening-2936

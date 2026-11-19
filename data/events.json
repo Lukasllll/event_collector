@@ -1,8 +1,8 @@
 {
- "581fcb255e21": {
-  "id": "581fcb255e21",
+ "2c1dafedbdb5": {
+  "id": "2c1dafedbdb5",
   "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens – eine Weihnachtsgeschichte",
+  "title": "Charles Dickens",
   "date": "2026-11-20",
   "time": "19:30",
   "time_known": true,
@@ -10,18 +10,19 @@
    "theater"
   ],
   "genre": null,
-  "description": "Premiere: eine Weihnachtsgeschichte. Preisgruppe B",
+  "description": "Premiere",
   "url": "https://theaterandervolme.de/event/charles-dickens/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:59:29+01:00",
+  "gone": false
  },
- "6d78622f0560": {
-  "id": "6d78622f0560",
+ "00342d67182c": {
+  "id": "00342d67182c",
   "venue_id": "theater-an-der-volme",
-  "title": "Ein Bett im Kornfeld oder Lavalampe und Flokati",
+  "title": "Ein Bett im Kornfeld",
   "date": "2026-11-21",
   "time": "19:30",
   "time_known": true,
@@ -29,18 +30,19 @@
    "theater"
   ],
   "genre": null,
-  "description": "Die wilden 70er „Ein Bett im Kornfeld oder Lavalampe und Flokati“ hören Sie von und mit Dario Weberg und Karolin Kersting",
-  "url": "https://theaterandervolme.de",
+  "description": "",
+  "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:16:06+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:59:29+01:00",
+  "gone": false
  },
- "4687cc360325": {
-  "id": "4687cc360325",
+ "752922d87709": {
+  "id": "752922d87709",
   "venue_id": "theater-an-der-volme",
-  "title": "FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfänger",
+  "title": "FROSTBEULEN & FAMILIENGLÜCK",
   "date": "2026-11-22",
   "time": "18:00",
   "time_known": true,
@@ -48,13 +50,14 @@
    "theater"
   ],
   "genre": null,
-  "description": "Freuen Sie sich auf „FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfänger“ mit Dario Weberg und Karolin Kersting",
-  "url": "https://theaterandervolme.de",
+  "description": "",
+  "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-2/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:16:06+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:59:29+01:00",
+  "gone": false
  },
  "cac8ba2245e6": {
   "id": "cac8ba2245e6",
@@ -177,24 +180,25 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "7e146ca4b2c4": {
-  "id": "7e146ca4b2c4",
+ "98258dea9a68": {
+  "id": "98258dea9a68",
   "venue_id": "domicil",
-  "title": "Julie Campiche \"Unspoken\" / Filippa Gojo & Stephan Mattner: Nucleus",
+  "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & Stephan Mattner: Nucleus",
   "date": "2026-11-20",
   "time": "20:00",
   "time_known": true,
   "tags": [
    "konzert"
   ],
-  "genre": "Jazz",
-  "description": "33. Jazztage Dortmund: Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon",
+  "genre": "Jazz, Experimental, Modern Jazz",
+  "description": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
   "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:44:34+01:00",
+  "gone": false
  },
  "01e5b11cac27": {
   "id": "01e5b11cac27",
@@ -215,10 +219,10 @@
   "last_seen": "2026-11-19T00:13:22+01:00",
   "gone": true
  },
- "bd526f3a155b": {
-  "id": "bd526f3a155b",
+ "bd7a046e435b": {
+  "id": "bd7a046e435b",
   "venue_id": "domicil",
-  "title": "Jazztage Jam Session feat. p.h.k. quartet",
+  "title": "33. Jazztage: Jam Session feat. p.h.k. quartet",
   "date": "2026-11-21",
   "time": "20:00",
   "time_known": true,
@@ -231,9 +235,10 @@
   "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:44:34+01:00",
+  "gone": false
  },
  "2dafbb5365c5": {
   "id": "2dafbb5365c5",
@@ -254,6 +259,47 @@
   "first_seen": "2026-11-18T23:59:30+01:00",
   "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": true
+ },
+ "1d138b027dd2": {
+  "id": "1d138b027dd2",
+  "venue_id": "domicil",
+  "title": "Bue in Green: Jazz Listening Bar",
+  "date": "2026-11-26",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert",
+   "party"
+  ],
+  "genre": null,
+  "description": "Bue in Green: Jazz Listening Bar",
+  "url": "https://domicil-dortmund.de/programm-details/bue-in-green-jazz-listening-bar.html",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T00:25:38+01:00",
+  "last_seen": "2026-11-19T23:44:34+01:00",
+  "gone": false
+ },
+ "4eeaf6bfcb14": {
+  "id": "4eeaf6bfcb14",
+  "venue_id": "domicil",
+  "title": "33. Jazztage Dortmund: 20 Jahre The Dorf",
+  "date": "2026-11-26",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Avantgarde, Improvisation, Urban",
+  "description": "33. Jazztage Dortmund: 20 Jahre The Dorf",
+  "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T00:25:38+01:00",
+  "last_seen": "2026-11-19T23:44:34+01:00",
+  "gone": false
  },
  "fce6f26ccd96": {
   "id": "fce6f26ccd96",
@@ -376,6 +422,26 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
+ "1f526172564a": {
+  "id": "1f526172564a",
+  "venue_id": "pelmke",
+  "title": "»Alte Wut« – Lesung und Gespräch mit der Autorin Caro Matzko",
+  "date": "2026-11-25",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": null,
+  "description": "»Alte Wut» – Warum ich an den Ort reiste, von dem mein Vater einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko",
+  "url": "https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko/",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T12:39:46+01:00",
+  "last_seen": "2026-11-19T15:26:27+01:00",
+  "gone": true
+ },
  "172b8d3f3826": {
   "id": "172b8d3f3826",
   "venue_id": "pelmke",
@@ -496,15 +562,16 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "13e2f0cfbd79": {
-  "id": "13e2f0cfbd79",
+ "170e04f3f33a": {
+  "id": "170e04f3f33a",
   "venue_id": "pelmke",
-  "title": "Situationen der Demokratie – Situation 1: Demokratie & Digitalität. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+  "title": "Situationen der Demokratie – Situation 1: Demokratie & Digitalität",
   "date": "2026-12-05",
   "time": "18:30",
   "time_known": true,
   "tags": [
-   "konzert"
+   "konzert",
+   "lesung"
   ],
   "genre": null,
   "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
@@ -513,8 +580,8 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:44:34+01:00",
+  "gone": false
  },
  "8dcc1ce84db1": {
   "id": "8dcc1ce84db1",
@@ -536,47 +603,6 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "7d893bd9647b": {
-  "id": "7d893bd9647b",
-  "venue_id": "pelmke",
-  "title": "Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortrag von und mit attac Hagen",
-  "date": "2026-12-09",
-  "time": "19:00",
-  "time_known": true,
-  "tags": [
-   "sonstiges"
-  ],
-  "genre": null,
-  "description": "Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortrag von und mit attac Hagen",
-  "url": "https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T15:26:27+01:00",
-  "gone": true
- },
- "170e04f3f33a": {
-  "id": "170e04f3f33a",
-  "venue_id": "pelmke",
-  "title": "Situationen der Demokratie – Situation 1: Demokratie & Digitalität",
-  "date": "2026-12-05",
-  "time": "18:30",
-  "time_known": true,
-  "tags": [
-   "konzert",
-   "lesung"
-  ],
-  "genre": null,
-  "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
-  "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
  "0376ab6d9333": {
   "id": "0376ab6d9333",
   "venue_id": "pelmke",
@@ -593,49 +619,9 @@
   "location_override": null,
   "recurring": false,
   "classified": true,
-  "first_seen": "2026-11-19T00:16:06+01:00",
+  "first_seen": "2026-11-19T00:13:22+01:00",
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
- },
- "a6d9f75feca2": {
-  "id": "a6d9f75feca2",
-  "venue_id": "domicil",
-  "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & Stephan Mattner: Nucleus",
-  "date": "2026-11-20",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "konzert"
-  ],
-  "genre": "Jazz",
-  "description": "Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon",
-  "url": "https://domicil-dortmund.de/programm-details/fallen-crooner.html",
-  "location_override": null,
-  "recurring": false,
-  "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T00:16:06+01:00",
-  "gone": true
- },
- "6834bdbbb013": {
-  "id": "6834bdbbb013",
-  "venue_id": "domicil",
-  "title": "33. Jazztage Dortmund: Jam Session feat. p.h.k. quartet",
-  "date": "2026-11-21",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "jam-session",
-   "konzert"
-  ],
-  "genre": null,
-  "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
-  "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": true
  },
  "ba6cdef969e7": {
   "id": "ba6cdef969e7",
@@ -657,43 +643,43 @@
   "last_seen": "2026-11-19T00:16:06+01:00",
   "gone": true
  },
- "00342d67182c": {
-  "id": "00342d67182c",
-  "venue_id": "theater-an-der-volme",
-  "title": "Ein Bett im Kornfeld",
-  "date": "2026-11-21",
-  "time": "19:30",
+ "0ef16fb6f2f7": {
+  "id": "0ef16fb6f2f7",
+  "venue_id": "domicil",
+  "title": "33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season",
+  "date": "2026-11-28",
+  "time": "20:00",
   "time_known": true,
   "tags": [
-   "theater"
+   "konzert"
   ],
-  "genre": null,
-  "description": "",
-  "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld/",
+  "genre": "Experimental, Avantgarde, Improvisation",
+  "description": "33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/ingrid-laubrock.html",
   "location_override": null,
   "recurring": false,
   "classified": true,
-  "first_seen": "2026-11-19T00:25:38+01:00",
+  "first_seen": "2026-11-19T01:03:32+01:00",
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "752922d87709": {
-  "id": "752922d87709",
-  "venue_id": "theater-an-der-volme",
-  "title": "FROSTBEULEN & FAMILIENGLÜCK",
-  "date": "2026-11-22",
-  "time": "18:00",
+ "cead21dcb903": {
+  "id": "cead21dcb903",
+  "venue_id": "domicil",
+  "title": "Finibaggies presents: Saturday Soul",
+  "date": "2026-11-28",
+  "time": "22:00",
   "time_known": true,
   "tags": [
-   "theater"
+   "party"
   ],
-  "genre": null,
-  "description": "",
-  "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-2/",
+  "genre": "Jazz, Funk, Soul, Disco, House",
+  "description": "Finibaggies presents: Saturday Soul",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/finibaggies-presents-saturday-soul-12523.html",
   "location_override": null,
   "recurring": false,
   "classified": true,
-  "first_seen": "2026-11-19T00:25:38+01:00",
+  "first_seen": "2026-11-19T01:03:32+01:00",
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
@@ -714,13 +700,13 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
- "64c029bbc72f": {
-  "id": "64c029bbc72f",
+ "f6f4e3f2d37f": {
+  "id": "f6f4e3f2d37f",
   "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens – eine Weihnachtsgeschichte",
+  "title": "Charles Dickens",
   "date": "2026-11-28",
   "time": "19:30",
   "time_known": true,
@@ -728,13 +714,14 @@
    "theater"
   ],
   "genre": null,
-  "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+  "description": "",
   "url": "https://theaterandervolme.de/event/charles-dickens-4/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:59:29+01:00",
+  "gone": false
  },
  "8c984c5088f1": {
   "id": "8c984c5088f1",
@@ -754,7 +741,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "492c5f5f771b": {
@@ -774,7 +761,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "d96eab78084d": {
@@ -794,7 +781,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "2f3cacafac31": {
@@ -814,7 +801,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "a7a1ff828460": {
@@ -835,7 +822,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "1abb5f2fd3bc": {
@@ -855,13 +842,13 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
- "ffd0e6a6fd93": {
-  "id": "ffd0e6a6fd93",
+ "398a1acd491e": {
+  "id": "398a1acd491e",
   "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens – eine Weihnachtsgeschichte",
+  "title": "Charles Dickens",
   "date": "2026-12-12",
   "time": "19:30",
   "time_known": true,
@@ -869,18 +856,19 @@
    "theater"
   ],
   "genre": null,
-  "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+  "description": "",
   "url": "https://theaterandervolme.de/event/charles-dickens-1/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:59:29+01:00",
+  "gone": false
  },
- "12b56c6f25d0": {
-  "id": "12b56c6f25d0",
+ "712faf0663d2": {
+  "id": "712faf0663d2",
   "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens – eine Weihnachtsgeschichte",
+  "title": "Charles Dickens",
   "date": "2026-12-13",
   "time": "18:00",
   "time_known": true,
@@ -888,13 +876,14 @@
    "theater"
   ],
   "genre": null,
-  "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+  "description": "",
   "url": "https://theaterandervolme.de/event/charles-dickens-2/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:59:29+01:00",
+  "gone": false
  },
  "23b84073bdf0": {
   "id": "23b84073bdf0",
@@ -913,7 +902,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "78d59e71d44f": {
@@ -933,13 +922,13 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
- "d9aecb40209d": {
-  "id": "d9aecb40209d",
+ "014c930fe7e6": {
+  "id": "014c930fe7e6",
   "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens – eine Weihnachtsgeschichte",
+  "title": "Charles Dickens",
   "date": "2026-12-20",
   "time": "18:00",
   "time_known": true,
@@ -947,13 +936,14 @@
    "theater"
   ],
   "genre": null,
-  "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+  "description": "",
   "url": "https://theaterandervolme.de/event/charles-dickens-3/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:59:29+01:00",
+  "gone": false
  },
  "7b9f10b712c0": {
   "id": "7b9f10b712c0",
@@ -972,7 +962,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "507b2423be94": {
@@ -1077,47 +1067,6 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "98258dea9a68": {
-  "id": "98258dea9a68",
-  "venue_id": "domicil",
-  "title": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
-  "date": "2026-11-20",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "konzert"
-  ],
-  "genre": "Jazz, Experimental, Modern Jazz",
-  "description": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
-  "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "bd7a046e435b": {
-  "id": "bd7a046e435b",
-  "venue_id": "domicil",
-  "title": "33. Jazztage: Jam Session feat. p.h.k. quartet",
-  "date": "2026-11-21",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "jam-session",
-   "konzert"
-  ],
-  "genre": "Jazz",
-  "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
-  "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
  "4deebb544d9f": {
   "id": "4deebb544d9f",
   "venue_id": "domicil",
@@ -1171,47 +1120,6 @@
   "genre": "Pop",
   "description": "Das Dortmunder Rudelsingen",
   "url": "https://domicil-dortmund.de/programm-details/das-dortmunder-rudelsingen-11987.html",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "1d138b027dd2": {
-  "id": "1d138b027dd2",
-  "venue_id": "domicil",
-  "title": "Bue in Green: Jazz Listening Bar",
-  "date": "2026-11-26",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "konzert",
-   "party"
-  ],
-  "genre": null,
-  "description": "Bue in Green: Jazz Listening Bar",
-  "url": "https://domicil-dortmund.de/programm-details/bue-in-green-jazz-listening-bar.html",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "4eeaf6bfcb14": {
-  "id": "4eeaf6bfcb14",
-  "venue_id": "domicil",
-  "title": "33. Jazztage Dortmund: 20 Jahre The Dorf",
-  "date": "2026-11-26",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "konzert"
-  ],
-  "genre": "Avantgarde, Improvisation, Urban",
-  "description": "33. Jazztage Dortmund: 20 Jahre The Dorf",
-  "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
   "location_override": null,
   "recurring": false,
   "classified": true,
@@ -1677,46 +1585,6 @@
   "genre": null,
   "description": "freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-12/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "0ef16fb6f2f7": {
-  "id": "0ef16fb6f2f7",
-  "venue_id": "domicil",
-  "title": "33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season",
-  "date": "2026-11-28",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "konzert"
-  ],
-  "genre": "Experimental, Avantgarde, Improvisation",
-  "description": "33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season",
-  "url": "https://domicil-dortmund.de/index.php/programm-details/ingrid-laubrock.html",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "cead21dcb903": {
-  "id": "cead21dcb903",
-  "venue_id": "domicil",
-  "title": "Finibaggies presents: Saturday Soul",
-  "date": "2026-11-28",
-  "time": "22:00",
-  "time_known": true,
-  "tags": [
-   "party"
-  ],
-  "genre": "Jazz, Funk, Soul, Disco, House",
-  "description": "Finibaggies presents: Saturday Soul",
-  "url": "https://domicil-dortmund.de/index.php/programm-details/finibaggies-presents-saturday-soul-12523.html",
   "location_override": null,
   "recurring": false,
   "classified": true,
@@ -2245,10 +2113,10 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "20cd4467aac4": {
-  "id": "20cd4467aac4",
+ "e2a0b9c8bbe9": {
+  "id": "e2a0b9c8bbe9",
   "venue_id": "domicil",
-  "title": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia...",
+  "title": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia Nilsson",
   "date": "2027-01-28",
   "time": "20:00",
   "time_known": true,
@@ -2262,8 +2130,8 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:31:50+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:44:34+01:00",
+  "gone": false
  },
  "07e65f5c0c32": {
   "id": "07e65f5c0c32",
@@ -2488,7 +2356,7 @@
  "3def69bff9a3": {
   "id": "3def69bff9a3",
   "venue_id": "affenhack",
-  "title": "Jam Session",
+  "title": "JamArt Session",
   "date": "2026-12-05",
   "time": "20:00",
   "time_known": true,
@@ -2502,13 +2370,13 @@
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "870fe70b6c35": {
   "id": "870fe70b6c35",
   "venue_id": "affenhack",
-  "title": "Jam Session",
+  "title": "JamArt Session",
   "date": "2027-01-02",
   "time": "20:00",
   "time_known": true,
@@ -2522,13 +2390,13 @@
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "1bb634e1bd14": {
   "id": "1bb634e1bd14",
   "venue_id": "affenhack",
-  "title": "Jam Session",
+  "title": "JamArt Session",
   "date": "2027-02-06",
   "time": "20:00",
   "time_known": true,
@@ -2542,7 +2410,7 @@
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "d07526fffd7e": {
@@ -2618,7 +2486,7 @@
    "party"
   ],
   "genre": null,
-  "description": "In den letzten drei Jahren ist viel passiert. Wir haben das WirrWarr gemeinsam zu einem Ort gemacht, an dem wir uns wohlfühlen, uns ausprobieren und unsere kreativen Visionen verwirklichen können. Viele von euch sind mit uns gewachsen, sind auf Gleichgesinnt getroffen, haben zusammen angefangen Projekte umzusetzen und haben nicht nur das WirrWarr zu einem Ort der Inspiration und der gegenseitigen Unterstützung werden lassen, sondern auch den ganzen Stadtteil. Wir wollen am Freitag, 11. Dezember ",
+  "description": "In den letzten drei Jahren ist viel passiert. Wir haben das WirrWarr gemeinsam zu einem Ort gemacht, an dem wir uns wohlfühlen, uns ausprobieren und unsere kreativen Visionen verwirklichen können. Viele von euch sind mit uns gewachsen, sind auf Gleichgesinnt getroffen, haben zusammen angefangen Projekte umzusetzen und haben nicht nur das WirrWarr zu einem Ort der Inspiration und der gegenseitigen Unterstützung werden lassen, sondern auch den ganzen Stadtteil. Wir wollen am Freitag, 11. Dezember",
   "url": "https://www.wirrwarr-wehringhausen.de/events/jahresabschluss-sober-dancefloor",
   "location_override": null,
   "recurring": false,
@@ -2644,7 +2512,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "2c5fa06c7075": {
@@ -2664,7 +2532,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "80eaa15c6132": {
@@ -2684,7 +2552,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "9f63b7cce7eb": {
@@ -2704,7 +2572,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "a6bb6b0ea571": {
@@ -2724,7 +2592,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "014bfbe4eb66": {
@@ -2744,7 +2612,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "fffd2d771fa3": {
@@ -2764,7 +2632,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "f8c6b1d33c59": {
@@ -2784,7 +2652,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "6fec57885be4": {
@@ -2804,7 +2672,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "4bc42ed99449": {
@@ -2824,7 +2692,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "5d7d13c686d5": {
@@ -2844,7 +2712,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "83eb4188b4f9": {
@@ -2864,7 +2732,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "f842c26cda89": {
@@ -2884,7 +2752,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "38b5d451846b": {
@@ -2904,7 +2772,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "39fbc07465ca": {
@@ -2924,7 +2792,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "aa169f5e888e": {
@@ -2944,7 +2812,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "c6412bb52fc5": {
@@ -2964,7 +2832,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "534b475df5e7": {
@@ -2984,7 +2852,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "410a6da75a84": {
@@ -3004,7 +2872,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "7a136dbfcb54": {
@@ -3024,7 +2892,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "e9b31ea2b867": {
@@ -3044,7 +2912,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "a65eb84d240a": {
@@ -3064,7 +2932,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "c379fc899123": {
@@ -3084,7 +2952,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "cb789116ef72": {
@@ -3104,7 +2972,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "f8d2b61044ff": {
@@ -3124,7 +2992,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "5a25c676c73e": {
@@ -3144,7 +3012,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "0fab2d653fa6": {
@@ -3164,7 +3032,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "ee69596d3a20": {
@@ -3184,7 +3052,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "07788ad5c570": {
@@ -3204,7 +3072,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "ca27fc611135": {
@@ -3224,7 +3092,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "f515843593b4": {
@@ -3244,7 +3112,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "1024c841faad": {
@@ -3264,7 +3132,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "184a77a18d05": {
@@ -3284,7 +3152,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "169e77246474": {
@@ -3304,7 +3172,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "1feaddb5fad3": {
@@ -3324,7 +3192,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "c5233740463e": {
@@ -3344,7 +3212,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "dd74c13a0653": {
@@ -3364,7 +3232,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "b0a4daaef101": {
@@ -3384,7 +3252,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "dc4c9cd54a13": {
@@ -3404,7 +3272,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  },
  "50ef9ead9d4e": {
@@ -3424,28 +3292,8 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
- },
- "1f526172564a": {
-  "id": "1f526172564a",
-  "venue_id": "pelmke",
-  "title": "»Alte Wut« – Lesung und Gespräch mit der Autorin Caro Matzko",
-  "date": "2026-11-25",
-  "time": "19:00",
-  "time_known": true,
-  "tags": [
-   "lesung"
-  ],
-  "genre": null,
-  "description": "»Alte Wut» – Warum ich an den Ort reiste, von dem mein Vater einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko",
-  "url": "https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T12:39:46+01:00",
-  "last_seen": "2026-11-19T15:26:27+01:00",
-  "gone": true
  },
  "9e56da880ecd": {
   "id": "9e56da880ecd",
@@ -3547,26 +3395,25 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "1eb2eda9847c": {
-  "id": "1eb2eda9847c",
+ "d47587e333b7": {
+  "id": "d47587e333b7",
   "venue_id": "loch",
-  "title": "Chorprobe im LOCH",
+  "title": "Chorprobe",
   "date": "2026-11-24",
   "time": "19:30",
   "time_known": true,
   "tags": [
-   "konzert",
    "workshop"
   ],
   "genre": null,
   "description": "Chorprobe",
-  "url": "https://loch-wuppertal.de/",
+  "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3134",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:44:34+01:00",
+  "gone": false
  },
  "6e7d8ffa76eb": {
   "id": "6e7d8ffa76eb",
@@ -3587,6 +3434,27 @@
   "first_seen": "2026-11-19T23:08:52+01:00",
   "last_seen": "2026-11-19T23:08:52+01:00",
   "gone": true
+ },
+ "6a3608210c22": {
+  "id": "6a3608210c22",
+  "venue_id": "loch",
+  "title": "Erst Exchampion dann offene Session",
+  "date": "2026-11-19",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session",
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Erst Exchampion dann offene Session",
+  "url": "https://loch-wuppertal.de/programm/kalender/erst-exchampion-dann-offene-session-2871",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:44:34+01:00",
+  "gone": false
  },
  "32e5fe1e040f": {
   "id": "32e5fe1e040f",
@@ -3709,147 +3577,6 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "2c1dafedbdb5": {
-  "id": "2c1dafedbdb5",
-  "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens",
-  "date": "2026-11-20",
-  "time": "19:30",
-  "time_known": true,
-  "tags": [
-   "theater"
-  ],
-  "genre": null,
-  "description": "Premiere",
-  "url": "https://theaterandervolme.de/event/charles-dickens/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:31:50+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "f6f4e3f2d37f": {
-  "id": "f6f4e3f2d37f",
-  "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens",
-  "date": "2026-11-28",
-  "time": "19:30",
-  "time_known": true,
-  "tags": [
-   "theater"
-  ],
-  "genre": null,
-  "description": "",
-  "url": "https://theaterandervolme.de/event/charles-dickens-4/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:31:50+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "398a1acd491e": {
-  "id": "398a1acd491e",
-  "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens",
-  "date": "2026-12-12",
-  "time": "19:30",
-  "time_known": true,
-  "tags": [
-   "theater"
-  ],
-  "genre": null,
-  "description": "",
-  "url": "https://theaterandervolme.de/event/charles-dickens-1/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:31:50+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "712faf0663d2": {
-  "id": "712faf0663d2",
-  "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens",
-  "date": "2026-12-13",
-  "time": "18:00",
-  "time_known": true,
-  "tags": [
-   "theater"
-  ],
-  "genre": null,
-  "description": "",
-  "url": "https://theaterandervolme.de/event/charles-dickens-2/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:31:50+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "014c930fe7e6": {
-  "id": "014c930fe7e6",
-  "venue_id": "theater-an-der-volme",
-  "title": "Charles Dickens",
-  "date": "2026-12-20",
-  "time": "18:00",
-  "time_known": true,
-  "tags": [
-   "theater"
-  ],
-  "genre": null,
-  "description": "",
-  "url": "https://theaterandervolme.de/event/charles-dickens-3/",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:31:50+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "c7f8cf2fdfba": {
-  "id": "c7f8cf2fdfba",
-  "venue_id": "domicil",
-  "title": "Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
-  "date": "2026-11-20",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "konzert"
-  ],
-  "genre": "Jazz, Experimental, Modern Jazz",
-  "description": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
-  "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:31:50+01:00",
-  "last_seen": "2026-11-19T23:31:50+01:00",
-  "gone": true
- },
- "6a3608210c22": {
-  "id": "6a3608210c22",
-  "venue_id": "loch",
-  "title": "Erst Exchampion dann offene Session",
-  "date": "2026-11-19",
-  "time": "20:00",
-  "time_known": true,
-  "tags": [
-   "jam-session",
-   "konzert"
-  ],
-  "genre": null,
-  "description": "Erst Exchampion dann offene Session",
-  "url": "https://loch-wuppertal.de/programm/kalender/erst-exchampion-dann-offene-session-2871",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:31:50+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
  "4e450510e3cb": {
   "id": "4e450510e3cb",
   "venue_id": "loch",
@@ -3903,26 +3630,6 @@
   "genre": null,
   "description": "DAZWISCHEN UND DARÜBER HINAUS",
   "url": "https://loch-wuppertal.de/programm/kalender/dazwischen-und-darueber-hinaus-3116",
-  "location_override": null,
-  "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:31:50+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
-  "gone": false
- },
- "d47587e333b7": {
-  "id": "d47587e333b7",
-  "venue_id": "loch",
-  "title": "Chorprobe",
-  "date": "2026-11-24",
-  "time": "19:30",
-  "time_known": true,
-  "tags": [
-   "workshop"
-  ],
-  "genre": null,
-  "description": "Chorprobe",
-  "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3134",
   "location_override": null,
   "recurring": false,
   "classified": true,
@@ -4710,24 +4417,24 @@
   "last_seen": "2026-11-19T23:44:34+01:00",
   "gone": false
  },
- "e2a0b9c8bbe9": {
-  "id": "e2a0b9c8bbe9",
-  "venue_id": "domicil",
-  "title": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia Nilsson",
-  "date": "2027-01-28",
-  "time": "20:00",
+ "971434666363": {
+  "id": "971434666363",
+  "venue_id": "theater-an-der-volme",
+  "title": "Das Beste kommt zum Schluss",
+  "date": "2026-12-31",
+  "time": "18:00",
   "time_known": true,
   "tags": [
-   "konzert"
+   "sonstiges"
   ],
-  "genre": "Jazz, Contemporary, Modern Jazz",
-  "description": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia...",
-  "url": "https://domicil-dortmund.de/index.php/programm-details/jorge-rossy-quartet-feat-jorge-rossy-milena-casado-robert-landfermann-cornelia-nilsson.html",
+  "genre": null,
+  "description": "",
+  "url": "https://theaterandervolme.de/event/das-beste-kommt-zum-schluss/",
   "location_override": null,
   "recurring": false,
-  "classified": true,
-  "first_seen": "2026-11-19T23:44:34+01:00",
-  "last_seen": "2026-11-19T23:44:34+01:00",
+  "classified": false,
+  "first_seen": "2026-11-19T23:59:29+01:00",
+  "last_seen": "2026-11-19T23:59:29+01:00",
   "gone": false
  }
 }

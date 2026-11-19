@@ -4,7 +4,7 @@ PRODID:-//event-collector//DE
 BEGIN:VEVENT
 SUMMARY:[entfällt?] Die Sache mit der Angst
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:6e7d8ffa76eb@event-collector
 DESCRIPTION:https://loch-wuppertal.de/
 LOCATION:Loch\, Wuppertal
@@ -14,7 +14,7 @@ BEGIN:VEVENT
 SUMMARY:PreWeekend am 19.11.2026
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:979bad09d7e1@event-collector
 DESCRIPTION:Information zur heutigen Veranstaltung! Leider wird es bei der
   heutigen [...]\nhttps://werkhof-kulturzentrum.de/event/preweekend-am-19-1
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Possessed by Paul James
 DTSTART:20261119T180000Z
 DTEND:20261119T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:68c082b7d223@event-collector
 DESCRIPTION:Singer-Songwriter | Support: Linda LoFi\nhttps://rottstr5-thea
  ter.de/possessed-by-paul-james.html
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Blue in Green: Jazz Listening Bar
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7833b68d9ed9@event-collector
 DESCRIPTION:Blue in Green: Jazz Listening Bar\nhttps://domicil-dortmund.de
  /programm-details/blue-in-green-jazz-listening-bar-12666.html
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Erst Exchampion dann offene Session
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:6a3608210c22@event-collector
 DESCRIPTION:Erst Exchampion dann offene Session\nhttps://loch-wuppertal.de
  /programm/kalender/erst-exchampion-dann-offene-session-2871
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Kneipenquiz – Demokratie am Tresen
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:fce6f26ccd96@event-collector
 DESCRIPTION:Kneipenquiz – Demokratie am Tresen\nhttps://www.pelmke.de/ve
  ranstaltungen/kneipenquiz-demokratie-am-tresen-3/
@@ -73,29 +73,18 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261120T183000Z
 DTEND:20261120T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:2c1dafedbdb5@event-collector
 DESCRIPTION:Premiere\nhttps://theaterandervolme.de/event/charles-dickens/
 LOCATION:Theater an der Volme\, Hagen
 URL:https://theaterandervolme.de/event/charles-dickens/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Charles Dickens – eine Weihnachtsgeschichte
-DTSTART:20261120T183000Z
-DTEND:20261120T203000Z
-DTSTAMP:20261119T224607Z
-UID:581fcb255e21@event-collector
-DESCRIPTION:Premiere: eine Weihnachtsgeschichte. Preisgruppe B\nhttps://th
- eaterandervolme.de/event/charles-dickens/
-LOCATION:Theater an der Volme\, Hagen
-URL:https://theaterandervolme.de/event/charles-dickens/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Gojo & 
- St...
+ Stephan Mattner: Nucleus
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:98258dea9a68@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Goj
  o & St...\nhttps://domicil-dortmund.de/programm-details/goio-mattner.html
@@ -103,22 +92,10 @@ LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/goio-mattner.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] 33. Jazztage Dortmund: Julie Campiche "Unspoken" / Fi
- lippa Gojo & Stephan Mattner: Nucleus
-DTSTART:20261120T190000Z
-DTEND:20261120T210000Z
-DTSTAMP:20261119T224607Z
-UID:a6d9f75feca2@event-collector
-DESCRIPTION:Neue Klangwelten: Harfe + Electronics / Stimme + Saxophon\nhtt
- ps://domicil-dortmund.de/programm-details/fallen-crooner.html
-LOCATION:domicil\, Dortmund
-URL:https://domicil-dortmund.de/programm-details/fallen-crooner.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:David Virelles KLAENG Project
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4e450510e3cb@event-collector
 DESCRIPTION:David Virelles KLAENG Project\nhttps://loch-wuppertal.de/progr
  amm/kalender/david-virelles-klaeng-project-2995
@@ -130,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Gaga Extravanza | Serving Cunts | Die Öffnung | DDDR
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:967bf68fc526@event-collector
 DESCRIPTION:Gaga Extravanza | Serving Cunts | Die Öffnung | DDDR\nhttps:/
  /rottstr5-theater.de/gaga-extravaganza-serving-cunts-die-%C3%B6ffnung-dddr
@@ -140,34 +117,10 @@ URL:https://rottstr5-theater.de/gaga-extravaganza-serving-cunts-die-%C3%B6
  ffnung-dddr.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Julie Campiche "Unspoken" / Filippa Gojo & St...
-DTSTART:20261120T190000Z
-DTEND:20261120T210000Z
-DTSTAMP:20261119T224607Z
-UID:c7f8cf2fdfba@event-collector
-DESCRIPTION:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Goj
- o & St...\nhttps://domicil-dortmund.de/programm-details/goio-mattner.html
-LOCATION:domicil\, Dortmund
-URL:https://domicil-dortmund.de/programm-details/goio-mattner.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[entfällt?] Julie Campiche "Unspoken" / Filippa Gojo & Stephan Ma
- ttner: Nucleus
-DTSTART:20261120T190000Z
-DTEND:20261120T210000Z
-DTSTAMP:20261119T224607Z
-UID:7e146ca4b2c4@event-collector
-DESCRIPTION:33. Jazztage Dortmund: Neue Klangwelten: Harfe + Electronics /
-  Stimme + Saxophon\nhttps://domicil-dortmund.de/programm-details/goio-matt
- ner.html
-LOCATION:domicil\, Dortmund
-URL:https://domicil-dortmund.de/programm-details/goio-mattner.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater unterm Schloss – Mordstödlich!
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:2c5fa06c7075@event-collector
 DESCRIPTION:Achtung: Aus Krankheitsgründen kann das Stück "Mordstödlich
  !" nicht stattfinden. Stattdessen [...]\nhttps://werkhof-kulturzentrum.de/
@@ -180,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Funk & Soul Club Wuppertal
 DTSTART:20261120T203000Z
 DTEND:20261120T223000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:9158383b36f9@event-collector
 DESCRIPTION:Funk & Soul Club Wuppertal\nhttps://loch-wuppertal.de/programm
  /kalender/funk-soul-club-wuppertal-3141
@@ -192,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Saus & Braus
 DTSTART:20261120T220000Z
 DTEND:20261121T000000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:32e5fe1e040f@event-collector
 DESCRIPTION:Saus & Braus\nhttps://odonien.de/veranstaltungen/mira-und-chri
  s
@@ -204,7 +157,7 @@ SUMMARY:[entfällt?] VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonf
  erenz
 DTSTART:20261121T100000Z
 DTEND:20261121T120000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e3b9f2fa7930@event-collector
 DESCRIPTION:VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz\nht
  tps://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigkeitsko
@@ -217,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Bernd Begemann
 DTSTART:20261121T180000Z
 DTEND:20261121T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:986afcac594a@event-collector
 DESCRIPTION:Bernd Begemann\nhttps://rottstr5-theater.de/bernd-begemann.htm
  l
@@ -228,43 +181,17 @@ BEGIN:VEVENT
 SUMMARY:Ein Bett im Kornfeld
 DTSTART:20261121T183000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:00342d67182c@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ein-bett-im-kornfeld/
 LOCATION:Theater an der Volme\, Hagen
 URL:https://theaterandervolme.de/event/ein-bett-im-kornfeld/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Ein Bett im Kornfeld oder Lavalampe und Flokati
-DTSTART:20261121T183000Z
-DTEND:20261121T203000Z
-DTSTAMP:20261119T224607Z
-UID:6d78622f0560@event-collector
-DESCRIPTION:Die wilden 70er „Ein Bett im Kornfeld oder Lavalampe und Flo
- kati“ hören Sie von und mit Dario Weberg und Karolin Kersting\nhttps://
- theaterandervolme.de
-LOCATION:Theater an der Volme\, Hagen
-URL:https://theaterandervolme.de
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[entfällt?] 33. Jazztage Dortmund: Jam Session feat. p.h.k. quart
- et
-DTSTART:20261121T190000Z
-DTEND:20261121T210000Z
-DTSTAMP:20261119T224607Z
-UID:6834bdbbb013@event-collector
-DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
- l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
- et.html
-LOCATION:domicil\, Dortmund
-URL:https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-m
- it-dem-p-h-k-quartet.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:33. Jazztage: Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:bd7a046e435b@event-collector
 DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
  l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
@@ -277,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Clashing Friends Festival Vol. III
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:80eaa15c6132@event-collector
 DESCRIPTION:Clashing Minds spielen schon seit 2017 zusammen Musik und sind
   [...]\nhttps://werkhof-kulturzentrum.de/event/clashing-friends-festival-v
@@ -290,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Fallen Crooner (fällt aus)
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:01e5b11cac27@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Fallen Crooner. Conversational Jazz. Hi
  nweis: fällt krankheitsbedingt aus.\nhttps://domicil-dortmund.de/programm
@@ -299,23 +226,10 @@ LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/fallen-crooner.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Jazztage Jam Session feat. p.h.k. quartet
-DTSTART:20261121T190000Z
-DTEND:20261121T210000Z
-DTSTAMP:20261119T224607Z
-UID:bd526f3a155b@event-collector
-DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
- l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
- et.html
-LOCATION:domicil\, Dortmund
-URL:https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-m
- it-dem-p-h-k-quartet.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hagen Soul Night
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:62c6f89171b8@event-collector
 DESCRIPTION:Hagen Soul Night\nhttps://www.pelmke.de/veranstaltungen/hagen-
  soul-night/
@@ -326,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Lichtblick Winter Rave
 DTSTART:20261121T220000Z
 DTEND:20261122T000000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a8871d54b4ab@event-collector
 DESCRIPTION:Lichtblick Winter Rave\nhttps://odonien.de/veranstaltungen/lic
  htblick-winterrave
@@ -336,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[entfällt?] Buchvorstellung 2026
 DTSTART;VALUE=DATE:20261122
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:cac8ba2245e6@event-collector
 DESCRIPTION:Buchvorstellung 2026 am 22.11.\nhttps://theaterandervolme.de/b
  uchvorstellung-2026/
@@ -347,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:694eef6922de@event-collector
 DESCRIPTION:Leselounge im Kinocafé\nhttps://www.pelmke.de/veranstaltungen
  /leselounge-im-kinocafe-4/
@@ -358,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Traumreise & Aquarell Workshop
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:d07526fffd7e@event-collector
 DESCRIPTION:Schecke deinem inneren Kind ein Bild. Begegne dem Kind\, das d
  u warst\, und lass es sich gesehen fühlen. Kunst hat die Kraft\, unserem 
@@ -374,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:„Deux Couleurs“ Saxophonquartett
 DTSTART:20261122T153000Z
 DTEND:20261122T173000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:fb2690ca432b@event-collector
 DESCRIPTION:„Deux Couleurs“ Saxophonquartett\nhttps://www.pelmke.de/ve
  ranstaltungen/deux-couleurs-saxophonquartett-2/
@@ -386,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:752922d87709@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  2/
@@ -394,23 +308,10 @@ LOCATION:Theater an der Volme\, Hagen
 URL:https://theaterandervolme.de/event/frostbeulen-familienglueck-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfäng
- er
-DTSTART:20261122T170000Z
-DTEND:20261122T190000Z
-DTSTAMP:20261119T224607Z
-UID:4687cc360325@event-collector
-DESCRIPTION:Freuen Sie sich auf „FROSTBEULEN & FAMILIENGLÜCK oder Islan
- d für Anfänger“ mit Dario Weberg und Karolin Kersting\nhttps://theater
- andervolme.de
-LOCATION:Theater an der Volme\, Hagen
-URL:https://theaterandervolme.de
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater unterm Schloss – Mordstödlich!
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:9f63b7cce7eb@event-collector
 DESCRIPTION:Achtung: Aus Krankheitsgründen kann das Stück "Mordstödlich
  !" nicht stattfinden. Stattdessen [...]\nhttps://werkhof-kulturzentrum.de/
@@ -423,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:DAZWISCHEN UND DARÜBER HINAUS
 DTSTART:20261123T180000Z
 DTEND:20261123T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:71dd79d5fb93@event-collector
 DESCRIPTION:DAZWISCHEN UND DARÜBER HINAUS\nhttps://loch-wuppertal.de/prog
  ramm/kalender/dazwischen-und-darueber-hinaus-3116
@@ -435,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyl Shake
 DTSTART:20261123T190000Z
 DTEND:20261123T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4deebb544d9f@event-collector
 DESCRIPTION:Vinyl Shake\nhttps://domicil-dortmund.de/programm-details/viny
  l-shake-12658.html
@@ -446,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261123T193000Z
 DTEND:20261123T213000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:9a8ce7d22c62@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/programm-det
  ails/monday-night-session-12626.html
@@ -458,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:Chorprobe
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:d47587e333b7@event-collector
 DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
  be-3134
@@ -466,20 +367,10 @@ LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3134
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Chorprobe im LOCH
-DTSTART:20261124T183000Z
-DTEND:20261124T203000Z
-DTSTAMP:20261119T224607Z
-UID:1eb2eda9847c@event-collector
-DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/
-LOCATION:Loch\, Wuppertal
-URL:https://loch-wuppertal.de/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Das Dortmunder Rudelsingen
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:314858e8b1ca@event-collector
 DESCRIPTION:Das Dortmunder Rudelsingen\nhttps://domicil-dortmund.de/progra
  mm-details/das-dortmunder-rudelsingen-11987.html
@@ -492,7 +383,7 @@ SUMMARY:[entfällt?] »Alte Wut« – Lesung und Gespräch mit der Autorin
   Caro Matzko
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1f526172564a@event-collector
 DESCRIPTION:»Alte Wut» – Warum ich an den Ort reiste\, von dem mein Va
  ter einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko
@@ -509,7 +400,7 @@ SUMMARY:»Alte Wut« – Warum ich an den Ort reiste\, von dem mein Vater
  einst fliehen musste
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:85d94d66e966@event-collector
 DESCRIPTION:Lesung und Gespräch mit der Autorin Caro Matzko\nhttps://www.
  pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mei
@@ -524,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Source and Roots
 DTSTART:20261125T190000Z
 DTEND:20261125T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1ab28513c7d9@event-collector
 DESCRIPTION:Source and Roots\nhttps://loch-wuppertal.de/programm/kalender/
  source-and-roots-3167
@@ -535,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20261126T180000Z
 DTEND:20261126T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:172b8d3f3826@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-8/
@@ -547,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: 20 Jahre The Dorf
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4eeaf6bfcb14@event-collector
 DESCRIPTION:33. Jazztage Dortmund: 20 Jahre The Dorf\nhttps://domicil-dort
  mund.de/programm-details/the-dorf-11958.html
@@ -558,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Bue in Green: Jazz Listening Bar
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1d138b027dd2@event-collector
 DESCRIPTION:Bue in Green: Jazz Listening Bar\nhttps://domicil-dortmund.de/
  programm-details/bue-in-green-jazz-listening-bar.html
@@ -570,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:David Kebekus
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7d81fe7595a1@event-collector
 DESCRIPTION:David Kebekus\nhttps://loch-wuppertal.de/programm/kalender/dav
  id-kebekus-2803
@@ -581,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] The Dorf: Utopian Beats!
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:2dafbb5365c5@event-collector
 DESCRIPTION:Die Jazztage Dortmund stehen seit fast vier Jahrzehnten für m
  usikalische Grenzgänge\, überraschende Begegnungen und künstlerische Ne
@@ -593,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:Jam Session / Open Mic
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a6bb6b0ea571@event-collector
 DESCRIPTION:Lust auf Musik\, Groove und gute Vibes? In lockerer Atmosphär
  e [...]\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/
@@ -604,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:Kasimir und Karoline
 DTSTART:20261127T183000Z
 DTEND:20261127T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:aae50e3a0f33@event-collector
 DESCRIPTION:Eine Produktion des Jugendclubs des Theaters an der Volme\nhtt
  ps://theaterandervolme.de/event/kasimir-und-karoline-2/
@@ -615,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: Marialy Pacheco Trio
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e7f641fec46f@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Marialy Pacheco Trio\nhttps://domicil-d
  ortmund.de/programm-details/marialy-pacheco.html
@@ -626,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Hańba!
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:6e6170ba6108@event-collector
 DESCRIPTION:Hańba!\nhttps://loch-wuppertal.de/programm/kalender/hanba-272
  1
@@ -637,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry Slam – moderiert von Jan Schmidt
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e08990dee11c@event-collector
 DESCRIPTION:Poetry Slam – moderiert von Jan Schmidt\nhttps://www.pelmke.
  de/veranstaltungen/poetry-slammoderiert-von-jan-schmidt-5/
@@ -649,7 +540,7 @@ BEGIN:VEVENT
 SUMMARY:VINZ 3000
 DTSTART:20261127T203000Z
 DTEND:20261127T223000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a067cd98c588@event-collector
 DESCRIPTION:VINZ 3000\nhttps://loch-wuppertal.de/programm/kalender/vinz-30
  00-3068
@@ -660,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:klickklackklub Clubedition
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:38bab45d3ec5@event-collector
 DESCRIPTION:klickklackklub Clubedition\nhttps://odonien.de/veranstaltungen
  /klickklack-clubedition
@@ -672,7 +563,7 @@ SUMMARY:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsyst
  em
 DTSTART:20261128T100000Z
 DTEND:20261128T120000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:807f38fecd5f@event-collector
 DESCRIPTION:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Sound
  system\nhttps://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfa
@@ -686,7 +577,7 @@ SUMMARY:[entfällt?] Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Ko
  nzert
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:ba6cdef969e7@event-collector
 DESCRIPTION:Interessante Live-Gespräche in Kooperation mit der Redaktion 
  terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Fo
@@ -698,20 +589,9 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f6f4e3f2d37f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-4/
-LOCATION:Theater an der Volme\, Hagen
-URL:https://theaterandervolme.de/event/charles-dickens-4/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[entfällt?] Charles Dickens – eine Weihnachtsgeschichte
-DTSTART:20261128T183000Z
-DTEND:20261128T203000Z
-DTSTAMP:20261119T224607Z
-UID:64c029bbc72f@event-collector
-DESCRIPTION:eine Weihnachtsgeschichte. Preisgruppe A\nhttps://theaterander
- volme.de/event/charles-dickens-4/
 LOCATION:Theater an der Volme\, Hagen
 URL:https://theaterandervolme.de/event/charles-dickens-4/
 END:VEVENT
@@ -719,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:0ef16fb6f2f7@event-collector
 DESCRIPTION:33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season\nhttps:
  //domicil-dortmund.de/index.php/programm-details/ingrid-laubrock.html
@@ -731,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:Listen (t)here! - Der 18. und der 40. Geburtstag gleichzeitig
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:12b71070d8f3@event-collector
 DESCRIPTION:Listen (t)here! - Der 18. und der 40. Geburtstag gleichzeitig
  \nhttps://loch-wuppertal.de/programm/kalender/listen-t-here-der-18-und-der
@@ -744,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:TH & the Boneshakerz
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:014bfbe4eb66@event-collector
 DESCRIPTION:Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde
   [...]\nhttps://werkhof-kulturzentrum.de/event/th-the-boneshakerz/
@@ -755,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:Finibaggies presents: Saturday Soul
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:cead21dcb903@event-collector
 DESCRIPTION:Finibaggies presents: Saturday Soul\nhttps://domicil-dortmund.
  de/index.php/programm-details/finibaggies-presents-saturday-soul-12523.htm
@@ -768,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:OCN - odonische Clubnacht
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7ed3c88ec522@event-collector
 DESCRIPTION:OCN - odonische Clubnacht\nhttps://odonien.de/veranstaltungen/
  ocn-1
@@ -780,7 +660,7 @@ SUMMARY:Klangerzeugung durch analoge Synthese – Workshop mit Scala Sound
  system
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a4053fd1054a@event-collector
 DESCRIPTION:Klangerzeugung durch analoge Synthese – Workshop mit Scala S
  oundsystem\nhttps://www.pelmke.de/veranstaltungen/klangerzeugung-durch-ana
@@ -793,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:Quartiers Brunch
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:665a7cad37dd@event-collector
 DESCRIPTION:Monatlicher Quartiersbrunch mit Beratung für Kreative & Proje
  kte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen\, desw
@@ -812,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:29ccd8d0dd02@event-collector
 DESCRIPTION:Filme über Kunst und Gespräche über das Leben! An 5 Termine
  n werden im Kino Babylon 2026 in Kooperation mit dem Fliegenden Salon Film
@@ -831,7 +711,7 @@ BEGIN:VEVENT
 SUMMARY:Ich brauch Tapetenwechsel
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:8c984c5088f1@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ich-brauch-tapetenwechsel/
 LOCATION:Theater an der Volme\, Hagen
@@ -841,7 +721,7 @@ BEGIN:VEVENT
 SUMMARY:DiS Festival: Das große Finale mit Batomae X Tonstudio 13
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:ecfa49a5735d@event-collector
 DESCRIPTION:DiS Festival: Das große Finale mit Batomae X Tonstudio 13\nht
  tps://domicil-dortmund.de/index.php/programm-details/bartholomae.html
@@ -853,7 +733,7 @@ BEGIN:VEVENT
 SUMMARY:rhizome
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1478377328bc@event-collector
 DESCRIPTION:rhizome\nhttps://loch-wuppertal.de/programm/kalender/rhizome-3
  006
@@ -864,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:fem goes short - Kurzfilmscreening
 DTSTART:20261130T180000Z
 DTEND:20261130T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e9a00a5a5659@event-collector
 DESCRIPTION:fem goes short - Kurzfilmscreening\nhttps://loch-wuppertal.de/
  programm/kalender/fem-goes-short-kurzfilmscreening-2936
@@ -876,7 +756,7 @@ BEGIN:VEVENT
 SUMMARY:Vinyl Shake
 DTSTART:20261130T190000Z
 DTEND:20261130T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:13022732f003@event-collector
 DESCRIPTION:Vinyl Shake\nhttps://domicil-dortmund.de/index.php/programm-de
  tails/vinyl-shake-12659.html
@@ -888,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261130T193000Z
 DTEND:20261130T213000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:bcc8df82edf0@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12627.html
@@ -900,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261201T183000Z
 DTEND:20261201T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f82d7f5f681b@event-collector
 DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
  be-3135
@@ -912,7 +792,7 @@ SUMMARY:Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph Bar
  tmann
 DTSTART:20261201T190000Z
 DTEND:20261201T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:6f6591b52cd2@event-collector
 DESCRIPTION:Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph
   Bartmann\nhttps://domicil-dortmund.de/index.php/programm-details/wortklub
@@ -925,7 +805,7 @@ BEGIN:VEVENT
 SUMMARY:Folkwang Jazz
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4c8cbcf28f7a@event-collector
 DESCRIPTION:Folkwang Jazz\nhttps://domicil-dortmund.de/index.php/programm-
  details/folkwang-jazz-12097.html
@@ -937,7 +817,7 @@ BEGIN:VEVENT
 SUMMARY:Hilde
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f4521008e8bd@event-collector
 DESCRIPTION:Hilde\nhttps://loch-wuppertal.de/programm/kalender/hilde-2887
 LOCATION:Loch\, Wuppertal
@@ -947,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:Mukke am Mittwoch w/ WHLKLNG
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:c43e9517dcdb@event-collector
 DESCRIPTION:DJ Set und Happy Hour\nhttps://www.pelmke.de/veranstaltungen/m
  ukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/
@@ -959,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:Pop Up Theater in Wattenscheid: Die Wand
 DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7292292bb990@event-collector
 DESCRIPTION:Von Marlen Haushofer | Regie Alexander Ritter\nhttps://rottstr
  5-theater.de/pop-up-theater-die-wand.html
@@ -970,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:ANNA.LUCA // Small Friendly Giant
 DTSTART:20261203T190000Z
 DTEND:20261203T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:419819e47bc3@event-collector
 DESCRIPTION:ANNA.LUCA // Small Friendly Giant\nhttps://loch-wuppertal.de/p
  rogramm/kalender/anna-luca-small-friendly-giant-3094
@@ -982,7 +862,7 @@ BEGIN:VEVENT
 SUMMARY:Shining Hour - Duo-Konzert Frank Scheele & Peter H. Köcke
 DTSTART:20261203T190000Z
 DTEND:20261203T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:242887ecaf3f@event-collector
 DESCRIPTION:Shining Hour - Duo-Konzert Frank Scheele & Peter H. Köcke\nht
  tps://domicil-dortmund.de/index.php/programm-details/shining-hour-11975.ht
@@ -995,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20261203T191500Z
 DTEND:20261203T211500Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:fffd2d771fa3@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -1007,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:Wintergrillen
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:008d26edf8b2@event-collector
 DESCRIPTION:Wintergrillen\nhttps://www.pelmke.de/veranstaltungen/wintergri
  llen/
@@ -1018,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:Er kam\, sah und sie siegte
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:492c5f5f771b@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2
  -2/
@@ -1029,7 +909,7 @@ BEGIN:VEVENT
 SUMMARY:Jugend Jazzt NRW - Preisträger*innenkonzert 2026
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:55641828f61c@event-collector
 DESCRIPTION:Jugend Jazzt NRW - Preisträger*innenkonzert 2026\nhttps://dom
  icil-dortmund.de/index.php/programm-details/jugend-jazzt-preistr%C3%A4gerk
@@ -1042,7 +922,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:9c3d29094074@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -1053,7 +933,7 @@ BEGIN:VEVENT
 SUMMARY:Oskar Haag + Mare Amadou
 DTSTART:20261204T190000Z
 DTEND:20261204T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:5d5b99f68897@event-collector
 DESCRIPTION:Oskar Haag + Mare Amadou\nhttps://loch-wuppertal.de/programm/k
  alender/oskar-haag-2925
@@ -1064,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Karriere b2b mighty maus
 DTSTART:20261204T203000Z
 DTEND:20261204T223000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:dfdc1b3c49ec@event-collector
 DESCRIPTION:DJ Karriere b2b mighty maus\nhttps://loch-wuppertal.de/program
  m/kalender/dj-karriere-b2b-mighty-maus-3196
@@ -1076,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:EhrenKlub #31
 DTSTART:20261204T220000Z
 DTEND:20261205T000000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:178246ca3808@event-collector
 DESCRIPTION:EhrenKlub #31\nhttps://odonien.de/veranstaltungen/ehrenklub-31
 LOCATION:Odonien\, Köln
@@ -1087,22 +967,8 @@ SUMMARY:Situationen der Demokratie – Situation 1: Demokratie & Digitalit
  ät
 DTSTART:20261205T173000Z
 DTEND:20261205T193000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:170e04f3f33a@event-collector
-DESCRIPTION:Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nht
- tps://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
-LOCATION:Pelmke\, Hagen
-URL:https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalit
- aet/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[entfällt?] Situationen der Demokratie – Situation 1: Demokrati
- e & Digitalität. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konze
- rt
-DTSTART:20261205T173000Z
-DTEND:20261205T193000Z
-DTSTAMP:20261119T224607Z
-UID:13e2f0cfbd79@event-collector
 DESCRIPTION:Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nht
  tps://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
 LOCATION:Pelmke\, Hagen
@@ -1113,7 +979,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:d96eab78084d@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  1/
@@ -1124,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:Törleß
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:507b2423be94@event-collector
 DESCRIPTION:nach Robert Musil | Regie Akbar Paktin\nhttps://rottstr5-theat
  er.de/T%C3%B6rle%C3%9F.html
@@ -1132,10 +998,10 @@ LOCATION:Rottstr5 Theater\, Bochum
 URL:https://rottstr5-theater.de/T%C3%B6rle%C3%9F.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jam Session
+SUMMARY:JamArt Session
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:3def69bff9a3@event-collector
 DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
  0089241211615/
@@ -1147,7 +1013,7 @@ BEGIN:VEVENT
 SUMMARY:40+ Party
 DTSTART:20261205T200000Z
 DTEND:20261205T220000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:902928165a50@event-collector
 DESCRIPTION:40+ Party\nhttps://domicil-dortmund.de/index.php/programm-deta
  ils/40-party-12072.html
@@ -1159,7 +1025,7 @@ BEGIN:VEVENT
 SUMMARY:Odonien Records invites Berlin Sound Therapy
 DTSTART:20261205T220000Z
 DTEND:20261206T000000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:78f7017ab8b2@event-collector
 DESCRIPTION:Odonien Records invites Berlin Sound Therapy\nhttps://odonien.
  de/veranstaltungen/odonien-records-berlin-sound-therapy
@@ -1171,7 +1037,7 @@ BEGIN:VEVENT
 SUMMARY:Szeneflohmarkt am 06.12.2026
 DTSTART:20261206T110000Z
 DTEND:20261206T130000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f8c6b1d33c59@event-collector
 DESCRIPTION:Flohmarkt für Gothic\, Metal\, Rockabilly\, Punk & More - Ein
  tritt [...]\nhttps://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-1
@@ -1183,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:Metamorphose
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:2f3cacafac31@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/metamorphose/
 LOCATION:Theater an der Volme\, Hagen
@@ -1193,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:Reset Pelmke
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:8dcc1ce84db1@event-collector
 DESCRIPTION:Reset Pelmke\nhttps://www.pelmke.de/veranstaltungen/reset-pelm
  ke-22/
@@ -1204,7 +1070,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261207T193000Z
 DTEND:20261207T213000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:0513f6a19df0@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12628.html
@@ -1216,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:Chorprobe
 DTSTART:20261208T183000Z
 DTEND:20261208T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:13ff9302c1a5@event-collector
 DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/
 LOCATION:Loch\, Wuppertal
@@ -1226,7 +1092,7 @@ BEGIN:VEVENT
 SUMMARY:Graz 2026 – eine andere Kommunalpolitik ist möglich
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:0376ab6d9333@event-collector
 DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
  altungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-un
@@ -1236,25 +1102,10 @@ URL:https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpo
  litik-ist-moeglich-vortrag-von-und-mit-attac-hagen/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Graz 2026 – eine andere Kommunalpolitik ist möglic
- h | Vortrag von und mit attac Hagen
-DTSTART:20261209T180000Z
-DTEND:20261209T200000Z
-DTSTAMP:20261119T224607Z
-UID:7d893bd9647b@event-collector
-DESCRIPTION:Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortr
- ag von und mit attac Hagen\nhttps://www.pelmke.de/veranstaltungen/graz-202
- 6-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen
- /
-LOCATION:Pelmke\, Hagen
-URL:https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpo
- litik-ist-moeglich-vortrag-von-und-mit-attac-hagen/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Flinta* Session feat. Open Circuit
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:94444b57e4d9@event-collector
 DESCRIPTION:Flinta* Session feat. Open Circuit\nhttps://domicil-dortmund.d
  e/index.php/programm-details/flinta-session-12323.html
@@ -1266,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:Moving Krippenspielers
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f40fc01a03bf@event-collector
 DESCRIPTION:Moving Krippenspielers\nhttps://loch-wuppertal.de/programm/kal
  ender/moving-krippenspielers-2888
@@ -1278,7 +1129,7 @@ BEGIN:VEVENT
 SUMMARY:Ein bisschen Baum muss sein
 DTSTART:20261210T183000Z
 DTEND:20261210T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a7a1ff828460@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein
  /
@@ -1289,7 +1140,7 @@ BEGIN:VEVENT
 SUMMARY:Der Klangteppich – Musik\, live und improvisiert
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:425862258d2c@event-collector
 DESCRIPTION:Der Klangteppich – Musik\, live und improvisiert\nhttps://ww
  w.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-improvisiert-1
@@ -1302,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:Luisa Charlotte Schulz
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f019964f977e@event-collector
 DESCRIPTION:Luisa Charlotte Schulz\nhttps://loch-wuppertal.de/programm/kal
  ender/luisa-charlotte-schulz-2908
@@ -1314,7 +1165,7 @@ BEGIN:VEVENT
 SUMMARY:Tineke Postma Group feat. Theo Bleckmann
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4ab0d9c41dd6@event-collector
 DESCRIPTION:Tineke Postma Group feat. Theo Bleckmann\nhttps://domicil-dort
  mund.de/index.php/programm-details/tineke-postma-group-feat-theo-bleckmann
@@ -1327,7 +1178,7 @@ BEGIN:VEVENT
 SUMMARY:abschied & Neuanfang
 DTSTART:20261211T180000Z
 DTEND:20261211T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7ac550485064@event-collector
 DESCRIPTION:In den letzten drei Jahren ist viel passiert. Wir haben das Wi
  rrWarr gemeinsam zu einem Ort gemacht\, an dem wir uns wohlfühlen\, uns a
@@ -1336,8 +1187,8 @@ DESCRIPTION:In den letzten drei Jahren ist viel passiert. Wir haben das Wi
  sammen angefangen Projekte umzusetzen und haben nicht nur das WirrWarr zu 
  einem Ort der Inspiration und der gegenseitigen Unterstützung werden lass
  en\, sondern auch den ganzen Stadtteil. Wir wollen am Freitag\, 11. Dezemb
- er \nhttps://www.wirrwarr-wehringhausen.de/events/jahresabschluss-sober-da
- ncefloor
+ er\nhttps://www.wirrwarr-wehringhausen.de/events/jahresabschluss-sober-dan
+ cefloor
 LOCATION:WirrWarr\, Hagen
 URL:https://www.wirrwarr-wehringhausen.de/events/jahresabschluss-sober-dan
  cefloor
@@ -1346,7 +1197,7 @@ BEGIN:VEVENT
 SUMMARY:Der Mörder war es!
 DTSTART:20261211T183000Z
 DTEND:20261211T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1abb5f2fd3bc@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4/
 LOCATION:Theater an der Volme\, Hagen
@@ -1357,7 +1208,7 @@ SUMMARY:Keshavara & Ramesh Shotham present Weirdly in Time feat. Marie Tjo
  ng-Ayong
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:0c3e8411fd36@event-collector
 DESCRIPTION:Keshavara & Ramesh Shotham present Weirdly in Time feat. Marie
   Tjong-Ayong\nhttps://loch-wuppertal.de/programm/kalender/keshavara-ramesh
@@ -1370,7 +1221,7 @@ BEGIN:VEVENT
 SUMMARY:Rockpalast Revival 2.0
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:6fec57885be4@event-collector
 DESCRIPTION:Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kul
  turzentrum [...]\nhttps://werkhof-kulturzentrum.de/event/rockpalast-reviva
@@ -1382,7 +1233,7 @@ BEGIN:VEVENT
 SUMMARY:StandUp-Comedy
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:52b0b6a002ae@event-collector
 DESCRIPTION:StandUp-Comedy\nhttps://www.pelmke.de/veranstaltungen/standup-
  comedy-5/
@@ -1393,7 +1244,7 @@ BEGIN:VEVENT
 SUMMARY:combo collage
 DTSTART:20261211T203000Z
 DTEND:20261211T223000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:6efe86f748b5@event-collector
 DESCRIPTION:combo collage\nhttps://loch-wuppertal.de/programm/kalender/com
  bo-collage-3235
@@ -1404,7 +1255,7 @@ BEGIN:VEVENT
 SUMMARY:United on the Rock 12-12-2026
 DTSTART:20261212T180000Z
 DTEND:20261212T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4bc42ed99449@event-collector
 DESCRIPTION:UNITED ON THE ROCK – ROCK\, METAL & SANDKUNST Vier [...]\nht
  tps://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/
@@ -1415,20 +1266,9 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261212T183000Z
 DTEND:20261212T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:398a1acd491e@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-1/
-LOCATION:Theater an der Volme\, Hagen
-URL:https://theaterandervolme.de/event/charles-dickens-1/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[entfällt?] Charles Dickens – eine Weihnachtsgeschichte
-DTSTART:20261212T183000Z
-DTEND:20261212T203000Z
-DTSTAMP:20261119T224607Z
-UID:ffd0e6a6fd93@event-collector
-DESCRIPTION:eine Weihnachtsgeschichte. Preisgruppe A\nhttps://theaterander
- volme.de/event/charles-dickens-1/
 LOCATION:Theater an der Volme\, Hagen
 URL:https://theaterandervolme.de/event/charles-dickens-1/
 END:VEVENT
@@ -1436,7 +1276,7 @@ BEGIN:VEVENT
 SUMMARY:ProJazz Festival 2026
 DTSTART:20261212T183000Z
 DTEND:20261212T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:18ab088c9477@event-collector
 DESCRIPTION:ProJazz Festival 2026\nhttps://domicil-dortmund.de/index.php/p
  rogramm-details/projazz-festival-12474.html
@@ -1448,7 +1288,7 @@ BEGIN:VEVENT
 SUMMARY:Olivia Trummer
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:c86bc689e656@event-collector
 DESCRIPTION:Olivia Trummer\nhttps://loch-wuppertal.de/programm/kalender/ol
  ivia-trummer-trio-3032
@@ -1459,7 +1299,7 @@ BEGIN:VEVENT
 SUMMARY:Waveland
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:3634d818e2ef@event-collector
 DESCRIPTION:Waveland\nhttps://rottstr5-theater.de/waveland.html
 LOCATION:Rottstr5 Theater\, Bochum
@@ -1469,7 +1309,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Petersohn + David Geer – „a joYful nOise“
 DTSTART:20261212T203000Z
 DTEND:20261212T223000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:550f1b782c5b@event-collector
 DESCRIPTION:Charles Petersohn + David Geer – „a joYful nOise“\nhttps
  ://loch-wuppertal.de/programm/kalender/charles-petersohn-david-geer-a-joyf
@@ -1482,7 +1322,7 @@ BEGIN:VEVENT
 SUMMARY:Finibaggies presents: Saturday Soul
 DTSTART:20261212T210000Z
 DTEND:20261212T230000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:68d6b1182886@event-collector
 DESCRIPTION:Finibaggies presents: Saturday Soul\nhttps://domicil-dortmund.
  de/index.php/programm-details/finibaggies-presents-saturday-soul-12524.htm
@@ -1495,7 +1335,7 @@ BEGIN:VEVENT
 SUMMARY:SOUNDZZ Familienkonzert feat. Talking Horns
 DTSTART:20261213T150000Z
 DTEND:20261213T170000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7dfcc140bad1@event-collector
 DESCRIPTION:SOUNDZZ Familienkonzert feat. Talking Horns\nhttps://domicil-d
  ortmund.de/index.php/programm-details/soundzz-12304.html
@@ -1507,20 +1347,9 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261213T170000Z
 DTEND:20261213T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:712faf0663d2@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-2/
-LOCATION:Theater an der Volme\, Hagen
-URL:https://theaterandervolme.de/event/charles-dickens-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[entfällt?] Charles Dickens – eine Weihnachtsgeschichte
-DTSTART:20261213T170000Z
-DTEND:20261213T190000Z
-DTSTAMP:20261119T224607Z
-UID:12b56c6f25d0@event-collector
-DESCRIPTION:eine Weihnachtsgeschichte. Preisgruppe A\nhttps://theaterander
- volme.de/event/charles-dickens-2/
 LOCATION:Theater an der Volme\, Hagen
 URL:https://theaterandervolme.de/event/charles-dickens-2/
 END:VEVENT
@@ -1528,7 +1357,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261213T183000Z
 DTEND:20261213T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:32afa4eb940d@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -1539,7 +1368,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261214T193000Z
 DTEND:20261214T213000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:9a8b22a13ca0@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12629.html
@@ -1551,7 +1380,7 @@ BEGIN:VEVENT
 SUMMARY:Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowideit
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f4475d9d227f@event-collector
 DESCRIPTION:Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowi
  deit\nhttps://domicil-dortmund.de/index.php/programm-details/wortklub-demo
@@ -1564,7 +1393,7 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:99c66cf20d36@event-collector
 DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
  be-3137
@@ -1575,7 +1404,7 @@ BEGIN:VEVENT
 SUMMARY:Mickey´s Monkey Party
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:fbbe0184fdaf@event-collector
 DESCRIPTION:Mickey´s Monkey Party\nhttps://loch-wuppertal.de/programm/kal
  ender/mickeys-monkey-party-2889
@@ -1586,7 +1415,7 @@ BEGIN:VEVENT
 SUMMARY:PreWeekend am 17.12.2026
 DTSTART:20261217T170000Z
 DTEND:20261217T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:5d7d13c686d5@event-collector
 DESCRIPTION:TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [.
  ..]\nhttps://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/
@@ -1597,7 +1426,7 @@ BEGIN:VEVENT
 SUMMARY:Der Quizabend im LOCH
 DTSTART:20261217T183000Z
 DTEND:20261217T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e3a004ff77ec@event-collector
 DESCRIPTION:Der Quizabend im LOCH\nhttps://loch-wuppertal.de/programm/kale
  nder/der-quizabend-im-loch-2923
@@ -1608,7 +1437,7 @@ BEGIN:VEVENT
 SUMMARY:Kneipenquiz – Demokratie am Tresen
 DTSTART:20261217T190000Z
 DTEND:20261217T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7ea89a0e93da@event-collector
 DESCRIPTION:Kneipenquiz – Demokratie am Tresen\nhttps://www.pelmke.de/ve
  ranstaltungen/kneipenquiz-demokratie-am-tresen-4/
@@ -1620,7 +1449,7 @@ BEGIN:VEVENT
 SUMMARY:The Dorf
 DTSTART:20261217T190000Z
 DTEND:20261217T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:dee8ecf7fc6a@event-collector
 DESCRIPTION:The Dorf\nhttps://domicil-dortmund.de/index.php/programm-detai
  ls/the-dorf-11960.html
@@ -1632,7 +1461,7 @@ BEGIN:VEVENT
 SUMMARY:Das Musikkneipenquiz
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f393d73afbb5@event-collector
 DESCRIPTION:Das Musikkneipenquiz\nhttps://loch-wuppertal.de/programm/kalen
  der/das-musikkneipenquiz-3112
@@ -1643,7 +1472,7 @@ BEGIN:VEVENT
 SUMMARY:Das große Heft
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:9a5b4927fa02@event-collector
 DESCRIPTION:von Ágota Kristóf | Regie Martina van Boxen\nhttps://rottstr
  5-theater.de/das-grosse-heft.html
@@ -1654,7 +1483,7 @@ BEGIN:VEVENT
 SUMMARY:Erwin-Kostedde-Kickerturnier 2026
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:cc52c6857db4@event-collector
 DESCRIPTION:Erwin-Kostedde-Kickerturnier 2026\nhttps://www.pelmke.de/veran
  staltungen/kickerturnier-2026/
@@ -1665,7 +1494,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Club 2.0
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:23b84073bdf0@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-
  4/
@@ -1676,7 +1505,7 @@ BEGIN:VEVENT
 SUMMARY:Kilkenny Bastards am 18.12.2026
 DTSTART:20261218T190000Z
 DTEND:20261218T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:83eb4188b4f9@event-collector
 DESCRIPTION:KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember [.
  ..]\nhttps://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12-202
@@ -1689,7 +1518,7 @@ BEGIN:VEVENT
 SUMMARY:Herbelicious
 DTSTART:20261218T200000Z
 DTEND:20261218T220000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f538bbcb678c@event-collector
 DESCRIPTION:Herbelicious\nhttps://domicil-dortmund.de/index.php/programm-d
  etails/herbelicious.html
@@ -1701,7 +1530,7 @@ BEGIN:VEVENT
 SUMMARY:Mauzmon + Unbreakable Daani
 DTSTART:20261218T210000Z
 DTEND:20261218T230000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7c4112d37809@event-collector
 DESCRIPTION:Mauzmon + Unbreakable Daani\nhttps://loch-wuppertal.de/program
  m/kalender/mauzmon-unbreakable-daani-3186
@@ -1713,7 +1542,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:78d59e71d44f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  3/
@@ -1724,7 +1553,7 @@ BEGIN:VEVENT
 SUMMARY:Soul Invaders / Tuffi Slippers / Putrid Cave / tba
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:3b548bf3b4b9@event-collector
 DESCRIPTION:Soul Invaders / Tuffi Slippers / The Mad Moiselles / Putrid Ca
  ve / tba\nhttps://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slippe
@@ -1737,7 +1566,7 @@ BEGIN:VEVENT
 SUMMARY:27 Jahre 45rpm
 DTSTART:20261219T190000Z
 DTEND:20261219T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:3cfd3e5a4669@event-collector
 DESCRIPTION:27 Jahre 45rpm\nhttps://loch-wuppertal.de/programm/kalender/27
  -jahre-45rpm-2975
@@ -1749,7 +1578,7 @@ SUMMARY:Benny`s Long Shadow feat. Stefan Bauer\, Chris Bacas\, Mike Roelof
  s\, Yonga Sun
 DTSTART:20261219T190000Z
 DTEND:20261219T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:b3b7be3a0e84@event-collector
 DESCRIPTION:Benny`s Long Shadow feat. Stefan Bauer\, Chris Bacas\, Mike Ro
  elofs\, Yonga Sun\nhttps://domicil-dortmund.de/index.php/programm-details/
@@ -1762,7 +1591,7 @@ BEGIN:VEVENT
 SUMMARY:CountryRock Night – Jahresabschluss mit Siiri am 19.12.2026
 DTSTART:20261219T190000Z
 DTEND:20261219T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f842c26cda89@event-collector
 DESCRIPTION:CountryRock Night - Jahresabschluss mit Siiri - Wenn ehrliche 
  Songs [...]\nhttps://werkhof-kulturzentrum.de/event/countryrock-jahresabsc
@@ -1775,20 +1604,9 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:014c930fe7e6@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-3/
-LOCATION:Theater an der Volme\, Hagen
-URL:https://theaterandervolme.de/event/charles-dickens-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[entfällt?] Charles Dickens – eine Weihnachtsgeschichte
-DTSTART:20261220T170000Z
-DTEND:20261220T190000Z
-DTSTAMP:20261119T224607Z
-UID:d9aecb40209d@event-collector
-DESCRIPTION:eine Weihnachtsgeschichte. Preisgruppe A\nhttps://theaterander
- volme.de/event/charles-dickens-3/
 LOCATION:Theater an der Volme\, Hagen
 URL:https://theaterandervolme.de/event/charles-dickens-3/
 END:VEVENT
@@ -1796,7 +1614,7 @@ BEGIN:VEVENT
 SUMMARY:Mit »Pelmke kulinarisch« um die Welt – Ägypten
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a80fe59c05b6@event-collector
 DESCRIPTION:Mit »Pelmke kulinarisch« um die Welt – Ägypten\nhttps://w
  ww.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-um-die-welt-aegypten/
@@ -1808,7 +1626,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261221T193000Z
 DTEND:20261221T213000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:966aa7f22c51@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12630.html
@@ -1820,7 +1638,7 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261222T183000Z
 DTEND:20261222T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:6bc7f04ff6da@event-collector
 DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
  be-3138
@@ -1831,7 +1649,7 @@ BEGIN:VEVENT
 SUMMARY:54. Weihnachts-Jazzmatinee im Opernhaus
 DTSTART:20261226T100000Z
 DTEND:20261226T120000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4d110bb33010@event-collector
 DESCRIPTION:54. Weihnachts-Jazzmatinee im Opernhaus\nhttps://domicil-dortm
  und.de/index.php/programm-details/54-weihnachts-jazzmatinee-im-opernhaus.h
@@ -1844,7 +1662,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsausklang in der Werkhof-Kneipe
 DTSTART:20261226T190000Z
 DTEND:20261226T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:38b5d451846b@event-collector
 DESCRIPTION:Ho\, ho\, ho – Schluss mit stiller Nacht! Am 26. [...]\nhttp
  s://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-kneip
@@ -1857,7 +1675,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261227T140000Z
 DTEND:20261227T160000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:64b3251aa67d@event-collector
 DESCRIPTION:Leselounge im Kinocafé\nhttps://www.pelmke.de/veranstaltungen
  /leselounge-im-kinocafe-6/
@@ -1868,7 +1686,7 @@ BEGIN:VEVENT
 SUMMARY:Mitchmaikwolf-Gang feat. Werner Dickel
 DTSTART:20261227T190000Z
 DTEND:20261227T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:bb7d695728b9@event-collector
 DESCRIPTION:Mitchmaikwolf-Gang feat. Werner Dickel\nhttps://loch-wuppertal
  .de/programm/kalender/mitchmaikwolf-gang-feat-werner-dickel-3140
@@ -1878,9 +1696,20 @@ URL:https://loch-wuppertal.de/programm/kalender/mitchmaikwolf-gang-feat-we
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Das Beste kommt zum Schluss
+DTSTART:20261231T170000Z
+DTEND:20261231T190000Z
+DTSTAMP:20261119T230003Z
+UID:971434666363@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss
+ /
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das Beste kommt zum Schluss
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7b9f10b712c0@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss
  -2/
@@ -1891,7 +1720,7 @@ BEGIN:VEVENT
 SUMMARY:Silvesterparty im domicil
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:951b1487dfa3@event-collector
 DESCRIPTION:Silvesterparty im domicil\nhttps://domicil-dortmund.de/index.p
  hp/programm-details/silvesterparty-11970.html
@@ -1900,10 +1729,10 @@ URL:https://domicil-dortmund.de/index.php/programm-details/silvesterparty-
  11970.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jam Session
+SUMMARY:JamArt Session
 DTSTART:20270102T190000Z
 DTEND:20270102T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:870fe70b6c35@event-collector
 DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
  0089241211615/
@@ -1915,7 +1744,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20270104T193000Z
 DTEND:20270104T213000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:ae68356f137c@event-collector
 DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
  ogramm-details/monday-night-session-12632.html
@@ -1927,7 +1756,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270107T191500Z
 DTEND:20270107T211500Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:39fbc07465ca@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -1939,7 +1768,7 @@ BEGIN:VEVENT
 SUMMARY:Alexandra Lehmler Trio
 DTSTART:20270108T190000Z
 DTEND:20270108T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:9ac988a18d20@event-collector
 DESCRIPTION:Alexandra Lehmler Trio\nhttps://domicil-dortmund.de/index.php/
  programm-details/alexandra-lehmler-trio.html
@@ -1951,7 +1780,7 @@ BEGIN:VEVENT
 SUMMARY:Stevie's Call– The Jazz of Stevie Wonder
 DTSTART:20270109T190000Z
 DTEND:20270109T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f96714e480bc@event-collector
 DESCRIPTION:Stevie's Call– The Jazz of Stevie Wonder\nhttps://domicil-do
  rtmund.de/index.php/programm-details/stevies-call-12283.html
@@ -1963,7 +1792,7 @@ BEGIN:VEVENT
 SUMMARY:VON WELT – Adrenalin Tour 2027 am 09-01-2027
 DTSTART:20270109T190000Z
 DTEND:20270109T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:aa169f5e888e@event-collector
 DESCRIPTION:VON WELT denken Rock neu. Intelligent\, kompromisslos und voll
  er Atmosphäre [...]\nhttps://werkhof-kulturzentrum.de/event/von-welt-adre
@@ -1976,7 +1805,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 15.01.2027
 DTSTART:20270115T180000Z
 DTEND:20270115T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:c6412bb52fc5@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -1988,7 +1817,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 17.01.2027
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:534b475df5e7@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -2000,7 +1829,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 19.01.2027
 DTSTART:20270119T180000Z
 DTEND:20270119T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:410a6da75a84@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -2012,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:The Dorf
 DTSTART:20270121T190000Z
 DTEND:20270121T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:8bd7eb276615@event-collector
 DESCRIPTION:The Dorf\nhttps://domicil-dortmund.de/index.php/programm-detai
  ls/the-dorf-12381.html
@@ -2024,7 +1853,7 @@ BEGIN:VEVENT
 SUMMARY:Beatles on Piano am 22.01.2027
 DTSTART:20270122T190000Z
 DTEND:20270122T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:7a136dbfcb54@event-collector
 DESCRIPTION:THE BEATLES ON PIANO Bastian Korn & Band Eine musikalische [..
  .]\nhttps://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2027/
@@ -2035,7 +1864,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270128T180000Z
 DTEND:20270128T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:56d069484319@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-6/
@@ -2048,24 +1877,8 @@ SUMMARY:Jorge Rossy Vibes Quartet feat. Milena Casado\, Robert Landfermann
  \, Cornelia Nilsson
 DTSTART:20270128T190000Z
 DTEND:20270128T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e2a0b9c8bbe9@event-collector
-DESCRIPTION:Jorge Rossy Vibes Quartet feat. Milena Casado\, Robert Landfer
- mann\, Cornelia...\nhttps://domicil-dortmund.de/index.php/programm-details
- /jorge-rossy-quartet-feat-jorge-rossy-milena-casado-robert-landfermann-cor
- nelia-nilsson.html
-LOCATION:domicil\, Dortmund
-URL:https://domicil-dortmund.de/index.php/programm-details/jorge-rossy-qua
- rtet-feat-jorge-rossy-milena-casado-robert-landfermann-cornelia-nilsson.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[entfällt?] Jorge Rossy Vibes Quartet feat. Milena Casado\, Rober
- t Landfermann\, Cornelia...
-DTSTART:20270128T190000Z
-DTEND:20270128T210000Z
-DTSTAMP:20261119T224607Z
-UID:20cd4467aac4@event-collector
 DESCRIPTION:Jorge Rossy Vibes Quartet feat. Milena Casado\, Robert Landfer
  mann\, Cornelia...\nhttps://domicil-dortmund.de/index.php/programm-details
  /jorge-rossy-quartet-feat-jorge-rossy-milena-casado-robert-landfermann-cor
@@ -2079,7 +1892,7 @@ BEGIN:VEVENT
 SUMMARY:Jam Session / Open Mic
 DTSTART:20270129T180000Z
 DTEND:20270129T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e9b31ea2b867@event-collector
 DESCRIPTION:Lust auf Musik\, Groove und gute Vibes? In lockerer Atmosphär
  e [...]\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic/
@@ -2090,7 +1903,7 @@ BEGIN:VEVENT
 SUMMARY:FRANK’S WHITE CANVAS // Support: Neue Paranoia
 DTSTART:20270129T183000Z
 DTEND:20270129T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:5936231e39f5@event-collector
 DESCRIPTION:FRANK’S WHITE CANVAS // Support: Neue Paranoia\nhttps://www.
  pelmke.de/veranstaltungen/franks-white-canvas-support-neue-paranoia/
@@ -2102,7 +1915,7 @@ BEGIN:VEVENT
 SUMMARY:Bunt oder Blau präsentiert: Schlakks
 DTSTART:20270129T190000Z
 DTEND:20270129T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:07e65f5c0c32@event-collector
 DESCRIPTION:Bunt oder Blau präsentiert: Schlakks\nhttps://domicil-dortmun
  d.de/index.php/programm-details/schlakks.html
@@ -2113,7 +1926,7 @@ BEGIN:VEVENT
 SUMMARY:Sons of Odin am 30.01.2027
 DTSTART:20270130T190000Z
 DTEND:20270130T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a65eb84d240a@event-collector
 DESCRIPTION:SONS OF ODIN – A Tribute to Manowar Wenn epischer [...]\nhtt
  ps://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/
@@ -2124,7 +1937,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270204T191500Z
 DTEND:20270204T211500Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:c379fc899123@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -2136,7 +1949,7 @@ BEGIN:VEVENT
 SUMMARY:Mirna Bogdanović Group
 DTSTART:20270205T190000Z
 DTEND:20270205T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:adfe29523585@event-collector
 DESCRIPTION:Mirna Bogdanović Group\nhttps://loch-wuppertal.de/programm/ka
  lender/mirna-bogdanovic-group-3128
@@ -2145,10 +1958,10 @@ URL:https://loch-wuppertal.de/programm/kalender/mirna-bogdanovic-group-312
  8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jam Session
+SUMMARY:JamArt Session
 DTSTART:20270206T190000Z
 DTEND:20270206T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1bb634e1bd14@event-collector
 DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
  0089241211615/
@@ -2160,7 +1973,7 @@ BEGIN:VEVENT
 SUMMARY:Graupe / Brendle / Terzić
 DTSTART:20270211T190000Z
 DTEND:20270211T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:072d3324218e@event-collector
 DESCRIPTION:Graupe / Brendle / Terzić\nhttps://loch-wuppertal.de/programm
  /kalender/graupe-brendle-terzic-3001
@@ -2171,7 +1984,7 @@ BEGIN:VEVENT
 SUMMARY:Ersatztermin Katy Wirtz mit Band am 12.02.2027
 DTSTART:20270212T190000Z
 DTEND:20270212T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:cb789116ef72@event-collector
 DESCRIPTION:ACHTUNG\, Ersatztermin für den 07.11.2026 Die Tickets behalte
  n ihre Gültigkeit! [...]\nhttps://werkhof-kulturzentrum.de/event/katy-wir
@@ -2183,7 +1996,7 @@ BEGIN:VEVENT
 SUMMARY:Knobil
 DTSTART:20270212T190000Z
 DTEND:20270212T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4ab46e1d6d41@event-collector
 DESCRIPTION:Knobil\nhttps://domicil-dortmund.de/index.php/programm-details
  /knobil.html
@@ -2194,7 +2007,7 @@ BEGIN:VEVENT
 SUMMARY:Wait for June am 13.02.2027
 DTSTART:20270213T190000Z
 DTEND:20270213T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f8d2b61044ff@event-collector
 DESCRIPTION:Vielseitiger und detailreicher denn je wandelt die Band Wait F
  or [...]\nhttps://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-20
@@ -2206,7 +2019,7 @@ BEGIN:VEVENT
 SUMMARY:Eivind Aarset 4tet "Strange Hands"
 DTSTART:20270217T190000Z
 DTEND:20270217T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:9e56da880ecd@event-collector
 DESCRIPTION:Eivind Aarset 4tet "Strange Hands"\nhttps://domicil-dortmund.d
  e/index.php/programm-details/eivind-aarset-12432.html
@@ -2218,7 +2031,7 @@ BEGIN:VEVENT
 SUMMARY:Fluppe
 DTSTART:20270218T190000Z
 DTEND:20270218T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:18d466eef8a1@event-collector
 DESCRIPTION:Fluppe\nhttps://loch-wuppertal.de/programm/kalender/fluppe-315
  1
@@ -2229,7 +2042,7 @@ BEGIN:VEVENT
 SUMMARY:The Dorf
 DTSTART:20270218T190000Z
 DTEND:20270218T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:683f3254c4d5@event-collector
 DESCRIPTION:The Dorf\nhttps://domicil-dortmund.de/index.php/programm-detai
  ls/the-dorf-12382.html
@@ -2241,7 +2054,7 @@ BEGIN:VEVENT
 SUMMARY:Mother Black Cat
 DTSTART:20270219T190000Z
 DTEND:20270219T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:5a25c676c73e@event-collector
 DESCRIPTION:Mother Black Cat – Alternative Rock mit Leidenschaft und ord
  entlich [...]\nhttps://werkhof-kulturzentrum.de/event/mother-black-cat/
@@ -2252,7 +2065,7 @@ BEGIN:VEVENT
 SUMMARY:Nathan & Noah East
 DTSTART:20270220T190000Z
 DTEND:20270220T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:02bb3236718a@event-collector
 DESCRIPTION:Nathan & Noah East\nhttps://domicil-dortmund.de/index.php/prog
  ramm-details/nathan-noah-east.html
@@ -2265,7 +2078,7 @@ SUMMARY:Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine Optio
  n
 DTSTART:20270223T183000Z
 DTEND:20270223T203000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:db92d523b27b@event-collector
 DESCRIPTION:Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine O
  ption\nhttps://domicil-dortmund.de/index.php/programm-details/ersatztemrin
@@ -2278,7 +2091,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270225T180000Z
 DTEND:20270225T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a2fd1a96a40d@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-10/
@@ -2290,7 +2103,7 @@ BEGIN:VEVENT
 SUMMARY:Bunt oder Blau präsentiert: Nubiyan Twist
 DTSTART:20270225T190000Z
 DTEND:20270225T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:ea0ac255ade5@event-collector
 DESCRIPTION:Bunt oder Blau präsentiert: Nubiyan Twist\nhttps://domicil-do
  rtmund.de/index.php/programm-details/nubiyan-twist-12345.html
@@ -2302,7 +2115,7 @@ BEGIN:VEVENT
 SUMMARY:Julian & Roman Wasserfuhr
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:460b06e2d68f@event-collector
 DESCRIPTION:Julian & Roman Wasserfuhr\nhttps://loch-wuppertal.de/programm/
  kalender/julian-roman-wasserfuhr-3192
@@ -2314,7 +2127,7 @@ BEGIN:VEVENT
 SUMMARY:QUICHOTTE „Guter Dinge“
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:391b60045fed@event-collector
 DESCRIPTION:QUICHOTTE „Guter Dinge“\nhttps://www.pelmke.de/veranstaltu
  ngen/quichotte-guter-dinge/
@@ -2325,7 +2138,7 @@ BEGIN:VEVENT
 SUMMARY:John Fogerty Coveration & King/Bon
 DTSTART:20270227T190000Z
 DTEND:20270227T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:0fab2d653fa6@event-collector
 DESCRIPTION:Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! F
  reut euch [...]\nhttps://werkhof-kulturzentrum.de/event/john-fogerty-cover
@@ -2338,7 +2151,7 @@ BEGIN:VEVENT
 SUMMARY:ELSA
 DTSTART:20270303T190000Z
 DTEND:20270303T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:26c5405cc8ee@event-collector
 DESCRIPTION:ELSA\nhttps://loch-wuppertal.de/programm/kalender/elsa-3163
 LOCATION:Loch\, Wuppertal
@@ -2348,7 +2161,7 @@ BEGIN:VEVENT
 SUMMARY:Girls In Airports
 DTSTART:20270304T190000Z
 DTEND:20270304T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:75ca0e76528f@event-collector
 DESCRIPTION:Girls In Airports\nhttps://domicil-dortmund.de/index.php/progr
  amm-details/opt2-girls-in-airports.html
@@ -2360,7 +2173,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270304T191500Z
 DTEND:20270304T211500Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:ee69596d3a20@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -2372,7 +2185,7 @@ BEGIN:VEVENT
 SUMMARY:Botticelli Baby
 DTSTART:20270305T190000Z
 DTEND:20270305T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:03cd27e08daa@event-collector
 DESCRIPTION:Botticelli Baby\nhttps://loch-wuppertal.de/programm/kalender/b
  otticelli-baby-3263
@@ -2383,7 +2196,7 @@ BEGIN:VEVENT
 SUMMARY:Nightflow Markt – Nachttrödel
 DTSTART:20270306T170000Z
 DTEND:20270306T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f6269084ad8b@event-collector
 DESCRIPTION:Nightflow Markt – Nachttrödel\nhttps://www.pelmke.de/verans
  taltungen/nightflow-markt-nachttroedel-5/
@@ -2394,7 +2207,7 @@ BEGIN:VEVENT
 SUMMARY:Tabea Kind Trio
 DTSTART:20270310T190000Z
 DTEND:20270310T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:884c622adb96@event-collector
 DESCRIPTION:Tabea Kind Trio\nhttps://loch-wuppertal.de/programm/kalender/t
  abea-kind-trio-3162
@@ -2405,7 +2218,7 @@ BEGIN:VEVENT
 SUMMARY:Brute Force and Ignorance
 DTSTART:20270312T190000Z
 DTEND:20270312T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:07788ad5c570@event-collector
 DESCRIPTION:BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher [...
  ]\nhttps://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/
@@ -2416,7 +2229,7 @@ BEGIN:VEVENT
 SUMMARY:Paul Wallfisch & Dana Schechter
 DTSTART:20270312T190000Z
 DTEND:20270312T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:01adee834c47@event-collector
 DESCRIPTION:Paul Wallfisch & Dana Schechter\nhttps://domicil-dortmund.de/i
  ndex.php/programm-details/neuer-termin-paul-wallfisch-dana-schechter-12653
@@ -2429,7 +2242,7 @@ BEGIN:VEVENT
 SUMMARY:Edelweiss
 DTSTART:20270313T190000Z
 DTEND:20270313T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:ca27fc611135@event-collector
 DESCRIPTION:Edelweiss ist eine AC/DC-Coverband aus Rheinland-Pfalz\, die m
  an – wie [...]\nhttps://werkhof-kulturzentrum.de/event/edelweiss/
@@ -2440,7 +2253,7 @@ BEGIN:VEVENT
 SUMMARY:THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f515843593b4@event-collector
 DESCRIPTION:THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBUR
  ST [...]\nhttps://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-to
@@ -2453,7 +2266,7 @@ BEGIN:VEVENT
 SUMMARY:Abdul Kader Chahin
 DTSTART:20270318T190000Z
 DTEND:20270318T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:2a2831ae7f12@event-collector
 DESCRIPTION:Abdul Kader Chahin\nhttps://loch-wuppertal.de/programm/kalende
  r/abdul-kader-chahin-2748
@@ -2464,7 +2277,7 @@ BEGIN:VEVENT
 SUMMARY:Joanna Duda Trio
 DTSTART:20270319T190000Z
 DTEND:20270319T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:eb6aaafbe436@event-collector
 DESCRIPTION:Joanna Duda Trio\nhttps://domicil-dortmund.de/index.php/progra
  mm-details/melissa-aldana.html
@@ -2476,7 +2289,7 @@ BEGIN:VEVENT
 SUMMARY:Fools Garden am 24.03.2027
 DTSTART:20270324T190000Z
 DTEND:20270324T210000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1024c841faad@event-collector
 DESCRIPTION:Nach „Dish Of The Day“ geht die Reise weiter\, zurück [..
  .]\nhttps://werkhof-kulturzentrum.de/event/foolsgarden/
@@ -2487,7 +2300,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270325T180000Z
 DTEND:20270325T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:8c7cca35467d@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-11/
@@ -2499,7 +2312,7 @@ BEGIN:VEVENT
 SUMMARY:Theodor
 DTSTART:20270331T180000Z
 DTEND:20270331T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:ff5498528af7@event-collector
 DESCRIPTION:Theodor\nhttps://domicil-dortmund.de/index.php/programm-detail
  s/theodor.html
@@ -2510,7 +2323,7 @@ BEGIN:VEVENT
 SUMMARY:Orchestre National De Jazz: With Carla
 DTSTART:20270401T180000Z
 DTEND:20270401T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:973582352d11@event-collector
 DESCRIPTION:Orchestre National De Jazz: With Carla\nhttps://domicil-dortmu
  nd.de/index.php/programm-details/1-orchestre-national-de-jazz.html
@@ -2522,7 +2335,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270401T181500Z
 DTEND:20270401T201500Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:184a77a18d05@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -2534,7 +2347,7 @@ BEGIN:VEVENT
 SUMMARY:Black Equinox Festival am 03.04.2027
 DTSTART:20270403T180000Z
 DTEND:20270403T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:169e77246474@event-collector
 DESCRIPTION:Genaue Infos folgen! Stehplatz - freie Platzwahl VVK 15 € [.
  ..]\nhttps://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-0
@@ -2547,7 +2360,7 @@ BEGIN:VEVENT
 SUMMARY:Marvin Hoffmann
 DTSTART:20270408T180000Z
 DTEND:20270408T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:46f882ab7598@event-collector
 DESCRIPTION:Marvin Hoffmann\nhttps://loch-wuppertal.de/programm/kalender/m
  arvin-hoffmann-3213
@@ -2558,7 +2371,7 @@ BEGIN:VEVENT
 SUMMARY:Fortuna Ehrenfeld
 DTSTART:20270409T180000Z
 DTEND:20270409T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:390bd5f5941e@event-collector
 DESCRIPTION:Fortuna Ehrenfeld\nhttps://domicil-dortmund.de/index.php/progr
  amm-details/fortuna-ehrenfeld.html
@@ -2570,7 +2383,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtaffen am 16.04.2027
 DTSTART:20270416T180000Z
 DTEND:20270416T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1feaddb5fad3@event-collector
 DESCRIPTION:STADTAFFEN – Die ultimative Tribute-Show für alle Fans von 
  Peter [...]\nhttps://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-20
@@ -2582,7 +2395,7 @@ BEGIN:VEVENT
 SUMMARY:Rebecca Pap
 DTSTART:20270418T180000Z
 DTEND:20270418T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:78f519e4a7a8@event-collector
 DESCRIPTION:Rebecca Pap\nhttps://loch-wuppertal.de/programm/kalender/rebec
  ca-pap-3109
@@ -2593,7 +2406,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270422T170000Z
 DTEND:20270422T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:10a0dcf50e34@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-13/
@@ -2605,7 +2418,7 @@ BEGIN:VEVENT
 SUMMARY:It´s All Pink – Tour 2027
 DTSTART:20270424T180000Z
 DTEND:20270424T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:c5233740463e@event-collector
 DESCRIPTION:Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die grö
  ßten Hits [...]\nhttps://werkhof-kulturzentrum.de/event/its-all-pink-tour
@@ -2617,7 +2430,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270506T060000Z
 DTEND:20270506T080000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:dd74c13a0653@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -2630,7 +2443,7 @@ SUMMARY:Benefiz-Konzert des Zonta-Clubs Dortmund: Dr. Soul & Marilyn Boadu
   Band
 DTSTART:20270507T180000Z
 DTEND:20270507T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:0fde6b6e5d40@event-collector
 DESCRIPTION:Benefiz-Konzert des Zonta-Clubs Dortmund: Dr. Soul & Marilyn B
  oadu Band\nhttps://domicil-dortmund.de/index.php/programm-details/f%C3%BCr
@@ -2643,7 +2456,7 @@ BEGIN:VEVENT
 SUMMARY:KIND
 DTSTART:20270512T180000Z
 DTEND:20270512T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:4377de547a00@event-collector
 DESCRIPTION:KIND\nhttps://loch-wuppertal.de/programm/kalender/kind-2983
 LOCATION:Loch\, Wuppertal
@@ -2653,7 +2466,7 @@ BEGIN:VEVENT
 SUMMARY:Yumi Ito
 DTSTART:20270514T180000Z
 DTEND:20270514T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:e0ed1d08ffa9@event-collector
 DESCRIPTION:Yumi Ito\nhttps://loch-wuppertal.de/programm/kalender/yumi-ito
  -3020
@@ -2664,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270520T170000Z
 DTEND:20270520T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:705e48be0a17@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-14/
@@ -2676,7 +2489,7 @@ BEGIN:VEVENT
 SUMMARY:Monika Roscher Big Band
 DTSTART:20270522T180000Z
 DTEND:20270522T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:55b33b6623f9@event-collector
 DESCRIPTION:Monika Roscher Big Band\nhttps://domicil-dortmund.de/index.php
  /programm-details/monika-roscher-big-band-12426.html
@@ -2688,7 +2501,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270603T181500Z
 DTEND:20270603T201500Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:b0a4daaef101@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -2700,7 +2513,7 @@ BEGIN:VEVENT
 SUMMARY:10 Jahre Clashing Minds – Das Jubiläumskonzert
 DTSTART:20270612T170000Z
 DTEND:20270612T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:287370c32f6f@event-collector
 DESCRIPTION:10 Jahre Clashing Minds – Das Jubiläumskonzert\nhttps://www
  .pelmke.de/veranstaltungen/clashing-minds/
@@ -2711,7 +2524,7 @@ BEGIN:VEVENT
 SUMMARY:Quadro Nuevo
 DTSTART:20270612T180000Z
 DTEND:20270612T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:f30775275d1b@event-collector
 DESCRIPTION:Quadro Nuevo\nhttps://domicil-dortmund.de/index.php/programm-d
  etails/quadro-nuevo-12196.html
@@ -2723,7 +2536,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270624T170000Z
 DTEND:20270624T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:5144c0ed3e8a@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-15/
@@ -2735,7 +2548,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270701T181500Z
 DTEND:20270701T201500Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:dc4c9cd54a13@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -2747,7 +2560,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270923T170000Z
 DTEND:20270923T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:517b6f49687c@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-16/
@@ -2759,7 +2572,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270924T180000Z
 DTEND:20270924T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:1b65c561d058@event-collector
 DESCRIPTION:Jan Philipp Zymny – „VILLAIN ERA“\nhttps://www.pelmke.de
  /veranstaltungen/jan-philipp-zymny-villain-era/
@@ -2770,7 +2583,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270925T180000Z
 DTEND:20270925T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:83509c18a3c4@event-collector
 DESCRIPTION:Jan Philipp Zymny – „VILLAIN ERA“\nhttps://www.pelmke.de
  /veranstaltungen/jan-philipp-zymny-villain-era-2/
@@ -2781,7 +2594,7 @@ BEGIN:VEVENT
 SUMMARY:Heavy Metal Fans Festival 2027 am 15. + 16.10.2027
 DTSTART:20271015T160000Z
 DTEND:20271015T180000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:50ef9ead9d4e@event-collector
 DESCRIPTION:Das Heavy Metal Fans Festival geht in die neunte Runde! [...]
  \nhttps://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027-am
@@ -2794,7 +2607,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20271028T170000Z
 DTEND:20271028T190000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:a7645eda1305@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-17/
@@ -2806,7 +2619,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20271125T180000Z
 DTEND:20271125T200000Z
-DTSTAMP:20261119T224607Z
+DTSTAMP:20261119T230003Z
 UID:5c283d41ed80@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-12/
