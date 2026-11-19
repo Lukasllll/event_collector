@@ -16,7 +16,7 @@
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
   "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": false
+  "gone": true
  },
  "6d78622f0560": {
   "id": "6d78622f0560",
@@ -107,14 +107,14 @@
    "konzert",
    "party"
   ],
-  "genre": "Pussy-Punk | Techno",
+  "genre": "Pussy-Punk / Techno",
   "description": "Pussy-Punk | Techno",
   "url": "https://rottstr5-theater.de/gaga-extravaganza-serving-cunts-die-%C3%B6ffnung-dddr.html",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "986afcac594a": {
@@ -127,14 +127,14 @@
   "tags": [
    "konzert"
   ],
-  "genre": "Singer Songwriter | Indie Pop",
+  "genre": "Singer-Songwriter / Indie Pop",
   "description": "Singer Songwriter | Indie Pop",
   "url": "https://rottstr5-theater.de/bernd-begemann.html",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7292292bb990": {
@@ -154,7 +154,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "9c3d29094074": {
@@ -174,7 +174,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7e146ca4b2c4": {
@@ -272,7 +272,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "e3b9f2fa7930": {
@@ -293,7 +293,7 @@
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
   "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": false
+  "gone": true
  },
  "62c6f89171b8": {
   "id": "62c6f89171b8",
@@ -313,7 +313,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "694eef6922de": {
@@ -333,7 +333,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "fb2690ca432b": {
@@ -353,7 +353,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "85d94d66e966": {
@@ -373,7 +373,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "172b8d3f3826": {
@@ -393,7 +393,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "e08990dee11c": {
@@ -413,7 +413,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "807f38fecd5f": {
@@ -433,7 +433,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a4053fd1054a": {
@@ -453,7 +453,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "c43e9517dcdb": {
@@ -473,7 +473,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "008d26edf8b2": {
@@ -493,7 +493,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "13e2f0cfbd79": {
@@ -514,7 +514,7 @@
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
   "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": false
+  "gone": true
  },
  "8dcc1ce84db1": {
   "id": "8dcc1ce84db1",
@@ -533,7 +533,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7d893bd9647b": {
@@ -564,7 +564,8 @@
   "time": "18:30",
   "time_known": true,
   "tags": [
-   "konzert"
+   "konzert",
+   "lesung"
   ],
   "genre": null,
   "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
@@ -573,8 +574,8 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
  },
  "0376ab6d9333": {
   "id": "0376ab6d9333",
@@ -593,7 +594,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a6d9f75feca2": {
@@ -634,7 +635,7 @@
   "classified": true,
   "first_seen": "2026-11-19T00:16:06+01:00",
   "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": false
+  "gone": true
  },
  "ba6cdef969e7": {
   "id": "ba6cdef969e7",
@@ -667,12 +668,13 @@
    "theater"
   ],
   "genre": null,
-  "description": "oder Lavalampe und Flokati Die wilden 70er. Preisgruppe A",
+  "description": "oder Lavalampe und Flokati – Die wilden 70er. Preisgruppe A",
   "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "752922d87709": {
@@ -690,8 +692,9 @@
   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-2/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "aae50e3a0f33": {
@@ -709,8 +712,9 @@
   "url": "https://theaterandervolme.de/event/kasimir-und-karoline-2/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "64c029bbc72f": {
@@ -730,7 +734,7 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
   "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": false
+  "gone": true
  },
  "8c984c5088f1": {
   "id": "8c984c5088f1",
@@ -748,8 +752,9 @@
   "url": "https://theaterandervolme.de/event/ich-brauch-tapetenwechsel/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "492c5f5f771b": {
@@ -767,8 +772,9 @@
   "url": "https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2-2/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "d96eab78084d": {
@@ -786,8 +792,9 @@
   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-1/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "2f3cacafac31": {
@@ -800,13 +807,14 @@
   "tags": [
    "konzert"
   ],
-  "genre": "Klavier",
+  "genre": "Klavierkonzert",
   "description": "Klavierkonzert mit Martin Brödemann. Preisgruppe A",
   "url": "https://theaterandervolme.de/event/metamorphose/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a7a1ff828460": {
@@ -825,8 +833,9 @@
   "url": "https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "1abb5f2fd3bc": {
@@ -844,8 +853,9 @@
   "url": "https://theaterandervolme.de/event/der-moerder-war-es-4/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "ffd0e6a6fd93": {
@@ -865,7 +875,7 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
   "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": false
+  "gone": true
  },
  "12b56c6f25d0": {
   "id": "12b56c6f25d0",
@@ -884,7 +894,7 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
   "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": false
+  "gone": true
  },
  "23b84073bdf0": {
   "id": "23b84073bdf0",
@@ -896,13 +906,14 @@
   "tags": [
    "theater"
   ],
-  "genre": "Sketch Comedy",
+  "genre": "Sketch-Comedy",
   "description": "Jahrhundertsketche in Neuauflage. Preisgruppe A",
   "url": "https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-4/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "78d59e71d44f": {
@@ -920,8 +931,9 @@
   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-3/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "d9aecb40209d": {
@@ -941,7 +953,7 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
   "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": false
+  "gone": true
  },
  "7b9f10b712c0": {
   "id": "7b9f10b712c0",
@@ -953,13 +965,14 @@
   "tags": [
    "theater"
   ],
-  "genre": "Silvestershow",
+  "genre": null,
   "description": "Die ultimative Show zu Silvester. Preisgruppe A",
   "url": "https://theaterandervolme.de/event/das-beste-kommt-zum-schluss-2/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "507b2423be94": {
@@ -979,7 +992,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "3634d818e2ef": {
@@ -993,14 +1006,14 @@
    "konzert",
    "party"
   ],
-  "genre": "Rock | Electronic",
+  "genre": "Rock / Electronic",
   "description": "Rock | Electronic",
   "url": "https://rottstr5-theater.de/waveland.html",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "32afa4eb940d": {
@@ -1020,7 +1033,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "9a5b4927fa02": {
@@ -1040,7 +1053,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7833b68d9ed9": {
@@ -1060,7 +1073,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "98258dea9a68": {
@@ -1081,7 +1094,7 @@
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
   "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": false
+  "gone": true
  },
  "bd7a046e435b": {
   "id": "bd7a046e435b",
@@ -1094,15 +1107,15 @@
    "jam-session",
    "konzert"
   ],
-  "genre": null,
+  "genre": "Jazz",
   "description": "33. Jazztage: Jam Session feat. p.h.k. quartet",
   "url": "https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quartet.html",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T15:26:27+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
  },
  "4deebb544d9f": {
   "id": "4deebb544d9f",
@@ -1121,7 +1134,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "9a8ce7d22c62": {
@@ -1141,7 +1154,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "314858e8b1ca": {
@@ -1161,7 +1174,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "1d138b027dd2": {
@@ -1181,7 +1194,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "4eeaf6bfcb14": {
@@ -1201,7 +1214,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "e7f641fec46f": {
@@ -1221,7 +1234,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "425862258d2c": {
@@ -1242,7 +1255,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "52b0b6a002ae": {
@@ -1255,14 +1268,14 @@
   "tags": [
    "sonstiges"
   ],
-  "genre": "Comedy",
+  "genre": "StandUp-Comedy",
   "description": "StandUp-Comedy",
   "url": "https://www.pelmke.de/veranstaltungen/standup-comedy-5/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7ea89a0e93da": {
@@ -1282,7 +1295,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "cc52c6857db4": {
@@ -1302,7 +1315,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "3b548bf3b4b9": {
@@ -1323,7 +1336,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a80fe59c05b6": {
@@ -1343,7 +1356,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "64b3251aa67d": {
@@ -1363,7 +1376,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "56d069484319": {
@@ -1383,7 +1396,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "5936231e39f5": {
@@ -1403,7 +1416,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a2fd1a96a40d": {
@@ -1423,7 +1436,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "391b60045fed": {
@@ -1444,7 +1457,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f6269084ad8b": {
@@ -1464,7 +1477,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "8c7cca35467d": {
@@ -1484,7 +1497,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "10a0dcf50e34": {
@@ -1504,7 +1517,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "705e48be0a17": {
@@ -1524,7 +1537,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "287370c32f6f": {
@@ -1544,7 +1557,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "5144c0ed3e8a": {
@@ -1564,7 +1577,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "517b6f49687c": {
@@ -1584,7 +1597,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "1b65c561d058": {
@@ -1605,7 +1618,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "83509c18a3c4": {
@@ -1626,7 +1639,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a7645eda1305": {
@@ -1646,7 +1659,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "5c283d41ed80": {
@@ -1666,7 +1679,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "0ef16fb6f2f7": {
@@ -1686,7 +1699,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "cead21dcb903": {
@@ -1706,7 +1719,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "ecfa49a5735d": {
@@ -1726,7 +1739,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "13022732f003": {
@@ -1746,7 +1759,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "bcc8df82edf0": {
@@ -1766,7 +1779,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "6f6591b52cd2": {
@@ -1786,7 +1799,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "4c8cbcf28f7a": {
@@ -1806,7 +1819,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "242887ecaf3f": {
@@ -1826,7 +1839,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "55641828f61c": {
@@ -1846,7 +1859,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "902928165a50": {
@@ -1866,7 +1879,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "0513f6a19df0": {
@@ -1886,7 +1899,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "94444b57e4d9": {
@@ -1907,7 +1920,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "4ab0d9c41dd6": {
@@ -1927,7 +1940,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "18ab088c9477": {
@@ -1947,7 +1960,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "68d6b1182886": {
@@ -1967,7 +1980,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7dfcc140bad1": {
@@ -1987,7 +2000,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "9a8b22a13ca0": {
@@ -2007,7 +2020,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f4475d9d227f": {
@@ -2027,7 +2040,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "dee8ecf7fc6a": {
@@ -2047,7 +2060,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f538bbcb678c": {
@@ -2067,7 +2080,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "b3b7be3a0e84": {
@@ -2087,7 +2100,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "966aa7f22c51": {
@@ -2107,7 +2120,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "4d110bb33010": {
@@ -2123,11 +2136,11 @@
   "genre": "Jazz, Groove, Big Band, World Music",
   "description": "54. Weihnachts-Jazzmatinee im Opernhaus",
   "url": "https://domicil-dortmund.de/index.php/programm-details/54-weihnachts-jazzmatinee-im-opernhaus.html",
-  "location_override": "Opernhaus",
+  "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "951b1487dfa3": {
@@ -2147,7 +2160,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "ae68356f137c": {
@@ -2167,7 +2180,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "9ac988a18d20": {
@@ -2187,7 +2200,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f96714e480bc": {
@@ -2207,7 +2220,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "8bd7eb276615": {
@@ -2227,7 +2240,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "20cd4467aac4": {
@@ -2247,7 +2260,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "07e65f5c0c32": {
@@ -2267,7 +2280,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "4ab46e1d6d41": {
@@ -2287,7 +2300,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "683f3254c4d5": {
@@ -2307,7 +2320,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "02bb3236718a": {
@@ -2327,7 +2340,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "db92d523b27b": {
@@ -2347,7 +2360,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "ea0ac255ade5": {
@@ -2367,7 +2380,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "75ca0e76528f": {
@@ -2387,7 +2400,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "ff5498528af7": {
@@ -2407,7 +2420,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "390bd5f5941e": {
@@ -2427,7 +2440,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "0fde6b6e5d40": {
@@ -2447,7 +2460,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f30775275d1b": {
@@ -2467,7 +2480,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "3def69bff9a3": {
@@ -2487,7 +2500,7 @@
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "870fe70b6c35": {
@@ -2507,7 +2520,7 @@
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "1bb634e1bd14": {
@@ -2527,7 +2540,7 @@
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "d07526fffd7e": {
@@ -2547,7 +2560,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "665a7cad37dd": {
@@ -2567,7 +2580,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "29ccd8d0dd02": {
@@ -2588,7 +2601,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7ac550485064": {
@@ -2608,7 +2621,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "979bad09d7e1": {
@@ -2628,7 +2641,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "2c5fa06c7075": {
@@ -2648,7 +2661,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "80eaa15c6132": {
@@ -2668,7 +2681,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "9f63b7cce7eb": {
@@ -2688,7 +2701,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a6bb6b0ea571": {
@@ -2708,7 +2721,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "014bfbe4eb66": {
@@ -2728,7 +2741,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "fffd2d771fa3": {
@@ -2748,7 +2761,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f8c6b1d33c59": {
@@ -2768,7 +2781,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "6fec57885be4": {
@@ -2788,7 +2801,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "4bc42ed99449": {
@@ -2808,7 +2821,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "5d7d13c686d5": {
@@ -2828,7 +2841,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "83eb4188b4f9": {
@@ -2848,7 +2861,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f842c26cda89": {
@@ -2868,7 +2881,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "38b5d451846b": {
@@ -2888,7 +2901,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "39fbc07465ca": {
@@ -2908,7 +2921,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "aa169f5e888e": {
@@ -2928,7 +2941,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "c6412bb52fc5": {
@@ -2948,7 +2961,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "534b475df5e7": {
@@ -2968,7 +2981,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "410a6da75a84": {
@@ -2988,7 +3001,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7a136dbfcb54": {
@@ -3008,7 +3021,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "e9b31ea2b867": {
@@ -3028,7 +3041,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a65eb84d240a": {
@@ -3048,7 +3061,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "c379fc899123": {
@@ -3068,7 +3081,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "cb789116ef72": {
@@ -3088,7 +3101,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f8d2b61044ff": {
@@ -3108,7 +3121,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "5a25c676c73e": {
@@ -3128,7 +3141,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "0fab2d653fa6": {
@@ -3148,7 +3161,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "ee69596d3a20": {
@@ -3168,7 +3181,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "07788ad5c570": {
@@ -3188,7 +3201,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "ca27fc611135": {
@@ -3208,7 +3221,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "f515843593b4": {
@@ -3228,7 +3241,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "1024c841faad": {
@@ -3248,7 +3261,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "184a77a18d05": {
@@ -3268,7 +3281,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "169e77246474": {
@@ -3288,7 +3301,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "1feaddb5fad3": {
@@ -3308,7 +3321,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "c5233740463e": {
@@ -3328,7 +3341,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "dd74c13a0653": {
@@ -3348,7 +3361,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "b0a4daaef101": {
@@ -3368,7 +3381,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "dc4c9cd54a13": {
@@ -3388,7 +3401,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "50ef9ead9d4e": {
@@ -3408,7 +3421,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "1f526172564a": {
@@ -3448,7 +3461,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "01adee834c47": {
@@ -3468,7 +3481,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "eb6aaafbe436": {
@@ -3488,7 +3501,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "973582352d11": {
@@ -3508,7 +3521,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "55b33b6623f9": {
@@ -3528,7 +3541,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "1eb2eda9847c": {
@@ -3550,7 +3563,7 @@
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
   "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": false
+  "gone": true
  },
  "6e7d8ffa76eb": {
   "id": "6e7d8ffa76eb",
@@ -3570,7 +3583,7 @@
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
   "last_seen": "2026-11-19T23:08:52+01:00",
-  "gone": false
+  "gone": true
  },
  "32e5fe1e040f": {
   "id": "32e5fe1e040f",
@@ -3589,7 +3602,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "a8871d54b4ab": {
@@ -3609,7 +3622,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "38bab45d3ec5": {
@@ -3629,7 +3642,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "7ed3c88ec522": {
@@ -3649,7 +3662,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "178246ca3808": {
@@ -3669,7 +3682,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  },
  "78f7017ab8b2": {
@@ -3690,7 +3703,1008 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T23:08:52+01:00",
-  "last_seen": "2026-11-19T23:08:52+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "2c1dafedbdb5": {
+  "id": "2c1dafedbdb5",
+  "venue_id": "theater-an-der-volme",
+  "title": "Charles Dickens",
+  "date": "2026-11-20",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "Premiere – eine Weihnachtsgeschichte. Preisgruppe B",
+  "url": "https://theaterandervolme.de/event/charles-dickens/",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "f6f4e3f2d37f": {
+  "id": "f6f4e3f2d37f",
+  "venue_id": "theater-an-der-volme",
+  "title": "Charles Dickens",
+  "date": "2026-11-28",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+  "url": "https://theaterandervolme.de/event/charles-dickens-4/",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "398a1acd491e": {
+  "id": "398a1acd491e",
+  "venue_id": "theater-an-der-volme",
+  "title": "Charles Dickens",
+  "date": "2026-12-12",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+  "url": "https://theaterandervolme.de/event/charles-dickens-1/",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "712faf0663d2": {
+  "id": "712faf0663d2",
+  "venue_id": "theater-an-der-volme",
+  "title": "Charles Dickens",
+  "date": "2026-12-13",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+  "url": "https://theaterandervolme.de/event/charles-dickens-2/",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "014c930fe7e6": {
+  "id": "014c930fe7e6",
+  "venue_id": "theater-an-der-volme",
+  "title": "Charles Dickens",
+  "date": "2026-12-20",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "theater"
+  ],
+  "genre": null,
+  "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+  "url": "https://theaterandervolme.de/event/charles-dickens-3/",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "c7f8cf2fdfba": {
+  "id": "c7f8cf2fdfba",
+  "venue_id": "domicil",
+  "title": "Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
+  "date": "2026-11-20",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz, Experimental, Modern Jazz",
+  "description": "33. Jazztage Dortmund: Julie Campiche \"Unspoken\" / Filippa Gojo & St...",
+  "url": "https://domicil-dortmund.de/programm-details/goio-mattner.html",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "6a3608210c22": {
+  "id": "6a3608210c22",
+  "venue_id": "loch",
+  "title": "Erst Exchampion dann offene Session",
+  "date": "2026-11-19",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session",
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Erst Exchampion dann offene Session",
+  "url": "https://loch-wuppertal.de/programm/kalender/erst-exchampion-dann-offene-session-2871",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "4e450510e3cb": {
+  "id": "4e450510e3cb",
+  "venue_id": "loch",
+  "title": "David Virelles KLAENG Project",
+  "date": "2026-11-20",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "David Virelles KLAENG Project",
+  "url": "https://loch-wuppertal.de/programm/kalender/david-virelles-klaeng-project-2995",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "9158383b36f9": {
+  "id": "9158383b36f9",
+  "venue_id": "loch",
+  "title": "Funk & Soul Club Wuppertal",
+  "date": "2026-11-20",
+  "time": "21:30",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": "Funk & Soul",
+  "description": "Funk & Soul Club Wuppertal",
+  "url": "https://loch-wuppertal.de/programm/kalender/funk-soul-club-wuppertal-3141",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "71dd79d5fb93": {
+  "id": "71dd79d5fb93",
+  "venue_id": "loch",
+  "title": "DAZWISCHEN UND DARÜBER HINAUS",
+  "date": "2026-11-23",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "film"
+  ],
+  "genre": null,
+  "description": "DAZWISCHEN UND DARÜBER HINAUS",
+  "url": "https://loch-wuppertal.de/programm/kalender/dazwischen-und-darueber-hinaus-3116",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "d47587e333b7": {
+  "id": "d47587e333b7",
+  "venue_id": "loch",
+  "title": "Chorprobe",
+  "date": "2026-11-24",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "workshop"
+  ],
+  "genre": null,
+  "description": "Chorprobe",
+  "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3134",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "1ab28513c7d9": {
+  "id": "1ab28513c7d9",
+  "venue_id": "loch",
+  "title": "Source and Roots",
+  "date": "2026-11-25",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Source and Roots",
+  "url": "https://loch-wuppertal.de/programm/kalender/source-and-roots-3167",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "7d81fe7595a1": {
+  "id": "7d81fe7595a1",
+  "venue_id": "loch",
+  "title": "David Kebekus",
+  "date": "2026-11-26",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": "Comedy",
+  "description": "David Kebekus",
+  "url": "https://loch-wuppertal.de/programm/kalender/david-kebekus-2803",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "6e6170ba6108": {
+  "id": "6e6170ba6108",
+  "venue_id": "loch",
+  "title": "Hańba!",
+  "date": "2026-11-27",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Hańba!",
+  "url": "https://loch-wuppertal.de/programm/kalender/hanba-2721",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "a067cd98c588": {
+  "id": "a067cd98c588",
+  "venue_id": "loch",
+  "title": "VINZ 3000",
+  "date": "2026-11-27",
+  "time": "21:30",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "VINZ 3000",
+  "url": "https://loch-wuppertal.de/programm/kalender/vinz-3000-3068",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "12b71070d8f3": {
+  "id": "12b71070d8f3",
+  "venue_id": "loch",
+  "title": "Listen (t)here! - Der 18. und der 40. Geburtstag gleichzeitig",
+  "date": "2026-11-28",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "Listen (t)here! - Der 18. und der 40. Geburtstag gleichzeitig",
+  "url": "https://loch-wuppertal.de/programm/kalender/listen-t-here-der-18-und-der-40-geburtstag-gleichzeitig-2855",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "1478377328bc": {
+  "id": "1478377328bc",
+  "venue_id": "loch",
+  "title": "rhizome",
+  "date": "2026-11-29",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "rhizome",
+  "url": "https://loch-wuppertal.de/programm/kalender/rhizome-3006",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "e9a00a5a5659": {
+  "id": "e9a00a5a5659",
+  "venue_id": "loch",
+  "title": "fem goes short - Kurzfilmscreening",
+  "date": "2026-11-30",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "film"
+  ],
+  "genre": "Kurzfilm",
+  "description": "fem goes short - Kurzfilmscreening",
+  "url": "https://loch-wuppertal.de/programm/kalender/fem-goes-short-kurzfilmscreening-2936",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "f82d7f5f681b": {
+  "id": "f82d7f5f681b",
+  "venue_id": "loch",
+  "title": "chorprobe",
+  "date": "2026-12-01",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "workshop"
+  ],
+  "genre": null,
+  "description": "chorprobe",
+  "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3135",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "f4521008e8bd": {
+  "id": "f4521008e8bd",
+  "venue_id": "loch",
+  "title": "Hilde",
+  "date": "2026-12-02",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Hilde",
+  "url": "https://loch-wuppertal.de/programm/kalender/hilde-2887",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "419819e47bc3": {
+  "id": "419819e47bc3",
+  "venue_id": "loch",
+  "title": "ANNA.LUCA // Small Friendly Giant",
+  "date": "2026-12-03",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "ANNA.LUCA // Small Friendly Giant",
+  "url": "https://loch-wuppertal.de/programm/kalender/anna-luca-small-friendly-giant-3094",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "5d5b99f68897": {
+  "id": "5d5b99f68897",
+  "venue_id": "loch",
+  "title": "Oskar Haag + Mare Amadou",
+  "date": "2026-12-04",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Oskar Haag + Mare Amadou",
+  "url": "https://loch-wuppertal.de/programm/kalender/oskar-haag-2925",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "dfdc1b3c49ec": {
+  "id": "dfdc1b3c49ec",
+  "venue_id": "loch",
+  "title": "DJ Karriere b2b mighty maus",
+  "date": "2026-12-04",
+  "time": "21:30",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "DJ Karriere b2b mighty maus",
+  "url": "https://loch-wuppertal.de/programm/kalender/dj-karriere-b2b-mighty-maus-3196",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "13ff9302c1a5": {
+  "id": "13ff9302c1a5",
+  "venue_id": "loch",
+  "title": "Chorprobe",
+  "date": "2026-12-08",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "workshop"
+  ],
+  "genre": null,
+  "description": "Chorprobe",
+  "url": "https://loch-wuppertal.de/",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "f40fc01a03bf": {
+  "id": "f40fc01a03bf",
+  "venue_id": "loch",
+  "title": "Moving Krippenspielers",
+  "date": "2026-12-09",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Moving Krippenspielers",
+  "url": "https://loch-wuppertal.de/programm/kalender/moving-krippenspielers-2888",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "f019964f977e": {
+  "id": "f019964f977e",
+  "venue_id": "loch",
+  "title": "Luisa Charlotte Schulz",
+  "date": "2026-12-10",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": "Comedy",
+  "description": "Luisa Charlotte Schulz",
+  "url": "https://loch-wuppertal.de/programm/kalender/luisa-charlotte-schulz-2908",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "0c3e8411fd36": {
+  "id": "0c3e8411fd36",
+  "venue_id": "loch",
+  "title": "Keshavara & Ramesh Shotham present Weirdly in Time feat. Marie Tjong-Ayong",
+  "date": "2026-12-11",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Keshavara & Ramesh Shotham present Weirdly in Time feat. Marie Tjong-Ayong",
+  "url": "https://loch-wuppertal.de/programm/kalender/keshavara-ramesh-shotham-present-weirdly-in-time-feat-marie-tjong-ayong-3234",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "6efe86f748b5": {
+  "id": "6efe86f748b5",
+  "venue_id": "loch",
+  "title": "combo collage",
+  "date": "2026-12-11",
+  "time": "21:30",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "combo collage",
+  "url": "https://loch-wuppertal.de/programm/kalender/combo-collage-3235",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "c86bc689e656": {
+  "id": "c86bc689e656",
+  "venue_id": "loch",
+  "title": "Olivia Trummer",
+  "date": "2026-12-12",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Olivia Trummer",
+  "url": "https://loch-wuppertal.de/programm/kalender/olivia-trummer-trio-3032",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "550f1b782c5b": {
+  "id": "550f1b782c5b",
+  "venue_id": "loch",
+  "title": "Charles Petersohn + David Geer – „a joYful nOise“",
+  "date": "2026-12-12",
+  "time": "21:30",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Charles Petersohn + David Geer – „a joYful nOise“",
+  "url": "https://loch-wuppertal.de/programm/kalender/charles-petersohn-david-geer-a-joyful-noise-3161",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "99c66cf20d36": {
+  "id": "99c66cf20d36",
+  "venue_id": "loch",
+  "title": "chorprobe",
+  "date": "2026-12-15",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "workshop"
+  ],
+  "genre": null,
+  "description": "chorprobe",
+  "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3137",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "fbbe0184fdaf": {
+  "id": "fbbe0184fdaf",
+  "venue_id": "loch",
+  "title": "Mickey´s Monkey Party",
+  "date": "2026-12-16",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "Mickey´s Monkey Party",
+  "url": "https://loch-wuppertal.de/programm/kalender/mickeys-monkey-party-2889",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "e3a004ff77ec": {
+  "id": "e3a004ff77ec",
+  "venue_id": "loch",
+  "title": "Der Quizabend im LOCH",
+  "date": "2026-12-17",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": "Quiz",
+  "description": "Der Quizabend im LOCH",
+  "url": "https://loch-wuppertal.de/programm/kalender/der-quizabend-im-loch-2923",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "f393d73afbb5": {
+  "id": "f393d73afbb5",
+  "venue_id": "loch",
+  "title": "Das Musikkneipenquiz",
+  "date": "2026-12-18",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": "Quiz",
+  "description": "Das Musikkneipenquiz",
+  "url": "https://loch-wuppertal.de/programm/kalender/das-musikkneipenquiz-3112",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "7c4112d37809": {
+  "id": "7c4112d37809",
+  "venue_id": "loch",
+  "title": "Mauzmon + Unbreakable Daani",
+  "date": "2026-12-18",
+  "time": "22:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "Mauzmon + Unbreakable Daani",
+  "url": "https://loch-wuppertal.de/programm/kalender/mauzmon-unbreakable-daani-3186",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "3cfd3e5a4669": {
+  "id": "3cfd3e5a4669",
+  "venue_id": "loch",
+  "title": "27 Jahre 45rpm",
+  "date": "2026-12-19",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": "Klubkultur",
+  "description": "27 Jahre 45rpm",
+  "url": "https://loch-wuppertal.de/programm/kalender/27-jahre-45rpm-2975",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "6bc7f04ff6da": {
+  "id": "6bc7f04ff6da",
+  "venue_id": "loch",
+  "title": "chorprobe",
+  "date": "2026-12-22",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "workshop"
+  ],
+  "genre": null,
+  "description": "chorprobe",
+  "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3138",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "bb7d695728b9": {
+  "id": "bb7d695728b9",
+  "venue_id": "loch",
+  "title": "Mitchmaikwolf-Gang feat. Werner Dickel",
+  "date": "2026-12-27",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Mitchmaikwolf-Gang feat. Werner Dickel",
+  "url": "https://loch-wuppertal.de/programm/kalender/mitchmaikwolf-gang-feat-werner-dickel-3140",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "adfe29523585": {
+  "id": "adfe29523585",
+  "venue_id": "loch",
+  "title": "Mirna Bogdanović Group",
+  "date": "2027-02-05",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Mirna Bogdanović Group",
+  "url": "https://loch-wuppertal.de/programm/kalender/mirna-bogdanovic-group-3128",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "072d3324218e": {
+  "id": "072d3324218e",
+  "venue_id": "loch",
+  "title": "Graupe / Brendle / Terzić",
+  "date": "2027-02-11",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Graupe / Brendle / Terzić",
+  "url": "https://loch-wuppertal.de/programm/kalender/graupe-brendle-terzic-3001",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "18d466eef8a1": {
+  "id": "18d466eef8a1",
+  "venue_id": "loch",
+  "title": "Fluppe",
+  "date": "2027-02-18",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Fluppe",
+  "url": "https://loch-wuppertal.de/programm/kalender/fluppe-3151",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "460b06e2d68f": {
+  "id": "460b06e2d68f",
+  "venue_id": "loch",
+  "title": "Julian & Roman Wasserfuhr",
+  "date": "2027-02-26",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Julian & Roman Wasserfuhr",
+  "url": "https://loch-wuppertal.de/programm/kalender/julian-roman-wasserfuhr-3192",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "26c5405cc8ee": {
+  "id": "26c5405cc8ee",
+  "venue_id": "loch",
+  "title": "ELSA",
+  "date": "2027-03-03",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "ELSA",
+  "url": "https://loch-wuppertal.de/programm/kalender/elsa-3163",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "03cd27e08daa": {
+  "id": "03cd27e08daa",
+  "venue_id": "loch",
+  "title": "Botticelli Baby",
+  "date": "2027-03-05",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Botticelli Baby",
+  "url": "https://loch-wuppertal.de/programm/kalender/botticelli-baby-3263",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "884c622adb96": {
+  "id": "884c622adb96",
+  "venue_id": "loch",
+  "title": "Tabea Kind Trio",
+  "date": "2027-03-10",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Tabea Kind Trio",
+  "url": "https://loch-wuppertal.de/programm/kalender/tabea-kind-trio-3162",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "2a2831ae7f12": {
+  "id": "2a2831ae7f12",
+  "venue_id": "loch",
+  "title": "Abdul Kader Chahin",
+  "date": "2027-03-18",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": "Comedy",
+  "description": "Abdul Kader Chahin",
+  "url": "https://loch-wuppertal.de/programm/kalender/abdul-kader-chahin-2748",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "46f882ab7598": {
+  "id": "46f882ab7598",
+  "venue_id": "loch",
+  "title": "Marvin Hoffmann",
+  "date": "2027-04-08",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Marvin Hoffmann",
+  "url": "https://loch-wuppertal.de/programm/kalender/marvin-hoffmann-3213",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "78f519e4a7a8": {
+  "id": "78f519e4a7a8",
+  "venue_id": "loch",
+  "title": "Rebecca Pap",
+  "date": "2027-04-18",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": "Comedy",
+  "description": "Rebecca Pap",
+  "url": "https://loch-wuppertal.de/programm/kalender/rebecca-pap-3109",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "4377de547a00": {
+  "id": "4377de547a00",
+  "venue_id": "loch",
+  "title": "KIND",
+  "date": "2027-05-12",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "KIND",
+  "url": "https://loch-wuppertal.de/programm/kalender/kind-2983",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
+  "gone": false
+ },
+ "e0ed1d08ffa9": {
+  "id": "e0ed1d08ffa9",
+  "venue_id": "loch",
+  "title": "Yumi Ito",
+  "date": "2027-05-14",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Yumi Ito",
+  "url": "https://loch-wuppertal.de/programm/kalender/yumi-ito-3020",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T23:31:50+01:00",
+  "last_seen": "2026-11-19T23:31:50+01:00",
   "gone": false
  }
 }

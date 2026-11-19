@@ -2,10 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
+SUMMARY:DAZWISCHEN UND DARÜBER HINAUS
+DTSTART:20261123T180000Z
+DTEND:20261123T200000Z
+DTSTAMP:20261119T223320Z
+UID:71dd79d5fb93@event-collector
+DESCRIPTION:DAZWISCHEN UND DARÜBER HINAUS\nhttps://loch-wuppertal.de/prog
+ ramm/kalender/dazwischen-und-darueber-hinaus-3116
+LOCATION:Loch\, Wuppertal
+URL:https://loch-wuppertal.de/programm/kalender/dazwischen-und-darueber-hi
+ naus-3116
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261119T221008Z
+DTSTAMP:20261119T223320Z
 UID:29ccd8d0dd02@event-collector
 DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Filme\, die 
  das Leben und Wirken in und aus der Kunstwelt zeigen\, anschließend Gespr
@@ -15,5 +27,17 @@ DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Filme\, die
 LOCATION:Kino Babylon
 URL:https://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hag
  en-nov26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:fem goes short - Kurzfilmscreening
+DTSTART:20261130T180000Z
+DTEND:20261130T200000Z
+DTSTAMP:20261119T223320Z
+UID:e9a00a5a5659@event-collector
+DESCRIPTION:fem goes short - Kurzfilmscreening\nhttps://loch-wuppertal.de/
+ programm/kalender/fem-goes-short-kurzfilmscreening-2936
+LOCATION:Loch\, Wuppertal
+URL:https://loch-wuppertal.de/programm/kalender/fem-goes-short-kurzfilmscr
+ eening-2936
 END:VEVENT
 END:VCALENDAR
