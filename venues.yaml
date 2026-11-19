@@ -20,6 +20,18 @@ venues:
     render: browser
     rules:
       - {match: 'Klangteppich', tags: [jam-session]}
+  - id: wirrwarr
+    name: WirrWarr
+    city: Hagen
+    url: https://www.wirrwarr-wehringhausen.de
+    source: https://www.wirrwarr-wehringhausen.de/events
+  - id: werkhof
+    name: Werkhof
+    city: Hagen
+    url: https://werkhof-kulturzentrum.de
+    source: https://werkhof-kulturzentrum.de/events/
+    rules:
+      - {match: '4Music Night', tags: [konzert]}
   - id: theater-an-der-volme
     name: Theater an der Volme
     city: Hagen
