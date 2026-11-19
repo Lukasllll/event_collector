@@ -40,6 +40,72 @@ def merge_tags(*sets):
     return sorted(t) or ["sonstiges"]
 
 
+STOP = {"der", "die", "das", "den", "dem", "des", "und", "oder", "im", "in", "am", "an", "auf", "mit", "von", "vom", "für",
+        "zu", "zum", "zur", "the", "of", "and", "ein", "eine"}
+def toks(s): return {w for w in re.findall(r"\w+", s.lower()) if w not in STOP}
+def trunc(t): return t.rstrip().endswith(("...", "…"))
+def tcompat(a, b): return not a or not b or a == b
+
+
+def sim(a, b):
+    """Anteil gemeinsamer Wörter, bezogen auf den kürzeren Titel (0..1). Toleriert Untertitel und Abkürzungen."""
+    ta, tb = toks(a), toks(b)
+    return len(ta & tb) / min(len(ta), len(tb)) if ta and tb else 0.0
+
+
+def same_event(a, b):
+    """Gleicher Tag, verträgliche Uhrzeit (gleich oder eine unbekannt), gleicher oder ähnlicher Titel (> 50 % Wortüberlappung)."""
+    return (a["date"] == b["date"] and tcompat(a.get("time"), b.get("time"))
+            and (norm(a["title"]) == norm(b["title"]) or sim(a["title"], b["title"]) > 0.5))
+
+
+def resolve(events, cands):
+    """Ordnet neuen Events bestehende (stabile) IDs zu -> {Index: alte_id}. Verhindert Dubletten bei schwankenden Titeln."""
+    match, claimed = {}, set()
+    by_id = {c["id"]: c for c in cands}
+    for i, e in enumerate(events):                      # 1) identische ID
+        if e["id"] in by_id and e["id"] not in claimed: match[i] = e["id"]; claimed.add(e["id"])
+    for i, e in enumerate(events):                      # 2) ähnlicher Titel, gleicher Tag/Zeitpunkt
+        if i in match: continue
+        best = max((c for c in cands if c["id"] not in claimed and same_event(e, c)),
+                   key=lambda c: sim(e["title"], c["title"]), default=None)
+        if best: match[i] = best["id"]; claimed.add(best["id"])
+    ev_slots, c_slots = {}, {}                          # 3) genau ein Termin im selben Zeitslot auf beiden Seiten (Titel komplett umbenannt)
+    for i, e in enumerate(events):
+        if i not in match and e["time"]: ev_slots.setdefault((e["date"], e["time"]), []).append(i)
+    for c in cands:
+        if c["id"] not in claimed and c.get("time"): c_slots.setdefault((c["date"], c["time"]), []).append(c["id"])
+    for k, idx in ev_slots.items():
+        if len(idx) == 1 and len(c_slots.get(k, [])) == 1: match[idx[0]] = c_slots[k][0]
+    return match
+
+
+def consolidate(db):
+    """Bestehende Dubletten zusammenführen (gleicher Ort/Tag, ähnlicher Titel). Behält den aktuell gefundenen Eintrag. Idempotent."""
+    groups = {}
+    for e in db.values(): groups.setdefault((e["venue_id"], e["recurring"], e["date"]), []).append(e)
+    out = {}
+    for items in groups.values():
+        parent = list(range(len(items)))
+        def find(i):
+            while parent[i] != i: parent[i] = parent[parent[i]]; i = parent[i]
+            return i
+        for i in range(len(items)):
+            for j in range(i + 1, len(items)):
+                if same_event(items[i], items[j]): parent[find(j)] = find(i)
+        clusters = {}
+        for i, e in enumerate(items): clusters.setdefault(find(i), []).append(e)
+        for c in clusters.values():
+            keep = max(c, key=lambda e: (not e.get("gone"), not trunc(e["title"]), bool(e.get("classified")), len(e["title"])))
+            if trunc(keep["title"]):
+                full = [e["title"] for e in c if not trunc(e["title"])]
+                if full: keep["title"] = max(full, key=len)
+            keep["first_seen"] = min(e["first_seen"] for e in c)
+            if not keep.get("description"): keep["description"] = max((e.get("description", "") for e in c), key=len)
+            out[keep["id"]] = keep
+    return out
+
+
 class Raw(BaseModel):
     title: str
     date: dt.date
@@ -121,6 +187,30 @@ def page_text(html, v):
     return text
 
 
+def dedupe_raws(raws):
+    """Dubletten innerhalb eines Laufs entfernen (gleiche Veranstaltung mehrfach auf der Seite oder abgekürzt/vollständig)."""
+    out = []
+    for r in raws:
+        i = next((i for i, o in enumerate(out) if o.date == r.date and tcompat(o.time, r.time)
+                  and (norm(o.title) == norm(r.title) or sim(o.title, r.title) > 0.5)), None)
+        if i is None: out.append(r); continue
+        o = out[i]
+        rank = lambda x: (not trunc(x.title), len(x.title), len(x.description or ""))
+        keep, other = (r, o) if rank(r) > rank(o) else (o, r)
+        keep.time = keep.time or other.time
+        keep.tags = sorted(set(keep.tags) | set(other.tags))
+        out[i] = keep
+    return out
+
+
+def create_msg(**kw):
+    """API-Aufruf mit temperature=0 (stabilere Titel); fällt zurück, falls das Modell den Parameter nicht annimmt."""
+    import anthropic
+    client = anthropic.Anthropic()
+    try: return client.messages.create(temperature=0, **kw)
+    except anthropic.BadRequestError: return client.messages.create(**kw)
+
+
 def from_llm(text, v):
     import anthropic
     ev = {"type": "object", "required": ["title", "date", "tags"], "properties": {
@@ -135,11 +225,12 @@ def from_llm(text, v):
               "Extrahiere ALLE kommenden Veranstaltungen (ab heute) und rufe save_events auf.\n"
               "Regeln: Fehlt das Jahr, nimm das nächste passende Datum ab heute. Uhrzeit nur, wenn genannt (Beginn, HH:MM), sonst null. "
               "Wiederkehrende Reihen nicht selbst vervielfältigen, nur konkret datierte Termine. Nichts erfinden. "
+              "title: Haupttitel genau wie auf der Seite (Überschrift), ohne Untertitel (Untertitel gehören in die description) und nie abgekürzt; endet ein Titel auf '…' oder '...', nimm den vollständigen Titel aus 'Titel: …', falls vorhanden. "
               "description: max. 300 Zeichen, Sprache wie im Original. url: Link zur Veranstaltung, falls im Text vorhanden "
               "(steht in eckigen Klammern hinter dem Linktext; steht dort 'Titel: …', ist das der saubere Veranstaltungstitel, nimm ihn als title). Als abgesagt markierte Veranstaltungen (z.B. 'Abgesagt', 'entfällt') weglassen. tags: passende aus der Liste, mehrere erlaubt, 'sonstiges' nur wenn nichts passt. "
               "genre: kurzes Stichwort (z.B. 'Free Jazz') oder null. location_override nur, wenn die Veranstaltung erkennbar woanders stattfindet.\n\n"
               "=== SEITENTEXT ===\n" + text)
-    msg = anthropic.Anthropic().messages.create(
+    msg = create_msg(
         model=MODEL, max_tokens=8000, tools=[tool], tool_choice={"type": "tool", "name": "save_events"},
         messages=[{"role": "user", "content": prompt}])
     if msg.stop_reason == "max_tokens": print(f"  WARNUNG {v['id']}: Antwort abgeschnitten")
@@ -166,7 +257,7 @@ def classify(items, v):
         lines = "\n".join(f"{i}: {e['title']} | {e['description'][:200]}" for i, e in enumerate(chunk))
         prompt = (f"Ordne jeder Veranstaltung von '{v['name']}' ({v['city']}) passende Tags zu (mehrere erlaubt, 'sonstiges' nur wenn nichts passt) "
                   "und nenne optional ein kurzes Genre-Stichwort (z.B. 'Rock', 'Kabarett'). Nutze die Nummer i aus der Liste. Rufe save_tags auf.\n\n" + lines)
-        msg = anthropic.Anthropic().messages.create(model=MODEL, max_tokens=4000, tools=[tool],
+        msg = create_msg(model=MODEL, max_tokens=4000, tools=[tool],
               tool_choice={"type": "tool", "name": "save_tags"}, messages=[{"role": "user", "content": prompt}])
         for b in msg.content:
             if b.type == "tool_use":
@@ -242,7 +333,7 @@ def make_event(r, v, cfg, recurring):
         if re.search(rule["match"], hay, re.I): tags |= set(rule["tags"])
     if len(tags) > 1: tags.discard("sonstiges")
     if not tags: tags = {"sonstiges"}
-    return {"id": sha(f"{v['id']}|{r.date}|{norm(r.title)}")[:12], "venue_id": v["id"], "title": r.title.strip(),
+    return {"id": sha(f"{v['id']}|{r.date}|{r.time or ''}|{norm(r.title)}")[:12], "venue_id": v["id"], "title": r.title.strip(),
             "date": r.date.isoformat(), "time": r.time, "time_known": bool(r.time), "tags": sorted(tags),
             "genre": r.genre, "description": (r.description or "")[:500], "url": r.url or v.get("url"),
             "location_override": r.location_override, "recurring": recurring}
@@ -252,8 +343,9 @@ def migrate(db):
     """Alte Einträge bereinigen (Entities/HTML) und IDs neu berechnen. Idempotent."""
     out = {}
     for e in db.values():
-        e["title"], e["description"] = clean(e["title"]), clean(e.get("description", ""))
-        e["id"] = sha(f"{e['venue_id']}|{e['date']}|{norm(e['title'])}")[:12]
+        t = clean(e["title"]); changed = t != e["title"]
+        e["title"], e["description"] = t, clean(e.get("description", ""))
+        if changed: e["id"] = sha(f"{e['venue_id']}|{e['date']}|{e.get('time') or ''}|{norm(e['title'])}")[:12]
         out[e["id"]] = e
     return out
 
@@ -305,7 +397,7 @@ def main():
     cfg = yaml.safe_load((ROOT / "venues.yaml").read_text("utf-8"))
     venues = {v["id"]: v for v in cfg["venues"]}
     DATA.mkdir(exist_ok=True)
-    db = migrate({k: e for k, e in load(DATA / "events.json").items() if e["venue_id"] in venues})
+    db = consolidate(migrate({k: e for k, e in load(DATA / "events.json").items() if e["venue_id"] in venues}))
     cache = load(DATA / "cache.json")
     now, errors, seen = NOW.isoformat(timespec="seconds"), [], set()
 
@@ -313,9 +405,14 @@ def main():
 
     def ingest(vid, raws, recurring):
         v, todo, fresh = venues[vid], [], []
-        for r in raws:
-            if not r.title.strip(): continue
-            e = make_event(r, v, cfg, recurring)
+        rs = dedupe_raws([r for r in raws if r.title.strip()])
+        events = [make_event(r, v, cfg, recurring) for r in rs]
+        match = resolve(events, [c for c in db.values() if c["venue_id"] == vid and c["recurring"] == recurring])
+        for i, (r, e) in enumerate(zip(rs, events)):
+            if i in match and match[i] != e["id"]:  # derselbe Termin mit anderem Titel -> alte ID behalten
+                prev_ev = db[match[i]]
+                e["id"] = prev_ev["id"]
+                if not trunc(prev_ev["title"]) and sim(e["title"], prev_ev["title"]) > 0.5: e["title"] = prev_ev["title"]
             old = db.get(e["id"])
             if old and old.get("classified"):  # frühere Klassifikation behalten
                 e["tags"] = merge_tags(e["tags"], old["tags"])

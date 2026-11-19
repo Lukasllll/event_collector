@@ -7,7 +7,7 @@
 #   tags: [jam-session]
 
 - venue: affenhack
-  title: Jam Session
+  title: JamArt Session
   rrule: "FREQ=MONTHLY;BYDAY=1SA"   # jeden 1. Samstag im Monat
   start: 2026-12-05                 # Startdatum der Regel
   time: "20:00"
