@@ -53,3 +53,13 @@ venues:
     city: Herne
     url: https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/
     # kein source: Facebook wird nicht gescrapt, Termine über recurring.yaml
+  - id: loch
+    name: Loch
+    city: Wuppertal
+    url: https://loch-wuppertal.de/
+    source: https://loch-wuppertal.de/programm/
+  - id: odonien
+    name: Odonien
+    city: Köln
+    url: https://odonien.de/
+    source: https://odonien.de/
