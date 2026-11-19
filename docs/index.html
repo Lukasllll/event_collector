@@ -6,11 +6,11 @@
 <title>Veranstaltungen</title>
 <script>try{var t=localStorage.getItem('theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
 <style>
-:root{--bg:#eceeef;--fg:#181c22;--mut:#5d6570;--line:#c5cad0;--acc:#3a39c8;--accfg:#fff;
+:root{--bg:#eceeef;--fg:#3b4048;--mut:#646c77;--line:#c5cad0;--acc:#3a39c8;--accfg:#fff;
   --tb:91%;--ts:60%;--tf:26%;--onl:38%;--onfg:#fff;color-scheme:light}
-:root[data-theme=dark]{--bg:#13151a;--fg:#e8eaee;--mut:#98a0ab;--line:#2c313a;--acc:#9a98ff;--accfg:#13151a;
+:root[data-theme=dark]{--bg:#13151a;--fg:#b9bfc8;--mut:#858d98;--line:#2c313a;--acc:#9a98ff;--accfg:#13151a;
   --tb:24%;--ts:38%;--tf:84%;--onl:66%;--onfg:#111;color-scheme:dark}
-@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#13151a;--fg:#e8eaee;--mut:#98a0ab;--line:#2c313a;--acc:#9a98ff;--accfg:#13151a;
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#13151a;--fg:#b9bfc8;--mut:#858d98;--line:#2c313a;--acc:#9a98ff;--accfg:#13151a;
   --tb:24%;--ts:38%;--tf:84%;--onl:66%;--onfg:#111;color-scheme:dark}}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
@@ -21,10 +21,10 @@ h1{font-size:1.9rem;letter-spacing:-.02em;margin:0;overflow-wrap:normal}
 button,input{font:inherit;color:var(--fg)}
 .theme{white-space:nowrap;font-size:.85rem;padding:.2rem .7rem;border:1px solid var(--line);border-radius:6px;background:none;cursor:pointer}
 input[type=search]{width:100%;padding:.45rem .7rem;border:1px solid var(--line);border-radius:6px;background:none;margin-bottom:.8rem}
-.grp{margin-bottom:.5rem}
-.grp>summary{cursor:pointer;font-weight:600;color:var(--mut);font-size:.9rem;padding:.2rem 0}
-.cnt{font-weight:400}
-.chips{display:flex;flex-wrap:wrap;gap:.4rem;padding:.3rem 0 .4rem}
+.grp{display:grid;grid-template-columns:4.6rem minmax(0,1fr);gap:0 .6rem;align-items:start;margin-bottom:.3rem}
+.gl{font-weight:600;color:var(--mut);font-size:.9rem;padding-top:.3rem}
+.cnt{display:block;font-weight:400;font-size:.8rem}
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;padding:.15rem 0 .35rem}
 .chip,.inv{font-size:.9rem;padding:.2rem .7rem;border:1px solid var(--line);border-radius:99px;background:none;cursor:pointer}
 .inv{border-style:dashed;color:var(--mut)}
 .inv[aria-pressed=true]{background:var(--fg);color:var(--bg);border-style:solid}
@@ -62,9 +62,9 @@ button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{o
 <main>
 <div class="top"><h1>Veranstaltungen</h1><button class="theme" id="theme" type="button"></button></div>
 <input type="search" id="q" placeholder="Suchen (Titel, Ort, Genre, Beschreibung)" aria-label="Suchen">
-<details class="grp" id="g-city" open><summary>Stadt <span class="cnt"></span></summary><div class="chips"><button class="inv" type="button" aria-pressed="false" title="Alle außer den markierten">Invertieren</button></div></details>
-<details class="grp" id="g-venue"><summary>Ort <span class="cnt"></span></summary><div class="chips"><button class="inv" type="button" aria-pressed="false" title="Alle außer den markierten">Invertieren</button></div></details>
-<details class="grp" id="g-tag" open><summary>Art <span class="cnt"></span></summary><div class="chips"><button class="inv" type="button" aria-pressed="false" title="Alle außer den markierten">Invertieren</button></div></details>
+<div class="grp" id="g-city"><div class="gl">Stadt <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" aria-pressed="false" title="Alle außer den markierten">Invertieren</button></div></div>
+<div class="grp" id="g-venue"><div class="gl">Ort <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" aria-pressed="false" title="Alle außer den markierten">Invertieren</button></div></div>
+<div class="grp" id="g-tag"><div class="gl">Art <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" aria-pressed="false" title="Alle außer den markierten">Invertieren</button></div></div>
 <div class="bar"><span id="count"></span><button class="reset" id="reset" type="button">Zurücksetzen</button></div>
 <div id="list"></div>
 <details class="feeds">
@@ -103,7 +103,6 @@ fetch('events.json').then(r=>r.json()).then(d=>{
   chips('city',[...new Set(d.venues.map(v=>v.city))].sort().map(c=>[c,c]));
   chips('venue',d.venues.map(v=>[v.id,v.name,v.city]));
   chips('tag',d.tags_used.map(t=>[t,t]));
-  if(d.venues.length<=10)$('#g-venue').open=true;
   feeds();$('#gen').textContent=new Date(d.generated).toLocaleString('de-DE');render();
 }).catch(()=>{$('#list').textContent='events.json konnte nicht geladen werden. Lief der Workflow schon?'});
 
@@ -128,7 +127,7 @@ function render(){
   const today=new Date().toLocaleDateString('sv'),q=$('#q').value.trim().toLowerCase();
   for(const k in sel){
     const n=sel[k].size;
-    $(GR[k]).querySelector('.cnt').textContent=n?'('+n+(mode[k]==='ex'?' ausgeschlossen':' gewählt')+')':'';
+    $(GR[k]).querySelector('.cnt').textContent=n?(mode[k]==='ex'?'ohne '+n:n+' gewählt'):'';
   }
   document.querySelectorAll('#g-venue .chip').forEach(c=>{c.hidden=!ok('city',sel.city.has(c.dataset.city))});
   const list=D.events.filter(e=>{
