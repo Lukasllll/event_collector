@@ -36,7 +36,8 @@ venues:
     name: Theater an der Volme
     city: Hagen
     url: https://theaterandervolme.de
-    source: https://theaterandervolme.de/spielplan/
+    source: https://theaterandervolme.de/spielplan/liste/?ical=1
+    type: ics
   - id: rottstr5
     name: Rottstr5 Theater
     city: Bochum

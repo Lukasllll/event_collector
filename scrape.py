@@ -184,7 +184,10 @@ def fetch_rendered(v, rounds=25):
         b = p.chromium.launch()
         page = b.new_page(user_agent=UA["User-Agent"])
         page.goto(v["source"], wait_until="load", timeout=60000)
-        page.wait_for_timeout(1500)
+        if v.get("wait_for"):
+            try: page.wait_for_selector(v["wait_for"], timeout=20000)
+            except Exception: print(f"  WARNUNG {v['id']}: wait_for {v['wait_for']!r} nicht erschienen")
+        page.wait_for_timeout(int(v.get("wait", 1500)))
         last, stable = -1, 0
         for _ in range(rounds):
             if btn and page.locator(btn).count():
@@ -208,9 +211,9 @@ def scrape_venue(v, cache):
         print(f"  {v['id']}: ICS")
         return from_ics(r.content)
     if v.get("render") == "browser":
-        html = fetch_rendered(v)
+        html, status = fetch_rendered(v), "Browser"
     else:
-        r = requests.get(url, headers=UA, timeout=30); r.raise_for_status(); html = r.text
+        r = requests.get(url, headers=UA, timeout=30); r.raise_for_status(); html, status = r.text, r.status_code
     if kind == "html":
         found = [x for x in from_jsonld(html, url) if TODAY <= x.date <= TODAY + MAX_AHEAD]
         if found:
@@ -223,7 +226,11 @@ def scrape_venue(v, cache):
         return [Raw(**e) for e in c["events"]]
     print(f"  {v['id']}: LLM, {len(text)} Zeichen Text" + (" (Browser)" if v.get("render") == "browser" else ""))
     evs = from_llm(text, v)
-    cache[v["id"]] = {"hash": h, "events": [json.loads(e.model_dump_json()) for e in evs]}
+    if evs:
+        cache[v["id"]] = {"hash": h, "events": [json.loads(e.model_dump_json()) for e in evs]}
+    else:  # leere Ergebnisse nicht cachen, sonst bleibt ein Fehlgriff dauerhaft hängen
+        cache.pop(v["id"], None)
+        print(f"  WARNUNG {v['id']}: Modell fand 0 Events (Status {status}, {len(html)} Zeichen HTML). Text beginnt mit:\n    {text[:300]!r}")
     return evs
 
 
@@ -342,7 +349,7 @@ def main():
         except Exception as ex:
             errors.append(f"{v['id']}: {type(ex).__name__}: {ex}"); continue
         prev = [e for e in db.values() if e["venue_id"] == v["id"] and not e["recurring"] and not e["gone"] and e["date"] >= TODAY.isoformat()]
-        if not raws and prev:  # sieht nach kaputtem Scraper aus, nichts als "entfällt" markieren
+        if not raws and prev and not v.get("allow_empty"):  # sieht nach kaputtem Scraper aus, nichts als "entfällt" markieren
             errors.append(f"{v['id']}: 0 Events gefunden, vorher {len(prev)}"); continue
         if not raws: print(f"  WARNUNG {v['id']}: 0 kommende Events erkannt, Quelle/Text prüfen")
         ingest(v["id"], raws, False); seen.add((v["id"], False))
