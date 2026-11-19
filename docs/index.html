@@ -20,6 +20,7 @@
 :root[data-accent=pink]{--acc:var(--a-pink)}
 :root[data-accent=indigo]{--acc:var(--a-indigo)}
 *{box-sizing:border-box}
+button,label{touch-action:manipulation}
 [hidden]{display:none!important}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;overflow-wrap:anywhere}
 main{max-width:46rem;margin:0 auto;padding:1.5rem 1rem 4rem}
@@ -48,14 +49,16 @@ input[type=date]{padding:.15rem .4rem;font-size:.9rem}
 .chips{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem;padding:.15rem 0 .35rem}
 .chip,.inv{font-size:.9rem;padding:.2rem .7rem;border:1px solid var(--line);border-radius:99px;background:none;cursor:pointer}
 .inv{border-style:dashed;color:var(--mut)}
+.inv[aria-pressed=true]{background:var(--fg);color:var(--bg);border-style:solid}
 .chip.on{background:var(--acc);border-color:var(--acc);color:var(--accfg)}
 .chip.hue{border-color:hsl(var(--h) 45% var(--onl))}
 .chip.hue.on{background:hsl(var(--h) 55% var(--onl));border-color:hsl(var(--h) 55% var(--onl));color:var(--onfg)}
+.ex .chip.on,.ex .chip.hue.on{background:none;border:1px dashed var(--mut);color:var(--mut);text-decoration:line-through}
 .dl{display:inline-flex;align-items:center;gap:.3rem;font-size:.9rem;color:var(--mut)}
 button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
 .bar{display:flex;justify-content:space-between;align-items:center;margin:1rem 0 .5rem;color:var(--mut);font-size:.9rem}
 .reset{background:none;border:0;color:var(--acc);cursor:pointer;text-decoration:underline}
-.day{display:grid;grid-template-columns:4.5rem minmax(0,1fr);gap:0 1rem;border-top:1px solid var(--line);padding:.9rem 0}
+.day{content-visibility:auto;contain-intrinsic-size:auto 7rem;display:grid;grid-template-columns:4.5rem minmax(0,1fr);gap:0 1rem;border-top:1px solid var(--line);padding:.9rem 0}
 .date{position:sticky;top:.5rem;align-self:start}
 .date b{display:block;font-size:2.2rem;line-height:1;font-weight:800;color:var(--acc)}
 .date span{font-size:.85rem;color:var(--mut)}
@@ -141,44 +144,48 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')togglePanel(false)})
 applyDesign();
 
 /* ---------- Datum / Schnellfilter ---------- */
-const iso=d=>d.toLocaleDateString('sv');
+const pad=n=>String(n).padStart(2,'0');
+const iso=d=>d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate());
 const addDays=(d,n)=>{const x=new Date(d);x.setDate(x.getDate()+n);return x};
 const PRESETS=[
   ['Heute',()=>{const t=new Date();return[iso(t),iso(t)]}],
   ['Wochenende',()=>{const t=new Date(),sun=addDays(t,(7-t.getDay())%7),fri=addDays(sun,-2);return[iso(fri<t?t:fri),iso(sun)]}],
   ['7 Tage',()=>{const t=new Date();return[iso(t),iso(addDays(t,6))]}]];
+const presetEls=[];
 for(const[label,fn]of [...PRESETS].reverse()){
-  const b=el('button',{className:'chip',type:'button',textContent:label});b.dataset.p=label;
+  const b=el('button',{className:'chip',type:'button',textContent:label});b._fn=fn;presetEls.push(b);
   b.onclick=()=>{const[f,t]=fn();const on=rng.from===f&&rng.to===t;rng.from=on?'':f;rng.to=on?'':t;$('#from').value=rng.from;$('#to').value=rng.to;render()};
   $('#when').prepend(b);
 }
 $('#from').oninput=e=>{rng.from=e.target.value;render()};
 $('#to').oninput=e=>{rng.to=e.target.value;render()};
-$('#q').oninput=()=>render();
+let qt=0;$('#q').oninput=()=>{clearTimeout(qt);qt=setTimeout(render,120)};
 
 /* ---------- Filter ---------- */
+const GRN={};
 function chips(key,items){
-  const g=$(GR[key]),box=g.querySelector('.chips');
+  const root=$(GR[key]),box=root.querySelector('.chips');
+  const g=GRN[key]={root,inv:root.querySelector('.inv'),cnt:root.querySelector('.cnt'),chips:[]};
   for(const[val,label,city]of items){
     const b=el('button',{className:'chip',textContent:label,type:'button'});
     b.dataset.val=val;if(city)b.dataset.city=city;
     if(key==='tag'&&HUE[val]!==undefined){b.classList.add('hue');b.style.setProperty('--h',HUE[val])}
     b.onclick=()=>{sel[key].has(val)?sel[key].delete(val):sel[key].add(val);render()};
-    box.append(b);
+    g.chips.push(b);box.append(b);
   }
-  g.querySelector('.inv').onclick=()=>{mode[key]=mode[key]==='in'?'ex':'in';render()};
+  g.inv.onclick=()=>{mode[key]=mode[key]==='in'?'ex':'in';render()};
 }
-// Leere Auswahl = kein Filter. "in": nur Markierte. "ex": alle außer den Abgewählten (Anzeige ist dann invertiert).
+// Leere Auswahl = kein Filter. "in": nur Markierte. "ex" (Invertieren): alle außer den durchgestrichenen.
 const ok=(key,hit)=>!sel[key].size||(mode[key]==='in')===hit;
 function paint(){
-  for(const[k]of KEYS){
-    $(GR[k]).querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',(mode[k]==='in')===sel[k].has(c.dataset.val)));
-    const n=sel[k].size;
-    $(GR[k]).querySelector('.cnt').textContent=n?(mode[k]==='ex'?'ohne '+n:n+' gewählt'):'';
+  for(const k in sel){
+    const g=GRN[k],ex=mode[k]==='ex',n=sel[k].size;
+    g.root.classList.toggle('ex',ex);g.inv.setAttribute('aria-pressed',ex);
+    for(const c of g.chips)c.classList.toggle('on',sel[k].has(c.dataset.val));
+    g.cnt.textContent=n?(ex?'ohne '+n:n+' gewählt'):'';
   }
-  document.querySelectorAll('#g-venue .chip').forEach(c=>{c.hidden=!ok('city',sel.city.has(c.dataset.city))});
-  document.querySelectorAll('#when .chip').forEach(c=>{
-    const p=PRESETS.find(x=>x[0]===c.dataset.p)[1]();c.classList.toggle('on',rng.from===p[0]&&rng.to===p[1])});
+  for(const c of GRN.venue.chips){const h=!ok('city',sel.city.has(c.dataset.city));if(c.hidden!==h)c.hidden=h}
+  for(const c of presetEls){const p=c._fn();c.classList.toggle('on',rng.from===p[0]&&rng.to===p[1])}
 }
 $('#reset').onclick=()=>{
   for(const k in sel){sel[k].clear();mode[k]='in'}
@@ -186,12 +193,14 @@ $('#reset').onclick=()=>{
 };
 
 /* ---------- URL-Zustand (#stadt=…&ort=…&art=-party&q=…&von=…&bis=…) ---------- */
+let ht=0;
+const scheduleHash=()=>{clearTimeout(ht);ht=setTimeout(saveHash,250)};
 function saveHash(){
   const p=[];
   for(const[k,n]of KEYS)if(sel[k].size)p.push(n+'='+(mode[k]==='ex'?'-':'')+[...sel[k]].map(encodeURIComponent).join(','));
   const q=$('#q').value.trim();if(q)p.push('q='+encodeURIComponent(q));
   if(rng.from)p.push('von='+rng.from);if(rng.to)p.push('bis='+rng.to);
-  history.replaceState(null,'',location.pathname+location.search+(p.length?'#'+p.join('&'):''));
+  try{history.replaceState(null,'',location.pathname+location.search+(p.length?'#'+p.join('&'):''))}catch(e){}
 }
 function loadHash(){
   for(const k in sel){sel[k].clear();mode[k]='in'}rng.from=rng.to='';$('#q').value='';
@@ -209,49 +218,66 @@ function loadHash(){
   $('#from').value=rng.from;$('#to').value=rng.to;
 }
 
-/* ---------- Rendern ---------- */
+/* ---------- Liste: einmal bauen, beim Filtern nur ein-/ausblenden ---------- */
+const days=[];
+const dfmt=new Intl.DateTimeFormat('de-DE',{weekday:'short',month:'short'});
+function mkEvent(e,v){
+  const title=/^https?:\/\//.test(e.url||'')?el('a',{href:e.url,textContent:e.title,rel:'noopener'}):document.createTextNode(e.title);
+  const info=el('div',{},el('h3',{},title),
+    el('div',{className:'mut',textContent:(e.location_override||v.name+', '+v.city)+(e.genre?' – '+e.genre:'')+(e.gone?' – evtl. entfallen':'')}));
+  for(const t of e.tags){
+    const s=el('span',{className:'tag',textContent:t});
+    if(HUE[t]!==undefined){s.classList.add('hue');s.style.setProperty('--h',HUE[t])}
+    info.append(s);
+  }
+  if(e.description)info.append(el('p',{textContent:e.description}));
+  return el('article',{className:'ev'+(e.gone?' gone':'')},el('div',{className:'time',textContent:e.time_known?e.time:''}),info);
+}
+function build(){
+  const root=$('#list');let day;
+  for(const e of D.events){
+    if(!day||day.date!==e.date){
+      const d=new Date(e.date+'T12:00'),box=el('div');
+      const section=el('section',{className:'day'},
+        el('div',{className:'date'},el('b',{textContent:d.getDate()}),el('span',{textContent:dfmt.format(d)})),box);
+      day={date:e.date,section,box,items:[]};days.push(day);root.append(section);
+    }
+    const v=V[e.venue_id];
+    const node=mkEvent(e,v);day.box.append(node);
+    day.items.push({e,node,hay:[e.title,v.name,v.city,e.genre,e.description].join(' ').toLowerCase()});
+  }
+  root.append(el('p',{id:'empty',className:'mut',hidden:true,textContent:'Keine Veranstaltungen für diese Auswahl.'}));
+}
+function render(){
+  paint();
+  const q=$('#q').value.trim().toLowerCase(),today=iso(new Date());
+  let total=0;
+  for(const d of days){
+    let n=0;
+    for(const it of d.items){
+      const e=it.e,v=V[e.venue_id];
+      const show=e.date>=today&&(!rng.from||e.date>=rng.from)&&(!rng.to||e.date<=rng.to)
+        &&ok('city',sel.city.has(v.city))&&ok('venue',sel.venue.has(e.venue_id))&&ok('tag',e.tags.some(t=>sel.tag.has(t)))
+        &&(!q||it.hay.includes(q));
+      if(it.node.hidden===show)it.node.hidden=!show;
+      if(show)n++;
+    }
+    const sh=n===0;if(d.section.hidden!==sh)d.section.hidden=sh;
+    total+=n;
+  }
+  $('#count').textContent=total+(total===1?' Veranstaltung':' Veranstaltungen');
+  $('#empty').hidden=total>0;
+  scheduleHash();
+}
 fetch('events.json').then(r=>r.json()).then(d=>{
   D=d;V=Object.fromEntries(d.venues.map(v=>[v.id,v]));
   chips('city',[...new Set(d.venues.map(v=>v.city))].sort().map(c=>[c,c]));
   chips('venue',d.venues.map(v=>[v.id,v.name,v.city]));
   chips('tag',d.tags_used.map(t=>[t,t]));
-  feeds();$('#gen').textContent=new Date(d.generated).toLocaleString('de-DE');
+  feeds();build();$('#gen').textContent=new Date(d.generated).toLocaleString('de-DE');
   loadHash();render();
   addEventListener('hashchange',()=>{loadHash();render()});
-}).catch(()=>{$('#list').textContent='events.json konnte nicht geladen werden. Lief der Workflow schon?'});
-
-function render(){
-  const today=iso(new Date()),q=$('#q').value.trim().toLowerCase();
-  paint();saveHash();
-  const list=D.events.filter(e=>{
-    const v=V[e.venue_id];
-    return e.date>=today&&(!rng.from||e.date>=rng.from)&&(!rng.to||e.date<=rng.to)
-      &&ok('city',sel.city.has(v.city))&&ok('venue',sel.venue.has(e.venue_id))&&ok('tag',e.tags.some(t=>sel.tag.has(t)))
-      &&(!q||[e.title,v.name,v.city,e.genre,e.description].join(' ').toLowerCase().includes(q));
-  });
-  $('#count').textContent=list.length+(list.length===1?' Veranstaltung':' Veranstaltungen');
-  const root=$('#list');root.replaceChildren();
-  if(!list.length){root.append(el('p',{className:'mut',textContent:'Keine Veranstaltungen für diese Auswahl.'}));return}
-  let day,box;
-  for(const e of list){
-    if(e.date!==day){
-      day=e.date;const d=new Date(e.date+'T12:00');box=el('div');
-      root.append(el('section',{className:'day'},
-        el('div',{className:'date'},el('b',{textContent:d.getDate()}),el('span',{textContent:d.toLocaleDateString('de-DE',{weekday:'short',month:'short'})})),box));
-    }
-    const v=V[e.venue_id];
-    const title=/^https?:\/\//.test(e.url||'')?el('a',{href:e.url,textContent:e.title,rel:'noopener'}):document.createTextNode(e.title);
-    const info=el('div',{},el('h3',{},title),
-      el('div',{className:'mut',textContent:(e.location_override||v.name+', '+v.city)+(e.genre?' – '+e.genre:'')+(e.gone?' – evtl. entfallen':'')}));
-    for(const t of e.tags){
-      const s=el('span',{className:'tag',textContent:t});
-      if(HUE[t]!==undefined){s.classList.add('hue');s.style.setProperty('--h',HUE[t])}
-      info.append(s);
-    }
-    if(e.description)info.append(el('p',{textContent:e.description}));
-    box.append(el('article',{className:'ev'+(e.gone?' gone':'')},el('div',{className:'time',textContent:e.time_known?e.time:''}),info));
-  }
-}
+}).catch(e=>{$('#list').textContent='events.json konnte nicht geladen werden. Lief der Workflow schon? ('+e+')'});
 function feeds(){
   const box=$('#feeds');
   const row=(label,items)=>box.append(el('div',{className:'fl'},el('b',{textContent:label}),

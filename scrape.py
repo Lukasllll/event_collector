@@ -29,7 +29,7 @@ def norm(s): return re.sub(r"\W+", "", s.lower())
 
 def clean(s):
     """HTML-Entities auflösen, (auch maskierte) HTML-Tags entfernen, Whitespace normalisieren."""
-    s = _html.unescape(s or "")
+    s = re.sub(r"\\[nrt]", " ", _html.unescape(s or ""))  # auch wörtlich eingetippte "\n" (doppelt escaped)
     if "<" in s: s = BeautifulSoup(s, "html.parser").get_text(" ", strip=True)
     s = re.sub(r"\s+", " ", _html.unescape(s)).strip()
     return re.sub(r"\s+([.,;:!?])", r"\1", s)

@@ -51,5 +51,5 @@ venues:
   - id: affenhack
     name: Affenhack Studios
     city: Herne
-    url: https://www.facebook.com/people/Affenhack-Studios-Herne-NEU
+    url: https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/
     # kein source: Facebook wird nicht gescrapt, Termine über recurring.yaml
