@@ -5,30 +5,36 @@ BEGIN:VEVENT
 SUMMARY:Jam Session
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:3def69bff9a3@event-collector
-DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU
+DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
+ 0089241211615/
 LOCATION:Affenhack Studios\, Herne
-URL:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU
+URL:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/1000892412
+ 11615/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jam Session
 DTSTART:20270102T190000Z
 DTEND:20270102T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:870fe70b6c35@event-collector
-DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU
+DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
+ 0089241211615/
 LOCATION:Affenhack Studios\, Herne
-URL:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU
+URL:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/1000892412
+ 11615/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jam Session
 DTSTART:20270206T190000Z
 DTEND:20270206T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:1bb634e1bd14@event-collector
-DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU
+DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
+ 0089241211615/
 LOCATION:Affenhack Studios\, Herne
-URL:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU
+URL:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/1000892412
+ 11615/
 END:VEVENT
 END:VCALENDAR

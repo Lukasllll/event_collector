@@ -5,11 +5,11 @@ BEGIN:VEVENT
 SUMMARY:PreWeekend am 19.11.2026
 DTSTART:20261119T170000Z
 DTEND:20261119T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:979bad09d7e1@event-collector
 DESCRIPTION:PREWEEKEND IM WERKHOF Am 19. November startet im Werkhof Hohen
- limburg [...] \\n\nhttps://werkhof-kulturzentrum.de/event/preweekend-am-19
- -11-2026/
+ limburg [...]\nhttps://werkhof-kulturzentrum.de/event/preweekend-am-19-11-
+ 2026/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/preweekend-am-19-11-2026/
 END:VEVENT
@@ -17,11 +17,11 @@ BEGIN:VEVENT
 SUMMARY:Theater unterm Schloss – Mordstödlich!
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:2c5fa06c7075@event-collector
 DESCRIPTION:Achtung: Aus Krankheitsgründen kann das Stück "Mordstödlich
- !" nicht stattfinden. Stattdessen [...] \\n\nhttps://werkhof-kulturzentrum
- .de/event/theater-unterm-schloss-mordstoedlich-2/
+ !" nicht stattfinden. Stattdessen [...]\nhttps://werkhof-kulturzentrum.de/
+ event/theater-unterm-schloss-mordstoedlich-2/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoe
  dlich-2/
@@ -30,11 +30,11 @@ BEGIN:VEVENT
 SUMMARY:Clashing Friends Festival Vol. III
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:80eaa15c6132@event-collector
 DESCRIPTION:Clashing Minds spielen schon seit 2017 zusammen Musik und sind
-  [...] \\n\nhttps://werkhof-kulturzentrum.de/event/clashing-friends-festiv
- al-vol-iii/
+  [...]\nhttps://werkhof-kulturzentrum.de/event/clashing-friends-festival-v
+ ol-iii/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/clashing-friends-festival-vol-i
  ii/
@@ -43,11 +43,11 @@ BEGIN:VEVENT
 SUMMARY:Theater unterm Schloss – Mordstödlich!
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:9f63b7cce7eb@event-collector
 DESCRIPTION:Achtung: Aus Krankheitsgründen kann das Stück "Mordstödlich
- !" nicht stattfinden. Stattdessen [...] \\n\nhttps://werkhof-kulturzentrum
- .de/event/theater-unterm-schloss-mordstoedlich-3/
+ !" nicht stattfinden. Stattdessen [...]\nhttps://werkhof-kulturzentrum.de/
+ event/theater-unterm-schloss-mordstoedlich-3/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoe
  dlich-3/
@@ -56,11 +56,10 @@ BEGIN:VEVENT
 SUMMARY:Jam Session / Open Mic
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:a6bb6b0ea571@event-collector
 DESCRIPTION:Lust auf Musik\, Groove und gute Vibes? In lockerer Atmosphär
- e [...] \\n\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic-9
- /
+ e [...]\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/
 END:VEVENT
@@ -68,10 +67,10 @@ BEGIN:VEVENT
 SUMMARY:TH & the Boneshakerz
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:014bfbe4eb66@event-collector
 DESCRIPTION:Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde
-  [...] \\n\nhttps://werkhof-kulturzentrum.de/event/th-the-boneshakerz/
+  [...]\nhttps://werkhof-kulturzentrum.de/event/th-the-boneshakerz/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/th-the-boneshakerz/
 END:VEVENT
@@ -79,11 +78,11 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20261203T191500Z
 DTEND:20261203T211500Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:fffd2d771fa3@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
- infach für alle\, die sich [...] \\n\nhttps://werkhof-kulturzentrum.de/ev
- ent/4-music-night-3/
+ infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
+ 4-music-night-3/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4-music-night-3/
 END:VEVENT
@@ -91,11 +90,11 @@ BEGIN:VEVENT
 SUMMARY:Szeneflohmarkt am 06.12.2026
 DTSTART:20261206T110000Z
 DTEND:20261206T130000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:f8c6b1d33c59@event-collector
 DESCRIPTION:Flohmarkt für Gothic\, Metal\, Rockabilly\, Punk & More - Ein
- tritt [...] \\n\nhttps://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-
- 06-12-2026/
+ tritt [...]\nhttps://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-1
+ 2-2026/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-12-2026/
 END:VEVENT
@@ -103,11 +102,11 @@ BEGIN:VEVENT
 SUMMARY:Rockpalast Revival 2.0
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:6fec57885be4@event-collector
 DESCRIPTION:Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kul
- turzentrum [...] \\n\nhttps://werkhof-kulturzentrum.de/event/rockpalast-re
- vival-2-0/
+ turzentrum [...]\nhttps://werkhof-kulturzentrum.de/event/rockpalast-reviva
+ l-2-0/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/rockpalast-revival-2-0/
 END:VEVENT
@@ -115,10 +114,10 @@ BEGIN:VEVENT
 SUMMARY:United on the Rock 12-12-2026
 DTSTART:20261212T180000Z
 DTEND:20261212T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:4bc42ed99449@event-collector
-DESCRIPTION:UNITED ON THE ROCK – ROCK\, METAL & SANDKUNST Vier [...] \\n
- \nhttps://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/
+DESCRIPTION:UNITED ON THE ROCK – ROCK\, METAL & SANDKUNST Vier [...]\nht
+ tps://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/
 END:VEVENT
@@ -126,10 +125,10 @@ BEGIN:VEVENT
 SUMMARY:PreWeekend am 17.12.2026
 DTSTART:20261217T170000Z
 DTEND:20261217T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:5d7d13c686d5@event-collector
 DESCRIPTION:TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [.
- ..] \\n\nhttps://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/
+ ..]\nhttps://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/
 END:VEVENT
@@ -137,11 +136,11 @@ BEGIN:VEVENT
 SUMMARY:Kilkenny Bastards am 18.12.2026
 DTSTART:20261218T190000Z
 DTEND:20261218T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:83eb4188b4f9@event-collector
 DESCRIPTION:KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember [.
- ..] \\n\nhttps://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12
- -2026/
+ ..]\nhttps://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12-202
+ 6/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12-2026
  /
@@ -150,11 +149,11 @@ BEGIN:VEVENT
 SUMMARY:CountryRock Night – Jahresabschluss mit Siiri am 19.12.2026
 DTSTART:20261219T190000Z
 DTEND:20261219T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:f842c26cda89@event-collector
 DESCRIPTION:CountryRock Night - Jahresabschluss mit Siiri - Wenn ehrliche 
- Songs [...] \\n\nhttps://werkhof-kulturzentrum.de/event/countryrock-jahres
- abschluss-mit-siiri/
+ Songs [...]\nhttps://werkhof-kulturzentrum.de/event/countryrock-jahresabsc
+ hluss-mit-siiri/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/countryrock-jahresabschluss-mit
  -siiri/
@@ -163,11 +162,11 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsausklang in der Werkhof-Kneipe
 DTSTART:20261226T190000Z
 DTEND:20261226T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:38b5d451846b@event-collector
-DESCRIPTION:Ho\, ho\, ho – Schluss mit stiller Nacht! Am 26. [...] \\n\n
- https://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-k
- neipe/
+DESCRIPTION:Ho\, ho\, ho – Schluss mit stiller Nacht! Am 26. [...]\nhttp
+ s://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-kneip
+ e/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkh
  of-kneipe/
@@ -176,11 +175,11 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270107T191500Z
 DTEND:20270107T211500Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:39fbc07465ca@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
- infach für alle\, die sich [...] \\n\nhttps://werkhof-kulturzentrum.de/ev
- ent/4music-night-6/
+ infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
+ 4music-night-6/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-6/
 END:VEVENT
@@ -188,11 +187,11 @@ BEGIN:VEVENT
 SUMMARY:VON WELT – Adrenalin Tour 2027 am 09-01-2027
 DTSTART:20270109T190000Z
 DTEND:20270109T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:aa169f5e888e@event-collector
 DESCRIPTION:VON WELT denken Rock neu. Intelligent\, kompromisslos und voll
- er Atmosphäre [...] \\n\nhttps://werkhof-kulturzentrum.de/event/von-welt-
- adrenalin-tour-2027-am-09-01-2027/
+ er Atmosphäre [...]\nhttps://werkhof-kulturzentrum.de/event/von-welt-adre
+ nalin-tour-2027-am-09-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/von-welt-adrenalin-tour-2027-am
  -09-01-2027/
@@ -201,11 +200,11 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 15.01.2027
 DTSTART:20270115T180000Z
 DTEND:20270115T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:c6412bb52fc5@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
- siker Drei Physiker. [...] \\n\nhttps://werkhof-kulturzentrum.de/event/die
- -physiker-am-15-01-2027/
+ siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
+ siker-am-15-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/die-physiker-am-15-01-2027/
 END:VEVENT
@@ -213,11 +212,11 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 17.01.2027
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:534b475df5e7@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
- siker Drei Physiker. [...] \\n\nhttps://werkhof-kulturzentrum.de/event/die
- -physiker-am-17-01-2027/
+ siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
+ siker-am-17-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/die-physiker-am-17-01-2027/
 END:VEVENT
@@ -225,11 +224,11 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 19.01.2027
 DTSTART:20270119T180000Z
 DTEND:20270119T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:410a6da75a84@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
- siker Drei Physiker. [...] \\n\nhttps://werkhof-kulturzentrum.de/event/die
- -physiker-am-19-01-2027/
+ siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
+ siker-am-19-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/die-physiker-am-19-01-2027/
 END:VEVENT
@@ -237,11 +236,10 @@ BEGIN:VEVENT
 SUMMARY:Beatles on Piano am 22.01.2027
 DTSTART:20270122T190000Z
 DTEND:20270122T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:7a136dbfcb54@event-collector
 DESCRIPTION:THE BEATLES ON PIANO Bastian Korn & Band Eine musikalische [..
- .] \\n\nhttps://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2
- 027/
+ .]\nhttps://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2027/
 END:VEVENT
@@ -249,10 +247,10 @@ BEGIN:VEVENT
 SUMMARY:Jam Session / Open Mic
 DTSTART:20270129T180000Z
 DTEND:20270129T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:e9b31ea2b867@event-collector
 DESCRIPTION:Lust auf Musik\, Groove und gute Vibes? In lockerer Atmosphär
- e [...] \\n\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic/
+ e [...]\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/jam-session-open-mic/
 END:VEVENT
@@ -260,10 +258,10 @@ BEGIN:VEVENT
 SUMMARY:Sons of Odin am 30.01.2027
 DTSTART:20270130T190000Z
 DTEND:20270130T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:a65eb84d240a@event-collector
-DESCRIPTION:SONS OF ODIN – A Tribute to Manowar Wenn epischer [...] \\n
- \nhttps://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/
+DESCRIPTION:SONS OF ODIN – A Tribute to Manowar Wenn epischer [...]\nhtt
+ ps://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/
 END:VEVENT
@@ -271,11 +269,11 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270204T191500Z
 DTEND:20270204T211500Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:c379fc899123@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
- infach für alle\, die sich [...] \\n\nhttps://werkhof-kulturzentrum.de/ev
- ent/4music-night-7/
+ infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
+ 4music-night-7/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-7/
 END:VEVENT
@@ -283,11 +281,11 @@ BEGIN:VEVENT
 SUMMARY:Ersatztermin Katy Wirtz mit Band am 12.02.2027
 DTSTART:20270212T190000Z
 DTEND:20270212T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:cb789116ef72@event-collector
 DESCRIPTION:ACHTUNG\, Ersatztermin für den 07.11.2026 Die Tickets behalte
- n ihre Gültigkeit! [...] \\n\nhttps://werkhof-kulturzentrum.de/event/katy
- -wirtz/
+ n ihre Gültigkeit! [...]\nhttps://werkhof-kulturzentrum.de/event/katy-wir
+ tz/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/katy-wirtz/
 END:VEVENT
@@ -295,11 +293,11 @@ BEGIN:VEVENT
 SUMMARY:Wait for June am 13.02.2027
 DTSTART:20270213T190000Z
 DTEND:20270213T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:f8d2b61044ff@event-collector
 DESCRIPTION:Vielseitiger und detailreicher denn je wandelt die Band Wait F
- or [...] \\n\nhttps://werkhof-kulturzentrum.de/event/wait-for-june-am-13-0
- 2-2027/
+ or [...]\nhttps://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-20
+ 27/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-2027/
 END:VEVENT
@@ -307,11 +305,10 @@ BEGIN:VEVENT
 SUMMARY:Mother Black Cat
 DTSTART:20270219T190000Z
 DTEND:20270219T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:5a25c676c73e@event-collector
 DESCRIPTION:Mother Black Cat – Alternative Rock mit Leidenschaft und ord
- entlich [...] \\n\nhttps://werkhof-kulturzentrum.de/event/mother-black-cat
- /
+ entlich [...]\nhttps://werkhof-kulturzentrum.de/event/mother-black-cat/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/mother-black-cat/
 END:VEVENT
@@ -319,11 +316,11 @@ BEGIN:VEVENT
 SUMMARY:John Fogerty Coveration & King/Bon
 DTSTART:20270227T190000Z
 DTEND:20270227T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:0fab2d653fa6@event-collector
 DESCRIPTION:Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! F
- reut euch [...] \\n\nhttps://werkhof-kulturzentrum.de/event/john-fogerty-c
- overation-king-bon/
+ reut euch [...]\nhttps://werkhof-kulturzentrum.de/event/john-fogerty-cover
+ ation-king-bon/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/john-fogerty-coveration-king-bo
  n/
@@ -332,11 +329,11 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270304T191500Z
 DTEND:20270304T211500Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:ee69596d3a20@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
- infach für alle\, die sich [...] \\n\nhttps://werkhof-kulturzentrum.de/ev
- ent/4music-night-8/
+ infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
+ 4music-night-8/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-8/
 END:VEVENT
@@ -344,10 +341,10 @@ BEGIN:VEVENT
 SUMMARY:Brute Force and Ignorance
 DTSTART:20270312T190000Z
 DTEND:20270312T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:07788ad5c570@event-collector
 DESCRIPTION:BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher [...
- ] \\n\nhttps://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/
+ ]\nhttps://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/
 END:VEVENT
@@ -355,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Edelweiss
 DTSTART:20270313T190000Z
 DTEND:20270313T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:ca27fc611135@event-collector
 DESCRIPTION:Edelweiss ist eine AC/DC-Coverband aus Rheinland-Pfalz\, die m
  an – wie [...]\nhttps://werkhof-kulturzentrum.de/event/edelweiss/
@@ -366,11 +363,11 @@ BEGIN:VEVENT
 SUMMARY:THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:f515843593b4@event-collector
 DESCRIPTION:THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBUR
- ST [...] \\n\nhttps://werkhof-kulturzentrum.de/event/theocracy-grand-mosai
- c-tour-2027-special-guest-sunburst/
+ ST [...]\nhttps://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-to
+ ur-2027-special-guest-sunburst/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-tour-202
  7-special-guest-sunburst/
@@ -379,10 +376,10 @@ BEGIN:VEVENT
 SUMMARY:Fools Garden am 24.03.2027
 DTSTART:20270324T190000Z
 DTEND:20270324T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:1024c841faad@event-collector
 DESCRIPTION:Nach „Dish Of The Day“ geht die Reise weiter\, zurück [..
- .] \\n\nhttps://werkhof-kulturzentrum.de/event/foolsgarden/
+ .]\nhttps://werkhof-kulturzentrum.de/event/foolsgarden/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/foolsgarden/
 END:VEVENT
@@ -390,11 +387,11 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270401T181500Z
 DTEND:20270401T201500Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:184a77a18d05@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
- infach für alle\, die sich [...] \\n\nhttps://werkhof-kulturzentrum.de/ev
- ent/4music-night-9/
+ infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
+ 4music-night-9/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-9/
 END:VEVENT
@@ -402,11 +399,11 @@ BEGIN:VEVENT
 SUMMARY:Black Equinox Festival am 03.04.2027
 DTSTART:20270403T180000Z
 DTEND:20270403T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:169e77246474@event-collector
 DESCRIPTION:Genaue Infos folgen! Stehplatz - freie Platzwahl VVK 15 € [.
- ..] \\n\nhttps://werkhof-kulturzentrum.de/event/black-equinox-festival-am-
- 03-04-2027/
+ ..]\nhttps://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-0
+ 4-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-04
  -2027/
@@ -415,11 +412,11 @@ BEGIN:VEVENT
 SUMMARY:Stadtaffen am 16.04.2027
 DTSTART:20270416T180000Z
 DTEND:20270416T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:1feaddb5fad3@event-collector
 DESCRIPTION:STADTAFFEN – Die ultimative Tribute-Show für alle Fans von 
- Peter [...] \\n\nhttps://werkhof-kulturzentrum.de/event/stadtaffen-am-16-0
- 4-2027/
+ Peter [...]\nhttps://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-20
+ 27/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-2027/
 END:VEVENT
@@ -427,11 +424,11 @@ BEGIN:VEVENT
 SUMMARY:It´s All Pink – Tour 2027
 DTSTART:20270424T180000Z
 DTEND:20270424T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:c5233740463e@event-collector
 DESCRIPTION:Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die grö
- ßten Hits [...] \\n\nhttps://werkhof-kulturzentrum.de/event/its-all-pink-
- tour-2027/
+ ßten Hits [...]\nhttps://werkhof-kulturzentrum.de/event/its-all-pink-tour
+ -2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/its-all-pink-tour-2027/
 END:VEVENT
@@ -439,11 +436,11 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270506T060000Z
 DTEND:20270506T080000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:dd74c13a0653@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
- infach für alle\, die sich [...] \\n\nhttps://werkhof-kulturzentrum.de/ev
- ent/4music-night-10/
+ infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
+ 4music-night-10/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-10/
 END:VEVENT
@@ -451,11 +448,11 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270603T181500Z
 DTEND:20270603T201500Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:b0a4daaef101@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
- infach für alle\, die sich [...] \\n\nhttps://werkhof-kulturzentrum.de/ev
- ent/4music-night-11/
+ infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
+ 4music-night-11/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-11/
 END:VEVENT
@@ -463,11 +460,11 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270701T181500Z
 DTEND:20270701T201500Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:dc4c9cd54a13@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
- infach für alle\, die sich [...] \\n\nhttps://werkhof-kulturzentrum.de/ev
- ent/4music-night-12/
+ infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
+ 4music-night-12/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-12/
 END:VEVENT
@@ -475,11 +472,11 @@ BEGIN:VEVENT
 SUMMARY:Heavy Metal Fans Festival 2027 am 15. + 16.10.2027
 DTSTART:20271015T160000Z
 DTEND:20271015T180000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:50ef9ead9d4e@event-collector
-DESCRIPTION:Das Heavy Metal Fans Festival geht in die neunte Runde! [...] 
- \\n\nhttps://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027
- -am-15-16-10-2027/
+DESCRIPTION:Das Heavy Metal Fans Festival geht in die neunte Runde! [...]
+ \nhttps://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027-am
+ -15-16-10-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027-
  am-15-16-10-2027/

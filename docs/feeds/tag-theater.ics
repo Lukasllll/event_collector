@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens – eine Weihnachtsgeschichte
 DTSTART:20261120T183000Z
 DTEND:20261120T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:581fcb255e21@event-collector
 DESCRIPTION:Premiere: eine Weihnachtsgeschichte. Preisgruppe B\nhttps://th
  eaterandervolme.de/event/charles-dickens/
@@ -16,11 +16,11 @@ BEGIN:VEVENT
 SUMMARY:Theater unterm Schloss – Mordstödlich!
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:2c5fa06c7075@event-collector
 DESCRIPTION:Achtung: Aus Krankheitsgründen kann das Stück "Mordstödlich
- !" nicht stattfinden. Stattdessen [...] \\n\nhttps://werkhof-kulturzentrum
- .de/event/theater-unterm-schloss-mordstoedlich-2/
+ !" nicht stattfinden. Stattdessen [...]\nhttps://werkhof-kulturzentrum.de/
+ event/theater-unterm-schloss-mordstoedlich-2/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoe
  dlich-2/
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Ein Bett im Kornfeld
 DTSTART:20261121T183000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:00342d67182c@event-collector
 DESCRIPTION:oder Lavalampe und Flokati Die wilden 70er. Preisgruppe A\nhtt
  ps://theaterandervolme.de/event/ein-bett-im-kornfeld/
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Ein Bett im Kornfeld oder Lavalampe und Flokati
 DTSTART:20261121T183000Z
 DTEND:20261121T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:6d78622f0560@event-collector
 DESCRIPTION:Die wilden 70er „Ein Bett im Kornfeld oder Lavalampe und Flo
  kati“ hören Sie von und mit Dario Weberg und Karolin Kersting\nhttps://
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[entfällt?] Buchvorstellung 2026
 DTSTART;VALUE=DATE:20261122
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:cac8ba2245e6@event-collector
 DESCRIPTION:Buchvorstellung 2026 am 22.11.\nhttps://theaterandervolme.de/b
  uchvorstellung-2026/
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:752922d87709@event-collector
 DESCRIPTION:oder Island für Anfänger. Preisgruppe A\nhttps://theaterande
  rvolme.de/event/frostbeulen-familienglueck-2/
@@ -74,7 +74,7 @@ SUMMARY:[entfällt?] FROSTBEULEN & FAMILIENGLÜCK oder Island für Anfäng
  er
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:4687cc360325@event-collector
 DESCRIPTION:Freuen Sie sich auf „FROSTBEULEN & FAMILIENGLÜCK oder Islan
  d für Anfänger“ mit Dario Weberg und Karolin Kersting\nhttps://theater
@@ -86,11 +86,11 @@ BEGIN:VEVENT
 SUMMARY:Theater unterm Schloss – Mordstödlich!
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:9f63b7cce7eb@event-collector
 DESCRIPTION:Achtung: Aus Krankheitsgründen kann das Stück "Mordstödlich
- !" nicht stattfinden. Stattdessen [...] \\n\nhttps://werkhof-kulturzentrum
- .de/event/theater-unterm-schloss-mordstoedlich-3/
+ !" nicht stattfinden. Stattdessen [...]\nhttps://werkhof-kulturzentrum.de/
+ event/theater-unterm-schloss-mordstoedlich-3/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoe
  dlich-3/
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Kasimir und Karoline
 DTSTART:20261127T183000Z
 DTEND:20261127T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:aae50e3a0f33@event-collector
 DESCRIPTION:Eine Produktion des Jugendclubs des Theaters an der Volme. Nac
  h Ödön von Horváth. Preisgruppe C\nhttps://theaterandervolme.de/event/k
@@ -111,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens – eine Weihnachtsgeschichte
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:64c029bbc72f@event-collector
 DESCRIPTION:eine Weihnachtsgeschichte. Preisgruppe A\nhttps://theaterander
  volme.de/event/charles-dickens-4/
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Ich brauch Tapetenwechsel
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:8c984c5088f1@event-collector
 DESCRIPTION:Ein Chansonabend und eine Hommage an die große Hildegard Knef
   mit Nina Tripp. Preisgruppe A\nhttps://theaterandervolme.de/event/ich-bra
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Pop Up Theater in Wattenscheid: Die Wand
 DTSTART:20261203T183000Z
 DTEND:20261203T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:7292292bb990@event-collector
 DESCRIPTION:Von Marlen Haushofer | Regie Alexander Ritter\nhttps://rottstr
  5-theater.de/pop-up-theater-die-wand.html
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Er kam\, sah und sie siegte
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:492c5f5f771b@event-collector
 DESCRIPTION:Männer sind anders\, Frauen auch. Preisgruppe A\nhttps://thea
  terandervolme.de/event/er-kam-sah-und-sie-siegte-2-2/
@@ -156,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:9c3d29094074@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:d96eab78084d@event-collector
 DESCRIPTION:oder Island für Anfänger. Preisgruppe A\nhttps://theaterande
  rvolme.de/event/frostbeulen-familienglueck-1/
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:Törleß
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:507b2423be94@event-collector
 DESCRIPTION:nach Robert Musil | Regie Akbar Paktin\nhttps://rottstr5-theat
  er.de/T%C3%B6rle%C3%9F.html
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Ein bisschen Baum muss sein
 DTSTART:20261210T183000Z
 DTEND:20261210T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:a7a1ff828460@event-collector
 DESCRIPTION:Satirisch-musikalisches Weihnachtskabarett von und mit Stefan 
  Keim und Leslie Sternefeld. Preisgruppe A\nhttps://theaterandervolme.de/ev
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Der Mörder war es!
 DTSTART:20261211T183000Z
 DTEND:20261211T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:1abb5f2fd3bc@event-collector
 DESCRIPTION:Krimikomödie von Indra Janorschke und Dario Weberg. Preisgrup
  pe A\nhttps://theaterandervolme.de/event/der-moerder-war-es-4/
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens – eine Weihnachtsgeschichte
 DTSTART:20261212T183000Z
 DTEND:20261212T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:ffd0e6a6fd93@event-collector
 DESCRIPTION:eine Weihnachtsgeschichte. Preisgruppe A\nhttps://theaterander
  volme.de/event/charles-dickens-1/
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens – eine Weihnachtsgeschichte
 DTSTART:20261213T170000Z
 DTEND:20261213T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:12b56c6f25d0@event-collector
 DESCRIPTION:eine Weihnachtsgeschichte. Preisgruppe A\nhttps://theaterander
  volme.de/event/charles-dickens-2/
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261213T183000Z
 DTEND:20261213T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:32afa4eb940d@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Das große Heft
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:9a5b4927fa02@event-collector
 DESCRIPTION:von Ágota Kristóf | Regie Martina van Boxen\nhttps://rottstr
  5-theater.de/das-grosse-heft.html
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Club 2.0
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:23b84073bdf0@event-collector
 DESCRIPTION:Jahrhundertsketche in Neuauflage. Preisgruppe A\nhttps://theat
  erandervolme.de/event/sketch-comedy-club-2-0-2-2-4/
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:78d59e71d44f@event-collector
 DESCRIPTION:oder Island für Anfänger. Preisgruppe A\nhttps://theaterande
  rvolme.de/event/frostbeulen-familienglueck-3/
@@ -278,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens – eine Weihnachtsgeschichte
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:d9aecb40209d@event-collector
 DESCRIPTION:eine Weihnachtsgeschichte. Preisgruppe A\nhttps://theaterander
  volme.de/event/charles-dickens-3/
@@ -289,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Das Beste kommt zum Schluss
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:7b9f10b712c0@event-collector
 DESCRIPTION:Die ultimative Show zu Silvester. Preisgruppe A\nhttps://theat
  erandervolme.de/event/das-beste-kommt-zum-schluss-2/
@@ -300,11 +300,11 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 15.01.2027
 DTSTART:20270115T180000Z
 DTEND:20270115T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:c6412bb52fc5@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
- siker Drei Physiker. [...] \\n\nhttps://werkhof-kulturzentrum.de/event/die
- -physiker-am-15-01-2027/
+ siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
+ siker-am-15-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/die-physiker-am-15-01-2027/
 END:VEVENT
@@ -312,11 +312,11 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 17.01.2027
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:534b475df5e7@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
- siker Drei Physiker. [...] \\n\nhttps://werkhof-kulturzentrum.de/event/die
- -physiker-am-17-01-2027/
+ siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
+ siker-am-17-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/die-physiker-am-17-01-2027/
 END:VEVENT
@@ -324,11 +324,11 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 19.01.2027
 DTSTART:20270119T180000Z
 DTEND:20270119T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:410a6da75a84@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
- siker Drei Physiker. [...] \\n\nhttps://werkhof-kulturzentrum.de/event/die
- -physiker-am-19-01-2027/
+ siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
+ siker-am-19-01-2027/
 LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/die-physiker-am-19-01-2027/
 END:VEVENT
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:QUICHOTTE „Guter Dinge“
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:391b60045fed@event-collector
 DESCRIPTION:QUICHOTTE „Guter Dinge“\nhttps://www.pelmke.de/veranstaltu
  ngen/quichotte-guter-dinge/
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270924T180000Z
 DTEND:20270924T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:1b65c561d058@event-collector
 DESCRIPTION:Jan Philipp Zymny – „VILLAIN ERA“\nhttps://www.pelmke.de
  /veranstaltungen/jan-philipp-zymny-villain-era/
@@ -358,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270925T180000Z
 DTEND:20270925T200000Z
-DTSTAMP:20261119T105849Z
+DTSTAMP:20261119T114045Z
 UID:83509c18a3c4@event-collector
 DESCRIPTION:Jan Philipp Zymny – „VILLAIN ERA“\nhttps://www.pelmke.de
  /veranstaltungen/jan-philipp-zymny-villain-era-2/

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T11:57:18+01:00",
+ "generated": "2026-11-19T12:39:46+01:00",
  "tags": [
   "konzert",
   "jam-session",
@@ -62,7 +62,7 @@
    "id": "affenhack",
    "name": "Affenhack Studios",
    "city": "Herne",
-   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU"
+   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/"
   }
  ],
  "events": [
@@ -77,13 +77,13 @@
     "party"
    ],
    "genre": null,
-   "description": "PREWEEKEND IM WERKHOF Am 19. November startet im Werkhof Hohenlimburg [...] \\n",
+   "description": "PREWEEKEND IM WERKHOF Am 19. November startet im Werkhof Hohenlimburg [...]",
    "url": "https://werkhof-kulturzentrum.de/event/preweekend-am-19-11-2026/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -103,7 +103,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -123,7 +123,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -143,7 +143,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -182,7 +182,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -222,7 +222,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -255,13 +255,13 @@
     "theater"
    ],
    "genre": "Krimi-Komödie",
-   "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...] \\n",
+   "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...]",
    "url": "https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoedlich-2/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -281,7 +281,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -301,7 +301,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -380,7 +380,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -394,13 +394,13 @@
     "konzert"
    ],
    "genre": "Rock",
-   "description": "Clashing Minds spielen schon seit 2017 zusammen Musik und sind [...] \\n",
+   "description": "Clashing Minds spielen schon seit 2017 zusammen Musik und sind [...]",
    "url": "https://werkhof-kulturzentrum.de/event/clashing-friends-festival-vol-iii/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -460,7 +460,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -500,7 +500,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -520,7 +520,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -540,7 +540,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -592,13 +592,13 @@
     "theater"
    ],
    "genre": "Krimi-Komödie",
-   "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...] \\n",
+   "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...]",
    "url": "https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoedlich-3/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -618,7 +618,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -638,7 +638,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -658,7 +658,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
+   "gone": false
+  },
+  {
+   "id": "1f526172564a",
+   "venue_id": "pelmke",
+   "title": "»Alte Wut« – Lesung und Gespräch mit der Autorin Caro Matzko",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "lesung"
+   ],
+   "genre": null,
+   "description": "»Alte Wut» – Warum ich an den Ort reiste, von dem mein Vater einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko",
+   "url": "https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-19T12:39:46+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -679,7 +699,7 @@
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
    "last_seen": "2026-11-19T11:57:18+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "172b8d3f3826",
@@ -692,13 +712,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-8/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -718,7 +738,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -738,7 +758,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -772,13 +792,13 @@
     "jam-session"
    ],
    "genre": "Rock",
-   "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...] \\n",
+   "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...]",
    "url": "https://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -817,7 +837,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -837,7 +857,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -857,7 +877,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -916,7 +936,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -930,13 +950,13 @@
     "konzert"
    ],
    "genre": "Southern Rock",
-   "description": "Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde [...] \\n",
+   "description": "Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde [...]",
    "url": "https://werkhof-kulturzentrum.de/event/th-the-boneshakerz/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -956,7 +976,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -976,7 +996,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -996,7 +1016,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1017,7 +1037,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1057,7 +1077,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1077,7 +1097,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1097,7 +1117,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1117,7 +1137,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1137,7 +1157,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1150,14 +1170,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
-   "description": "DJ Set und Happy Hour",
+   "genre": "DJ Set",
+   "description": "Mukke am Mittwoch w/ WHLKLNG – DJ Set und Happy Hour",
    "url": "https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1177,7 +1197,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1197,7 +1217,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1211,13 +1231,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/4-music-night-3/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1237,7 +1257,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1276,7 +1296,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1296,7 +1316,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1317,7 +1337,7 @@
    "classified": true,
    "first_seen": "2026-11-19T00:16:06+01:00",
    "last_seen": "2026-11-19T11:57:18+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "13e2f0cfbd79",
@@ -1334,9 +1354,10 @@
    "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T02:01:43+01:00",
-   "gone": true
+   "last_seen": "2026-11-19T12:39:46+01:00",
+   "gone": false
   },
   {
    "id": "d96eab78084d",
@@ -1369,12 +1390,12 @@
    ],
    "genre": null,
    "description": "",
-   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/",
    "location_override": null,
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1394,7 +1415,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1414,7 +1435,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1428,13 +1449,13 @@
     "party"
    ],
    "genre": "Gothic/Metal/Rockabilly/Punk",
-   "description": "Flohmarkt für Gothic, Metal, Rockabilly, Punk & More - Eintritt [...] \\n",
+   "description": "Flohmarkt für Gothic, Metal, Rockabilly, Punk & More - Eintritt [...]",
    "url": "https://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-12-2026/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1473,7 +1494,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1493,7 +1514,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1514,7 +1535,7 @@
    "classified": true,
    "first_seen": "2026-11-19T00:16:06+01:00",
    "last_seen": "2026-11-19T11:57:18+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "7d893bd9647b",
@@ -1527,13 +1548,14 @@
     "sonstiges"
    ],
    "genre": null,
-   "description": "Vortrag von und mit attac Hagen",
+   "description": "Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortrag von und mit attac Hagen",
    "url": "https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen/",
    "location_override": null,
    "recurring": false,
+   "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T00:13:22+01:00",
-   "gone": true
+   "last_seen": "2026-11-19T12:39:46+01:00",
+   "gone": false
   },
   {
    "id": "94444b57e4d9",
@@ -1553,7 +1575,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1594,7 +1616,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1614,7 +1636,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1634,7 +1656,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1667,13 +1689,13 @@
     "konzert"
    ],
    "genre": "Rock",
-   "description": "Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kulturzentrum [...] \\n",
+   "description": "Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kulturzentrum [...]",
    "url": "https://werkhof-kulturzentrum.de/event/rockpalast-revival-2-0/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1686,14 +1708,14 @@
    "tags": [
     "sonstiges"
    ],
-   "genre": "Comedy",
+   "genre": "StandUp-Comedy",
    "description": "StandUp-Comedy",
    "url": "https://www.pelmke.de/veranstaltungen/standup-comedy-5/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1707,13 +1729,13 @@
     "konzert"
    ],
    "genre": "Rock/Metal",
-   "description": "UNITED ON THE ROCK – ROCK, METAL & SANDKUNST Vier [...] \\n",
+   "description": "UNITED ON THE ROCK – ROCK, METAL & SANDKUNST Vier [...]",
    "url": "https://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1752,7 +1774,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1772,7 +1794,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1792,7 +1814,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1812,7 +1834,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1851,7 +1873,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1871,7 +1893,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1891,7 +1913,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1905,13 +1927,13 @@
     "party"
    ],
    "genre": null,
-   "description": "TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [...] \\n",
+   "description": "TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [...]",
    "url": "https://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1931,7 +1953,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1951,7 +1973,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1971,7 +1993,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -1991,7 +2013,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2024,13 +2046,13 @@
     "konzert"
    ],
    "genre": "Irish Folk Punk",
-   "description": "KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember [...] \\n",
+   "description": "KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember [...]",
    "url": "https://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12-2026/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2050,7 +2072,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2084,13 +2106,13 @@
     "party"
    ],
    "genre": null,
-   "description": "Soul Invaders / Tuffi Slippers / The Mad Moiselles / Putrid Cave / tba",
+   "description": "Soul Invaders / Tuffi Slippers / Putrid Cave / tba",
    "url": "https://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slippers-the-mad-moiselles-putrid-cave/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2110,7 +2132,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2124,13 +2146,13 @@
     "konzert"
    ],
    "genre": "Country Rock",
-   "description": "CountryRock Night - Jahresabschluss mit Siiri - Wenn ehrliche Songs [...] \\n",
+   "description": "CountryRock Night - Jahresabschluss mit Siiri - Wenn ehrliche Songs [...]",
    "url": "https://werkhof-kulturzentrum.de/event/countryrock-jahresabschluss-mit-siiri/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2169,7 +2191,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2189,7 +2211,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2209,7 +2231,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2223,13 +2245,13 @@
     "party"
    ],
    "genre": null,
-   "description": "Ho, ho, ho – Schluss mit stiller Nacht! Am 26. [...] \\n",
+   "description": "Ho, ho, ho – Schluss mit stiller Nacht! Am 26. [...]",
    "url": "https://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-kneipe/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2249,7 +2271,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2288,7 +2310,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2303,12 +2325,12 @@
    ],
    "genre": null,
    "description": "",
-   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/",
    "location_override": null,
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2328,7 +2350,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2342,13 +2364,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-6/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2368,7 +2390,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2388,7 +2410,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2402,13 +2424,13 @@
     "konzert"
    ],
    "genre": "Rock",
-   "description": "VON WELT denken Rock neu. Intelligent, kompromisslos und voller Atmosphäre [...] \\n",
+   "description": "VON WELT denken Rock neu. Intelligent, kompromisslos und voller Atmosphäre [...]",
    "url": "https://werkhof-kulturzentrum.de/event/von-welt-adrenalin-tour-2027-am-09-01-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2422,13 +2444,13 @@
     "theater"
    ],
    "genre": "Klassiker",
-   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
+   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...]",
    "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-15-01-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2442,13 +2464,13 @@
     "theater"
    ],
    "genre": "Klassiker",
-   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
+   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...]",
    "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-17-01-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2462,13 +2484,13 @@
     "theater"
    ],
    "genre": "Klassiker",
-   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
+   "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...]",
    "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-19-01-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2488,7 +2510,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2502,13 +2524,13 @@
     "konzert"
    ],
    "genre": "Tribute",
-   "description": "THE BEATLES ON PIANO Bastian Korn & Band Eine musikalische [...] \\n",
+   "description": "THE BEATLES ON PIANO Bastian Korn & Band Eine musikalische [...]",
    "url": "https://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2522,13 +2544,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-6/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2548,7 +2570,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2562,13 +2584,13 @@
     "jam-session"
    ],
    "genre": null,
-   "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...] \\n",
+   "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...]",
    "url": "https://werkhof-kulturzentrum.de/event/jam-session-open-mic/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2588,7 +2610,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2608,7 +2630,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2622,13 +2644,13 @@
     "konzert"
    ],
    "genre": "Tribute/Heavy Metal",
-   "description": "SONS OF ODIN – A Tribute to Manowar Wenn epischer [...] \\n",
+   "description": "SONS OF ODIN – A Tribute to Manowar Wenn epischer [...]",
    "url": "https://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2642,13 +2664,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-7/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2663,12 +2685,12 @@
    ],
    "genre": null,
    "description": "",
-   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+   "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/",
    "location_override": null,
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2682,13 +2704,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "ACHTUNG, Ersatztermin für den 07.11.2026 Die Tickets behalten ihre Gültigkeit! [...] \\n",
+   "description": "ACHTUNG, Ersatztermin für den 07.11.2026 Die Tickets behalten ihre Gültigkeit! [...]",
    "url": "https://werkhof-kulturzentrum.de/event/katy-wirtz/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2708,7 +2730,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2722,13 +2744,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Vielseitiger und detailreicher denn je wandelt die Band Wait For [...] \\n",
+   "description": "Vielseitiger und detailreicher denn je wandelt die Band Wait For [...]",
    "url": "https://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2748,7 +2770,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2762,13 +2784,13 @@
     "konzert"
    ],
    "genre": "Alternative Rock",
-   "description": "Mother Black Cat – Alternative Rock mit Leidenschaft und ordentlich [...] \\n",
+   "description": "Mother Black Cat – Alternative Rock mit Leidenschaft und ordentlich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/mother-black-cat/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2788,7 +2810,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2808,7 +2830,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2822,13 +2844,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-10/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2848,7 +2870,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2869,7 +2891,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2883,13 +2905,13 @@
     "konzert"
    ],
    "genre": "Rock/Tribute",
-   "description": "Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! Freut euch [...] \\n",
+   "description": "Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! Freut euch [...]",
    "url": "https://werkhof-kulturzentrum.de/event/john-fogerty-coveration-king-bon/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2909,7 +2931,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2923,13 +2945,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-8/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2949,7 +2971,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2963,13 +2985,13 @@
     "konzert"
    ],
    "genre": "Tribute/Blues Rock",
-   "description": "BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher [...] \\n",
+   "description": "BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher [...]",
    "url": "https://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -2989,7 +3011,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3003,13 +3025,13 @@
     "konzert"
    ],
    "genre": "Progressive Metal",
-   "description": "THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST [...] \\n",
+   "description": "THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST [...]",
    "url": "https://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-tour-2027-special-guest-sunburst/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3023,13 +3045,13 @@
     "konzert"
    ],
    "genre": "Pop/Rock",
-   "description": "Nach „Dish Of The Day“ geht die Reise weiter, zurück [...] \\n",
+   "description": "Nach „Dish Of The Day“ geht die Reise weiter, zurück [...]",
    "url": "https://werkhof-kulturzentrum.de/event/foolsgarden/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3043,13 +3065,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-11/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3069,7 +3091,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3083,13 +3105,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-9/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3103,13 +3125,13 @@
     "konzert"
    ],
    "genre": "Metal",
-   "description": "Genaue Infos folgen! Stehplatz - freie Platzwahl VVK 15 € [...] \\n",
+   "description": "Genaue Infos folgen! Stehplatz - freie Platzwahl VVK 15 € [...]",
    "url": "https://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-04-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3129,7 +3151,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3143,13 +3165,13 @@
     "konzert"
    ],
    "genre": "Tribute/Pop",
-   "description": "STADTAFFEN – Die ultimative Tribute-Show für alle Fans von Peter [...] \\n",
+   "description": "STADTAFFEN – Die ultimative Tribute-Show für alle Fans von Peter [...]",
    "url": "https://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3163,13 +3185,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-13/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3183,13 +3205,13 @@
     "konzert"
    ],
    "genre": "Tribute/Pop Rock",
-   "description": "Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die größten Hits [...] \\n",
+   "description": "Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die größten Hits [...]",
    "url": "https://werkhof-kulturzentrum.de/event/its-all-pink-tour-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3203,13 +3225,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-10/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3229,7 +3251,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3243,13 +3265,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-14/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3263,13 +3285,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-11/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3289,7 +3311,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3309,7 +3331,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3323,13 +3345,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-15/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3343,13 +3365,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+   "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
    "url": "https://werkhof-kulturzentrum.de/event/4music-night-12/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3363,13 +3385,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-16/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3390,7 +3412,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3411,7 +3433,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3425,13 +3447,13 @@
     "konzert"
    ],
    "genre": "Heavy Metal",
-   "description": "Das Heavy Metal Fans Festival geht in die neunte Runde! [...] \\n",
+   "description": "Das Heavy Metal Fans Festival geht in die neunte Runde! [...]",
    "url": "https://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027-am-15-16-10-2027/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3445,13 +3467,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-17/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   },
   {
@@ -3465,13 +3487,13 @@
     "party"
    ],
    "genre": null,
-   "description": "freestyling w/ inagee",
+   "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-12/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T11:57:18+01:00",
+   "last_seen": "2026-11-19T12:39:46+01:00",
    "gone": false
   }
  ]

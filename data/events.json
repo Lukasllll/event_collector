@@ -93,7 +93,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "967bf68fc526": {
@@ -114,7 +114,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "986afcac594a": {
@@ -134,7 +134,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "7292292bb990": {
@@ -154,7 +154,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "9c3d29094074": {
@@ -174,7 +174,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "7e146ca4b2c4": {
@@ -272,7 +272,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "e3b9f2fa7930": {
@@ -292,7 +292,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "62c6f89171b8": {
@@ -313,7 +313,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "694eef6922de": {
@@ -333,7 +333,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "fb2690ca432b": {
@@ -353,7 +353,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "85d94d66e966": {
@@ -374,7 +374,7 @@
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
   "last_seen": "2026-11-19T11:57:18+01:00",
-  "gone": false
+  "gone": true
  },
  "172b8d3f3826": {
   "id": "172b8d3f3826",
@@ -387,13 +387,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-8/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "e08990dee11c": {
@@ -413,7 +413,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "807f38fecd5f": {
@@ -433,7 +433,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "a4053fd1054a": {
@@ -453,7 +453,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "c43e9517dcdb": {
@@ -466,14 +466,14 @@
   "tags": [
    "party"
   ],
-  "genre": null,
-  "description": "DJ Set und Happy Hour",
+  "genre": "DJ Set",
+  "description": "Mukke am Mittwoch w/ WHLKLNG – DJ Set und Happy Hour",
   "url": "https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "008d26edf8b2": {
@@ -493,7 +493,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "13e2f0cfbd79": {
@@ -511,9 +511,10 @@
   "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T02:01:43+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T12:39:46+01:00",
+  "gone": false
  },
  "8dcc1ce84db1": {
   "id": "8dcc1ce84db1",
@@ -532,7 +533,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "7d893bd9647b": {
@@ -546,13 +547,14 @@
    "sonstiges"
   ],
   "genre": null,
-  "description": "Vortrag von und mit attac Hagen",
+  "description": "Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortrag von und mit attac Hagen",
   "url": "https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-und-mit-attac-hagen/",
   "location_override": null,
   "recurring": false,
+  "classified": true,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T12:39:46+01:00",
+  "gone": false
  },
  "170e04f3f33a": {
   "id": "170e04f3f33a",
@@ -572,7 +574,7 @@
   "classified": true,
   "first_seen": "2026-11-19T00:16:06+01:00",
   "last_seen": "2026-11-19T11:57:18+01:00",
-  "gone": false
+  "gone": true
  },
  "0376ab6d9333": {
   "id": "0376ab6d9333",
@@ -592,7 +594,7 @@
   "classified": true,
   "first_seen": "2026-11-19T00:16:06+01:00",
   "last_seen": "2026-11-19T11:57:18+01:00",
-  "gone": false
+  "gone": true
  },
  "a6d9f75feca2": {
   "id": "a6d9f75feca2",
@@ -976,7 +978,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "3634d818e2ef": {
@@ -996,7 +998,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "32afa4eb940d": {
@@ -1016,7 +1018,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "9a5b4927fa02": {
@@ -1036,7 +1038,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "7833b68d9ed9": {
@@ -1056,7 +1058,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "98258dea9a68": {
@@ -1076,7 +1078,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "bd7a046e435b": {
@@ -1097,7 +1099,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "4deebb544d9f": {
@@ -1117,7 +1119,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "9a8ce7d22c62": {
@@ -1137,7 +1139,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "314858e8b1ca": {
@@ -1157,7 +1159,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "1d138b027dd2": {
@@ -1177,7 +1179,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "4eeaf6bfcb14": {
@@ -1197,7 +1199,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "e7f641fec46f": {
@@ -1217,7 +1219,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "425862258d2c": {
@@ -1238,7 +1240,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "52b0b6a002ae": {
@@ -1251,14 +1253,14 @@
   "tags": [
    "sonstiges"
   ],
-  "genre": "Comedy",
+  "genre": "StandUp-Comedy",
   "description": "StandUp-Comedy",
   "url": "https://www.pelmke.de/veranstaltungen/standup-comedy-5/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "7ea89a0e93da": {
@@ -1278,7 +1280,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "cc52c6857db4": {
@@ -1298,7 +1300,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "3b548bf3b4b9": {
@@ -1313,13 +1315,13 @@
    "party"
   ],
   "genre": null,
-  "description": "Soul Invaders / Tuffi Slippers / The Mad Moiselles / Putrid Cave / tba",
+  "description": "Soul Invaders / Tuffi Slippers / Putrid Cave / tba",
   "url": "https://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slippers-the-mad-moiselles-putrid-cave/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "a80fe59c05b6": {
@@ -1339,7 +1341,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "64b3251aa67d": {
@@ -1359,7 +1361,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "56d069484319": {
@@ -1373,13 +1375,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-6/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "5936231e39f5": {
@@ -1399,7 +1401,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "a2fd1a96a40d": {
@@ -1413,13 +1415,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-10/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "391b60045fed": {
@@ -1440,7 +1442,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f6269084ad8b": {
@@ -1460,7 +1462,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "8c7cca35467d": {
@@ -1474,13 +1476,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-11/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "10a0dcf50e34": {
@@ -1494,13 +1496,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-13/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "705e48be0a17": {
@@ -1514,13 +1516,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-14/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "287370c32f6f": {
@@ -1540,7 +1542,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "5144c0ed3e8a": {
@@ -1554,13 +1556,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-15/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "517b6f49687c": {
@@ -1574,13 +1576,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-16/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "1b65c561d058": {
@@ -1601,7 +1603,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "83509c18a3c4": {
@@ -1622,7 +1624,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "a7645eda1305": {
@@ -1636,13 +1638,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-17/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "5c283d41ed80": {
@@ -1656,13 +1658,13 @@
    "party"
   ],
   "genre": null,
-  "description": "freestyling w/ inagee",
+  "description": "Sundowner Collective – After Work Party, freestyling w/ inagee",
   "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-12/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "0ef16fb6f2f7": {
@@ -1682,7 +1684,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "cead21dcb903": {
@@ -1702,7 +1704,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "ecfa49a5735d": {
@@ -1722,7 +1724,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "13022732f003": {
@@ -1742,7 +1744,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "bcc8df82edf0": {
@@ -1762,7 +1764,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "6f6591b52cd2": {
@@ -1782,7 +1784,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "4c8cbcf28f7a": {
@@ -1802,7 +1804,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "242887ecaf3f": {
@@ -1822,7 +1824,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "55641828f61c": {
@@ -1842,7 +1844,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "902928165a50": {
@@ -1862,7 +1864,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "0513f6a19df0": {
@@ -1882,7 +1884,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "94444b57e4d9": {
@@ -1903,7 +1905,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "4ab0d9c41dd6": {
@@ -1923,7 +1925,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "18ab088c9477": {
@@ -1943,7 +1945,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "68d6b1182886": {
@@ -1963,7 +1965,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "7dfcc140bad1": {
@@ -1983,7 +1985,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "9a8b22a13ca0": {
@@ -2003,7 +2005,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f4475d9d227f": {
@@ -2023,7 +2025,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "dee8ecf7fc6a": {
@@ -2043,7 +2045,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f538bbcb678c": {
@@ -2063,7 +2065,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "b3b7be3a0e84": {
@@ -2083,7 +2085,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "966aa7f22c51": {
@@ -2103,7 +2105,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "4d110bb33010": {
@@ -2123,7 +2125,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "951b1487dfa3": {
@@ -2143,7 +2145,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "ae68356f137c": {
@@ -2163,7 +2165,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "9ac988a18d20": {
@@ -2183,7 +2185,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f96714e480bc": {
@@ -2203,7 +2205,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "8bd7eb276615": {
@@ -2223,7 +2225,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "20cd4467aac4": {
@@ -2243,7 +2245,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "07e65f5c0c32": {
@@ -2263,7 +2265,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "4ab46e1d6d41": {
@@ -2283,7 +2285,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "683f3254c4d5": {
@@ -2303,7 +2305,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "02bb3236718a": {
@@ -2323,7 +2325,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "db92d523b27b": {
@@ -2343,7 +2345,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "ea0ac255ade5": {
@@ -2363,7 +2365,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "75ca0e76528f": {
@@ -2383,7 +2385,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "ff5498528af7": {
@@ -2403,7 +2405,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "390bd5f5941e": {
@@ -2423,7 +2425,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "0fde6b6e5d40": {
@@ -2443,7 +2445,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f30775275d1b": {
@@ -2463,7 +2465,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "3def69bff9a3": {
@@ -2478,12 +2480,12 @@
   ],
   "genre": null,
   "description": "",
-  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/",
   "location_override": null,
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "870fe70b6c35": {
@@ -2498,12 +2500,12 @@
   ],
   "genre": null,
   "description": "",
-  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/",
   "location_override": null,
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "1bb634e1bd14": {
@@ -2518,12 +2520,12 @@
   ],
   "genre": null,
   "description": "",
-  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/100089241211615/",
   "location_override": null,
   "recurring": true,
   "classified": true,
   "first_seen": "2026-11-19T01:03:32+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "d07526fffd7e": {
@@ -2543,7 +2545,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "665a7cad37dd": {
@@ -2563,7 +2565,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "29ccd8d0dd02": {
@@ -2584,7 +2586,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "7ac550485064": {
@@ -2604,7 +2606,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "979bad09d7e1": {
@@ -2618,13 +2620,13 @@
    "party"
   ],
   "genre": null,
-  "description": "PREWEEKEND IM WERKHOF Am 19. November startet im Werkhof Hohenlimburg [...] \\n",
+  "description": "PREWEEKEND IM WERKHOF Am 19. November startet im Werkhof Hohenlimburg [...]",
   "url": "https://werkhof-kulturzentrum.de/event/preweekend-am-19-11-2026/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "2c5fa06c7075": {
@@ -2638,13 +2640,13 @@
    "theater"
   ],
   "genre": "Krimi-Komödie",
-  "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...] \\n",
+  "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...]",
   "url": "https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoedlich-2/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "80eaa15c6132": {
@@ -2658,13 +2660,13 @@
    "konzert"
   ],
   "genre": "Rock",
-  "description": "Clashing Minds spielen schon seit 2017 zusammen Musik und sind [...] \\n",
+  "description": "Clashing Minds spielen schon seit 2017 zusammen Musik und sind [...]",
   "url": "https://werkhof-kulturzentrum.de/event/clashing-friends-festival-vol-iii/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "9f63b7cce7eb": {
@@ -2678,13 +2680,13 @@
    "theater"
   ],
   "genre": "Krimi-Komödie",
-  "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...] \\n",
+  "description": "Achtung: Aus Krankheitsgründen kann das Stück \"Mordstödlich!\" nicht stattfinden. Stattdessen [...]",
   "url": "https://werkhof-kulturzentrum.de/event/theater-unterm-schloss-mordstoedlich-3/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "a6bb6b0ea571": {
@@ -2698,13 +2700,13 @@
    "jam-session"
   ],
   "genre": "Rock",
-  "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...] \\n",
+  "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...]",
   "url": "https://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "014bfbe4eb66": {
@@ -2718,13 +2720,13 @@
    "konzert"
   ],
   "genre": "Southern Rock",
-  "description": "Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde [...] \\n",
+  "description": "Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde [...]",
   "url": "https://werkhof-kulturzentrum.de/event/th-the-boneshakerz/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "fffd2d771fa3": {
@@ -2738,13 +2740,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/4-music-night-3/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f8c6b1d33c59": {
@@ -2758,13 +2760,13 @@
    "party"
   ],
   "genre": "Gothic/Metal/Rockabilly/Punk",
-  "description": "Flohmarkt für Gothic, Metal, Rockabilly, Punk & More - Eintritt [...] \\n",
+  "description": "Flohmarkt für Gothic, Metal, Rockabilly, Punk & More - Eintritt [...]",
   "url": "https://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-12-2026/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "6fec57885be4": {
@@ -2778,13 +2780,13 @@
    "konzert"
   ],
   "genre": "Rock",
-  "description": "Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kulturzentrum [...] \\n",
+  "description": "Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kulturzentrum [...]",
   "url": "https://werkhof-kulturzentrum.de/event/rockpalast-revival-2-0/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "4bc42ed99449": {
@@ -2798,13 +2800,13 @@
    "konzert"
   ],
   "genre": "Rock/Metal",
-  "description": "UNITED ON THE ROCK – ROCK, METAL & SANDKUNST Vier [...] \\n",
+  "description": "UNITED ON THE ROCK – ROCK, METAL & SANDKUNST Vier [...]",
   "url": "https://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "5d7d13c686d5": {
@@ -2818,13 +2820,13 @@
    "party"
   ],
   "genre": null,
-  "description": "TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [...] \\n",
+  "description": "TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [...]",
   "url": "https://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "83eb4188b4f9": {
@@ -2838,13 +2840,13 @@
    "konzert"
   ],
   "genre": "Irish Folk Punk",
-  "description": "KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember [...] \\n",
+  "description": "KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember [...]",
   "url": "https://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12-2026/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f842c26cda89": {
@@ -2858,13 +2860,13 @@
    "konzert"
   ],
   "genre": "Country Rock",
-  "description": "CountryRock Night - Jahresabschluss mit Siiri - Wenn ehrliche Songs [...] \\n",
+  "description": "CountryRock Night - Jahresabschluss mit Siiri - Wenn ehrliche Songs [...]",
   "url": "https://werkhof-kulturzentrum.de/event/countryrock-jahresabschluss-mit-siiri/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "38b5d451846b": {
@@ -2878,13 +2880,13 @@
    "party"
   ],
   "genre": null,
-  "description": "Ho, ho, ho – Schluss mit stiller Nacht! Am 26. [...] \\n",
+  "description": "Ho, ho, ho – Schluss mit stiller Nacht! Am 26. [...]",
   "url": "https://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-kneipe/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "39fbc07465ca": {
@@ -2898,13 +2900,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/4music-night-6/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "aa169f5e888e": {
@@ -2918,13 +2920,13 @@
    "konzert"
   ],
   "genre": "Rock",
-  "description": "VON WELT denken Rock neu. Intelligent, kompromisslos und voller Atmosphäre [...] \\n",
+  "description": "VON WELT denken Rock neu. Intelligent, kompromisslos und voller Atmosphäre [...]",
   "url": "https://werkhof-kulturzentrum.de/event/von-welt-adrenalin-tour-2027-am-09-01-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "c6412bb52fc5": {
@@ -2938,13 +2940,13 @@
    "theater"
   ],
   "genre": "Klassiker",
-  "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
+  "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...]",
   "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-15-01-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "534b475df5e7": {
@@ -2958,13 +2960,13 @@
    "theater"
   ],
   "genre": "Klassiker",
-  "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
+  "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...]",
   "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-17-01-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "410a6da75a84": {
@@ -2978,13 +2980,13 @@
    "theater"
   ],
   "genre": "Klassiker",
-  "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...] \\n",
+  "description": "DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klassiker Drei Physiker. [...]",
   "url": "https://werkhof-kulturzentrum.de/event/die-physiker-am-19-01-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "7a136dbfcb54": {
@@ -2998,13 +3000,13 @@
    "konzert"
   ],
   "genre": "Tribute",
-  "description": "THE BEATLES ON PIANO Bastian Korn & Band Eine musikalische [...] \\n",
+  "description": "THE BEATLES ON PIANO Bastian Korn & Band Eine musikalische [...]",
   "url": "https://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "e9b31ea2b867": {
@@ -3018,13 +3020,13 @@
    "jam-session"
   ],
   "genre": null,
-  "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...] \\n",
+  "description": "Lust auf Musik, Groove und gute Vibes? In lockerer Atmosphäre [...]",
   "url": "https://werkhof-kulturzentrum.de/event/jam-session-open-mic/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "a65eb84d240a": {
@@ -3038,13 +3040,13 @@
    "konzert"
   ],
   "genre": "Tribute/Heavy Metal",
-  "description": "SONS OF ODIN – A Tribute to Manowar Wenn epischer [...] \\n",
+  "description": "SONS OF ODIN – A Tribute to Manowar Wenn epischer [...]",
   "url": "https://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "c379fc899123": {
@@ -3058,13 +3060,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/4music-night-7/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "cb789116ef72": {
@@ -3078,13 +3080,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "ACHTUNG, Ersatztermin für den 07.11.2026 Die Tickets behalten ihre Gültigkeit! [...] \\n",
+  "description": "ACHTUNG, Ersatztermin für den 07.11.2026 Die Tickets behalten ihre Gültigkeit! [...]",
   "url": "https://werkhof-kulturzentrum.de/event/katy-wirtz/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f8d2b61044ff": {
@@ -3098,13 +3100,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Vielseitiger und detailreicher denn je wandelt die Band Wait For [...] \\n",
+  "description": "Vielseitiger und detailreicher denn je wandelt die Band Wait For [...]",
   "url": "https://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "5a25c676c73e": {
@@ -3118,13 +3120,13 @@
    "konzert"
   ],
   "genre": "Alternative Rock",
-  "description": "Mother Black Cat – Alternative Rock mit Leidenschaft und ordentlich [...] \\n",
+  "description": "Mother Black Cat – Alternative Rock mit Leidenschaft und ordentlich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/mother-black-cat/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "0fab2d653fa6": {
@@ -3138,13 +3140,13 @@
    "konzert"
   ],
   "genre": "Rock/Tribute",
-  "description": "Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! Freut euch [...] \\n",
+  "description": "Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! Freut euch [...]",
   "url": "https://werkhof-kulturzentrum.de/event/john-fogerty-coveration-king-bon/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "ee69596d3a20": {
@@ -3158,13 +3160,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/4music-night-8/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "07788ad5c570": {
@@ -3178,13 +3180,13 @@
    "konzert"
   ],
   "genre": "Tribute/Blues Rock",
-  "description": "BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher [...] \\n",
+  "description": "BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher [...]",
   "url": "https://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "ca27fc611135": {
@@ -3204,7 +3206,7 @@
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "f515843593b4": {
@@ -3218,13 +3220,13 @@
    "konzert"
   ],
   "genre": "Progressive Metal",
-  "description": "THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST [...] \\n",
+  "description": "THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST [...]",
   "url": "https://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-tour-2027-special-guest-sunburst/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "1024c841faad": {
@@ -3238,13 +3240,13 @@
    "konzert"
   ],
   "genre": "Pop/Rock",
-  "description": "Nach „Dish Of The Day“ geht die Reise weiter, zurück [...] \\n",
+  "description": "Nach „Dish Of The Day“ geht die Reise weiter, zurück [...]",
   "url": "https://werkhof-kulturzentrum.de/event/foolsgarden/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "184a77a18d05": {
@@ -3258,13 +3260,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/4music-night-9/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "169e77246474": {
@@ -3278,13 +3280,13 @@
    "konzert"
   ],
   "genre": "Metal",
-  "description": "Genaue Infos folgen! Stehplatz - freie Platzwahl VVK 15 € [...] \\n",
+  "description": "Genaue Infos folgen! Stehplatz - freie Platzwahl VVK 15 € [...]",
   "url": "https://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-04-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "1feaddb5fad3": {
@@ -3298,13 +3300,13 @@
    "konzert"
   ],
   "genre": "Tribute/Pop",
-  "description": "STADTAFFEN – Die ultimative Tribute-Show für alle Fans von Peter [...] \\n",
+  "description": "STADTAFFEN – Die ultimative Tribute-Show für alle Fans von Peter [...]",
   "url": "https://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "c5233740463e": {
@@ -3318,13 +3320,13 @@
    "konzert"
   ],
   "genre": "Tribute/Pop Rock",
-  "description": "Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die größten Hits [...] \\n",
+  "description": "Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die größten Hits [...]",
   "url": "https://werkhof-kulturzentrum.de/event/its-all-pink-tour-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "dd74c13a0653": {
@@ -3338,13 +3340,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/4music-night-10/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "b0a4daaef101": {
@@ -3358,13 +3360,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/4music-night-11/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "dc4c9cd54a13": {
@@ -3378,13 +3380,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...] \\n",
+  "description": "Für leidenschaftliche Konzertbesucher, Musikliebhaber oder einfach für alle, die sich [...]",
   "url": "https://werkhof-kulturzentrum.de/event/4music-night-12/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  },
  "50ef9ead9d4e": {
@@ -3398,13 +3400,33 @@
    "konzert"
   ],
   "genre": "Heavy Metal",
-  "description": "Das Heavy Metal Fans Festival geht in die neunte Runde! [...] \\n",
+  "description": "Das Heavy Metal Fans Festival geht in die neunte Runde! [...]",
   "url": "https://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027-am-15-16-10-2027/",
   "location_override": null,
   "recurring": false,
   "classified": true,
   "first_seen": "2026-11-19T02:01:43+01:00",
-  "last_seen": "2026-11-19T11:57:18+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
+  "gone": false
+ },
+ "1f526172564a": {
+  "id": "1f526172564a",
+  "venue_id": "pelmke",
+  "title": "»Alte Wut« – Lesung und Gespräch mit der Autorin Caro Matzko",
+  "date": "2026-11-25",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": null,
+  "description": "»Alte Wut» – Warum ich an den Ort reiste, von dem mein Vater einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko",
+  "url": "https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko/",
+  "location_override": null,
+  "recurring": false,
+  "classified": true,
+  "first_seen": "2026-11-19T12:39:46+01:00",
+  "last_seen": "2026-11-19T12:39:46+01:00",
   "gone": false
  }
 }
