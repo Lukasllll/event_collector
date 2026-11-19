@@ -4,7 +4,7 @@ PRODID:-//event-collector//DE
 BEGIN:VEVENT
 SUMMARY:[entfällt?] Die Sache mit der Angst
 DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:6e7d8ffa76eb@event-collector
 DESCRIPTION:https://loch-wuppertal.de/
 LOCATION:Loch\, Wuppertal
@@ -15,7 +15,7 @@ SUMMARY:[entfällt?] VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonf
  erenz
 DTSTART:20261121T100000Z
 DTEND:20261121T120000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:e3b9f2fa7930@event-collector
 DESCRIPTION:VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz\nht
  tps://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigkeitsko
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Das Dortmunder Rudelsingen
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:314858e8b1ca@event-collector
 DESCRIPTION:Das Dortmunder Rudelsingen\nhttps://domicil-dortmund.de/progra
  mm-details/das-dortmunder-rudelsingen-11987.html
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:David Kebekus
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:7d81fe7595a1@event-collector
 DESCRIPTION:David Kebekus\nhttps://loch-wuppertal.de/programm/kalender/dav
  id-kebekus-2803
@@ -51,13 +51,17 @@ BEGIN:VEVENT
 SUMMARY:Quartiers Brunch
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:665a7cad37dd@event-collector
 DESCRIPTION:Monatlicher Quartiersbrunch mit Beratung für Kreative & Proje
  kte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen\, desw
- egen laden wir einmal monatlich zum Quatsch und Brunch ins WirrWarr ein.\n
- https://www.wirrwarr-wehringhausen.de/events/quartiersfruestuec-juli-kreat
- ive-projekte-d6npk-mt6ms-sc4ab-y65h9-hay5l-y3d9s-nedr2-yn8mz-swcn5
+ egen laden wir einmal monatlich zum Quatsch und Brunch ins WirrWarr ein. D
+ u organisierst kreative Projekte in Wehringhausen oder hast Lust dich mit 
+ einzubringen und andere Menschen sowie Kreativ- und Kulturorganisationen k
+ ennenzulernen? Dann komm vorbei\, schnapp dir leckere Happen die Roman vom
+  Café Gegenüber für uns vorbereitet hat und schließ dich an!\nhttps://
+ www.wirrwarr-wehringhausen.de/events/quartiersfruestuec-juli-kreative-proj
+ ekte-d6npk-mt6ms-sc4ab-y65h9-hay5l-y3d9s-nedr2-yn8mz-swcn5
 LOCATION:WirrWarr\, Hagen
 URL:https://www.wirrwarr-wehringhausen.de/events/quartiersfruestuec-juli-k
  reative-projekte-d6npk-mt6ms-sc4ab-y65h9-hay5l-y3d9s-nedr2-yn8mz-swcn5
@@ -66,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Wintergrillen
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:008d26edf8b2@event-collector
 DESCRIPTION:Wintergrillen\nhttps://www.pelmke.de/veranstaltungen/wintergri
  llen/
@@ -77,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Reset Pelmke
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:8dcc1ce84db1@event-collector
 DESCRIPTION:Reset Pelmke\nhttps://www.pelmke.de/veranstaltungen/reset-pelm
  ke-22/
@@ -89,7 +93,7 @@ SUMMARY:[entfällt?] Graz 2026 – eine andere Kommunalpolitik ist möglic
  h | Vortrag von und mit attac Hagen
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:7d893bd9647b@event-collector
 DESCRIPTION:Graz 2026 – eine andere Kommunalpolitik ist möglich | Vortr
  ag von und mit attac Hagen\nhttps://www.pelmke.de/veranstaltungen/graz-202
@@ -103,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Luisa Charlotte Schulz
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:f019964f977e@event-collector
 DESCRIPTION:Luisa Charlotte Schulz\nhttps://loch-wuppertal.de/programm/kal
  ender/luisa-charlotte-schulz-2908
@@ -115,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:StandUp-Comedy
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:52b0b6a002ae@event-collector
 DESCRIPTION:StandUp-Comedy\nhttps://www.pelmke.de/veranstaltungen/standup-
  comedy-5/
@@ -126,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Der Quizabend im LOCH
 DTSTART:20261217T183000Z
 DTEND:20261217T203000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:e3a004ff77ec@event-collector
 DESCRIPTION:Der Quizabend im LOCH\nhttps://loch-wuppertal.de/programm/kale
  nder/der-quizabend-im-loch-2923
@@ -137,7 +141,7 @@ BEGIN:VEVENT
 SUMMARY:Das Musikkneipenquiz
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:f393d73afbb5@event-collector
 DESCRIPTION:Das Musikkneipenquiz\nhttps://loch-wuppertal.de/programm/kalen
  der/das-musikkneipenquiz-3112
@@ -148,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Erwin-Kostedde-Kickerturnier 2026
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:cc52c6857db4@event-collector
 DESCRIPTION:Erwin-Kostedde-Kickerturnier 2026\nhttps://www.pelmke.de/veran
  staltungen/kickerturnier-2026/
@@ -159,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Mit »Pelmke kulinarisch« um die Welt – Ägypten
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:a80fe59c05b6@event-collector
 DESCRIPTION:Mit »Pelmke kulinarisch« um die Welt – Ägypten\nhttps://w
  ww.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-um-die-welt-aegypten/
@@ -171,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:Nightflow Markt – Nachttrödel
 DTSTART:20270306T170000Z
 DTEND:20270306T190000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:f6269084ad8b@event-collector
 DESCRIPTION:Nightflow Markt – Nachttrödel\nhttps://www.pelmke.de/verans
  taltungen/nightflow-markt-nachttroedel-5/
@@ -182,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Abdul Kader Chahin
 DTSTART:20270318T190000Z
 DTEND:20270318T210000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:2a2831ae7f12@event-collector
 DESCRIPTION:Abdul Kader Chahin\nhttps://loch-wuppertal.de/programm/kalende
  r/abdul-kader-chahin-2748
@@ -193,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Rebecca Pap
 DTSTART:20270418T180000Z
 DTEND:20270418T200000Z
-DTSTAMP:20261119T223320Z
+DTSTAMP:20261119T224607Z
 UID:78f519e4a7a8@event-collector
 DESCRIPTION:Rebecca Pap\nhttps://loch-wuppertal.de/programm/kalender/rebec
  ca-pap-3109

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T23:31:50+01:00",
+ "generated": "2026-11-19T23:44:34+01:00",
  "tags": [
   "konzert",
   "jam-session",
@@ -12,6 +12,7 @@
   "sonstiges"
  ],
  "tags_used": [
+  "ausstellung",
   "film",
   "jam-session",
   "konzert",
@@ -115,7 +116,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -146,6 +147,7 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
+    "konzert",
     "party"
    ],
    "genre": null,
@@ -155,7 +157,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -176,7 +178,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -196,7 +198,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -210,13 +212,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "Premiere – eine Weihnachtsgeschichte. Preisgruppe B",
+   "description": "Premiere",
    "url": "https://theaterandervolme.de/event/charles-dickens/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -255,8 +257,8 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:08:52+01:00",
-   "gone": true
+   "last_seen": "2026-11-19T23:44:34+01:00",
+   "gone": false
   },
   {
    "id": "a6d9f75feca2",
@@ -294,7 +296,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -308,14 +310,14 @@
     "konzert",
     "party"
    ],
-   "genre": "Pussy-Punk / Techno",
-   "description": "Pussy-Punk | Techno",
+   "genre": "Pussy-Punk | Techno",
+   "description": "Gaga Extravanza | Serving Cunts | Die Öffnung | DDDR",
    "url": "https://rottstr5-theater.de/gaga-extravaganza-serving-cunts-die-%C3%B6ffnung-dddr.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -336,7 +338,7 @@
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
    "last_seen": "2026-11-19T23:31:50+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "7e146ca4b2c4",
@@ -374,7 +376,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -394,7 +396,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -414,7 +416,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -447,14 +449,14 @@
    "tags": [
     "konzert"
    ],
-   "genre": "Singer-Songwriter / Indie Pop",
-   "description": "Singer Songwriter | Indie Pop",
+   "genre": "Singer Songwriter | Indie Pop",
+   "description": "Bernd Begemann",
    "url": "https://rottstr5-theater.de/bernd-begemann.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -468,13 +470,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "oder Lavalampe und Flokati – Die wilden 70er. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -535,7 +537,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -555,7 +557,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -615,7 +617,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -628,14 +630,14 @@
    "tags": [
     "party"
    ],
-   "genre": "Rave",
+   "genre": "Winter Rave",
    "description": "Lichtblick Winter Rave",
    "url": "https://odonien.de/veranstaltungen/lichtblick-winterrave",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -675,7 +677,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -686,16 +688,17 @@
    "time": "15:00",
    "time_known": true,
    "tags": [
+    "ausstellung",
     "workshop"
    ],
    "genre": "Aquarell",
-   "description": "Schecke deinem inneren Kind ein Bild. Begegne dem Kind, das du warst, und lass es sich gesehen fühlen. Kunst hat die Kraft, unserem inneren erleben eine Greifbarkeit zu verleihen.",
+   "description": "Schecke deinem inneren Kind ein Bild. Begegne dem Kind, das du warst, und lass es sich gesehen fühlen. Kunst hat die Kraft, unserem inneren erleben eine Greifbarkeit zu verleihen. In diesem Workshop nehmen wir uns Zeit für das Kind, das wir einmal waren, und geben ihm Raum, Farbe und Aufmerksamkeit.",
    "url": "https://www.wirrwarr-wehringhausen.de/events/nature-journaling-ka57l-3krf4",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -715,7 +718,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -729,13 +732,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "oder Island für Anfänger. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-2/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -774,7 +777,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -794,7 +797,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -814,7 +817,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -834,7 +837,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -854,7 +857,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -895,7 +898,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -935,7 +938,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -955,7 +958,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -975,7 +978,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -995,7 +998,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1006,6 +1009,7 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
+    "konzert",
     "party"
    ],
    "genre": null,
@@ -1015,7 +1019,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1035,7 +1039,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1075,7 +1079,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1089,13 +1093,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "Eine Produktion des Jugendclubs des Theaters an der Volme. Nach Ödön von Horváth. Preisgruppe C",
+   "description": "Eine Produktion des Jugendclubs des Theaters an der Volme",
    "url": "https://theaterandervolme.de/event/kasimir-und-karoline-2/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1115,7 +1119,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1135,7 +1139,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1155,7 +1159,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1175,7 +1179,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1195,7 +1199,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1215,7 +1219,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1249,13 +1253,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/charles-dickens-4/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1294,7 +1298,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1314,7 +1318,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1334,7 +1338,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1354,7 +1358,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1374,7 +1378,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1394,7 +1398,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1408,13 +1412,13 @@
     "sonstiges"
    ],
    "genre": null,
-   "description": "Monatlicher Quartiersbrunch mit Beratung für Kreative & Projekte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen, deswegen laden wir einmal monatlich zum Quatsch und Brunch ins WirrWarr ein.",
+   "description": "Monatlicher Quartiersbrunch mit Beratung für Kreative & Projekte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen, deswegen laden wir einmal monatlich zum Quatsch und Brunch ins WirrWarr ein. Du organisierst kreative Projekte in Wehringhausen oder hast Lust dich mit einzubringen und andere Menschen sowie Kreativ- und Kulturorganisationen kennenzulernen? Dann komm vorbei, schnapp dir leckere Happen die Roman vom Café Gegenüber für uns vorbereitet hat und schließ dich an!",
    "url": "https://www.wirrwarr-wehringhausen.de/events/quartiersfruestuec-juli-kreative-projekte-d6npk-mt6ms-sc4ab-y65h9-hay5l-y3d9s-nedr2-yn8mz-swcn5",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1428,14 +1432,14 @@
     "film",
     "lesung"
    ],
-   "genre": null,
-   "description": "Filme über Kunst und Gespräche über das Leben! Filme, die das Leben und Wirken in und aus der Kunstwelt zeigen, anschließend Gespräch im Salon mit Gastgeberin Kimberly Hardt. In Kooperation mit dem Fliegenden Salon.",
+   "genre": "Film",
+   "description": "Filme über Kunst und Gespräche über das Leben! An 5 Terminen werden im Kino Babylon 2026 in Kooperation mit dem Fliegenden Salon Filme gezeigt, die das Leben und Wirken in und aus der Kunstwelt zeigen. Salon-Gastgeberin Kimberly Hardt lädt anschließend zum Gespräch ein. Zusammen wollen wir eine philosophische Reise durch die Bohème machen – Was lehrt uns die Kunstwelt über das Leben? Im Salon geht es um offene Konversation. Jede Wortmeldung soll mit Neugierde am Austausch empfangen werden. Wir ü",
    "url": "https://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hagen-nov26",
    "location_override": "Kino Babylon",
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1450,13 +1454,13 @@
     "theater"
    ],
    "genre": "Chanson",
-   "description": "Ein Chansonabend und eine Hommage an die große Hildegard Knef mit Nina Tripp. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/ich-brauch-tapetenwechsel/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1476,7 +1480,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1496,7 +1500,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1516,7 +1520,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1536,7 +1540,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1556,7 +1560,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1576,7 +1580,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1596,7 +1600,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1616,7 +1620,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1636,7 +1640,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1656,7 +1660,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1676,7 +1680,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1696,7 +1700,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1716,7 +1720,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1736,7 +1740,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1756,7 +1760,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1770,13 +1774,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "Männer sind anders, Frauen auch. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2-2/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1796,7 +1800,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1816,7 +1820,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1836,7 +1840,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1856,7 +1860,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1876,7 +1880,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1897,7 +1901,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:16:06+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1931,13 +1935,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "oder Island für Anfänger. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-1/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1957,7 +1961,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1977,7 +1981,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -1997,7 +2001,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2018,7 +2022,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2038,7 +2042,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2052,13 +2056,13 @@
     "konzert"
    ],
    "genre": "Klavierkonzert",
-   "description": "Klavierkonzert mit Martin Brödemann. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/metamorphose/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2078,7 +2082,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2098,7 +2102,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2118,7 +2122,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2138,7 +2142,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:16:06+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2179,7 +2183,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2199,7 +2203,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2214,13 +2218,13 @@
     "theater"
    ],
    "genre": "Kabarett",
-   "description": "Satirisch-musikalisches Weihnachtskabarett von und mit Stefan Keim und Leslie Sternefeld. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2235,13 +2239,13 @@
     "konzert"
    ],
    "genre": "Improvisation",
-   "description": "Musik, live und improvisiert",
+   "description": "Der Klangteppich – Musik, live und improvisiert",
    "url": "https://www.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-improvisiert-10/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2261,7 +2265,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2281,7 +2285,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2295,13 +2299,13 @@
     "party"
    ],
    "genre": null,
-   "description": "In den letzten drei Jahren ist viel passiert. Wir wollen am Freitag, 11. Dezember auf die letzten drei Jahre zurück schauen und uns gemeinsam mit euch auf neue Abenteuer freuen.",
+   "description": "In den letzten drei Jahren ist viel passiert. Wir haben das WirrWarr gemeinsam zu einem Ort gemacht, an dem wir uns wohlfühlen, uns ausprobieren und unsere kreativen Visionen verwirklichen können. Viele von euch sind mit uns gewachsen, sind auf Gleichgesinnt getroffen, haben zusammen angefangen Projekte umzusetzen und haben nicht nur das WirrWarr zu einem Ort der Inspiration und der gegenseitigen Unterstützung werden lassen, sondern auch den ganzen Stadtteil. Wir wollen am Freitag, 11. Dezember ",
    "url": "https://www.wirrwarr-wehringhausen.de/events/jahresabschluss-sober-dancefloor",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2315,13 +2319,13 @@
     "theater"
    ],
    "genre": "Krimikomödie",
-   "description": "Krimikomödie von Indra Janorschke und Dario Weberg. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/der-moerder-war-es-4/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2341,7 +2345,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2361,7 +2365,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2374,14 +2378,14 @@
    "tags": [
     "sonstiges"
    ],
-   "genre": "StandUp-Comedy",
+   "genre": "Comedy",
    "description": "StandUp-Comedy",
    "url": "https://www.pelmke.de/veranstaltungen/standup-comedy-5/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2401,7 +2405,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2421,7 +2425,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2435,13 +2439,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/charles-dickens-1/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2480,7 +2484,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2500,7 +2504,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2514,14 +2518,14 @@
     "konzert",
     "party"
    ],
-   "genre": "Rock / Electronic",
-   "description": "Rock | Electronic",
+   "genre": "Rock | Electronic",
+   "description": "Waveland",
    "url": "https://rottstr5-theater.de/waveland.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2541,7 +2545,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2561,7 +2565,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2581,7 +2585,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2595,13 +2599,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/charles-dickens-2/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2640,7 +2644,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2660,7 +2664,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2680,7 +2684,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2700,7 +2704,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2720,7 +2724,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2740,7 +2744,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2760,7 +2764,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2780,7 +2784,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2800,7 +2804,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2820,7 +2824,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2840,7 +2844,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2860,7 +2864,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2874,13 +2878,13 @@
     "theater"
    ],
    "genre": "Sketch-Comedy",
-   "description": "Jahrhundertsketche in Neuauflage. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-4/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2900,7 +2904,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2920,7 +2924,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2940,7 +2944,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2954,13 +2958,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "oder Island für Anfänger. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-3/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -2975,13 +2979,13 @@
     "party"
    ],
    "genre": null,
-   "description": "Soul Invaders / Tuffi Slippers / Putrid Cave / tba",
+   "description": "Soul Invaders / Tuffi Slippers / The Mad Moiselles / Putrid Cave / tba",
    "url": "https://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slippers-the-mad-moiselles-putrid-cave/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3001,7 +3005,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3021,7 +3025,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3041,7 +3045,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3055,13 +3059,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "eine Weihnachtsgeschichte. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/charles-dickens-3/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3100,7 +3104,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3120,7 +3124,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3140,7 +3144,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3160,7 +3164,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3180,7 +3184,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3200,7 +3204,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3220,7 +3224,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3234,13 +3238,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "Die ultimative Show zu Silvester. Preisgruppe A",
+   "description": "",
    "url": "https://theaterandervolme.de/event/das-beste-kommt-zum-schluss-2/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3260,7 +3264,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3280,7 +3284,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3300,7 +3304,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3320,7 +3324,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3340,7 +3344,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3360,7 +3364,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3380,7 +3384,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3400,7 +3404,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3420,7 +3424,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3440,7 +3444,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3460,7 +3464,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3480,7 +3484,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3500,7 +3504,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
+   "gone": false
+  },
+  {
+   "id": "e2a0b9c8bbe9",
+   "venue_id": "domicil",
+   "title": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia Nilsson",
+   "date": "2027-01-28",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Jazz, Contemporary, Modern Jazz",
+   "description": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia...",
+   "url": "https://domicil-dortmund.de/index.php/programm-details/jorge-rossy-quartet-feat-jorge-rossy-milena-casado-robert-landfermann-cornelia-nilsson.html",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-19T23:44:34+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3521,7 +3545,7 @@
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
    "last_seen": "2026-11-19T23:31:50+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "e9b31ea2b867",
@@ -3540,7 +3564,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3560,7 +3584,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3580,7 +3604,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3600,7 +3624,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3620,7 +3644,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3640,7 +3664,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3660,7 +3684,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3680,7 +3704,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3700,7 +3724,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3720,7 +3744,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3740,7 +3764,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3760,7 +3784,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3780,7 +3804,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3800,7 +3824,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3820,7 +3844,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3840,7 +3864,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3860,7 +3884,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3880,7 +3904,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3900,7 +3924,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3920,7 +3944,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3941,7 +3965,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3961,7 +3985,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -3974,14 +3998,14 @@
    "tags": [
     "konzert"
    ],
-   "genre": null,
+   "genre": "Jazz",
    "description": "ELSA",
    "url": "https://loch-wuppertal.de/programm/kalender/elsa-3163",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4001,7 +4025,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4021,7 +4045,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4041,7 +4065,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4061,7 +4085,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4081,7 +4105,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4101,7 +4125,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4121,7 +4145,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4141,7 +4165,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4161,7 +4185,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4181,7 +4205,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4201,7 +4225,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4221,7 +4245,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4241,7 +4265,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4261,7 +4285,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4281,7 +4305,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4301,7 +4325,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4321,7 +4345,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4341,7 +4365,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4361,7 +4385,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4381,7 +4405,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4401,7 +4425,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4421,7 +4445,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4441,7 +4465,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4461,7 +4485,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4481,7 +4505,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4501,7 +4525,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4521,7 +4545,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4541,7 +4565,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4561,7 +4585,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4581,7 +4605,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4595,13 +4619,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Das Jubiläumskonzert",
+   "description": "10 Jahre Clashing Minds – Das Jubiläumskonzert",
    "url": "https://www.pelmke.de/veranstaltungen/clashing-minds/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4621,7 +4645,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4641,7 +4665,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4661,7 +4685,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4681,7 +4705,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4702,7 +4726,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4723,7 +4747,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4743,7 +4767,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4763,7 +4787,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   },
   {
@@ -4783,7 +4807,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-19T23:31:50+01:00",
+   "last_seen": "2026-11-19T23:44:34+01:00",
    "gone": false
   }
  ]
