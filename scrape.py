@@ -207,7 +207,7 @@ def create_msg(**kw):
     """API-Aufruf mit temperature=0 (stabilere Titel); fällt zurück, falls das Modell den Parameter nicht annimmt."""
     import anthropic
     client = anthropic.Anthropic()
-    try: return client.messages.create(temperature=0, **kw)
+    try: return client.messages.create(**kw)
     except anthropic.BadRequestError: return client.messages.create(**kw)
 
 
