@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Veranstaltungen</title>
-<script>try{var r=document.documentElement,t=localStorage.getItem('theme'),a=localStorage.getItem('accent');if(t==='light'||t==='dark')r.setAttribute('data-theme',t);if(a)r.setAttribute('data-accent',a)}catch(e){}</script>
+<script>try{var r=document.documentElement,t=localStorage.getItem('theme'),a=localStorage.getItem('accent'),c=localStorage.getItem('chips');if(c)r.setAttribute('data-chips',c);if(t==='light'||t==='dark')r.setAttribute('data-theme',t);if(a)r.setAttribute('data-accent',a)}catch(e){}</script>
 <style>
 :root{--bg:#eceeef;--fg:#3b4048;--mut:#646c77;--line:#c5cad0;--accfg:#fff;--pop:#f7f8f9;
   --tb:91%;--ts:60%;--tf:26%;--onl:38%;--onfg:#fff;color-scheme:light;
@@ -54,6 +54,8 @@ input[type=date]{padding:.15rem .4rem;font-size:.9rem}
 .chip.hue{border-color:hsl(var(--h) 45% var(--onl))}
 .chip.hue.on{background:hsl(var(--h) 55% var(--onl));border-color:hsl(var(--h) 55% var(--onl));color:var(--onfg)}
 .ex .chip.on,.ex .chip.hue.on{background:none;border:1px dashed var(--mut);color:var(--mut);text-decoration:line-through}
+.sc,.range{display:contents}
+.rangebtn,.sm,.prow.mob{display:none}
 .dl{display:inline-flex;align-items:center;gap:.3rem;font-size:.9rem;color:var(--mut)}
 button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
 .bar{display:flex;justify-content:space-between;align-items:center;margin:1rem 0 .5rem;color:var(--mut);font-size:.9rem}
@@ -78,6 +80,31 @@ button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{o
 .fl b{flex:0 0 100%;font-size:.85rem;color:var(--mut);font-weight:600}
 .fl a{color:var(--acc)}
 @media(max-width:30rem){h1{font-size:1.55rem}.day{grid-template-columns:3.2rem minmax(0,1fr)}.date b{font-size:1.6rem}}
+@media(max-width:36rem){
+  .top{margin-bottom:.6rem}
+  input[type=search]{margin-bottom:.5rem;padding:.3rem .7rem}
+  .grp{grid-template-columns:3.6rem minmax(0,1fr);margin-bottom:.1rem}
+  .gl{font-size:.85rem;padding-top:.2rem}
+  .cnt{font-size:.72rem;white-space:nowrap}
+  .chips{gap:.3rem;padding:.1rem 0 .2rem}
+  .chip,.inv{font-size:.85rem;padding:.1rem .6rem;white-space:nowrap}
+  .lg{display:none}.sm{display:inline}.rangebtn{display:inline-flex;align-items:center}.prow.mob{display:grid}
+  #g-when .chip{padding:.1rem .5rem}
+  .rangebtn[aria-expanded=true]:not(.on){background:var(--line)}
+  .range{display:none}
+  .range.open{display:flex;gap:.5rem;width:100%}
+  .range .dl{flex:1;min-width:0}
+  .range input{flex:1;min-width:0;width:100%;font-size:.8rem;padding:.1rem .2rem}
+  .range input::-webkit-calendar-picker-indicator{margin:0 0 0 .1rem;padding:0}
+  #g-when .chips{flex-direction:column;align-items:stretch;gap:.3rem}
+  #g-when .sc{display:flex;flex-wrap:wrap;flex:none;gap:.3rem;overflow:visible;-webkit-mask-image:none;mask-image:none}
+  :root:not([data-chips=wrap]) .chips{flex-wrap:nowrap}
+  :root:not([data-chips=wrap]) .sc{display:flex;flex-wrap:nowrap;gap:.3rem;flex:1;min-width:0;overflow-x:auto;padding:.2rem 0 .25rem;scrollbar-width:none;
+    -webkit-mask-image:linear-gradient(to right,transparent 0,#000 var(--fl,0rem),#000 calc(100% - var(--fr,0rem)),transparent 100%);
+    mask-image:linear-gradient(to right,transparent 0,#000 var(--fl,0rem),#000 calc(100% - var(--fr,0rem)),transparent 100%)}
+  :root:not([data-chips=wrap]) .sc::-webkit-scrollbar{display:none}
+  :root:not([data-chips=wrap]) .sc .chip{flex:none}
+}
 </style>
 </head>
 <body>
@@ -89,15 +116,18 @@ button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{o
       <div class="prow">Modus<div class="seg" id="seg">
         <button type="button" data-v="auto">Auto</button><button type="button" data-v="light">Hell</button><button type="button" data-v="dark">Dunkel</button></div></div>
       <div class="prow">Farbe<div class="sws" id="sws"></div></div>
+      <div class="prow mob">Chips<div class="seg" id="segc"><button type="button" data-v="scroll">Wischen</button><button type="button" data-v="wrap">Umbruch</button></div></div>
     </div>
   </div>
 </div>
-<input type="search" id="q" placeholder="Suchen (Titel, Ort, Genre, Beschreibung)" aria-label="Suchen">
-<div class="grp"><div class="gl">Wann</div><div class="chips" id="when">
-  <label class="dl">von <input type="date" id="from"></label><label class="dl">bis <input type="date" id="to"></label></div></div>
-<div class="grp" id="g-city"><div class="gl">Stadt <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" title="Auswahl umkehren">Invertieren</button></div></div>
-<div class="grp" id="g-venue"><div class="gl">Ort <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" title="Auswahl umkehren">Invertieren</button></div></div>
-<div class="grp" id="g-tag"><div class="gl">Art <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" title="Auswahl umkehren">Invertieren</button></div></div>
+<input type="search" id="q" placeholder="Suche: Text, Datum, Wochentag" aria-label="Suchen">
+<div class="grp" id="g-when"><div class="gl">Wann</div><div class="chips">
+  <div class="sc" id="when"><button class="chip rangebtn" id="rangebtn" type="button" aria-expanded="false" aria-controls="range" aria-label="Zeitraum wählen" title="Zeitraum wählen"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M5 1.8v2.4M11 1.8v2.4M2 6.2h12M3.2 3h9.6c.7 0 1.2.5 1.2 1.2v8.6c0 .7-.5 1.2-1.2 1.2H3.2c-.7 0-1.2-.5-1.2-1.2V4.2C2 3.5 2.5 3 3.2 3z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg></button></div>
+  <div class="range" id="range"><label class="dl">von <input type="date" id="from"></label><label class="dl">bis <input type="date" id="to"></label></div>
+</div></div>
+<div class="grp" id="g-city"><div class="gl">Stadt <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" title="Auswahl ausschließen (invertieren)"><span class="lg">Invertieren</span><span class="sm">Ohne</span></button><div class="sc"></div></div></div>
+<div class="grp" id="g-venue"><div class="gl">Ort <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" title="Auswahl ausschließen (invertieren)"><span class="lg">Invertieren</span><span class="sm">Ohne</span></button><div class="sc"></div></div></div>
+<div class="grp" id="g-tag"><div class="gl">Art <span class="cnt"></span></div><div class="chips"><button class="inv" type="button" title="Auswahl ausschließen (invertieren)"><span class="lg">Invertieren</span><span class="sm">Ohne</span></button><div class="sc"></div></div></div>
 <div class="bar"><span id="count"></span><button class="reset" id="reset" type="button">Zurücksetzen</button></div>
 <div id="list"></div>
 <details class="feeds">
@@ -121,12 +151,13 @@ let D,V;
 
 /* ---------- Design-Panel ---------- */
 const ACC=[['cyan','Cyan'],['magenta','Magenta'],['orange','Orange'],['pink','Pink'],['indigo','Indigo']];
-let th='auto',ac='cyan';
-try{th=localStorage.getItem('theme')||'auto';ac=localStorage.getItem('accent')||'cyan'}catch(e){}
+let th='auto',ac='cyan',cm='scroll';
+try{th=localStorage.getItem('theme')||'auto';ac=localStorage.getItem('accent')||'cyan';cm=localStorage.getItem('chips')||'scroll'}catch(e){}
 function applyDesign(){
   const r=document.documentElement;
   th==='auto'?r.removeAttribute('data-theme'):r.setAttribute('data-theme',th);
-  r.setAttribute('data-accent',ac);
+  r.setAttribute('data-accent',ac);r.setAttribute('data-chips',cm);
+  document.querySelectorAll('#segc button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.v===cm));
   document.querySelectorAll('#seg button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.v===th));
   document.querySelectorAll('#sws .sw').forEach(b=>b.setAttribute('aria-pressed',b.dataset.v===ac));
 }
@@ -136,6 +167,7 @@ for(const[v,l]of ACC){
   b.onclick=()=>{ac=v;save('accent',v);applyDesign()};$('#sws').append(b);
 }
 document.querySelectorAll('#seg button').forEach(b=>b.onclick=()=>{th=b.dataset.v;save('theme',th);applyDesign()});
+document.querySelectorAll('#segc button').forEach(b=>b.onclick=()=>{cm=b.dataset.v;save('chips',cm);applyDesign();requestAnimationFrame(fadeAll)});
 const panel=$('#dpanel');
 function togglePanel(open){panel.hidden=!open;$('#theme').setAttribute('aria-expanded',open)}
 $('#theme').onclick=()=>togglePanel(panel.hidden);
@@ -159,12 +191,20 @@ for(const[label,fn]of [...PRESETS].reverse()){
 }
 $('#from').oninput=e=>{rng.from=e.target.value;render()};
 $('#to').oninput=e=>{rng.to=e.target.value;render()};
+const rangeEl=$('#range'),rangeBtn=$('#rangebtn');
+function openRange(o){rangeEl.classList.toggle('open',o);rangeBtn.setAttribute('aria-expanded',o)}
+rangeBtn.onclick=()=>openRange(!rangeEl.classList.contains('open'));
 let qt=0;$('#q').oninput=()=>{clearTimeout(qt);qt=setTimeout(render,120)};
 
 /* ---------- Filter ---------- */
-const GRN={};
+const GRN={},scs=[];
+function fade(sc){const m=sc.scrollWidth-sc.clientWidth,l=sc.scrollLeft;
+  sc.style.setProperty('--fl',l>4?'1.2rem':'0rem');sc.style.setProperty('--fr',l<m-4?'1.6rem':'0rem')}
+const fadeAll=()=>scs.forEach(fade);
+addEventListener('resize',fadeAll);
 function chips(key,items){
-  const root=$(GR[key]),box=root.querySelector('.chips');
+  const root=$(GR[key]),box=root.querySelector('.sc');
+  scs.push(box);box.addEventListener('scroll',()=>fade(box),{passive:true});
   const g=GRN[key]={root,inv:root.querySelector('.inv'),cnt:root.querySelector('.cnt'),chips:[]};
   for(const[val,label,city]of items){
     const b=el('button',{className:'chip',textContent:label,type:'button'});
@@ -185,11 +225,14 @@ function paint(){
     g.cnt.textContent=n?(ex?'ohne '+n:n+' gewählt'):'';
   }
   for(const c of GRN.venue.chips){const h=!ok('city',sel.city.has(c.dataset.city));if(c.hidden!==h)c.hidden=h}
-  for(const c of presetEls){const p=c._fn();c.classList.toggle('on',rng.from===p[0]&&rng.to===p[1])}
+  let pm=false;
+  for(const c of presetEls){const p=c._fn(),on=rng.from===p[0]&&rng.to===p[1];if(on)pm=true;c.classList.toggle('on',on)}
+  rangeBtn.classList.toggle('on',!!(rng.from||rng.to)&&!pm);
+  requestAnimationFrame(fadeAll);
 }
 $('#reset').onclick=()=>{
   for(const k in sel){sel[k].clear();mode[k]='in'}
-  rng.from=rng.to='';$('#from').value=$('#to').value=$('#q').value='';render();
+  rng.from=rng.to='';$('#from').value=$('#to').value=$('#q').value='';openRange(false);render();
 };
 
 /* ---------- URL-Zustand (#stadt=…&ort=…&art=-party&q=…&von=…&bis=…) ---------- */
@@ -216,6 +259,8 @@ function loadHash(){
     else if(n==='bis'&&dre.test(raw))rng.to=raw;
   }
   $('#from').value=rng.from;$('#to').value=rng.to;
+  const pm=presetEls.some(c=>{const p=c._fn();return p[0]===rng.from&&p[1]===rng.to});
+  if((rng.from||rng.to)&&!pm)openRange(true);
 }
 
 /* ---------- Liste: einmal bauen, beim Filtern nur ein-/ausblenden ---------- */
@@ -244,13 +289,43 @@ function build(){
     }
     const v=V[e.venue_id];
     const node=mkEvent(e,v);day.box.append(node);
-    day.items.push({e,node,hay:[e.title,v.name,v.city,e.genre,e.description].join(' ').toLowerCase()});
+    const y=+e.date.slice(0,4),mo=+e.date.slice(5,7),dd=+e.date.slice(8,10);
+    day.items.push({e,node,y,m:mo,d:dd,wd:new Date(y,mo-1,dd).getDay(),hay:[e.title,v.name,v.city,e.genre,e.description].join(' ').toLowerCase()});
   }
   root.append(el('p',{id:'empty',className:'mut',hidden:true,textContent:'Keine Veranstaltungen für diese Auswahl.'}));
 }
+/* ---------- Suche: Text + Datum/Wochentag ---------- */
+const has=(o,k)=>Object.prototype.hasOwnProperty.call(o,k);
+const WD={montag:1,dienstag:2,mittwoch:3,donnerstag:4,freitag:5,samstag:6,sonntag:0};
+const WDS={mo:1,di:2,mi:3,do:4,fr:5,sa:6,so:0};
+const MON={januar:1,jan:1,februar:2,feb:2,märz:3,maerz:3,mär:3,mrz:3,april:4,apr:4,mai:5,juni:6,jun:6,juli:7,jul:7,august:8,aug:8,
+  september:9,sept:9,sep:9,oktober:10,okt:10,november:11,nov:11,dezember:12,dez:12};
+function parseQuery(q){
+  const Q={text:[],wd:new Set(),months:new Set(),days:new Set(),specs:[]};
+  const toks=q.toLowerCase().split(/\s+/).filter(Boolean);
+  toks.forEach((t,i)=>{
+    let m;
+    if(m=t.match(/^(\d{4})-(\d\d)-(\d\d)$/))Q.specs.push({y:+m[1],m:+m[2],d:+m[3]});
+    else if(m=t.match(/^(\d{1,2})\.(\d{1,2})\.?(\d{2}|\d{4})?$/))Q.specs.push({d:+m[1],m:+m[2],y:m[3]?(m[3].length===2?2000+ +m[3]:+m[3]):null});
+    else if(has(WD,t))Q.wd.add(WD[t]);
+    else if((m=t.match(/^(mo|di|mi|do|fr|sa|so)\.$/))||(toks.length===1&&(m=t.match(/^(mo|di|mi|do|fr|sa|so)$/))))Q.wd.add(WDS[m[1]]);
+    else if(has(MON,t))Q.months.add(MON[t]);
+    else if(t==='heute'||t==='morgen'||t==='übermorgen'){const d=addDays(new Date(),t==='heute'?0:t==='morgen'?1:2);Q.specs.push({y:d.getFullYear(),m:d.getMonth()+1,d:d.getDate()})}
+    else if((m=t.match(/^(\d{1,2})(\.?)$/))&&+m[1]>=1&&+m[1]<=31&&(m[2]==='.'||(toks[i+1]&&has(MON,toks[i+1]))))Q.days.add(+m[1]);
+    else Q.text.push(t);
+  });
+  return Q;
+}
+function matchQ(it,Q){
+  if(Q.specs.length&&!Q.specs.some(s=>s.d===it.d&&s.m===it.m&&(s.y==null||s.y===it.y)))return false;
+  if(Q.wd.size&&!Q.wd.has(it.wd))return false;
+  if(Q.months.size&&!Q.months.has(it.m))return false;
+  if(Q.days.size&&!Q.days.has(it.d))return false;
+  return Q.text.every(w=>it.hay.includes(w));
+}
 function render(){
   paint();
-  const q=$('#q').value.trim().toLowerCase(),today=iso(new Date());
+  const Q=parseQuery($('#q').value.trim()),today=iso(new Date());
   let total=0;
   for(const d of days){
     let n=0;
@@ -258,7 +333,7 @@ function render(){
       const e=it.e,v=V[e.venue_id];
       const show=e.date>=today&&(!rng.from||e.date>=rng.from)&&(!rng.to||e.date<=rng.to)
         &&ok('city',sel.city.has(v.city))&&ok('venue',sel.venue.has(e.venue_id))&&ok('tag',e.tags.some(t=>sel.tag.has(t)))
-        &&(!q||it.hay.includes(q));
+        &&matchQ(it,Q);
       if(it.node.hidden===show)it.node.hidden=!show;
       if(show)n++;
     }
@@ -276,6 +351,8 @@ fetch('events.json').then(r=>r.json()).then(d=>{
   chips('tag',d.tags_used.map(t=>[t,t]));
   feeds();build();$('#gen').textContent=new Date(d.generated).toLocaleString('de-DE');
   loadHash();render();
+  for(const k in GRN){const g=GRN[k],sc=scs.find(x=>g.root.contains(x)),c=g.chips.find(c=>c.classList.contains('on'));
+    if(c&&sc.scrollWidth>sc.clientWidth)sc.scrollLeft+=c.getBoundingClientRect().left-sc.getBoundingClientRect().left-8}
   addEventListener('hashchange',()=>{loadHash();render()});
 }).catch(e=>{$('#list').textContent='events.json konnte nicht geladen werden. Lief der Workflow schon? ('+e+')'});
 function feeds(){
