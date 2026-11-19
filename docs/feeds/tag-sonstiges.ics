@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Kneipenquiz – Demokratie am Tresen
 DTSTART:20261119T190000Z
 DTEND:20261119T210000Z
-DTSTAMP:20261118T234438Z
+DTSTAMP:20261119T000433Z
 UID:fce6f26ccd96@event-collector
 DESCRIPTION:Kneipenquiz – Demokratie am Tresen\nhttps://www.pelmke.de/ve
  ranstaltungen/kneipenquiz-demokratie-am-tresen-3/
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz
 DTSTART:20261121T100000Z
 DTEND:20261121T120000Z
-DTSTAMP:20261118T234438Z
+DTSTAMP:20261119T000433Z
 UID:e3b9f2fa7930@event-collector
 DESCRIPTION:VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonferenz\nht
  tps://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigkeitsko
@@ -27,10 +27,22 @@ URL:https://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigk
  eitskonferenz/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Das Dortmunder Rudelsingen
+DTSTART:20261124T183000Z
+DTEND:20261124T203000Z
+DTSTAMP:20261119T000433Z
+UID:314858e8b1ca@event-collector
+DESCRIPTION:Das Dortmunder Rudelsingen\nhttps://domicil-dortmund.de/progra
+ mm-details/das-dortmunder-rudelsingen-11987.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/programm-details/das-dortmunder-rudelsinge
+ n-11987.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wintergrillen
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261118T234438Z
+DTSTAMP:20261119T000433Z
 UID:008d26edf8b2@event-collector
 DESCRIPTION:Wintergrillen\nhttps://www.pelmke.de/veranstaltungen/wintergri
  llen/
@@ -41,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Reset Pelmke
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261118T234438Z
+DTSTAMP:20261119T000433Z
 UID:8dcc1ce84db1@event-collector
 DESCRIPTION:Reset Pelmke\nhttps://www.pelmke.de/veranstaltungen/reset-pelm
  ke-22/
@@ -52,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Graz 2026 – eine andere Kommunalpolitik ist möglich
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261118T234438Z
+DTSTAMP:20261119T000433Z
 UID:0376ab6d9333@event-collector
 DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
  altungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-un
@@ -66,7 +78,7 @@ SUMMARY:[entfällt?] Graz 2026 – eine andere Kommunalpolitik ist möglic
  h | Vortrag von und mit attac Hagen
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261118T234438Z
+DTSTAMP:20261119T000433Z
 UID:7d893bd9647b@event-collector
 DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
  altungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-un
@@ -74,5 +86,84 @@ DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/graz-2026-eine-andere-kommunalpo
  litik-ist-moeglich-vortrag-von-und-mit-attac-hagen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StandUp-Comedy
+DTSTART:20261211T190000Z
+DTEND:20261211T210000Z
+DTSTAMP:20261119T000433Z
+UID:52b0b6a002ae@event-collector
+DESCRIPTION:StandUp-Comedy\nhttps://www.pelmke.de/veranstaltungen/standup-
+ comedy-5/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/standup-comedy-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneipenquiz – Demokratie am Tresen
+DTSTART:20261217T190000Z
+DTEND:20261217T210000Z
+DTSTAMP:20261119T000433Z
+UID:7ea89a0e93da@event-collector
+DESCRIPTION:Kneipenquiz – Demokratie am Tresen\nhttps://www.pelmke.de/ve
+ ranstaltungen/kneipenquiz-demokratie-am-tresen-4/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen
+ -4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erwin-Kostedde-Kickerturnier 2026
+DTSTART:20261218T183000Z
+DTEND:20261218T203000Z
+DTSTAMP:20261119T000433Z
+UID:cc52c6857db4@event-collector
+DESCRIPTION:Erwin-Kostedde-Kickerturnier 2026\nhttps://www.pelmke.de/veran
+ staltungen/kickerturnier-2026/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/kickerturnier-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mit »Pelmke kulinarisch« um die Welt – Ägypten
+DTSTART:20261220T170000Z
+DTEND:20261220T190000Z
+DTSTAMP:20261119T000433Z
+UID:a80fe59c05b6@event-collector
+DESCRIPTION:Mit »Pelmke kulinarisch« um die Welt – Ägypten\nhttps://w
+ ww.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-um-die-welt-aegypten/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-um-die-we
+ lt-aegypten/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nightflow Markt – Nachttrödel
+DTSTART:20270306T170000Z
+DTEND:20270306T190000Z
+DTSTAMP:20261119T000433Z
+UID:f6269084ad8b@event-collector
+DESCRIPTION:Nightflow Markt – Nachttrödel\nhttps://www.pelmke.de/verans
+ taltungen/nightflow-markt-nachttroedel-5/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/nightflow-markt-nachttroedel-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
+DTSTART:20270924T180000Z
+DTEND:20270924T200000Z
+DTSTAMP:20261119T000433Z
+UID:1b65c561d058@event-collector
+DESCRIPTION:Jan Philipp Zymny – „VILLAIN ERA“\nhttps://www.pelmke.de
+ /veranstaltungen/jan-philipp-zymny-villain-era/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villain-era/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
+DTSTART:20270925T180000Z
+DTEND:20270925T200000Z
+DTSTAMP:20261119T000433Z
+UID:83509c18a3c4@event-collector
+DESCRIPTION:Jan Philipp Zymny – „VILLAIN ERA“\nhttps://www.pelmke.de
+ /veranstaltungen/jan-philipp-zymny-villain-era-2/
+LOCATION:Pelmke\, Hagen
+URL:https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villain-era-2/
 END:VEVENT
 END:VCALENDAR

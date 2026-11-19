@@ -15,7 +15,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "6d78622f0560": {
@@ -84,8 +84,7 @@
   "time": "19:00",
   "time_known": true,
   "tags": [
-   "konzert",
-   "theater"
+   "konzert"
   ],
   "genre": "Singer-Songwriter",
   "description": "Singer-Songwriter | Support: Linda LoFi",
@@ -93,7 +92,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "967bf68fc526": {
@@ -105,8 +104,7 @@
   "time_known": true,
   "tags": [
    "konzert",
-   "party",
-   "theater"
+   "party"
   ],
   "genre": "Pussy-Punk | Techno",
   "description": "Pussy-Punk | Techno",
@@ -114,7 +112,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "986afcac594a": {
@@ -125,8 +123,7 @@
   "time": "19:00",
   "time_known": true,
   "tags": [
-   "konzert",
-   "theater"
+   "konzert"
   ],
   "genre": "Singer Songwriter | Indie Pop",
   "description": "Singer Songwriter | Indie Pop",
@@ -134,7 +131,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "7292292bb990": {
@@ -153,7 +150,7 @@
   "location_override": "Wattenscheid",
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "9c3d29094074": {
@@ -172,7 +169,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-18T23:59:30+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "7e146ca4b2c4": {
@@ -269,7 +266,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "e3b9f2fa7930": {
@@ -288,7 +285,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "62c6f89171b8": {
@@ -299,7 +296,6 @@
   "time": "21:00",
   "time_known": true,
   "tags": [
-   "konzert",
    "party"
   ],
   "genre": "Soul",
@@ -308,7 +304,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "694eef6922de": {
@@ -327,7 +323,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "fb2690ca432b": {
@@ -346,7 +342,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "85d94d66e966": {
@@ -365,7 +361,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "172b8d3f3826": {
@@ -384,7 +380,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "e08990dee11c": {
@@ -403,7 +399,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "807f38fecd5f": {
@@ -422,7 +418,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "a4053fd1054a": {
@@ -441,7 +437,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "c43e9517dcdb": {
@@ -454,13 +450,13 @@
   "tags": [
    "party"
   ],
-  "genre": null,
+  "genre": "DJ Set",
   "description": "DJ Set und Happy Hour",
   "url": "https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "008d26edf8b2": {
@@ -479,7 +475,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "13e2f0cfbd79": {
@@ -493,13 +489,13 @@
    "konzert"
   ],
   "genre": null,
-  "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+  "description": "Situationen der Demokratie – Situation 1: Demokratie & Digitalität. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
   "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:13:22+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
  },
  "8dcc1ce84db1": {
   "id": "8dcc1ce84db1",
@@ -517,7 +513,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:13:22+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "7d893bd9647b": {
@@ -556,7 +552,7 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:16:06+01:00",
   "last_seen": "2026-11-19T00:44:13+01:00",
-  "gone": false
+  "gone": true
  },
  "0376ab6d9333": {
   "id": "0376ab6d9333",
@@ -574,7 +570,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:16:06+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "a6d9f75feca2": {
@@ -614,7 +610,7 @@
   "recurring": false,
   "first_seen": "2026-11-19T00:16:06+01:00",
   "last_seen": "2026-11-19T00:44:13+01:00",
-  "gone": false
+  "gone": true
  },
  "ba6cdef969e7": {
   "id": "ba6cdef969e7",
@@ -652,7 +648,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "752922d87709": {
@@ -671,7 +667,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "aae50e3a0f33": {
@@ -690,7 +686,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "64c029bbc72f": {
@@ -709,7 +705,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "8c984c5088f1": {
@@ -729,7 +725,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "492c5f5f771b": {
@@ -748,7 +744,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "d96eab78084d": {
@@ -767,7 +763,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "2f3cacafac31": {
@@ -778,8 +774,7 @@
   "time": "18:00",
   "time_known": true,
   "tags": [
-   "konzert",
-   "theater"
+   "konzert"
   ],
   "genre": "Klavier",
   "description": "Klavierkonzert mit Martin Brödemann. Preisgruppe A",
@@ -787,7 +782,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "a7a1ff828460": {
@@ -807,7 +802,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "1abb5f2fd3bc": {
@@ -826,7 +821,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "ffd0e6a6fd93": {
@@ -845,7 +840,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "12b56c6f25d0": {
@@ -864,7 +859,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "23b84073bdf0": {
@@ -883,7 +878,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "78d59e71d44f": {
@@ -902,7 +897,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "d9aecb40209d": {
@@ -921,7 +916,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "7b9f10b712c0": {
@@ -940,7 +935,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "507b2423be94": {
@@ -959,7 +954,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "3634d818e2ef": {
@@ -970,8 +965,7 @@
   "time": "19:30",
   "time_known": true,
   "tags": [
-   "konzert",
-   "theater"
+   "konzert"
   ],
   "genre": "Rock | Electronic",
   "description": "Rock | Electronic",
@@ -979,7 +973,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "32afa4eb940d": {
@@ -998,7 +992,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "9a5b4927fa02": {
@@ -1017,7 +1011,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "7833b68d9ed9": {
@@ -1028,7 +1022,6 @@
   "time": "20:00",
   "time_known": true,
   "tags": [
-   "konzert",
    "party"
   ],
   "genre": null,
@@ -1037,7 +1030,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "98258dea9a68": {
@@ -1048,7 +1041,6 @@
   "time": "20:00",
   "time_known": true,
   "tags": [
-   "jam-session",
    "konzert"
   ],
   "genre": "Jazz, Experimental, Modern Jazz",
@@ -1057,7 +1049,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "bd7a046e435b": {
@@ -1077,8 +1069,8 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:40:12+01:00",
-  "gone": true
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
  },
  "4deebb544d9f": {
   "id": "4deebb544d9f",
@@ -1088,7 +1080,6 @@
   "time": "20:00",
   "time_known": true,
   "tags": [
-   "konzert",
    "party"
   ],
   "genre": null,
@@ -1097,7 +1088,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "9a8ce7d22c62": {
@@ -1108,8 +1099,7 @@
   "time": "20:30",
   "time_known": true,
   "tags": [
-   "jam-session",
-   "konzert"
+   "jam-session"
   ],
   "genre": "Jazz",
   "description": "Monday Night Session",
@@ -1117,7 +1107,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "314858e8b1ca": {
@@ -1128,7 +1118,7 @@
   "time": "19:30",
   "time_known": true,
   "tags": [
-   "konzert"
+   "sonstiges"
   ],
   "genre": "Pop",
   "description": "Das Dortmunder Rudelsingen",
@@ -1136,7 +1126,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "1d138b027dd2": {
@@ -1147,7 +1137,6 @@
   "time": "20:00",
   "time_known": true,
   "tags": [
-   "konzert",
    "party"
   ],
   "genre": null,
@@ -1156,7 +1145,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "4eeaf6bfcb14": {
@@ -1175,7 +1164,7 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  },
  "e7f641fec46f": {
@@ -1194,7 +1183,1245 @@
   "location_override": null,
   "recurring": false,
   "first_seen": "2026-11-19T00:25:38+01:00",
-  "last_seen": "2026-11-19T00:44:13+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "425862258d2c": {
+  "id": "425862258d2c",
+  "venue_id": "pelmke",
+  "title": "Der Klangteppich – Musik, live und improvisiert",
+  "date": "2026-12-10",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session",
+   "konzert"
+  ],
+  "genre": "Improvisation",
+  "description": "Musik, live und improvisiert",
+  "url": "https://www.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-improvisiert-10/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "52b0b6a002ae": {
+  "id": "52b0b6a002ae",
+  "venue_id": "pelmke",
+  "title": "StandUp-Comedy",
+  "date": "2026-12-11",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": "Comedy",
+  "description": "StandUp-Comedy",
+  "url": "https://www.pelmke.de/veranstaltungen/standup-comedy-5/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "7ea89a0e93da": {
+  "id": "7ea89a0e93da",
+  "venue_id": "pelmke",
+  "title": "Kneipenquiz – Demokratie am Tresen",
+  "date": "2026-12-17",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Kneipenquiz – Demokratie am Tresen",
+  "url": "https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen-4/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "cc52c6857db4": {
+  "id": "cc52c6857db4",
+  "venue_id": "pelmke",
+  "title": "Erwin-Kostedde-Kickerturnier 2026",
+  "date": "2026-12-18",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Erwin-Kostedde-Kickerturnier 2026",
+  "url": "https://www.pelmke.de/veranstaltungen/kickerturnier-2026/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "3b548bf3b4b9": {
+  "id": "3b548bf3b4b9",
+  "venue_id": "pelmke",
+  "title": "Soul Invaders / Tuffi Slippers / Putrid Cave / tba",
+  "date": "2026-12-19",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "konzert",
+   "party"
+  ],
+  "genre": null,
+  "description": "Soul Invaders / Tuffi Slippers / The Mad Moiselles / Putrid Cave / tba",
+  "url": "https://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slippers-the-mad-moiselles-putrid-cave/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "a80fe59c05b6": {
+  "id": "a80fe59c05b6",
+  "venue_id": "pelmke",
+  "title": "Mit »Pelmke kulinarisch« um die Welt – Ägypten",
+  "date": "2026-12-20",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Mit »Pelmke kulinarisch« um die Welt – Ägypten",
+  "url": "https://www.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-um-die-welt-aegypten/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "64b3251aa67d": {
+  "id": "64b3251aa67d",
+  "venue_id": "pelmke",
+  "title": "Leselounge im Kinocafé",
+  "date": "2026-12-27",
+  "time": "15:00",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": null,
+  "description": "Leselounge im Kinocafé",
+  "url": "https://www.pelmke.de/veranstaltungen/leselounge-im-kinocafe-6/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "56d069484319": {
+  "id": "56d069484319",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-01-28",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-6/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "5936231e39f5": {
+  "id": "5936231e39f5",
+  "venue_id": "pelmke",
+  "title": "FRANK’S WHITE CANVAS // Support: Neue Paranoia",
+  "date": "2027-01-29",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "FRANK’S WHITE CANVAS // Support: Neue Paranoia",
+  "url": "https://www.pelmke.de/veranstaltungen/franks-white-canvas-support-neue-paranoia/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "a2fd1a96a40d": {
+  "id": "a2fd1a96a40d",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-02-25",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-10/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "391b60045fed": {
+  "id": "391b60045fed",
+  "venue_id": "pelmke",
+  "title": "QUICHOTTE „Guter Dinge“",
+  "date": "2027-02-26",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "QUICHOTTE „Guter Dinge“",
+  "url": "https://www.pelmke.de/veranstaltungen/quichotte-guter-dinge/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "f6269084ad8b": {
+  "id": "f6269084ad8b",
+  "venue_id": "pelmke",
+  "title": "Nightflow Markt – Nachttrödel",
+  "date": "2027-03-06",
+  "time": "18:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Nightflow Markt – Nachttrödel",
+  "url": "https://www.pelmke.de/veranstaltungen/nightflow-markt-nachttroedel-5/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "8c7cca35467d": {
+  "id": "8c7cca35467d",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-03-25",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-11/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "10a0dcf50e34": {
+  "id": "10a0dcf50e34",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-04-22",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-13/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "705e48be0a17": {
+  "id": "705e48be0a17",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-05-20",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-14/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "287370c32f6f": {
+  "id": "287370c32f6f",
+  "venue_id": "pelmke",
+  "title": "10 Jahre Clashing Minds – Das Jubiläumskonzert",
+  "date": "2027-06-12",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "10 Jahre Clashing Minds – Das Jubiläumskonzert",
+  "url": "https://www.pelmke.de/veranstaltungen/clashing-minds/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "5144c0ed3e8a": {
+  "id": "5144c0ed3e8a",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-06-24",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-15/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "517b6f49687c": {
+  "id": "517b6f49687c",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-09-23",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-16/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "1b65c561d058": {
+  "id": "1b65c561d058",
+  "venue_id": "pelmke",
+  "title": "Jan Philipp Zymny – „VILLAIN ERA“",
+  "date": "2027-09-24",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Jan Philipp Zymny – „VILLAIN ERA“",
+  "url": "https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villain-era/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "83509c18a3c4": {
+  "id": "83509c18a3c4",
+  "venue_id": "pelmke",
+  "title": "Jan Philipp Zymny – „VILLAIN ERA“",
+  "date": "2027-09-25",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "sonstiges"
+  ],
+  "genre": null,
+  "description": "Jan Philipp Zymny – „VILLAIN ERA“",
+  "url": "https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villain-era-2/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "a7645eda1305": {
+  "id": "a7645eda1305",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-10-28",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-17/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "5c283d41ed80": {
+  "id": "5c283d41ed80",
+  "venue_id": "pelmke",
+  "title": "Sundowner Collective – After Work Party",
+  "date": "2027-11-25",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "freestyling w/ inagee",
+  "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-12/",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "0ef16fb6f2f7": {
+  "id": "0ef16fb6f2f7",
+  "venue_id": "domicil",
+  "title": "33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season",
+  "date": "2026-11-28",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Experimental, Avantgarde, Improvisation",
+  "description": "33. Jazztage Dortmund: Ingrid Laubrock & Grammy Season",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/ingrid-laubrock.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "cead21dcb903": {
+  "id": "cead21dcb903",
+  "venue_id": "domicil",
+  "title": "Finibaggies presents: Saturday Soul",
+  "date": "2026-11-28",
+  "time": "22:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": "Jazz, Funk, Soul, Disco, House",
+  "description": "Finibaggies presents: Saturday Soul",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/finibaggies-presents-saturday-soul-12523.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "ecfa49a5735d": {
+  "id": "ecfa49a5735d",
+  "venue_id": "domicil",
+  "title": "DiS Festival: Das große Finale mit Batomae X Tonstudio 13",
+  "date": "2026-11-29",
+  "time": "19:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Pop, Rock, Indie-Pop",
+  "description": "DiS Festival: Das große Finale mit Batomae X Tonstudio 13",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/bartholomae.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "13022732f003": {
+  "id": "13022732f003",
+  "venue_id": "domicil",
+  "title": "Vinyl Shake",
+  "date": "2026-11-30",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "Vinyl Shake",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/vinyl-shake-12659.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "bcc8df82edf0": {
+  "id": "bcc8df82edf0",
+  "venue_id": "domicil",
+  "title": "Monday Night Session",
+  "date": "2026-11-30",
+  "time": "20:30",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": "Jazz",
+  "description": "Monday Night Session",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12627.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "6f6591b52cd2": {
+  "id": "6f6591b52cd2",
+  "venue_id": "domicil",
+  "title": "Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph Bartmann",
+  "date": "2026-12-01",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": null,
+  "description": "Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph Bartmann",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/wortklub-12292.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "4c8cbcf28f7a": {
+  "id": "4c8cbcf28f7a",
+  "venue_id": "domicil",
+  "title": "Folkwang Jazz",
+  "date": "2026-12-02",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Folkwang Jazz",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/folkwang-jazz-12097.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "242887ecaf3f": {
+  "id": "242887ecaf3f",
+  "venue_id": "domicil",
+  "title": "Shining Hour - Duo-Konzert Frank Scheele & Peter H. Köcke",
+  "date": "2026-12-03",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Shining Hour - Duo-Konzert Frank Scheele & Peter H. Köcke",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/shining-hour-11975.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "55641828f61c": {
+  "id": "55641828f61c",
+  "venue_id": "domicil",
+  "title": "Jugend Jazzt NRW - Preisträger*innenkonzert 2026",
+  "date": "2026-12-04",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Jugend Jazzt NRW - Preisträger*innenkonzert 2026",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/jugend-jazzt-preistr%C3%A4gerkonzert.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "902928165a50": {
+  "id": "902928165a50",
+  "venue_id": "domicil",
+  "title": "40+ Party",
+  "date": "2026-12-05",
+  "time": "21:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": null,
+  "description": "40+ Party",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/40-party-12072.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "0513f6a19df0": {
+  "id": "0513f6a19df0",
+  "venue_id": "domicil",
+  "title": "Monday Night Session",
+  "date": "2026-12-07",
+  "time": "20:30",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": "Jazz",
+  "description": "Monday Night Session",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12628.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "94444b57e4d9": {
+  "id": "94444b57e4d9",
+  "venue_id": "domicil",
+  "title": "Flinta* Session feat. Open Circuit",
+  "date": "2026-12-09",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session",
+   "konzert"
+  ],
+  "genre": "Jazz",
+  "description": "Flinta* Session feat. Open Circuit",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/flinta-session-12323.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "4ab0d9c41dd6": {
+  "id": "4ab0d9c41dd6",
+  "venue_id": "domicil",
+  "title": "Tineke Postma Group feat. Theo Bleckmann",
+  "date": "2026-12-10",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz, Vocal Jazz",
+  "description": "Tineke Postma Group feat. Theo Bleckmann",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/tineke-postma-group-feat-theo-bleckmann.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "18ab088c9477": {
+  "id": "18ab088c9477",
+  "venue_id": "domicil",
+  "title": "ProJazz Festival 2026",
+  "date": "2026-12-12",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "ProJazz Festival 2026",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/projazz-festival-12474.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "68d6b1182886": {
+  "id": "68d6b1182886",
+  "venue_id": "domicil",
+  "title": "Finibaggies presents: Saturday Soul",
+  "date": "2026-12-12",
+  "time": "22:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": "Jazz, Funk, Soul, Disco, House",
+  "description": "Finibaggies presents: Saturday Soul",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/finibaggies-presents-saturday-soul-12524.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "7dfcc140bad1": {
+  "id": "7dfcc140bad1",
+  "venue_id": "domicil",
+  "title": "SOUNDZZ Familienkonzert feat. Talking Horns",
+  "date": "2026-12-13",
+  "time": "16:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz, Avantgarde, Improvisation, Acoustic",
+  "description": "SOUNDZZ Familienkonzert feat. Talking Horns",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/soundzz-12304.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "9a8b22a13ca0": {
+  "id": "9a8b22a13ca0",
+  "venue_id": "domicil",
+  "title": "Monday Night Session",
+  "date": "2026-12-14",
+  "time": "20:30",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": "Jazz",
+  "description": "Monday Night Session",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12629.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "f4475d9d227f": {
+  "id": "f4475d9d227f",
+  "venue_id": "domicil",
+  "title": "Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowideit",
+  "date": "2026-12-15",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": null,
+  "description": "Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowideit",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/wortklub-demokratie-labor-5-anne-brorhilker-und-christoph-bartmann-12398.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "dee8ecf7fc6a": {
+  "id": "dee8ecf7fc6a",
+  "venue_id": "domicil",
+  "title": "The Dorf",
+  "date": "2026-12-17",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Avantgarde, Improvisation, Urban",
+  "description": "The Dorf",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-11960.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "f538bbcb678c": {
+  "id": "f538bbcb678c",
+  "venue_id": "domicil",
+  "title": "Herbelicious",
+  "date": "2026-12-18",
+  "time": "21:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Special",
+  "description": "Herbelicious",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/herbelicious.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "b3b7be3a0e84": {
+  "id": "b3b7be3a0e84",
+  "venue_id": "domicil",
+  "title": "Benny`s Long Shadow feat. Stefan Bauer, Chris Bacas, Mike Roelofs, Yonga Sun",
+  "date": "2026-12-19",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Benny`s Long Shadow feat. Stefan Bauer, Chris Bacas, Mike Roelofs, Yonga Sun",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/stefan-bauer-12338.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "966aa7f22c51": {
+  "id": "966aa7f22c51",
+  "venue_id": "domicil",
+  "title": "Monday Night Session",
+  "date": "2026-12-21",
+  "time": "20:30",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": "Jazz",
+  "description": "Monday Night Session",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12630.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "4d110bb33010": {
+  "id": "4d110bb33010",
+  "venue_id": "domicil",
+  "title": "54. Weihnachts-Jazzmatinee im Opernhaus",
+  "date": "2026-12-26",
+  "time": "11:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz, Groove, Big Band, World Music",
+  "description": "54. Weihnachts-Jazzmatinee im Opernhaus",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/54-weihnachts-jazzmatinee-im-opernhaus.html",
+  "location_override": "Opernhaus",
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "951b1487dfa3": {
+  "id": "951b1487dfa3",
+  "venue_id": "domicil",
+  "title": "Silvesterparty im domicil",
+  "date": "2026-12-31",
+  "time": "21:00",
+  "time_known": true,
+  "tags": [
+   "party"
+  ],
+  "genre": "Pop, Soul, Rock, House",
+  "description": "Silvesterparty im domicil",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/silvesterparty-11970.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "ae68356f137c": {
+  "id": "ae68356f137c",
+  "venue_id": "domicil",
+  "title": "Monday Night Session",
+  "date": "2027-01-04",
+  "time": "20:30",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": "Jazz",
+  "description": "Monday Night Session",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12632.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "9ac988a18d20": {
+  "id": "9ac988a18d20",
+  "venue_id": "domicil",
+  "title": "Alexandra Lehmler Trio",
+  "date": "2027-01-08",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz, Improvisation",
+  "description": "Alexandra Lehmler Trio",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/alexandra-lehmler-trio.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "f96714e480bc": {
+  "id": "f96714e480bc",
+  "venue_id": "domicil",
+  "title": "Stevie's Call– The Jazz of Stevie Wonder",
+  "date": "2027-01-09",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Stevie's Call– The Jazz of Stevie Wonder",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/stevies-call-12283.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "8bd7eb276615": {
+  "id": "8bd7eb276615",
+  "venue_id": "domicil",
+  "title": "The Dorf",
+  "date": "2027-01-21",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Avantgarde, Improvisation, Urban",
+  "description": "The Dorf",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-12381.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "20cd4467aac4": {
+  "id": "20cd4467aac4",
+  "venue_id": "domicil",
+  "title": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia ...",
+  "date": "2027-01-28",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz, Contemporary, Modern Jazz",
+  "description": "Jorge Rossy Vibes Quartet feat. Milena Casado, Robert Landfermann, Cornelia ...",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/jorge-rossy-quartet-feat-jorge-rossy-milena-casado-robert-landfermann-cornelia-nilsson.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "07e65f5c0c32": {
+  "id": "07e65f5c0c32",
+  "venue_id": "domicil",
+  "title": "Bunt oder Blau präsentiert: Schlakks",
+  "date": "2027-01-29",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Bunt oder Blau präsentiert: Schlakks",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/schlakks.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "4ab46e1d6d41": {
+  "id": "4ab46e1d6d41",
+  "venue_id": "domicil",
+  "title": "Knobil",
+  "date": "2027-02-12",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Knobil",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/knobil.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "683f3254c4d5": {
+  "id": "683f3254c4d5",
+  "venue_id": "domicil",
+  "title": "The Dorf",
+  "date": "2027-02-18",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Avantgarde, Improvisation, Urban",
+  "description": "The Dorf",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-12382.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "02bb3236718a": {
+  "id": "02bb3236718a",
+  "venue_id": "domicil",
+  "title": "Nathan & Noah East",
+  "date": "2027-02-20",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Nathan & Noah East",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/nathan-noah-east.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "db92d523b27b": {
+  "id": "db92d523b27b",
+  "venue_id": "domicil",
+  "title": "Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine Option",
+  "date": "2027-02-23",
+  "time": "19:30",
+  "time_known": true,
+  "tags": [
+   "lesung"
+  ],
+  "genre": null,
+  "description": "Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine Option",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/ersatztemrin-f%C3%BCr-wortklub-17-11-26.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "ea0ac255ade5": {
+  "id": "ea0ac255ade5",
+  "venue_id": "domicil",
+  "title": "Bunt oder Blau präsentiert: Nubiyan Twist",
+  "date": "2027-02-25",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Dance, Soul, HipHop, Afro, Afrobeat",
+  "description": "Bunt oder Blau präsentiert: Nubiyan Twist",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/nubiyan-twist-12345.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "75ca0e76528f": {
+  "id": "75ca0e76528f",
+  "venue_id": "domicil",
+  "title": "Girls In Airports",
+  "date": "2027-03-04",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz, Groove, Indie-Pop",
+  "description": "Girls In Airports",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/opt2-girls-in-airports.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "ff5498528af7": {
+  "id": "ff5498528af7",
+  "venue_id": "domicil",
+  "title": "Theodor",
+  "date": "2027-03-31",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Jazz, Funk, Soul",
+  "description": "Theodor",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/theodor.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "390bd5f5941e": {
+  "id": "390bd5f5941e",
+  "venue_id": "domicil",
+  "title": "Fortuna Ehrenfeld",
+  "date": "2027-04-09",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Special",
+  "description": "Fortuna Ehrenfeld",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/fortuna-ehrenfeld.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "0fde6b6e5d40": {
+  "id": "0fde6b6e5d40",
+  "venue_id": "domicil",
+  "title": "Benefiz-Konzert des Zonta-Clubs Dortmund: Dr. Soul & Marilyn Boadu Band",
+  "date": "2027-05-07",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": null,
+  "description": "Benefiz-Konzert des Zonta-Clubs Dortmund: Dr. Soul & Marilyn Boadu Band",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/f%C3%BCr-dr-soul-zonta-verlegung.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "f30775275d1b": {
+  "id": "f30775275d1b",
+  "venue_id": "domicil",
+  "title": "Quadro Nuevo",
+  "date": "2027-06-12",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "konzert"
+  ],
+  "genre": "Global Music",
+  "description": "Quadro Nuevo",
+  "url": "https://domicil-dortmund.de/index.php/programm-details/quadro-nuevo-12196.html",
+  "location_override": null,
+  "recurring": false,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "3def69bff9a3": {
+  "id": "3def69bff9a3",
+  "venue_id": "affenhack",
+  "title": "Jam Session",
+  "date": "2026-12-05",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": null,
+  "description": "",
+  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+  "location_override": null,
+  "recurring": true,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "870fe70b6c35": {
+  "id": "870fe70b6c35",
+  "venue_id": "affenhack",
+  "title": "Jam Session",
+  "date": "2027-01-02",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": null,
+  "description": "",
+  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+  "location_override": null,
+  "recurring": true,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
+  "gone": false
+ },
+ "1bb634e1bd14": {
+  "id": "1bb634e1bd14",
+  "venue_id": "affenhack",
+  "title": "Jam Session",
+  "date": "2027-02-06",
+  "time": "20:00",
+  "time_known": true,
+  "tags": [
+   "jam-session"
+  ],
+  "genre": null,
+  "description": "",
+  "url": "https://www.facebook.com/people/Affenhack-Studios-Herne-NEU",
+  "location_override": null,
+  "recurring": true,
+  "first_seen": "2026-11-19T01:03:32+01:00",
+  "last_seen": "2026-11-19T01:03:32+01:00",
   "gone": false
  }
 }
