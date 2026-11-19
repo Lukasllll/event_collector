@@ -99,11 +99,26 @@ def from_jsonld(html, base):
     return out
 
 
-def page_text(html, base):
+def page_text(html, v):
+    """Seite auf Text reduzieren. Optionen pro Venue: text_after / text_before (Marker), max_chars."""
+    base = v["source"]
     soup = BeautifulSoup(html, "html.parser")
     for t in soup(["script", "style", "nav", "footer", "noscript", "svg"]): t.decompose()
-    for a in soup.find_all("a", href=True): a.append(f" [{urljoin(base, a['href'])}]")
-    return re.sub(r"\n+", "\n", soup.get_text("\n", strip=True))[:40000]
+    for a in soup.find_all("a", href=True):
+        title = clean(a.get("title") or "")
+        a.append(f" [{urljoin(base, a['href'])}" + (f" | Titel: {title}" if title else "") + "]")
+    text = re.sub(r"\n+", "\n", soup.get_text("\n", strip=True))
+    for key, keep_tail in (("text_after", True), ("text_before", False)):
+        marker = v.get(key)
+        if not marker: continue
+        head, sep, tail = text.partition(marker)
+        if sep: text = tail if keep_tail else head
+        else: print(f"  WARNUNG {v['id']}: {key} {marker!r} nicht gefunden")
+    limit = int(v.get("max_chars", 40000))
+    if len(text) > limit:
+        print(f"  WARNUNG {v['id']}: Text von {len(text)} auf {limit} Zeichen gekürzt, kommende Termine fehlen evtl. (text_after/text_before setzen)")
+        text = text[:limit]
+    return text
 
 
 def from_llm(text, v):
@@ -121,7 +136,7 @@ def from_llm(text, v):
               "Regeln: Fehlt das Jahr, nimm das nächste passende Datum ab heute. Uhrzeit nur, wenn genannt (Beginn, HH:MM), sonst null. "
               "Wiederkehrende Reihen nicht selbst vervielfältigen, nur konkret datierte Termine. Nichts erfinden. "
               "description: max. 300 Zeichen, Sprache wie im Original. url: Link zur Veranstaltung, falls im Text vorhanden "
-              "(steht in eckigen Klammern hinter dem Linktext). tags: passende aus der Liste, mehrere erlaubt, 'sonstiges' nur wenn nichts passt. "
+              "(steht in eckigen Klammern hinter dem Linktext; steht dort 'Titel: …', ist das der saubere Veranstaltungstitel, nimm ihn als title). Als abgesagt markierte Veranstaltungen (z.B. 'Abgesagt', 'entfällt') weglassen. tags: passende aus der Liste, mehrere erlaubt, 'sonstiges' nur wenn nichts passt. "
               "genre: kurzes Stichwort (z.B. 'Free Jazz') oder null. location_override nur, wenn die Veranstaltung erkennbar woanders stattfindet.\n\n"
               "=== SEITENTEXT ===\n" + text)
     msg = anthropic.Anthropic().messages.create(
@@ -201,7 +216,7 @@ def scrape_venue(v, cache):
         if found:
             print(f"  {v['id']}: JSON-LD")
             return found
-    text = page_text(html, url)
+    text = page_text(html, v)
     h, c = sha(text), cache.get(v["id"])
     if c and c["hash"] == h:
         print(f"  {v['id']}: Seite unverändert, Cache")
@@ -329,6 +344,7 @@ def main():
         prev = [e for e in db.values() if e["venue_id"] == v["id"] and not e["recurring"] and not e["gone"] and e["date"] >= TODAY.isoformat()]
         if not raws and prev:  # sieht nach kaputtem Scraper aus, nichts als "entfällt" markieren
             errors.append(f"{v['id']}: 0 Events gefunden, vorher {len(prev)}"); continue
+        if not raws: print(f"  WARNUNG {v['id']}: 0 kommende Events erkannt, Quelle/Text prüfen")
         ingest(v["id"], raws, False); seen.add((v["id"], False))
         print(f"  {len(raws)} Events")
 
