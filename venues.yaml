@@ -58,6 +58,7 @@ venues:
     city: Wuppertal
     url: https://loch-wuppertal.de/
     source: https://loch-wuppertal.de/programm/
+    text_after: "Vergangene Events"
   - id: odonien
     name: Odonien
     city: Köln
