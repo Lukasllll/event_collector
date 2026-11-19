@@ -2,17 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Traumreise & Aquarell Workshop
+SUMMARY:Nature Journaling
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:d07526fffd7e@event-collector
-DESCRIPTION:Schecke deinem inneren Kind ein Bild. Begegne dem Kind\, das d
- u warst\, und lass es sich gesehen fühlen. Kunst hat die Kraft\, unserem 
- inneren erleben eine Greifbarkeit zu verleihen. In diesem Workshop nehmen 
- wir uns Zeit für das Kind\, das wir einmal waren\, und geben ihm Raum\, F
- arbe und Aufmerksamkeit.\nhttps://www.wirrwarr-wehringhausen.de/events/nat
- ure-journaling-ka57l-3krf4
+DESCRIPTION:Schenke deinem inneren Kind ein Bild. Traumreise & Aquarell Wo
+ rkshop: Begegne dem Kind\, das du warst\, und lass es sich gesehen fühlen
+ . Kunst hat die Kraft\, unserem inneren erleben eine Greifbarkeit zu verle
+ ihen.\nhttps://www.wirrwarr-wehringhausen.de/events/nature-journaling-ka57
+ l-3krf4
 LOCATION:WirrWarr\, Hagen
 URL:https://www.wirrwarr-wehringhausen.de/events/nature-journaling-ka57l-3
  krf4
@@ -21,10 +20,10 @@ BEGIN:VEVENT
 SUMMARY:Chorprobe
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:d47587e333b7@event-collector
-DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
- be-3134
+DESCRIPTION:Chor im LOCH\nhttps://loch-wuppertal.de/programm/kalender/chor
+ probe-3134
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3134
 END:VEVENT
@@ -33,11 +32,11 @@ SUMMARY:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsyst
  em
 DTSTART:20261128T100000Z
 DTEND:20261128T120000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:807f38fecd5f@event-collector
-DESCRIPTION:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Sound
- system\nhttps://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfa
- enger-workshop-mit-scala-soundsystem-2/
+DESCRIPTION:Workshop mit Scala Soundsystem\nhttps://www.pelmke.de/veransta
+ ltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2
+ /
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/auflegen-mit-vinyl-fuer-anfaenge
  r-workshop-mit-scala-soundsystem-2/
@@ -47,11 +46,11 @@ SUMMARY:Klangerzeugung durch analoge Synthese – Workshop mit Scala Sound
  system
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:a4053fd1054a@event-collector
-DESCRIPTION:Klangerzeugung durch analoge Synthese – Workshop mit Scala S
- oundsystem\nhttps://www.pelmke.de/veranstaltungen/klangerzeugung-durch-ana
- loge-synthese-workshop-mit-scala-soundsystem-2/
+DESCRIPTION:Workshop mit Scala Soundsystem\nhttps://www.pelmke.de/veransta
+ ltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsyst
+ em-2/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/klangerzeugung-durch-analoge-syn
  these-workshop-mit-scala-soundsystem-2/
@@ -60,18 +59,18 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261201T183000Z
 DTEND:20261201T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:f82d7f5f681b@event-collector
-DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
- be-3135
+DESCRIPTION:Chor im LOCH\nhttps://loch-wuppertal.de/programm/kalender/chor
+ probe-3135
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3135
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chorprobe
+SUMMARY:[entfällt?] Chorprobe
 DTSTART:20261208T183000Z
 DTEND:20261208T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:13ff9302c1a5@event-collector
 DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/
 LOCATION:Loch\, Wuppertal
@@ -81,10 +80,10 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:99c66cf20d36@event-collector
-DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
- be-3137
+DESCRIPTION:Musik\, Workshop\nhttps://loch-wuppertal.de/programm/kalender/
+ chorprobe-3137
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3137
 END:VEVENT
@@ -92,10 +91,10 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261222T183000Z
 DTEND:20261222T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:6bc7f04ff6da@event-collector
-DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
- be-3138
+DESCRIPTION:Musik\, Workshop\nhttps://loch-wuppertal.de/programm/kalender/
+ chorprobe-3138
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3138
 END:VEVENT

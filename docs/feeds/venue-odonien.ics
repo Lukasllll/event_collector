@@ -5,10 +5,9 @@ BEGIN:VEVENT
 SUMMARY:Saus & Braus
 DTSTART:20261120T220000Z
 DTEND:20261121T000000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:32e5fe1e040f@event-collector
-DESCRIPTION:Saus & Braus\nhttps://odonien.de/veranstaltungen/mira-und-chri
- s
+DESCRIPTION:https://odonien.de/veranstaltungen/mira-und-chris
 LOCATION:Odonien\, Köln
 URL:https://odonien.de/veranstaltungen/mira-und-chris
 END:VEVENT
@@ -16,10 +15,9 @@ BEGIN:VEVENT
 SUMMARY:Lichtblick Winter Rave
 DTSTART:20261121T220000Z
 DTEND:20261122T000000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:a8871d54b4ab@event-collector
-DESCRIPTION:Lichtblick Winter Rave\nhttps://odonien.de/veranstaltungen/lic
- htblick-winterrave
+DESCRIPTION:https://odonien.de/veranstaltungen/lichtblick-winterrave
 LOCATION:Odonien\, Köln
 URL:https://odonien.de/veranstaltungen/lichtblick-winterrave
 END:VEVENT
@@ -27,10 +25,9 @@ BEGIN:VEVENT
 SUMMARY:klickklackklub Clubedition
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:38bab45d3ec5@event-collector
-DESCRIPTION:klickklackklub Clubedition\nhttps://odonien.de/veranstaltungen
- /klickklack-clubedition
+DESCRIPTION:https://odonien.de/veranstaltungen/klickklack-clubedition
 LOCATION:Odonien\, Köln
 URL:https://odonien.de/veranstaltungen/klickklack-clubedition
 END:VEVENT
@@ -38,10 +35,9 @@ BEGIN:VEVENT
 SUMMARY:OCN - odonische Clubnacht
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:7ed3c88ec522@event-collector
-DESCRIPTION:OCN - odonische Clubnacht\nhttps://odonien.de/veranstaltungen/
- ocn-1
+DESCRIPTION:https://odonien.de/veranstaltungen/ocn-1
 LOCATION:Odonien\, Köln
 URL:https://odonien.de/veranstaltungen/ocn-1
 END:VEVENT
@@ -49,9 +45,9 @@ BEGIN:VEVENT
 SUMMARY:EhrenKlub #31
 DTSTART:20261204T220000Z
 DTEND:20261205T000000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:178246ca3808@event-collector
-DESCRIPTION:EhrenKlub #31\nhttps://odonien.de/veranstaltungen/ehrenklub-31
+DESCRIPTION:https://odonien.de/veranstaltungen/ehrenklub-31
 LOCATION:Odonien\, Köln
 URL:https://odonien.de/veranstaltungen/ehrenklub-31
 END:VEVENT
@@ -59,10 +55,10 @@ BEGIN:VEVENT
 SUMMARY:Odonien Records invites Berlin Sound Therapy
 DTSTART:20261205T220000Z
 DTEND:20261206T000000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:78f7017ab8b2@event-collector
-DESCRIPTION:Odonien Records invites Berlin Sound Therapy\nhttps://odonien.
- de/veranstaltungen/odonien-records-berlin-sound-therapy
+DESCRIPTION:https://odonien.de/veranstaltungen/odonien-records-berlin-soun
+ d-therapy
 LOCATION:Odonien\, Köln
 URL:https://odonien.de/veranstaltungen/odonien-records-berlin-sound-therap
  y

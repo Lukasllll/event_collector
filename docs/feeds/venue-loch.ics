@@ -2,34 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Die Sache mit der Angst
-DTSTART;VALUE=DATE:20261119
-DTSTAMP:20261119T230003Z
-UID:6e7d8ffa76eb@event-collector
-DESCRIPTION:https://loch-wuppertal.de/
-LOCATION:Loch\, Wuppertal
-URL:https://loch-wuppertal.de/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Erst Exchampion dann offene Session
-DTSTART:20261119T190000Z
-DTEND:20261119T210000Z
-DTSTAMP:20261119T230003Z
-UID:6a3608210c22@event-collector
-DESCRIPTION:Erst Exchampion dann offene Session\nhttps://loch-wuppertal.de
- /programm/kalender/erst-exchampion-dann-offene-session-2871
-LOCATION:Loch\, Wuppertal
-URL:https://loch-wuppertal.de/programm/kalender/erst-exchampion-dann-offen
- e-session-2871
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:David Virelles KLAENG Project
 DTSTART:20261120T190000Z
 DTEND:20261120T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:4e450510e3cb@event-collector
-DESCRIPTION:David Virelles KLAENG Project\nhttps://loch-wuppertal.de/progr
- amm/kalender/david-virelles-klaeng-project-2995
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/david-v
+ irelles-klaeng-project-2995
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/david-virelles-klaeng-proj
  ect-2995
@@ -38,10 +17,10 @@ BEGIN:VEVENT
 SUMMARY:Funk & Soul Club Wuppertal
 DTSTART:20261120T203000Z
 DTEND:20261120T223000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:9158383b36f9@event-collector
-DESCRIPTION:Funk & Soul Club Wuppertal\nhttps://loch-wuppertal.de/programm
- /kalender/funk-soul-club-wuppertal-3141
+DESCRIPTION:OFFEN:BAR\nhttps://loch-wuppertal.de/programm/kalender/funk-so
+ ul-club-wuppertal-3141
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/funk-soul-club-wuppertal-3
  141
@@ -50,10 +29,10 @@ BEGIN:VEVENT
 SUMMARY:DAZWISCHEN UND DARÜBER HINAUS
 DTSTART:20261123T180000Z
 DTEND:20261123T200000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:71dd79d5fb93@event-collector
-DESCRIPTION:DAZWISCHEN UND DARÜBER HINAUS\nhttps://loch-wuppertal.de/prog
- ramm/kalender/dazwischen-und-darueber-hinaus-3116
+DESCRIPTION:Medienprojekt Wuppertal e.V.\nhttps://loch-wuppertal.de/progra
+ mm/kalender/dazwischen-und-darueber-hinaus-3116
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/dazwischen-und-darueber-hi
  naus-3116
@@ -62,10 +41,10 @@ BEGIN:VEVENT
 SUMMARY:Chorprobe
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:d47587e333b7@event-collector
-DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
- be-3134
+DESCRIPTION:Chor im LOCH\nhttps://loch-wuppertal.de/programm/kalender/chor
+ probe-3134
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3134
 END:VEVENT
@@ -73,10 +52,10 @@ BEGIN:VEVENT
 SUMMARY:Source and Roots
 DTSTART:20261125T190000Z
 DTEND:20261125T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:1ab28513c7d9@event-collector
-DESCRIPTION:Source and Roots\nhttps://loch-wuppertal.de/programm/kalender/
- source-and-roots-3167
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/source-
+ and-roots-3167
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/source-and-roots-3167
 END:VEVENT
@@ -84,10 +63,10 @@ BEGIN:VEVENT
 SUMMARY:David Kebekus
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:7d81fe7595a1@event-collector
-DESCRIPTION:David Kebekus\nhttps://loch-wuppertal.de/programm/kalender/dav
- id-kebekus-2803
+DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/david-kebe
+ kus-2803
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/david-kebekus-2803
 END:VEVENT
@@ -95,10 +74,10 @@ BEGIN:VEVENT
 SUMMARY:Hańba!
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:6e6170ba6108@event-collector
-DESCRIPTION:Hańba!\nhttps://loch-wuppertal.de/programm/kalender/hanba-272
- 1
+DESCRIPTION:Musik\, Konzert\nhttps://loch-wuppertal.de/programm/kalender/h
+ anba-2721
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/hanba-2721
 END:VEVENT
@@ -106,10 +85,10 @@ BEGIN:VEVENT
 SUMMARY:VINZ 3000
 DTSTART:20261127T203000Z
 DTEND:20261127T223000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:a067cd98c588@event-collector
-DESCRIPTION:VINZ 3000\nhttps://loch-wuppertal.de/programm/kalender/vinz-30
- 00-3068
+DESCRIPTION:Barabend\, Musik\nhttps://loch-wuppertal.de/programm/kalender/
+ vinz-3000-3068
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/vinz-3000-3068
 END:VEVENT
@@ -117,11 +96,10 @@ BEGIN:VEVENT
 SUMMARY:Listen (t)here! - Der 18. und der 40. Geburtstag gleichzeitig
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:12b71070d8f3@event-collector
-DESCRIPTION:Listen (t)here! - Der 18. und der 40. Geburtstag gleichzeitig
- \nhttps://loch-wuppertal.de/programm/kalender/listen-t-here-der-18-und-der
- -40-geburtstag-gleichzeitig-2855
+DESCRIPTION:Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/programm/kal
+ ender/listen-t-here-der-18-und-der-40-geburtstag-gleichzeitig-2855
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/listen-t-here-der-18-und-d
  er-40-geburtstag-gleichzeitig-2855
@@ -130,10 +108,10 @@ BEGIN:VEVENT
 SUMMARY:rhizome
 DTSTART:20261129T190000Z
 DTEND:20261129T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:1478377328bc@event-collector
-DESCRIPTION:rhizome\nhttps://loch-wuppertal.de/programm/kalender/rhizome-3
- 006
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/rhizome
+ -3006
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/rhizome-3006
 END:VEVENT
@@ -141,10 +119,10 @@ BEGIN:VEVENT
 SUMMARY:fem goes short - Kurzfilmscreening
 DTSTART:20261130T180000Z
 DTEND:20261130T200000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:e9a00a5a5659@event-collector
-DESCRIPTION:fem goes short - Kurzfilmscreening\nhttps://loch-wuppertal.de/
- programm/kalender/fem-goes-short-kurzfilmscreening-2936
+DESCRIPTION:Film Club\, Festival\, Community\nhttps://loch-wuppertal.de/pr
+ ogramm/kalender/fem-goes-short-kurzfilmscreening-2936
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/fem-goes-short-kurzfilmscr
  eening-2936
@@ -153,10 +131,10 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261201T183000Z
 DTEND:20261201T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:f82d7f5f681b@event-collector
-DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
- be-3135
+DESCRIPTION:Chor im LOCH\nhttps://loch-wuppertal.de/programm/kalender/chor
+ probe-3135
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3135
 END:VEVENT
@@ -164,9 +142,10 @@ BEGIN:VEVENT
 SUMMARY:Hilde
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:f4521008e8bd@event-collector
-DESCRIPTION:Hilde\nhttps://loch-wuppertal.de/programm/kalender/hilde-2887
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/hilde-2
+ 887
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/hilde-2887
 END:VEVENT
@@ -174,10 +153,10 @@ BEGIN:VEVENT
 SUMMARY:ANNA.LUCA // Small Friendly Giant
 DTSTART:20261203T190000Z
 DTEND:20261203T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:419819e47bc3@event-collector
-DESCRIPTION:ANNA.LUCA // Small Friendly Giant\nhttps://loch-wuppertal.de/p
- rogramm/kalender/anna-luca-small-friendly-giant-3094
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/anna-lu
+ ca-small-friendly-giant-3094
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/anna-luca-small-friendly-g
  iant-3094
@@ -186,10 +165,10 @@ BEGIN:VEVENT
 SUMMARY:Oskar Haag + Mare Amadou
 DTSTART:20261204T190000Z
 DTEND:20261204T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:5d5b99f68897@event-collector
-DESCRIPTION:Oskar Haag + Mare Amadou\nhttps://loch-wuppertal.de/programm/k
- alender/oskar-haag-2925
+DESCRIPTION:Talsounds\nhttps://loch-wuppertal.de/programm/kalender/oskar-h
+ aag-2925
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/oskar-haag-2925
 END:VEVENT
@@ -197,19 +176,19 @@ BEGIN:VEVENT
 SUMMARY:DJ Karriere b2b mighty maus
 DTSTART:20261204T203000Z
 DTEND:20261204T223000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:dfdc1b3c49ec@event-collector
-DESCRIPTION:DJ Karriere b2b mighty maus\nhttps://loch-wuppertal.de/program
- m/kalender/dj-karriere-b2b-mighty-maus-3196
+DESCRIPTION:OFFEN:BAR\, Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/
+ programm/kalender/dj-karriere-b2b-mighty-maus-3196
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/dj-karriere-b2b-mighty-mau
  s-3196
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chorprobe
+SUMMARY:[entfällt?] Chorprobe
 DTSTART:20261208T183000Z
 DTEND:20261208T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:13ff9302c1a5@event-collector
 DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/
 LOCATION:Loch\, Wuppertal
@@ -219,10 +198,10 @@ BEGIN:VEVENT
 SUMMARY:Moving Krippenspielers
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:f40fc01a03bf@event-collector
-DESCRIPTION:Moving Krippenspielers\nhttps://loch-wuppertal.de/programm/kal
- ender/moving-krippenspielers-2888
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/moving-
+ krippenspielers-2888
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/moving-krippenspielers-288
  8
@@ -231,10 +210,10 @@ BEGIN:VEVENT
 SUMMARY:Luisa Charlotte Schulz
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:f019964f977e@event-collector
-DESCRIPTION:Luisa Charlotte Schulz\nhttps://loch-wuppertal.de/programm/kal
- ender/luisa-charlotte-schulz-2908
+DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/luisa-char
+ lotte-schulz-2908
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/luisa-charlotte-schulz-290
  8
@@ -244,11 +223,10 @@ SUMMARY:Keshavara & Ramesh Shotham present Weirdly in Time feat. Marie Tjo
  ng-Ayong
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:0c3e8411fd36@event-collector
-DESCRIPTION:Keshavara & Ramesh Shotham present Weirdly in Time feat. Marie
-  Tjong-Ayong\nhttps://loch-wuppertal.de/programm/kalender/keshavara-ramesh
- -shotham-present-weirdly-in-time-feat-marie-tjong-ayong-3234
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/keshava
+ ra-ramesh-shotham-present-weirdly-in-time-feat-marie-tjong-ayong-3234
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/keshavara-ramesh-shotham-p
  resent-weirdly-in-time-feat-marie-tjong-ayong-3234
@@ -257,10 +235,10 @@ BEGIN:VEVENT
 SUMMARY:combo collage
 DTSTART:20261211T203000Z
 DTEND:20261211T223000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:6efe86f748b5@event-collector
-DESCRIPTION:combo collage\nhttps://loch-wuppertal.de/programm/kalender/com
- bo-collage-3235
+DESCRIPTION:OFFEN:BAR\, Bar\nhttps://loch-wuppertal.de/programm/kalender/c
+ ombo-collage-3235
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/combo-collage-3235
 END:VEVENT
@@ -268,10 +246,10 @@ BEGIN:VEVENT
 SUMMARY:Olivia Trummer
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:c86bc689e656@event-collector
-DESCRIPTION:Olivia Trummer\nhttps://loch-wuppertal.de/programm/kalender/ol
- ivia-trummer-trio-3032
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/olivia-
+ trummer-trio-3032
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/olivia-trummer-trio-3032
 END:VEVENT
@@ -279,11 +257,10 @@ BEGIN:VEVENT
 SUMMARY:Charles Petersohn + David Geer – „a joYful nOise“
 DTSTART:20261212T203000Z
 DTEND:20261212T223000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:550f1b782c5b@event-collector
-DESCRIPTION:Charles Petersohn + David Geer – „a joYful nOise“\nhttps
- ://loch-wuppertal.de/programm/kalender/charles-petersohn-david-geer-a-joyf
- ul-noise-3161
+DESCRIPTION:OFFEN:BAR\, Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/
+ programm/kalender/charles-petersohn-david-geer-a-joyful-noise-3161
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/charles-petersohn-david-ge
  er-a-joyful-noise-3161
@@ -292,10 +269,10 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:99c66cf20d36@event-collector
-DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
- be-3137
+DESCRIPTION:Musik\, Workshop\nhttps://loch-wuppertal.de/programm/kalender/
+ chorprobe-3137
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3137
 END:VEVENT
@@ -303,10 +280,10 @@ BEGIN:VEVENT
 SUMMARY:Mickey´s Monkey Party
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:fbbe0184fdaf@event-collector
-DESCRIPTION:Mickey´s Monkey Party\nhttps://loch-wuppertal.de/programm/kal
- ender/mickeys-monkey-party-2889
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/mickeys
+ -monkey-party-2889
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/mickeys-monkey-party-2889
 END:VEVENT
@@ -314,10 +291,10 @@ BEGIN:VEVENT
 SUMMARY:Der Quizabend im LOCH
 DTSTART:20261217T183000Z
 DTEND:20261217T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:e3a004ff77ec@event-collector
-DESCRIPTION:Der Quizabend im LOCH\nhttps://loch-wuppertal.de/programm/kale
- nder/der-quizabend-im-loch-2923
+DESCRIPTION:Wort\, Barabend\nhttps://loch-wuppertal.de/programm/kalender/d
+ er-quizabend-im-loch-2923
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/der-quizabend-im-loch-2923
 END:VEVENT
@@ -325,10 +302,10 @@ BEGIN:VEVENT
 SUMMARY:Das Musikkneipenquiz
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:f393d73afbb5@event-collector
-DESCRIPTION:Das Musikkneipenquiz\nhttps://loch-wuppertal.de/programm/kalen
- der/das-musikkneipenquiz-3112
+DESCRIPTION:Wort\, Barabend\, Musik\, Community\nhttps://loch-wuppertal.de
+ /programm/kalender/das-musikkneipenquiz-3112
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/das-musikkneipenquiz-3112
 END:VEVENT
@@ -336,10 +313,10 @@ BEGIN:VEVENT
 SUMMARY:Mauzmon + Unbreakable Daani
 DTSTART:20261218T210000Z
 DTEND:20261218T230000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:7c4112d37809@event-collector
-DESCRIPTION:Mauzmon + Unbreakable Daani\nhttps://loch-wuppertal.de/program
- m/kalender/mauzmon-unbreakable-daani-3186
+DESCRIPTION:OFFEN:BAR\, Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/
+ programm/kalender/mauzmon-unbreakable-daani-3186
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/mauzmon-unbreakable-daani-
  3186
@@ -348,10 +325,10 @@ BEGIN:VEVENT
 SUMMARY:27 Jahre 45rpm
 DTSTART:20261219T190000Z
 DTEND:20261219T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:3cfd3e5a4669@event-collector
-DESCRIPTION:27 Jahre 45rpm\nhttps://loch-wuppertal.de/programm/kalender/27
- -jahre-45rpm-2975
+DESCRIPTION:Klubkultur\, Musik\nhttps://loch-wuppertal.de/programm/kalende
+ r/27-jahre-45rpm-2975
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/27-jahre-45rpm-2975
 END:VEVENT
@@ -359,10 +336,10 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261222T183000Z
 DTEND:20261222T203000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:6bc7f04ff6da@event-collector
-DESCRIPTION:chorprobe\nhttps://loch-wuppertal.de/programm/kalender/chorpro
- be-3138
+DESCRIPTION:Musik\, Workshop\nhttps://loch-wuppertal.de/programm/kalender/
+ chorprobe-3138
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3138
 END:VEVENT
@@ -370,10 +347,10 @@ BEGIN:VEVENT
 SUMMARY:Mitchmaikwolf-Gang feat. Werner Dickel
 DTSTART:20261227T190000Z
 DTEND:20261227T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:bb7d695728b9@event-collector
-DESCRIPTION:Mitchmaikwolf-Gang feat. Werner Dickel\nhttps://loch-wuppertal
- .de/programm/kalender/mitchmaikwolf-gang-feat-werner-dickel-3140
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/mitchma
+ ikwolf-gang-feat-werner-dickel-3140
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/mitchmaikwolf-gang-feat-we
  rner-dickel-3140
@@ -382,10 +359,10 @@ BEGIN:VEVENT
 SUMMARY:Mirna Bogdanović Group
 DTSTART:20270205T190000Z
 DTEND:20270205T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:adfe29523585@event-collector
-DESCRIPTION:Mirna Bogdanović Group\nhttps://loch-wuppertal.de/programm/ka
- lender/mirna-bogdanovic-group-3128
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/mirna-b
+ ogdanovic-group-3128
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/mirna-bogdanovic-group-312
  8
@@ -394,10 +371,10 @@ BEGIN:VEVENT
 SUMMARY:Graupe / Brendle / Terzić
 DTSTART:20270211T190000Z
 DTEND:20270211T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:072d3324218e@event-collector
-DESCRIPTION:Graupe / Brendle / Terzić\nhttps://loch-wuppertal.de/programm
- /kalender/graupe-brendle-terzic-3001
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/graupe-
+ brendle-terzic-3001
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/graupe-brendle-terzic-3001
 END:VEVENT
@@ -405,10 +382,10 @@ BEGIN:VEVENT
 SUMMARY:Fluppe
 DTSTART:20270218T190000Z
 DTEND:20270218T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:18d466eef8a1@event-collector
-DESCRIPTION:Fluppe\nhttps://loch-wuppertal.de/programm/kalender/fluppe-315
- 1
+DESCRIPTION:Talsounds\nhttps://loch-wuppertal.de/programm/kalender/fluppe-
+ 3151
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/fluppe-3151
 END:VEVENT
@@ -416,10 +393,10 @@ BEGIN:VEVENT
 SUMMARY:Julian & Roman Wasserfuhr
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:460b06e2d68f@event-collector
-DESCRIPTION:Julian & Roman Wasserfuhr\nhttps://loch-wuppertal.de/programm/
- kalender/julian-roman-wasserfuhr-3192
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/julian-
+ roman-wasserfuhr-3192
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/julian-roman-wasserfuhr-31
  92
@@ -428,9 +405,10 @@ BEGIN:VEVENT
 SUMMARY:ELSA
 DTSTART:20270303T190000Z
 DTEND:20270303T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:26c5405cc8ee@event-collector
-DESCRIPTION:ELSA\nhttps://loch-wuppertal.de/programm/kalender/elsa-3163
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/elsa-31
+ 63
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/elsa-3163
 END:VEVENT
@@ -438,10 +416,10 @@ BEGIN:VEVENT
 SUMMARY:Botticelli Baby
 DTSTART:20270305T190000Z
 DTEND:20270305T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:03cd27e08daa@event-collector
-DESCRIPTION:Botticelli Baby\nhttps://loch-wuppertal.de/programm/kalender/b
- otticelli-baby-3263
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/bottice
+ lli-baby-3263
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/botticelli-baby-3263
 END:VEVENT
@@ -449,10 +427,10 @@ BEGIN:VEVENT
 SUMMARY:Tabea Kind Trio
 DTSTART:20270310T190000Z
 DTEND:20270310T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:884c622adb96@event-collector
-DESCRIPTION:Tabea Kind Trio\nhttps://loch-wuppertal.de/programm/kalender/t
- abea-kind-trio-3162
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/tabea-k
+ ind-trio-3162
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/tabea-kind-trio-3162
 END:VEVENT
@@ -460,10 +438,10 @@ BEGIN:VEVENT
 SUMMARY:Abdul Kader Chahin
 DTSTART:20270318T190000Z
 DTEND:20270318T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:2a2831ae7f12@event-collector
-DESCRIPTION:Abdul Kader Chahin\nhttps://loch-wuppertal.de/programm/kalende
- r/abdul-kader-chahin-2748
+DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/abdul-kade
+ r-chahin-2748
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/abdul-kader-chahin-2748
 END:VEVENT
@@ -471,10 +449,10 @@ BEGIN:VEVENT
 SUMMARY:Marvin Hoffmann
 DTSTART:20270408T180000Z
 DTEND:20270408T200000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:46f882ab7598@event-collector
-DESCRIPTION:Marvin Hoffmann\nhttps://loch-wuppertal.de/programm/kalender/m
- arvin-hoffmann-3213
+DESCRIPTION:Salon Knallenfalls\nhttps://loch-wuppertal.de/programm/kalende
+ r/marvin-hoffmann-3213
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/marvin-hoffmann-3213
 END:VEVENT
@@ -482,10 +460,10 @@ BEGIN:VEVENT
 SUMMARY:Rebecca Pap
 DTSTART:20270418T180000Z
 DTEND:20270418T200000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:78f519e4a7a8@event-collector
-DESCRIPTION:Rebecca Pap\nhttps://loch-wuppertal.de/programm/kalender/rebec
- ca-pap-3109
+DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/rebecca-pa
+ p-3109
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/rebecca-pap-3109
 END:VEVENT
@@ -493,9 +471,10 @@ BEGIN:VEVENT
 SUMMARY:KIND
 DTSTART:20270512T180000Z
 DTEND:20270512T200000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:4377de547a00@event-collector
-DESCRIPTION:KIND\nhttps://loch-wuppertal.de/programm/kalender/kind-2983
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/kind-29
+ 83
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/kind-2983
 END:VEVENT
@@ -503,10 +482,10 @@ BEGIN:VEVENT
 SUMMARY:Yumi Ito
 DTSTART:20270514T180000Z
 DTEND:20270514T200000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:e0ed1d08ffa9@event-collector
-DESCRIPTION:Yumi Ito\nhttps://loch-wuppertal.de/programm/kalender/yumi-ito
- -3020
+DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/yumi-it
+ o-3020
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/yumi-ito-3020
 END:VEVENT

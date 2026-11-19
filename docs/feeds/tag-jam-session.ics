@@ -2,26 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Erst Exchampion dann offene Session
-DTSTART:20261119T190000Z
-DTEND:20261119T210000Z
-DTSTAMP:20261119T230003Z
-UID:6a3608210c22@event-collector
-DESCRIPTION:Erst Exchampion dann offene Session\nhttps://loch-wuppertal.de
- /programm/kalender/erst-exchampion-dann-offene-session-2871
-LOCATION:Loch\, Wuppertal
-URL:https://loch-wuppertal.de/programm/kalender/erst-exchampion-dann-offen
- e-session-2871
+SUMMARY:33. Jazztage Dortmund: Julie Campiche "Unspoken" / Filippa Gojo & 
+ Stephan Mattner: Nucleus
+DTSTART:20261120T190000Z
+DTEND:20261120T210000Z
+DTSTAMP:20261119T230652Z
+UID:98258dea9a68@event-collector
+DESCRIPTION:Jazztage\nhttps://domicil-dortmund.de/programm-details/goio-ma
+ ttner.html
+LOCATION:domicil\, Dortmund
+URL:https://domicil-dortmund.de/programm-details/goio-mattner.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:33. Jazztage: Jam Session feat. p.h.k. quartet
 DTSTART:20261121T190000Z
 DTEND:20261121T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:bd7a046e435b@event-collector
-DESCRIPTION:33. Jazztage: Jam Session feat. p.h.k. quartet\nhttps://domici
- l-dortmund.de/programm-details/33-jazztage-jam-session-mit-dem-p-h-k-quart
- et.html
+DESCRIPTION:Konzert\nhttps://domicil-dortmund.de/programm-details/33-jazzt
+ age-jam-session-mit-dem-p-h-k-quartet.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/33-jazztage-jam-session-m
  it-dem-p-h-k-quartet.html
@@ -30,10 +29,10 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261123T193000Z
 DTEND:20261123T213000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:9a8ce7d22c62@event-collector
-DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/programm-det
- ails/monday-night-session-12626.html
+DESCRIPTION:Session\nhttps://domicil-dortmund.de/programm-details/monday-n
+ ight-session-12626.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/monday-night-session-1262
  6.html
@@ -42,7 +41,7 @@ BEGIN:VEVENT
 SUMMARY:Jam Session / Open Mic
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:a6bb6b0ea571@event-collector
 DESCRIPTION:Lust auf Musik\, Groove und gute Vibes? In lockerer Atmosphär
  e [...]\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/
@@ -53,10 +52,10 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261130T193000Z
 DTEND:20261130T213000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:bcc8df82edf0@event-collector
-DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
- ogramm-details/monday-night-session-12627.html
+DESCRIPTION:Session\nhttps://domicil-dortmund.de/index.php/programm-detail
+ s/monday-night-session-12627.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/monday-night-se
  ssion-12627.html
@@ -65,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:JamArt Session
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:3def69bff9a3@event-collector
 DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
  0089241211615/
@@ -77,10 +76,10 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261207T193000Z
 DTEND:20261207T213000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:0513f6a19df0@event-collector
-DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
- ogramm-details/monday-night-session-12628.html
+DESCRIPTION:Session\nhttps://domicil-dortmund.de/index.php/programm-detail
+ s/monday-night-session-12628.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/monday-night-se
  ssion-12628.html
@@ -89,10 +88,10 @@ BEGIN:VEVENT
 SUMMARY:Flinta* Session feat. Open Circuit
 DTSTART:20261209T190000Z
 DTEND:20261209T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:94444b57e4d9@event-collector
-DESCRIPTION:Flinta* Session feat. Open Circuit\nhttps://domicil-dortmund.d
- e/index.php/programm-details/flinta-session-12323.html
+DESCRIPTION:Konzert\nhttps://domicil-dortmund.de/index.php/programm-detail
+ s/flinta-session-12323.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/flinta-session-
  12323.html
@@ -101,11 +100,10 @@ BEGIN:VEVENT
 SUMMARY:Der Klangteppich – Musik\, live und improvisiert
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:425862258d2c@event-collector
-DESCRIPTION:Der Klangteppich – Musik\, live und improvisiert\nhttps://ww
- w.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-improvisiert-1
- 0/
+DESCRIPTION:Musik\, live und improvisiert\nhttps://www.pelmke.de/veranstal
+ tungen/der-klangteppich-musik-live-und-improvisiert-10/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-
  improvisiert-10/
@@ -114,10 +112,10 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261214T193000Z
 DTEND:20261214T213000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:9a8b22a13ca0@event-collector
-DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
- ogramm-details/monday-night-session-12629.html
+DESCRIPTION:Session\nhttps://domicil-dortmund.de/index.php/programm-detail
+ s/monday-night-session-12629.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/monday-night-se
  ssion-12629.html
@@ -126,10 +124,10 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20261221T193000Z
 DTEND:20261221T213000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:966aa7f22c51@event-collector
-DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
- ogramm-details/monday-night-session-12630.html
+DESCRIPTION:Session\nhttps://domicil-dortmund.de/index.php/programm-detail
+ s/monday-night-session-12630.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/monday-night-se
  ssion-12630.html
@@ -138,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:JamArt Session
 DTSTART:20270102T190000Z
 DTEND:20270102T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:870fe70b6c35@event-collector
 DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
  0089241211615/
@@ -150,10 +148,10 @@ BEGIN:VEVENT
 SUMMARY:Monday Night Session
 DTSTART:20270104T193000Z
 DTEND:20270104T213000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:ae68356f137c@event-collector
-DESCRIPTION:Monday Night Session\nhttps://domicil-dortmund.de/index.php/pr
- ogramm-details/monday-night-session-12632.html
+DESCRIPTION:Session\nhttps://domicil-dortmund.de/index.php/programm-detail
+ s/monday-night-session-12632.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/monday-night-se
  ssion-12632.html
@@ -162,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Jam Session / Open Mic
 DTSTART:20270129T180000Z
 DTEND:20270129T200000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:e9b31ea2b867@event-collector
 DESCRIPTION:Lust auf Musik\, Groove und gute Vibes? In lockerer Atmosphär
  e [...]\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic/
@@ -173,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:JamArt Session
 DTSTART:20270206T190000Z
 DTEND:20270206T210000Z
-DTSTAMP:20261119T230003Z
+DTSTAMP:20261119T230652Z
 UID:1bb634e1bd14@event-collector
 DESCRIPTION:https://www.facebook.com/people/Affenhack-Studios-Herne-NEU/10
  0089241211615/
