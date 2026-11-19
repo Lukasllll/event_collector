@@ -4,7 +4,7 @@ PRODID:-//event-collector//DE
 BEGIN:VEVENT
 SUMMARY:[entfällt?] Buchvorstellung 2026
 DTSTART;VALUE=DATE:20261122
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:cac8ba2245e6@event-collector
 DESCRIPTION:Buchvorstellung 2026 am 22.11.\nhttps://theaterandervolme.de/b
  uchvorstellung-2026/
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:694eef6922de@event-collector
 DESCRIPTION:Leselounge im Kinocafé\nhttps://www.pelmke.de/veranstaltungen
  /leselounge-im-kinocafe-4/
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:»Alte Wut« – Lesung und Gespräch mit der Autorin Caro Matzko
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:1f526172564a@event-collector
 DESCRIPTION:»Alte Wut» – Warum ich an den Ort reiste\, von dem mein Va
  ter einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko
@@ -43,7 +43,7 @@ SUMMARY:[entfällt?] »Alte Wut« – Warum ich an den Ort reiste\, von de
  m mein Vater einst fliehen musste
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:85d94d66e966@event-collector
 DESCRIPTION:Lesung und Gespräch mit der Autorin Caro Matzko\nhttps://www.
  pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mei
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry Slam – moderiert von Jan Schmidt
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:e08990dee11c@event-collector
 DESCRIPTION:Poetry Slam – moderiert von Jan Schmidt\nhttps://www.pelmke.
  de/veranstaltungen/poetry-slammoderiert-von-jan-schmidt-5/
@@ -71,7 +71,7 @@ SUMMARY:[entfällt?] Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Ko
  nzert
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:ba6cdef969e7@event-collector
 DESCRIPTION:Interessante Live-Gespräche in Kooperation mit der Redaktion 
  terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Fo
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:29ccd8d0dd02@event-collector
 DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Filme\, die 
  das Leben und Wirken in und aus der Kunstwelt zeigen\, anschließend Gespr
@@ -99,7 +99,7 @@ SUMMARY:Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph Bar
  tmann
 DTSTART:20261201T190000Z
 DTEND:20261201T210000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:6f6591b52cd2@event-collector
 DESCRIPTION:Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph
   Bartmann\nhttps://domicil-dortmund.de/index.php/programm-details/wortklub
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowideit
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:f4475d9d227f@event-collector
 DESCRIPTION:Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowi
  deit\nhttps://domicil-dortmund.de/index.php/programm-details/wortklub-demo
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261227T140000Z
 DTEND:20261227T160000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:64b3251aa67d@event-collector
 DESCRIPTION:Leselounge im Kinocafé\nhttps://www.pelmke.de/veranstaltungen
  /leselounge-im-kinocafe-6/
@@ -137,7 +137,7 @@ SUMMARY:Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine Optio
  n
 DTSTART:20270223T183000Z
 DTEND:20270223T203000Z
-DTSTAMP:20261119T114045Z
+DTSTAMP:20261119T142714Z
 UID:db92d523b27b@event-collector
 DESCRIPTION:Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine O
  ption\nhttps://domicil-dortmund.de/index.php/programm-details/ersatztemrin
