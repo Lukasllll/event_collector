@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T14:28:13+01:00",
+ "generated": "2026-11-22T14:20:49+01:00",
  "tags": [
   "konzert",
   "jam-session",
@@ -541,7 +541,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -562,7 +562,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -582,7 +582,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -602,7 +602,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -622,7 +622,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -642,7 +642,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -656,13 +656,13 @@
     "party"
    ],
    "genre": null,
-   "description": "",
+   "description": "DJ Lounge",
    "url": "https://domicil-dortmund.de/programm-details/vinyl-shake-12658.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -676,13 +676,13 @@
     "jam-session"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Session",
    "url": "https://domicil-dortmund.de/programm-details/monday-night-session-12626.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -703,7 +703,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -717,13 +717,13 @@
     "sonstiges"
    ],
    "genre": "Pop",
-   "description": "",
+   "description": "Sonstiges, Pop",
    "url": "https://domicil-dortmund.de/programm-details/das-dortmunder-rudelsingen-11987.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -757,13 +757,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "Lesung und Gespräch mit der Autorin Caro Matzko",
+   "description": "Warum ich an den Ort reiste, von dem mein Vater einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko",
    "url": "https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -783,7 +783,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -803,7 +803,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -817,13 +817,13 @@
     "konzert"
    ],
    "genre": "Avantgarde, Improvisation, Urban",
-   "description": "",
+   "description": "20 Jahre The Dorf",
    "url": "https://domicil-dortmund.de/programm-details/the-dorf-11958.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -837,14 +837,14 @@
     "konzert",
     "party"
    ],
-   "genre": null,
-   "description": "",
+   "genre": "Jazz",
+   "description": "DJ Lounge",
    "url": "https://domicil-dortmund.de/programm-details/bue-in-green-jazz-listening-bar.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -864,7 +864,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -904,7 +904,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -924,7 +924,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -938,13 +938,13 @@
     "konzert"
    ],
    "genre": "Jazz, Latin",
-   "description": "33. Jazztage Dortmund",
+   "description": "Marialy Pacheco Trio",
    "url": "https://domicil-dortmund.de/programm-details/marialy-pacheco.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -958,13 +958,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Musik, Konzert",
+   "description": "Konzert",
    "url": "https://loch-wuppertal.de/programm/kalender/hanba-2721",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -984,7 +984,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1005,7 +1005,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1025,7 +1025,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1045,7 +1045,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1085,7 +1085,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1099,13 +1099,13 @@
     "konzert"
    ],
    "genre": "Experimental, Avantgarde, Improvisation",
-   "description": "33. Jazztage Dortmund",
+   "description": "Ingrid Laubrock & Grammy Season",
    "url": "https://domicil-dortmund.de/programm-details/ingrid-laubrock.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1120,13 +1120,13 @@
     "party"
    ],
    "genre": null,
-   "description": "Barabend, Musik, Bar",
+   "description": "OFFEN:BAR, Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/listen-t-here-der-18-und-der-40-geburtstag-gleichzeitig-2855",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1147,7 +1147,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1167,7 +1167,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1187,7 +1187,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1201,13 +1201,13 @@
     "party"
    ],
    "genre": null,
-   "description": "",
+   "description": "odonische Clubnacht",
    "url": "https://odonien.de/veranstaltungen/ocn-1",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1227,7 +1227,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1247,7 +1247,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1268,7 +1268,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1289,7 +1289,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1304,12 +1304,12 @@
    ],
    "genre": "Pop, Rock, Indie-Pop",
    "description": "",
-   "url": "https://domicil-dortmund.de/index.php/programm-details/bartholomae.html",
+   "url": "https://domicil-dortmund.de/programm-details/bartholomae.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1323,13 +1323,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club, Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/rhizome-3006",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1349,7 +1349,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1363,13 +1363,13 @@
     "party"
    ],
    "genre": null,
-   "description": "",
-   "url": "https://domicil-dortmund.de/index.php/programm-details/vinyl-shake-12659.html",
+   "description": "DJ Lounge",
+   "url": "https://domicil-dortmund.de/programm-details/vinyl-shake-12659.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1383,13 +1383,13 @@
     "jam-session"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Session",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12627.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1410,7 +1410,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1424,13 +1424,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "",
+   "description": "Lesung / Talk",
    "url": "https://domicil-dortmund.de/index.php/programm-details/wortklub-12292.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1450,7 +1450,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1470,7 +1470,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1484,13 +1484,13 @@
     "party"
    ],
    "genre": "DJ Set",
-   "description": "DJ Set und Happy Hour",
+   "description": "w/ WHLKLNG. DJ Set und Happy Hour",
    "url": "https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1504,13 +1504,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "Von Marlen Haushofer | Regie Alexander Ritter",
+   "description": "Pop Up Theater in Wattenscheid. Von Marlen Haushofer | Regie Alexander Ritter",
    "url": "https://rottstr5-theater.de/pop-up-theater-die-wand.html",
    "location_override": "Wattenscheid",
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1530,7 +1530,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1544,13 +1544,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "",
+   "description": "Duo-Konzert Frank Scheele & Peter H. Köcke",
    "url": "https://domicil-dortmund.de/index.php/programm-details/shining-hour-11975.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1570,7 +1570,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1590,7 +1590,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1610,7 +1610,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1630,7 +1630,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1650,7 +1650,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1670,7 +1670,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1690,7 +1690,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1710,7 +1710,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1725,13 +1725,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
+   "description": "Situation 1: Demokratie & Digitalität. Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert",
    "url": "https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1751,7 +1751,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1771,7 +1771,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1811,7 +1811,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1831,7 +1831,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1852,7 +1852,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1872,7 +1872,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1892,7 +1892,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1912,7 +1912,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
+   "gone": false
+  },
+  {
+   "id": "8590620ece5b",
+   "venue_id": "loch",
+   "title": "Film Club",
+   "date": "2026-12-07",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "film"
+   ],
+   "genre": null,
+   "description": "Film Club, Community",
+   "url": "https://loch-wuppertal.de/programm/kalender/film-club-3183",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1926,13 +1946,13 @@
     "jam-session"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Session",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12628.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1972,7 +1992,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -1993,7 +2013,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2013,7 +2033,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2034,7 +2054,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2049,13 +2069,13 @@
     "konzert"
    ],
    "genre": "Improvisation",
-   "description": "Musik, live und improvisiert",
+   "description": "",
    "url": "https://www.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-improvisiert-10/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2075,7 +2095,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2095,7 +2115,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2115,7 +2135,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2135,7 +2155,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2155,7 +2175,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2175,7 +2195,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2186,16 +2206,16 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "theater"
    ],
-   "genre": "Comedy",
+   "genre": "StandUp-Comedy",
    "description": "",
    "url": "https://www.pelmke.de/veranstaltungen/standup-comedy-5/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2215,7 +2235,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
+   "gone": false
+  },
+  {
+   "id": "80a106aef02b",
+   "venue_id": "odonien",
+   "title": "árbol",
+   "date": "2026-12-11",
+   "time": "23:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": null,
+   "description": "",
+   "url": "https://odonien.de/veranstaltungen/arbol-2",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2235,7 +2275,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2255,7 +2295,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2275,7 +2315,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2295,7 +2335,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2309,14 +2349,14 @@
     "konzert",
     "party"
    ],
-   "genre": "Rock | Electronic",
+   "genre": "Rock, Electronic",
    "description": "Rock | Electronic",
    "url": "https://rottstr5-theater.de/waveland.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2337,7 +2377,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2357,7 +2397,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2372,13 +2412,13 @@
     "workshop"
    ],
    "genre": "Jazz, Avantgarde, Improvisation, Acoustic",
-   "description": "",
+   "description": "Familienkonzert",
    "url": "https://domicil-dortmund.de/index.php/programm-details/soundzz-12304.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2398,7 +2438,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2418,7 +2458,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2432,13 +2472,13 @@
     "jam-session"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Session",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12629.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2452,13 +2492,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "",
+   "description": "Lesung / Talk",
    "url": "https://domicil-dortmund.de/index.php/programm-details/wortklub-demokratie-labor-5-anne-brorhilker-und-christoph-bartmann-12398.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2479,7 +2519,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2500,7 +2540,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2520,7 +2560,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2540,7 +2580,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2560,7 +2600,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2580,7 +2620,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2600,7 +2640,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2620,7 +2660,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2640,7 +2680,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2660,7 +2700,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2680,7 +2720,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2694,13 +2734,13 @@
     "konzert"
    ],
    "genre": "Special",
-   "description": "",
+   "description": "Special",
    "url": "https://domicil-dortmund.de/index.php/programm-details/herbelicious.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2721,7 +2761,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2741,7 +2781,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2762,7 +2802,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2782,7 +2822,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2802,7 +2842,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2822,7 +2862,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2842,7 +2882,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2862,7 +2902,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2876,13 +2916,13 @@
     "jam-session"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Session",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12630.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2903,7 +2943,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2923,7 +2963,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2943,7 +2983,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2963,7 +3003,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -2983,7 +3023,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3004,7 +3044,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-20T15:05:54+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3024,7 +3064,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:59:29+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3044,7 +3084,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3064,7 +3104,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3085,7 +3125,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3105,7 +3145,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3125,7 +3165,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-20T15:05:54+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3139,13 +3179,13 @@
     "jam-session"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Session",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12632.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3165,7 +3205,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3185,7 +3225,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3205,7 +3245,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3225,7 +3265,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3245,7 +3285,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3265,7 +3305,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3285,7 +3325,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3305,7 +3345,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3325,7 +3365,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
+   "gone": false
+  },
+  {
+   "id": "8f85cab234ed",
+   "venue_id": "loch",
+   "title": "WIO",
+   "date": "2027-01-27",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "Jazz Club",
+   "url": "https://loch-wuppertal.de/programm/kalender/wio-3216",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3345,7 +3405,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3365,7 +3425,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3385,7 +3445,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3399,13 +3459,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "",
+   "description": "Support: Neue Paranoia",
    "url": "https://www.pelmke.de/veranstaltungen/franks-white-canvas-support-neue-paranoia/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3425,7 +3485,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3445,7 +3505,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3465,7 +3525,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3485,7 +3545,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3505,7 +3565,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3525,13 +3585,13 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
    "id": "0c9f12513905",
    "venue_id": "domicil",
-   "title": "Wortklub: Creative Couples mit Markus Lobbes und Pia Maria Mackert / Musik:...",
+   "title": "Wortklub: Creative Couples mit Markus Lobbes und Pia Maria Mackert / Musik: Ersatztermin",
    "date": "2027-02-11",
    "time": "20:00",
    "time_known": true,
@@ -3539,13 +3599,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "",
+   "description": "Wortklub mit Musik",
    "url": "https://domicil-dortmund.de/index.php/programm-details/wortklub-creative-couples-mit-markus-lobbes-u-a.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3565,7 +3625,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3585,7 +3645,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3605,7 +3665,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3618,14 +3678,14 @@
    "tags": [
     "konzert"
    ],
-   "genre": null,
+   "genre": "Jazz, Electronics, Rock",
    "description": "",
    "url": "https://domicil-dortmund.de/index.php/programm-details/eivind-aarset-12432.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3645,7 +3705,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3665,7 +3725,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3685,7 +3745,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3705,7 +3765,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3725,7 +3785,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3745,7 +3805,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3765,7 +3825,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3785,7 +3845,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3806,7 +3866,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3826,7 +3886,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3846,7 +3906,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3866,7 +3926,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3886,7 +3946,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3906,7 +3966,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3919,14 +3979,14 @@
    "tags": [
     "sonstiges"
    ],
-   "genre": null,
+   "genre": "Flohmarkt",
    "description": "",
    "url": "https://www.pelmke.de/veranstaltungen/nightflow-markt-nachttroedel-5/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3946,7 +4006,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3966,7 +4026,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -3986,7 +4046,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4006,7 +4066,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4026,7 +4086,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4046,7 +4106,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4066,7 +4126,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4086,7 +4146,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4106,7 +4166,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4126,7 +4186,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4146,7 +4206,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4166,7 +4226,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4186,7 +4246,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4206,7 +4266,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4226,7 +4286,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4240,13 +4300,13 @@
     "konzert"
    ],
    "genre": "Special",
-   "description": "",
+   "description": "Special",
    "url": "https://domicil-dortmund.de/index.php/programm-details/fortuna-ehrenfeld.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4266,7 +4326,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4286,7 +4346,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4306,7 +4366,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4326,7 +4386,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4346,7 +4406,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4366,7 +4426,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4386,7 +4446,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4406,7 +4466,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4426,7 +4486,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4446,7 +4506,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4466,7 +4526,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4480,13 +4540,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "",
+   "description": "10 Jahre Clashing Minds – Das Jubiläumskonzert",
    "url": "https://www.pelmke.de/veranstaltungen/clashing-minds/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4506,7 +4566,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4526,7 +4586,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4546,7 +4606,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4566,7 +4626,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4587,7 +4647,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4608,7 +4668,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4628,7 +4688,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4648,7 +4708,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   },
   {
@@ -4668,7 +4728,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-21T14:28:13+01:00",
+   "last_seen": "2026-11-22T14:20:49+01:00",
    "gone": false
   }
  ]

@@ -4,7 +4,7 @@ PRODID:-//event-collector//DE
 BEGIN:VEVENT
 SUMMARY:[entfällt?] Buchvorstellung 2026
 DTSTART;VALUE=DATE:20261122
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:cac8ba2245e6@event-collector
 DESCRIPTION:Buchvorstellung 2026 am 22.11.\nhttps://theaterandervolme.de/b
  uchvorstellung-2026/
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:694eef6922de@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/leselounge-im-kinocafe-4
  /
@@ -27,7 +27,7 @@ SUMMARY:[entfällt?] »Alte Wut« – Lesung und Gespräch mit der Autorin
   Caro Matzko
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:1f526172564a@event-collector
 DESCRIPTION:»Alte Wut» – Warum ich an den Ort reiste\, von dem mein Va
  ter einst fliehen musste. Lesung und Gespräch mit der Autorin Caro Matzko
@@ -44,12 +44,13 @@ SUMMARY:»Alte Wut« – Warum ich an den Ort reiste\, von dem mein Vater
  einst fliehen musste
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:85d94d66e966@event-collector
-DESCRIPTION:Lesung und Gespräch mit der Autorin Caro Matzko\nhttps://www.
- pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mei
- n-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-mat
- zko/
+DESCRIPTION:Warum ich an den Ort reiste\, von dem mein Vater einst fliehen
+  musste. Lesung und Gespräch mit der Autorin Caro Matzko\nhttps://www.pel
+ mke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-reiste-von-dem-mein-v
+ ater-einst-fliehen-musste-lesung-und-gespraech-mit-der-autorin-caro-matzko
+ /
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/alte-wut-warum-ich-an-den-ort-re
  iste-von-dem-mein-vater-einst-fliehen-musste-lesung-und-gespraech-mit-der-
@@ -59,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry Slam – moderiert von Jan Schmidt
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:e08990dee11c@event-collector
 DESCRIPTION:moderiert von Jan Schmidt\nhttps://www.pelmke.de/veranstaltung
  en/poetry-slammoderiert-von-jan-schmidt-5/
@@ -72,7 +73,7 @@ SUMMARY:[entfällt?] Artist Talk mit Ingrid Laubrock (terzwerk) vor dem Ko
  nzert
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:ba6cdef969e7@event-collector
 DESCRIPTION:Interessante Live-Gespräche in Kooperation mit der Redaktion 
  terzwerk (TU Dortmund / Musikjournalismus) vor den Konzerten im domicil Fo
@@ -84,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:29ccd8d0dd02@event-collector
 DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Filme\, die 
  das Leben und Wirken in und aus der Kunstwelt zeigen\, anschließend Gespr
@@ -100,10 +101,10 @@ SUMMARY:Wortklub: Demokratie-Labor 5 – Anne Brorhilker und Christoph Bar
  tmann
 DTSTART:20261201T190000Z
 DTEND:20261201T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:6f6591b52cd2@event-collector
-DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/wortklu
- b-12292.html
+DESCRIPTION:Lesung / Talk\nhttps://domicil-dortmund.de/index.php/programm-
+ details/wortklub-12292.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/wortklub-12292.
  html
@@ -113,10 +114,11 @@ SUMMARY:Situationen der Demokratie – Situation 1: Demokratie & Digitalit
  ät
 DTSTART:20261205T173000Z
 DTEND:20261205T193000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:170e04f3f33a@event-collector
-DESCRIPTION:Podiumsgespräch mit Hannes Kreschel / Power Plush-Konzert\nht
- tps://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalitaet/
+DESCRIPTION:Situation 1: Demokratie & Digitalität. Podiumsgespräch mit H
+ annes Kreschel / Power Plush-Konzert\nhttps://www.pelmke.de/veranstaltunge
+ n/situation-1-demokratie-digitalitaet/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/situation-1-demokratie-digitalit
  aet/
@@ -125,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Graz 2026 – eine andere Kommunalpolitik ist möglich
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:0376ab6d9333@event-collector
 DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
  altungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-un
@@ -138,10 +140,11 @@ BEGIN:VEVENT
 SUMMARY:Wortklub: Demokratie-Labor 6 – Ahmad Mansour und Anette Dowideit
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:f4475d9d227f@event-collector
-DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/wortklu
- b-demokratie-labor-5-anne-brorhilker-und-christoph-bartmann-12398.html
+DESCRIPTION:Lesung / Talk\nhttps://domicil-dortmund.de/index.php/programm-
+ details/wortklub-demokratie-labor-5-anne-brorhilker-und-christoph-bartmann
+ -12398.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/wortklub-demokr
  atie-labor-5-anne-brorhilker-und-christoph-bartmann-12398.html
@@ -150,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261227T140000Z
 DTEND:20261227T160000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:64b3251aa67d@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/leselounge-im-kinocafe-6
  /
@@ -161,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:DRECKSACK – musikalische Lesung mit Damian Copp & Sven Söhnchen
 DTSTART:20261228T183000Z
 DTEND:20261228T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:0e2bddbb4786@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/drecksack-musikalische-l
  esung-mit-damian-copp-sven-soehnchen/
@@ -171,13 +174,13 @@ URL:https://www.pelmke.de/veranstaltungen/drecksack-musikalische-lesung-mi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wortklub: Creative Couples mit Markus Lobbes und Pia Maria Mackert
-  / Musik:...
+  / Musik: Ersatztermin
 DTSTART:20270211T190000Z
 DTEND:20270211T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:0c9f12513905@event-collector
-DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/wortklu
- b-creative-couples-mit-markus-lobbes-u-a.html
+DESCRIPTION:Wortklub mit Musik\nhttps://domicil-dortmund.de/index.php/prog
+ ramm-details/wortklub-creative-couples-mit-markus-lobbes-u-a.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/wortklub-creati
  ve-couples-mit-markus-lobbes-u-a.html
@@ -187,7 +190,7 @@ SUMMARY:Wortklub: Güner Balci & Jacques Tilly - Schweigen ist keine Optio
  n
 DTSTART:20270223T183000Z
 DTEND:20270223T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:db92d523b27b@event-collector
 DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/ersatzt
  emrin-f%C3%BCr-wortklub-17-11-26.html

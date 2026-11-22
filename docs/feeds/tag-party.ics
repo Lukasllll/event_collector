@@ -2,33 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Hagen Soul Night
-DTSTART:20261121T200000Z
-DTEND:20261121T220000Z
-DTSTAMP:20261121T132935Z
-UID:62c6f89171b8@event-collector
-DESCRIPTION:https://www.pelmke.de/veranstaltungen/hagen-soul-night/
-LOCATION:Pelmke\, Hagen
-URL:https://www.pelmke.de/veranstaltungen/hagen-soul-night/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lichtblick Winter Rave
-DTSTART:20261121T220000Z
-DTEND:20261122T000000Z
-DTSTAMP:20261121T132935Z
-UID:a8871d54b4ab@event-collector
-DESCRIPTION:https://odonien.de/veranstaltungen/lichtblick-winterrave
-LOCATION:Odonien\, Köln
-URL:https://odonien.de/veranstaltungen/lichtblick-winterrave
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vinyl Shake
 DTSTART:20261123T190000Z
 DTEND:20261123T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:4deebb544d9f@event-collector
-DESCRIPTION:https://domicil-dortmund.de/programm-details/vinyl-shake-12658
- .html
+DESCRIPTION:DJ Lounge\nhttps://domicil-dortmund.de/programm-details/vinyl-
+ shake-12658.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/vinyl-shake-12658.html
 END:VEVENT
@@ -36,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20261126T180000Z
 DTEND:20261126T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:172b8d3f3826@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-8/
@@ -48,10 +28,10 @@ BEGIN:VEVENT
 SUMMARY:Bue in Green: Jazz Listening Bar
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:1d138b027dd2@event-collector
-DESCRIPTION:https://domicil-dortmund.de/programm-details/bue-in-green-jazz
- -listening-bar.html
+DESCRIPTION:DJ Lounge\nhttps://domicil-dortmund.de/programm-details/bue-in
+ -green-jazz-listening-bar.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/bue-in-green-jazz-listeni
  ng-bar.html
@@ -60,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] The Dorf: Utopian Beats!
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:2dafbb5365c5@event-collector
 DESCRIPTION:Die Jazztage Dortmund stehen seit fast vier Jahrzehnten für m
  usikalische Grenzgänge\, überraschende Begegnungen und künstlerische Ne
@@ -72,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:VINZ 3000
 DTSTART:20261127T203000Z
 DTEND:20261127T223000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:a067cd98c588@event-collector
 DESCRIPTION:Barabend\, Musik\nhttps://loch-wuppertal.de/programm/kalender/
  vinz-3000-3068
@@ -83,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:klickklackklub Clubedition
 DTSTART:20261127T220000Z
 DTEND:20261128T000000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:38bab45d3ec5@event-collector
 DESCRIPTION:https://odonien.de/veranstaltungen/klickklack-clubedition
 LOCATION:Odonien\, Köln
@@ -93,10 +73,11 @@ BEGIN:VEVENT
 SUMMARY:Listen (t)here! - Der 18. und der 40. Geburtstag gleichzeitig
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:12b71070d8f3@event-collector
-DESCRIPTION:Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/programm/kal
- ender/listen-t-here-der-18-und-der-40-geburtstag-gleichzeitig-2855
+DESCRIPTION:OFFEN:BAR\, Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/
+ programm/kalender/listen-t-here-der-18-und-der-40-geburtstag-gleichzeitig-
+ 2855
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/listen-t-here-der-18-und-d
  er-40-geburtstag-gleichzeitig-2855
@@ -105,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Punkplattenabend: Der König macht\, was er will
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:f334f1cba979@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/punkplattenabend-der-koe
  nig-macht-was-er-will/
@@ -117,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Finibaggies presents: Saturday Soul
 DTSTART:20261128T210000Z
 DTEND:20261128T230000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:cead21dcb903@event-collector
 DESCRIPTION:https://domicil-dortmund.de/programm-details/finibaggies-prese
  nts-saturday-soul-12523.html
@@ -129,9 +110,9 @@ BEGIN:VEVENT
 SUMMARY:OCN - odonische Clubnacht
 DTSTART:20261128T220000Z
 DTEND:20261129T000000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7ed3c88ec522@event-collector
-DESCRIPTION:https://odonien.de/veranstaltungen/ocn-1
+DESCRIPTION:odonische Clubnacht\nhttps://odonien.de/veranstaltungen/ocn-1
 LOCATION:Odonien\, Köln
 URL:https://odonien.de/veranstaltungen/ocn-1
 END:VEVENT
@@ -139,22 +120,21 @@ BEGIN:VEVENT
 SUMMARY:Vinyl Shake
 DTSTART:20261130T190000Z
 DTEND:20261130T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:13022732f003@event-collector
-DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/vinyl-s
- hake-12659.html
+DESCRIPTION:DJ Lounge\nhttps://domicil-dortmund.de/programm-details/vinyl-
+ shake-12659.html
 LOCATION:domicil\, Dortmund
-URL:https://domicil-dortmund.de/index.php/programm-details/vinyl-shake-126
- 59.html
+URL:https://domicil-dortmund.de/programm-details/vinyl-shake-12659.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mukke am Mittwoch w/ WHLKLNG
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:c43e9517dcdb@event-collector
-DESCRIPTION:DJ Set und Happy Hour\nhttps://www.pelmke.de/veranstaltungen/m
- ukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/
+DESCRIPTION:w/ WHLKLNG. DJ Set und Happy Hour\nhttps://www.pelmke.de/veran
+ staltungen/mukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/mukke-am-mittwoch-w-whlklng-dj-s
  et-und-happy-hour-20/
@@ -163,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:DJ Karriere b2b mighty maus
 DTSTART:20261204T203000Z
 DTEND:20261204T223000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:dfdc1b3c49ec@event-collector
 DESCRIPTION:OFFEN:BAR\, Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/
  programm/kalender/dj-karriere-b2b-mighty-maus-3196
@@ -175,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:EhrenKlub #31
 DTSTART:20261204T220000Z
 DTEND:20261205T000000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:178246ca3808@event-collector
 DESCRIPTION:https://odonien.de/veranstaltungen/ehrenklub-31
 LOCATION:Odonien\, Köln
@@ -185,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] 5H5DJs
 DTSTART:20261205T190000Z
 DTEND:20261205T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:452a986b321a@event-collector
 DESCRIPTION:Barabend\, Musik\, Community.\nhttps://loch-wuppertal.de/progr
  amm/kalender/5h5djs-2928
@@ -196,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:40+ Party
 DTSTART:20261205T200000Z
 DTEND:20261205T220000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:902928165a50@event-collector
 DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/40-part
  y-12072.html
@@ -208,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Odonien Records invites Berlin Sound Therapy
 DTSTART:20261205T220000Z
 DTEND:20261206T000000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:78f7017ab8b2@event-collector
 DESCRIPTION:https://odonien.de/veranstaltungen/odonien-records-berlin-soun
  d-therapy
@@ -220,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Szeneflohmarkt am 06.12.2026
 DTSTART:20261206T110000Z
 DTEND:20261206T130000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:f8c6b1d33c59@event-collector
 DESCRIPTION:Flohmarkt für Gothic\, Metal\, Rockabilly\, Punk & More - Ein
  tritt [...]\nhttps://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-1
@@ -232,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:abschied & Neuanfang
 DTSTART:20261211T180000Z
 DTEND:20261211T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7ac550485064@event-collector
 DESCRIPTION:In den letzten drei Jahren ist viel passiert. Wir haben das Wi
  rrWarr gemeinsam zu einem Ort gemacht\, an dem wir uns wohlfühlen\, uns a
@@ -248,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:combo collage
 DTSTART:20261211T203000Z
 DTEND:20261211T223000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:6efe86f748b5@event-collector
 DESCRIPTION:OFFEN:BAR\, Bar\nhttps://loch-wuppertal.de/programm/kalender/c
  ombo-collage-3235
@@ -259,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Waveland
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:3634d818e2ef@event-collector
 DESCRIPTION:Rock | Electronic\nhttps://rottstr5-theater.de/waveland.html
 LOCATION:Rottstr5 Theater\, Bochum
@@ -269,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Petersohn + David Geer – „a joYful nOise“
 DTSTART:20261212T203000Z
 DTEND:20261212T223000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:550f1b782c5b@event-collector
 DESCRIPTION:OFFEN:BAR\, Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/
  programm/kalender/charles-petersohn-david-geer-a-joyful-noise-3161
@@ -281,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Finibaggies presents: Saturday Soul
 DTSTART:20261212T210000Z
 DTEND:20261212T230000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:68d6b1182886@event-collector
 DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/finibag
  gies-presents-saturday-soul-12524.html
@@ -293,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Mickey´s Monkey Party
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:fbbe0184fdaf@event-collector
 DESCRIPTION:Jazz Club\nhttps://loch-wuppertal.de/programm/kalender/mickeys
  -monkey-party-2889
@@ -304,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:PreWeekend am 17.12.2026
 DTSTART:20261217T170000Z
 DTEND:20261217T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:5d7d13c686d5@event-collector
 DESCRIPTION:TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [.
  ..]\nhttps://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/
@@ -315,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Kneipenquiz – Demokratie am Tresen
 DTSTART:20261217T190000Z
 DTEND:20261217T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7ea89a0e93da@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-a
  m-tresen-4/
@@ -327,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Das Musikkneipenquiz
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:f393d73afbb5@event-collector
 DESCRIPTION:Wort\, Barabend\, Musik\, Community\nhttps://loch-wuppertal.de
  /programm/kalender/das-musikkneipenquiz-3112
@@ -338,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Mauzmon + Unbreakable Daani
 DTSTART:20261218T210000Z
 DTEND:20261218T230000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7c4112d37809@event-collector
 DESCRIPTION:OFFEN:BAR\, Barabend\, Musik\, Bar\nhttps://loch-wuppertal.de/
  programm/kalender/mauzmon-unbreakable-daani-3186
@@ -350,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:Soul Invaders / Tuffi Slippers / Putrid Cave / tba
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:3b548bf3b4b9@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slip
  pers-the-mad-moiselles-putrid-cave/
@@ -362,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:27 Jahre 45rpm
 DTSTART:20261219T190000Z
 DTEND:20261219T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:3cfd3e5a4669@event-collector
 DESCRIPTION:Klubkultur\, Musik\nhttps://loch-wuppertal.de/programm/kalende
  r/27-jahre-45rpm-2975
@@ -373,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsausklang in der Werkhof-Kneipe
 DTSTART:20261226T190000Z
 DTEND:20261226T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:38b5d451846b@event-collector
 DESCRIPTION:Ho\, ho\, ho – Schluss mit stiller Nacht! Am 26. [...]\nhttp
  s://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-kneip
@@ -386,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Silvesterparty im domicil
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:951b1487dfa3@event-collector
 DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/silvest
  erparty-11970.html
@@ -398,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Nevermind 2026 – here’s 2027
 DTSTART:20261231T210000Z
 DTEND:20261231T230000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7107de0f84dd@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/nevermind-2026-heres-202
  7/
@@ -409,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:40+ Party
 DTSTART:20270102T200000Z
 DTEND:20270102T220000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:5bb1decb91ab@event-collector
 DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/40-part
  y-12073.html
@@ -421,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270128T180000Z
 DTEND:20270128T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:56d069484319@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-6/
@@ -433,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270225T180000Z
 DTEND:20270225T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:a2fd1a96a40d@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-10/
@@ -445,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270325T180000Z
 DTEND:20270325T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:8c7cca35467d@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-11/
@@ -457,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270422T170000Z
 DTEND:20270422T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:10a0dcf50e34@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-13/
@@ -469,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270520T170000Z
 DTEND:20270520T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:705e48be0a17@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-14/
@@ -481,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270624T170000Z
 DTEND:20270624T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:5144c0ed3e8a@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-15/
@@ -493,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270923T170000Z
 DTEND:20270923T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:517b6f49687c@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-16/
@@ -505,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20271028T170000Z
 DTEND:20271028T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:a7645eda1305@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-17/
@@ -517,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20271125T180000Z
 DTEND:20271125T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:5c283d41ed80@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-12/

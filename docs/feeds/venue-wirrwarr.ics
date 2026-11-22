@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Nature Journaling
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:d07526fffd7e@event-collector
 DESCRIPTION:Schenke deinem inneren Kind ein Bild. Traumreise & Aquarell Wo
  rkshop: Begegne dem Kind\, das du warst\, und lass es sich gesehen fühlen
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Quartiers Brunch
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:665a7cad37dd@event-collector
 DESCRIPTION:Monatlicher Quartiersbrunch mit Beratung für Kreative & Proje
  kte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen\, desw
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:29ccd8d0dd02@event-collector
 DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Filme\, die 
  das Leben und Wirken in und aus der Kunstwelt zeigen\, anschließend Gespr
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:abschied & Neuanfang
 DTSTART:20261211T180000Z
 DTEND:20261211T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7ac550485064@event-collector
 DESCRIPTION:In den letzten drei Jahren ist viel passiert. Wir haben das Wi
  rrWarr gemeinsam zu einem Ort gemacht\, an dem wir uns wohlfühlen\, uns a

@@ -2,24 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Bernd Begemann
-DTSTART:20261121T180000Z
-DTEND:20261121T200000Z
-DTSTAMP:20261121T132935Z
-UID:986afcac594a@event-collector
-DESCRIPTION:Singer Songwriter | Indie Pop\nhttps://rottstr5-theater.de/ber
- nd-begemann.html
-LOCATION:Rottstr5 Theater\, Bochum
-URL:https://rottstr5-theater.de/bernd-begemann.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pop Up Theater in Wattenscheid: Die Wand
 DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7292292bb990@event-collector
-DESCRIPTION:Von Marlen Haushofer | Regie Alexander Ritter\nhttps://rottstr
- 5-theater.de/pop-up-theater-die-wand.html
+DESCRIPTION:Pop Up Theater in Wattenscheid. Von Marlen Haushofer | Regie A
+ lexander Ritter\nhttps://rottstr5-theater.de/pop-up-theater-die-wand.html
 LOCATION:Wattenscheid
 URL:https://rottstr5-theater.de/pop-up-theater-die-wand.html
 END:VEVENT
@@ -27,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:9c3d29094074@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -38,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Törleß
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:507b2423be94@event-collector
 DESCRIPTION:nach Robert Musil | Regie Akbar Paktin\nhttps://rottstr5-theat
  er.de/T%C3%B6rle%C3%9F.html
@@ -49,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Waveland
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:3634d818e2ef@event-collector
 DESCRIPTION:Rock | Electronic\nhttps://rottstr5-theater.de/waveland.html
 LOCATION:Rottstr5 Theater\, Bochum
@@ -59,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261213T183000Z
 DTEND:20261213T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:32afa4eb940d@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -70,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Das große Heft
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:9a5b4927fa02@event-collector
 DESCRIPTION:von Ágota Kristóf | Regie Martina van Boxen\nhttps://rottstr
  5-theater.de/das-grosse-heft.html

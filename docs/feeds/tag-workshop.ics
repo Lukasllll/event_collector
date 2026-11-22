@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Nature Journaling
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:d07526fffd7e@event-collector
 DESCRIPTION:Schenke deinem inneren Kind ein Bild. Traumreise & Aquarell Wo
  rkshop: Begegne dem Kind\, das du warst\, und lass es sich gesehen fühlen
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Chorprobe
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:d47587e333b7@event-collector
 DESCRIPTION:Chor im LOCH\nhttps://loch-wuppertal.de/programm/kalender/chor
  probe-3134
@@ -32,7 +32,7 @@ SUMMARY:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsyst
  em
 DTSTART:20261128T100000Z
 DTEND:20261128T120000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:807f38fecd5f@event-collector
 DESCRIPTION:Workshop mit Scala Soundsystem\nhttps://www.pelmke.de/veransta
  ltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2
@@ -46,7 +46,7 @@ SUMMARY:Klangerzeugung durch analoge Synthese – Workshop mit Scala Sound
  system
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:a4053fd1054a@event-collector
 DESCRIPTION:Workshop mit Scala Soundsystem\nhttps://www.pelmke.de/veransta
  ltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsyst
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261201T183000Z
 DTEND:20261201T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:f82d7f5f681b@event-collector
 DESCRIPTION:Chor im LOCH\nhttps://loch-wuppertal.de/programm/kalender/chor
  probe-3135
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Chorprobe
 DTSTART:20261208T183000Z
 DTEND:20261208T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:13ff9302c1a5@event-collector
 DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/
 LOCATION:Loch\, Wuppertal
@@ -80,10 +80,10 @@ BEGIN:VEVENT
 SUMMARY:SOUNDZZ Familienkonzert feat. Talking Horns
 DTSTART:20261213T150000Z
 DTEND:20261213T170000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7dfcc140bad1@event-collector
-DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/soundzz
- -12304.html
+DESCRIPTION:Familienkonzert\nhttps://domicil-dortmund.de/index.php/program
+ m-details/soundzz-12304.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/index.php/programm-details/soundzz-12304.h
  tml
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:99c66cf20d36@event-collector
 DESCRIPTION:Chor im LOCH\nhttps://loch-wuppertal.de/programm/kalender/chor
  probe-3137
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261222T183000Z
 DTEND:20261222T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:6bc7f04ff6da@event-collector
 DESCRIPTION:Chor im LOCH\nhttps://loch-wuppertal.de/programm/kalender/chor
  probe-3138

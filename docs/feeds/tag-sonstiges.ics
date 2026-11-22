@@ -2,26 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:[entfällt?] VERSCHOBEN | Dritte Wehringhauser Nachhaltigkeitskonf
- erenz
-DTSTART:20261121T100000Z
-DTEND:20261121T120000Z
-DTSTAMP:20261121T132935Z
-UID:e3b9f2fa7930@event-collector
-DESCRIPTION:VERSCHOBEN (Termin wurde verschoben)\nhttps://www.pelmke.de/ve
- ranstaltungen/dritte-wehringhauser-nachhaltigkeitskonferenz/
-LOCATION:Pelmke\, Hagen
-URL:https://www.pelmke.de/veranstaltungen/dritte-wehringhauser-nachhaltigk
- eitskonferenz/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Das Dortmunder Rudelsingen
 DTSTART:20261124T183000Z
 DTEND:20261124T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:314858e8b1ca@event-collector
-DESCRIPTION:https://domicil-dortmund.de/programm-details/das-dortmunder-ru
- delsingen-11987.html
+DESCRIPTION:Sonstiges\, Pop\nhttps://domicil-dortmund.de/programm-details/
+ das-dortmunder-rudelsingen-11987.html
 LOCATION:domicil\, Dortmund
 URL:https://domicil-dortmund.de/programm-details/das-dortmunder-rudelsinge
  n-11987.html
@@ -30,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:David Kebekus
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:7d81fe7595a1@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/david-kebe
  kus-2803
@@ -41,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Quartiers Brunch
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:665a7cad37dd@event-collector
 DESCRIPTION:Monatlicher Quartiersbrunch mit Beratung für Kreative & Proje
  kte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen\, desw
@@ -56,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Wintergrillen
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:008d26edf8b2@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/wintergrillen/
 LOCATION:Pelmke\, Hagen
@@ -66,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Reset Pelmke
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:8dcc1ce84db1@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/reset-pelmke-22/
 LOCATION:Pelmke\, Hagen
@@ -76,7 +63,7 @@ BEGIN:VEVENT
 SUMMARY:Luisa Charlotte Schulz
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:f019964f977e@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/luisa-char
  lotte-schulz-2908
@@ -85,20 +72,10 @@ URL:https://loch-wuppertal.de/programm/kalender/luisa-charlotte-schulz-290
  8
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:StandUp-Comedy
-DTSTART:20261211T190000Z
-DTEND:20261211T210000Z
-DTSTAMP:20261121T132935Z
-UID:52b0b6a002ae@event-collector
-DESCRIPTION:https://www.pelmke.de/veranstaltungen/standup-comedy-5/
-LOCATION:Pelmke\, Hagen
-URL:https://www.pelmke.de/veranstaltungen/standup-comedy-5/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Der Quizabend im LOCH
 DTSTART:20261217T183000Z
 DTEND:20261217T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:e3a004ff77ec@event-collector
 DESCRIPTION:Wort\, Barabend\nhttps://loch-wuppertal.de/programm/kalender/d
  er-quizabend-im-loch-2923
@@ -109,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Erwin-Kostedde-Kickerturnier 2026
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:cc52c6857db4@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/kickerturnier-2026/
 LOCATION:Pelmke\, Hagen
@@ -119,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Mit »Pelmke kulinarisch« um die Welt – Ägypten
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:a80fe59c05b6@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-u
  m-die-welt-aegypten/
@@ -131,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Nightflow Markt – Nachttrödel
 DTSTART:20270306T170000Z
 DTEND:20270306T190000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:f6269084ad8b@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/nightflow-markt-nachttro
  edel-5/
@@ -142,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Abdul Kader Chahin
 DTSTART:20270318T190000Z
 DTEND:20270318T210000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:2a2831ae7f12@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/abdul-kade
  r-chahin-2748
@@ -153,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Rebecca Pap
 DTSTART:20270418T180000Z
 DTEND:20270418T200000Z
-DTSTAMP:20261121T132935Z
+DTSTAMP:20261122T132211Z
 UID:78f519e4a7a8@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/rebecca-pa
  p-3109
