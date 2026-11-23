@@ -2,25 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Nature Journaling
-DTSTART:20261122T140000Z
-DTEND:20261122T160000Z
-DTSTAMP:20261122T132211Z
-UID:d07526fffd7e@event-collector
-DESCRIPTION:Schenke deinem inneren Kind ein Bild. Traumreise & Aquarell Wo
- rkshop: Begegne dem Kind\, das du warst\, und lass es sich gesehen fühlen
- . Kunst hat die Kraft\, unserem inneren erleben eine Greifbarkeit zu verle
- ihen.\nhttps://www.wirrwarr-wehringhausen.de/events/nature-journaling-ka57
- l-3krf4
-LOCATION:WirrWarr\, Hagen
-URL:https://www.wirrwarr-wehringhausen.de/events/nature-journaling-ka57l-3
- krf4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quartiers Brunch
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261122T132211Z
+DTSTAMP:20261123T155924Z
 UID:665a7cad37dd@event-collector
 DESCRIPTION:Monatlicher Quartiersbrunch mit Beratung für Kreative & Proje
  kte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen\, desw
@@ -35,14 +20,13 @@ BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261122T132211Z
+DTSTAMP:20261123T155924Z
 UID:29ccd8d0dd02@event-collector
-DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Filme\, die 
- das Leben und Wirken in und aus der Kunstwelt zeigen\, anschließend Gespr
- äch mit Salon-Gastgeberin Kimberly Hardt. In Kooperation mit dem Fliegend
- en Salon.\nhttps://www.wirrwarr-wehringhausen.de/events/kunstleben-film-sa
- lon-hagen-nov26
-LOCATION:Kino Babylon
+DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Im Kino Baby
+ lon\, in Kooperation mit dem Fliegenden Salon. Salon-Gastgeberin Kimberly 
+ Hardt lädt anschließend zum Gespräch ein.\nhttps://www.wirrwarr-wehring
+ hausen.de/events/kunstleben-film-salon-hagen-nov26
+LOCATION:Kino Babylon\, Pelmkestraße 14\, Hagen
 URL:https://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hag
  en-nov26
 END:VEVENT
@@ -50,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:abschied & Neuanfang
 DTSTART:20261211T180000Z
 DTEND:20261211T200000Z
-DTSTAMP:20261122T132211Z
+DTSTAMP:20261123T155924Z
 UID:7ac550485064@event-collector
 DESCRIPTION:In den letzten drei Jahren ist viel passiert. Wir haben das Wi
  rrWarr gemeinsam zu einem Ort gemacht\, an dem wir uns wohlfühlen\, uns a

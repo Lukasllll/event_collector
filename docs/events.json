@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T14:20:49+01:00",
+ "generated": "2026-11-23T16:58:05+01:00",
  "tags": [
   "konzert",
   "jam-session",
@@ -642,7 +642,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -662,7 +662,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -673,7 +673,8 @@
    "time": "20:30",
    "time_known": true,
    "tags": [
-    "jam-session"
+    "jam-session",
+    "konzert"
    ],
    "genre": "Jazz",
    "description": "Session",
@@ -682,7 +683,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -703,7 +704,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -717,13 +718,13 @@
     "sonstiges"
    ],
    "genre": "Pop",
-   "description": "Sonstiges, Pop",
+   "description": "Sonstiges",
    "url": "https://domicil-dortmund.de/programm-details/das-dortmunder-rudelsingen-11987.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -763,7 +764,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -783,7 +784,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -796,14 +797,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-8/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -823,7 +824,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -844,7 +845,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -864,7 +865,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -904,7 +905,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -925,7 +926,7 @@
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
    "last_seen": "2026-11-22T14:20:49+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "e7f641fec46f",
@@ -944,7 +945,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -964,7 +965,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -984,7 +985,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1005,7 +1006,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1019,13 +1020,13 @@
     "party"
    ],
    "genre": null,
-   "description": "",
+   "description": "Clubedition",
    "url": "https://odonien.de/veranstaltungen/klickklack-clubedition",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1045,7 +1046,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1085,7 +1086,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1099,13 +1100,13 @@
     "konzert"
    ],
    "genre": "Experimental, Avantgarde, Improvisation",
-   "description": "Ingrid Laubrock & Grammy Season",
+   "description": "Ingrid Laubrock & Grammy Season / 19.30 h: Artist Talk",
    "url": "https://domicil-dortmund.de/programm-details/ingrid-laubrock.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1126,7 +1127,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1147,7 +1148,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1167,7 +1168,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1187,7 +1188,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1207,7 +1208,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1227,7 +1228,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1247,7 +1248,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1262,13 +1263,13 @@
     "lesung"
    ],
    "genre": "Film & Gespräch",
-   "description": "Filme über Kunst und Gespräche über das Leben! Filme, die das Leben und Wirken in und aus der Kunstwelt zeigen, anschließend Gespräch mit Salon-Gastgeberin Kimberly Hardt. In Kooperation mit dem Fliegenden Salon.",
+   "description": "Filme über Kunst und Gespräche über das Leben! Im Kino Babylon, in Kooperation mit dem Fliegenden Salon. Salon-Gastgeberin Kimberly Hardt lädt anschließend zum Gespräch ein.",
    "url": "https://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hagen-nov26",
-   "location_override": "Kino Babylon",
+   "location_override": "Kino Babylon, Pelmkestraße 14, Hagen",
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1289,7 +1290,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1309,7 +1310,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1329,7 +1330,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1349,7 +1350,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1369,7 +1370,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1380,7 +1381,8 @@
    "time": "20:30",
    "time_known": true,
    "tags": [
-    "jam-session"
+    "jam-session",
+    "konzert"
    ],
    "genre": "Jazz",
    "description": "Session",
@@ -1389,7 +1391,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1410,7 +1412,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1430,7 +1432,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1450,7 +1452,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1470,7 +1472,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1490,7 +1492,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1510,7 +1512,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1530,7 +1532,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1544,13 +1546,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Duo-Konzert Frank Scheele & Peter H. Köcke",
+   "description": "",
    "url": "https://domicil-dortmund.de/index.php/programm-details/shining-hour-11975.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1570,7 +1572,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1590,7 +1592,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1610,7 +1612,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1630,7 +1632,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1650,7 +1652,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1670,7 +1672,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1690,7 +1692,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1704,13 +1706,13 @@
     "party"
    ],
    "genre": null,
-   "description": "",
+   "description": "#31",
    "url": "https://odonien.de/veranstaltungen/ehrenklub-31",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1731,7 +1733,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1751,7 +1753,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1771,7 +1773,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1811,7 +1813,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1831,7 +1833,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1852,7 +1854,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1872,7 +1874,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1892,7 +1894,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1912,7 +1914,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1932,7 +1934,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-22T14:20:49+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1943,7 +1945,8 @@
    "time": "20:30",
    "time_known": true,
    "tags": [
-    "jam-session"
+    "jam-session",
+    "konzert"
    ],
    "genre": "Jazz",
    "description": "Session",
@@ -1952,7 +1955,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -1992,7 +1995,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2014,7 +2017,7 @@
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
    "last_seen": "2026-11-22T14:20:49+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "f40fc01a03bf",
@@ -2033,7 +2036,28 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
+   "gone": false
+  },
+  {
+   "id": "baa027dc4514",
+   "venue_id": "domicil",
+   "title": "Flinta* Session feat. Open Circuit",
+   "date": "2026-12-09",
+   "time": "20:30",
+   "time_known": true,
+   "tags": [
+    "jam-session",
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "",
+   "url": "https://domicil-dortmund.de/index.php/programm-details/flinta-session-12323.html",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-23T16:58:05+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2054,7 +2078,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2068,14 +2092,14 @@
     "jam-session",
     "konzert"
    ],
-   "genre": "Improvisation",
-   "description": "",
+   "genre": "Improvisierte Musik",
+   "description": "Musik, live und improvisiert",
    "url": "https://www.pelmke.de/veranstaltungen/der-klangteppich-musik-live-und-improvisiert-10/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2095,7 +2119,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2115,7 +2139,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2135,7 +2159,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2155,7 +2179,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2175,7 +2199,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2195,7 +2219,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2208,14 +2232,14 @@
    "tags": [
     "theater"
    ],
-   "genre": "StandUp-Comedy",
+   "genre": "Comedy",
    "description": "",
    "url": "https://www.pelmke.de/veranstaltungen/standup-comedy-5/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2235,7 +2259,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2246,7 +2270,8 @@
    "time": "23:00",
    "time_known": true,
    "tags": [
-    "konzert"
+    "konzert",
+    "party"
    ],
    "genre": null,
    "description": "",
@@ -2255,7 +2280,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-22T14:20:49+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2275,7 +2300,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2295,7 +2320,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2315,7 +2340,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2335,7 +2360,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2356,7 +2381,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2377,7 +2402,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2397,7 +2422,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
+   "gone": false
+  },
+  {
+   "id": "717761bd0a4c",
+   "venue_id": "odonien",
+   "title": "Wyldhearts - Last Trance of the Year",
+   "date": "2026-12-12",
+   "time": "23:00",
+   "time_known": true,
+   "tags": [
+    "party"
+   ],
+   "genre": "Trance",
+   "description": "",
+   "url": "https://odonien.de/veranstaltungen/wyldhearts-last-trance",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-23T16:58:05+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2412,13 +2457,13 @@
     "workshop"
    ],
    "genre": "Jazz, Avantgarde, Improvisation, Acoustic",
-   "description": "Familienkonzert",
+   "description": "Kinder- & Familienkonzert",
    "url": "https://domicil-dortmund.de/index.php/programm-details/soundzz-12304.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2438,7 +2483,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2458,7 +2503,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2469,7 +2514,8 @@
    "time": "20:30",
    "time_known": true,
    "tags": [
-    "jam-session"
+    "jam-session",
+    "konzert"
    ],
    "genre": "Jazz",
    "description": "Session",
@@ -2478,7 +2524,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2498,7 +2544,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2519,7 +2565,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2540,7 +2586,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2560,7 +2606,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2580,7 +2626,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2594,13 +2640,13 @@
     "party"
    ],
    "genre": "Quiz",
-   "description": "",
+   "description": "Demokratie am Tresen",
    "url": "https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen-4/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2620,7 +2666,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2640,7 +2686,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2660,7 +2706,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2680,7 +2726,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2700,7 +2746,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2720,7 +2766,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2740,7 +2786,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2761,7 +2807,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2781,7 +2827,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2802,7 +2848,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2822,7 +2868,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2842,7 +2888,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2862,7 +2908,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2882,7 +2928,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2902,7 +2948,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2913,7 +2959,8 @@
    "time": "20:30",
    "time_known": true,
    "tags": [
-    "jam-session"
+    "jam-session",
+    "konzert"
    ],
    "genre": "Jazz",
    "description": "Session",
@@ -2922,7 +2969,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2943,7 +2990,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2963,7 +3010,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -2983,7 +3030,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3003,7 +3050,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3023,7 +3070,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3038,13 +3085,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "",
+   "description": "mit Damian Copp & Sven Söhnchen",
    "url": "https://www.pelmke.de/veranstaltungen/drecksack-musikalische-lesung-mit-damian-copp-sven-soehnchen/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-20T15:05:54+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3064,7 +3111,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:59:29+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3084,7 +3131,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3104,7 +3151,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3125,7 +3172,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3145,7 +3192,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3165,7 +3212,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-20T15:05:54+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3176,7 +3223,8 @@
    "time": "20:30",
    "time_known": true,
    "tags": [
-    "jam-session"
+    "jam-session",
+    "konzert"
    ],
    "genre": "Jazz",
    "description": "Session",
@@ -3185,7 +3233,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3205,7 +3253,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3225,7 +3273,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3245,7 +3293,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3265,7 +3313,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3285,7 +3333,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
+   "gone": false
+  },
+  {
+   "id": "8786c670694e",
+   "venue_id": "domicil",
+   "title": "27. Jazzfestival der TU Dortmund",
+   "date": "2027-01-16",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": null,
+   "description": "",
+   "url": "https://domicil-dortmund.de/index.php/programm-details/unijazz-festival-12408.html",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-23T16:58:05+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3305,7 +3373,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3325,7 +3393,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3345,7 +3413,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3365,7 +3433,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3385,7 +3453,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-22T14:20:49+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3398,14 +3466,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-6/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3425,7 +3493,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3445,7 +3513,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3465,7 +3533,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3485,7 +3553,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3505,7 +3573,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3525,7 +3593,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3545,7 +3613,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3565,7 +3633,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3585,7 +3653,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3599,13 +3667,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "Wortklub mit Musik",
+   "description": "Lesung / Talk",
    "url": "https://domicil-dortmund.de/index.php/programm-details/wortklub-creative-couples-mit-markus-lobbes-u-a.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3625,7 +3693,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3645,7 +3713,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
+   "gone": false
+  },
+  {
+   "id": "3d765d1b5231",
+   "venue_id": "domicil",
+   "title": "7. domicil Förderpreis Jazz",
+   "date": "2027-02-13",
+   "time": "19:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Jazz",
+   "description": "",
+   "url": "https://domicil-dortmund.de/index.php/programm-details/f%C3%B6rderpreis-jazz-domicil.html",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-23T16:58:05+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3665,7 +3753,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3685,7 +3773,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3705,7 +3793,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3725,7 +3813,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3745,7 +3833,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3765,7 +3853,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3779,13 +3867,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "",
+   "description": "Lesung / Talk",
    "url": "https://domicil-dortmund.de/index.php/programm-details/ersatztemrin-f%C3%BCr-wortklub-17-11-26.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3798,14 +3886,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-10/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3825,7 +3913,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3845,7 +3933,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3866,7 +3954,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3886,7 +3974,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3906,7 +3994,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3926,7 +4014,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3946,7 +4034,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3966,7 +4054,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -3986,7 +4074,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4006,7 +4094,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4026,7 +4114,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4046,7 +4134,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4066,7 +4154,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
+   "gone": false
+  },
+  {
+   "id": "076546c7fdbc",
+   "venue_id": "domicil",
+   "title": "Gregory Hutchinson - Kind of Now",
+   "date": "2027-03-13",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": null,
+   "description": "",
+   "url": "https://domicil-dortmund.de/index.php/programm-details/gregory-hutchinson-kind-of-now.html",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-23T16:58:05+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4086,7 +4194,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4106,7 +4214,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4126,7 +4234,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4146,7 +4254,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4166,7 +4274,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4179,14 +4287,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-11/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4206,7 +4314,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4219,14 +4327,14 @@
    "tags": [
     "konzert"
    ],
-   "genre": null,
+   "genre": "Jazz, Big Band",
    "description": "",
    "url": "https://domicil-dortmund.de/index.php/programm-details/1-orchestre-national-de-jazz.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4246,7 +4354,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4266,7 +4374,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4286,7 +4394,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4300,13 +4408,13 @@
     "konzert"
    ],
    "genre": "Special",
-   "description": "Special",
+   "description": "",
    "url": "https://domicil-dortmund.de/index.php/programm-details/fortuna-ehrenfeld.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4326,7 +4434,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4346,7 +4454,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
+   "gone": false
+  },
+  {
+   "id": "78da61a7ae02",
+   "venue_id": "domicil",
+   "title": "Akkordeonale - Das internationale Akkordeon Festival",
+   "date": "2027-04-20",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": null,
+   "description": "",
+   "url": "https://domicil-dortmund.de/index.php/programm-details/akkordeonale-12358.html",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-23T16:58:05+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4359,14 +4487,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-13/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4386,7 +4514,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4406,7 +4534,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4426,7 +4554,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4446,7 +4574,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4466,7 +4594,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4479,14 +4607,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-14/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4506,7 +4634,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4526,7 +4654,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4546,7 +4674,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4566,7 +4694,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4579,14 +4707,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-15/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4606,7 +4734,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4619,14 +4747,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-16/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4647,7 +4775,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4668,7 +4796,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4688,7 +4816,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4701,14 +4829,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-17/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   },
   {
@@ -4721,14 +4849,14 @@
    "tags": [
     "party"
    ],
-   "genre": null,
+   "genre": "Freestyle",
    "description": "freestyling w/ inagee",
    "url": "https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-party-freestyling-w-inagee-12/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-22T14:20:49+01:00",
+   "last_seen": "2026-11-23T16:58:05+01:00",
    "gone": false
   }
  ]

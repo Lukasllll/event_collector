@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:DAZWISCHEN UND DARÜBER HINAUS
 DTSTART:20261123T180000Z
 DTEND:20261123T200000Z
-DTSTAMP:20261122T132211Z
+DTSTAMP:20261123T155923Z
 UID:71dd79d5fb93@event-collector
 DESCRIPTION:Medienprojekt Wuppertal e.V.\nhttps://loch-wuppertal.de/progra
  mm/kalender/dazwischen-und-darueber-hinaus-3116
@@ -17,14 +17,13 @@ BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261122T132211Z
+DTSTAMP:20261123T155923Z
 UID:29ccd8d0dd02@event-collector
-DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Filme\, die 
- das Leben und Wirken in und aus der Kunstwelt zeigen\, anschließend Gespr
- äch mit Salon-Gastgeberin Kimberly Hardt. In Kooperation mit dem Fliegend
- en Salon.\nhttps://www.wirrwarr-wehringhausen.de/events/kunstleben-film-sa
- lon-hagen-nov26
-LOCATION:Kino Babylon
+DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Im Kino Baby
+ lon\, in Kooperation mit dem Fliegenden Salon. Salon-Gastgeberin Kimberly 
+ Hardt lädt anschließend zum Gespräch ein.\nhttps://www.wirrwarr-wehring
+ hausen.de/events/kunstleben-film-salon-hagen-nov26
+LOCATION:Kino Babylon\, Pelmkestraße 14\, Hagen
 URL:https://www.wirrwarr-wehringhausen.de/events/kunstleben-film-salon-hag
  en-nov26
 END:VEVENT
@@ -32,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:fem goes short - Kurzfilmscreening
 DTSTART:20261130T180000Z
 DTEND:20261130T200000Z
-DTSTAMP:20261122T132211Z
+DTSTAMP:20261123T155923Z
 UID:e9a00a5a5659@event-collector
 DESCRIPTION:Film Club\, Festival\, Community\nhttps://loch-wuppertal.de/pr
  ogramm/kalender/fem-goes-short-kurzfilmscreening-2936
@@ -44,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Film Club
 DTSTART:20261207T170000Z
 DTEND:20261207T190000Z
-DTSTAMP:20261122T132211Z
+DTSTAMP:20261123T155923Z
 UID:8590620ece5b@event-collector
 DESCRIPTION:Film Club\, Community\nhttps://loch-wuppertal.de/programm/kale
  nder/film-club-3183
