@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:David Kebekus
 DTSTART:20261126T190000Z
 DTEND:20261126T210000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:7d81fe7595a1@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/david-kebe
  kus-2803
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Kasimir und Karoline
 DTSTART:20261127T183000Z
 DTEND:20261127T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:aae50e3a0f33@event-collector
 DESCRIPTION:Eine Produktion des Jugendclubs des Theaters an der Volme\nhtt
  ps://theaterandervolme.de/event/kasimir-und-karoline-2/
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:f6f4e3f2d37f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-4/
 LOCATION:Theater an der Volme\, Hagen
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Ich brauch Tapetenwechsel
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:8c984c5088f1@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ich-brauch-tapetenwechsel/
 LOCATION:Theater an der Volme\, Hagen
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Pop Up Theater in Wattenscheid: Die Wand
 DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:7292292bb990@event-collector
 DESCRIPTION:Pop Up Theater in Wattenscheid. Von Marlen Haushofer | Regie A
  lexander Ritter\nhttps://rottstr5-theater.de/pop-up-theater-die-wand.html
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Er kam\, sah und sie siegte
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:492c5f5f771b@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2
  -2/
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:9c3d29094074@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:d96eab78084d@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  1/
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Törleß
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:507b2423be94@event-collector
 DESCRIPTION:nach Robert Musil | Regie Akbar Paktin\nhttps://rottstr5-theat
  er.de/T%C3%B6rle%C3%9F.html
@@ -102,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Ein bisschen Baum muss sein
 DTSTART:20261210T183000Z
 DTEND:20261210T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:a7a1ff828460@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein
  /
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Luisa Charlotte Schulz
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:f019964f977e@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/luisa-char
  lotte-schulz-2908
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Der Mörder war es!
 DTSTART:20261211T183000Z
 DTEND:20261211T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:1abb5f2fd3bc@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4/
 LOCATION:Theater an der Volme\, Hagen
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:StandUp-Comedy
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:52b0b6a002ae@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/standup-comedy-5/
 LOCATION:Pelmke\, Hagen
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261212T183000Z
 DTEND:20261212T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:398a1acd491e@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-1/
 LOCATION:Theater an der Volme\, Hagen
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261213T170000Z
 DTEND:20261213T190000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:712faf0663d2@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-2/
 LOCATION:Theater an der Volme\, Hagen
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261213T183000Z
 DTEND:20261213T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:32afa4eb940d@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Das große Heft
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:9a5b4927fa02@event-collector
 DESCRIPTION:von Ágota Kristóf | Regie Martina van Boxen\nhttps://rottstr
  5-theater.de/das-grosse-heft.html
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Club 2.0
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:23b84073bdf0@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-
  4/
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:78d59e71d44f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  3/
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:014c930fe7e6@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-3/
 LOCATION:Theater an der Volme\, Hagen
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Das Beste kommt zum Schluss
 DTSTART:20261231T170000Z
 DTEND:20261231T190000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:971434666363@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss
  /
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Das Beste kommt zum Schluss
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:7b9f10b712c0@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss
  -2/
@@ -241,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 15.01.2027
 DTSTART:20270115T180000Z
 DTEND:20270115T200000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:c6412bb52fc5@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -253,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 17.01.2027
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:534b475df5e7@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 19.01.2027
 DTSTART:20270119T180000Z
 DTEND:20270119T200000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:410a6da75a84@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:QUICHOTTE „Guter Dinge“
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:391b60045fed@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/quichotte-guter-dinge/
 LOCATION:Pelmke\, Hagen
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Abdul Kader Chahin
 DTSTART:20270318T190000Z
 DTEND:20270318T210000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:2a2831ae7f12@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/abdul-kade
  r-chahin-2748
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Rebecca Pap
 DTSTART:20270418T180000Z
 DTEND:20270418T200000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:78f519e4a7a8@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/rebecca-pa
  p-3109
@@ -309,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270924T180000Z
 DTEND:20270924T200000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:1b65c561d058@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villai
  n-era/
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270925T180000Z
 DTEND:20270925T200000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:83509c18a3c4@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villai
  n-era-2/

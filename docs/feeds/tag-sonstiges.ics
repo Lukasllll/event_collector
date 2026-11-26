@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Quartiers Brunch
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:665a7cad37dd@event-collector
 DESCRIPTION:Monatlicher Quartiersbrunch mit Beratung für Kreative & Proje
  kte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen\, desw
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Wintergrillen
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:008d26edf8b2@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/wintergrillen/
 LOCATION:Pelmke\, Hagen
@@ -30,28 +30,17 @@ BEGIN:VEVENT
 SUMMARY:Reset Pelmke
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:8dcc1ce84db1@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/reset-pelmke-22/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/reset-pelmke-22/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Der Quizabend im LOCH
-DTSTART:20261217T183000Z
-DTEND:20261217T203000Z
-DTSTAMP:20261125T153737Z
-UID:e3a004ff77ec@event-collector
-DESCRIPTION:Wort\, Barabend\nhttps://loch-wuppertal.de/programm/kalender/d
- er-quizabend-im-loch-2923
-LOCATION:Loch\, Wuppertal
-URL:https://loch-wuppertal.de/programm/kalender/der-quizabend-im-loch-2923
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Erwin-Kostedde-Kickerturnier 2026
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:cc52c6857db4@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/kickerturnier-2026/
 LOCATION:Pelmke\, Hagen
@@ -61,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Mit »Pelmke kulinarisch« um die Welt – Ägypten
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:a80fe59c05b6@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-u
  m-die-welt-aegypten/
@@ -73,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:F(L)OCHMARKT
 DTSTART:20270110T110000Z
 DTEND:20270110T130000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:3d44dd904528@event-collector
 DESCRIPTION:Markt\nhttps://loch-wuppertal.de/programm/kalender/f-l-ochmark
  t-3214
@@ -84,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Nightflow Markt – Nachttrödel
 DTSTART:20270306T170000Z
 DTEND:20270306T190000Z
-DTSTAMP:20261125T153737Z
+DTSTAMP:20261126T151556Z
 UID:f6269084ad8b@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/nightflow-markt-nachttro
  edel-5/
