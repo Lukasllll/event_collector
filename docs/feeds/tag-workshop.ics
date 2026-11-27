@@ -6,7 +6,7 @@ SUMMARY:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsyst
  em
 DTSTART:20261128T100000Z
 DTEND:20261128T120000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:807f38fecd5f@event-collector
 DESCRIPTION:Workshop mit Scala Soundsystem\nhttps://www.pelmke.de/veransta
  ltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2
@@ -20,7 +20,7 @@ SUMMARY:Klangerzeugung durch analoge Synthese – Workshop mit Scala Sound
  system
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a4053fd1054a@event-collector
 DESCRIPTION:Workshop mit Scala Soundsystem\nhttps://www.pelmke.de/veransta
  ltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsyst
@@ -33,10 +33,10 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261201T183000Z
 DTEND:20261201T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:f82d7f5f681b@event-collector
-DESCRIPTION:Chor im LOCH\, Musik\, Workshop\nhttps://loch-wuppertal.de/pro
- gramm/kalender/chorprobe-3135
+DESCRIPTION:Chor im LOCH. Musik\, Workshop\nhttps://loch-wuppertal.de/prog
+ ramm/kalender/chorprobe-3135
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3135
 END:VEVENT
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Chorprobe
 DTSTART:20261208T183000Z
 DTEND:20261208T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:13ff9302c1a5@event-collector
 DESCRIPTION:Chorprobe\nhttps://loch-wuppertal.de/
 LOCATION:Loch\, Wuppertal
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:SOUNDZZ Familienkonzert feat. Talking Horns
 DTSTART:20261213T150000Z
 DTEND:20261213T170000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:7dfcc140bad1@event-collector
 DESCRIPTION:https://domicil-dortmund.de/index.php/programm-details/soundzz
  -12304.html
@@ -66,10 +66,10 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261215T183000Z
 DTEND:20261215T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:99c66cf20d36@event-collector
-DESCRIPTION:Chor im LOCH\, Musik\, Workshop\nhttps://loch-wuppertal.de/pro
- gramm/kalender/chorprobe-3137
+DESCRIPTION:Chor im LOCH. Musik\, Workshop\nhttps://loch-wuppertal.de/prog
+ ramm/kalender/chorprobe-3137
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3137
 END:VEVENT
@@ -77,10 +77,10 @@ BEGIN:VEVENT
 SUMMARY:chorprobe
 DTSTART:20261222T183000Z
 DTEND:20261222T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:6bc7f04ff6da@event-collector
-DESCRIPTION:Chor im LOCH\, Musik\, Workshop\nhttps://loch-wuppertal.de/pro
- gramm/kalender/chorprobe-3138
+DESCRIPTION:Chor im LOCH. Musik\, Workshop\nhttps://loch-wuppertal.de/prog
+ ramm/kalender/chorprobe-3138
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3138
 END:VEVENT
@@ -88,21 +88,21 @@ BEGIN:VEVENT
 SUMMARY:Chorprobe
 DTSTART:20270112T183000Z
 DTEND:20270112T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:4be359d6b655@event-collector
-DESCRIPTION:Chor im LOCH\, Musik\, Workshop\, Community\nhttps://loch-wupp
- ertal.de/programm/kalender/chorprobe-3299
+DESCRIPTION:Chor im LOCH. Musik\, Workshop\, Community\nhttps://loch-wuppe
+ rtal.de/programm/kalender/chorprobe-3299
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3299
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chorprobe
+SUMMARY:chorprobe
 DTSTART:20270126T183000Z
 DTEND:20270126T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a6f060838945@event-collector
-DESCRIPTION:Chor im LOCH\, Musik\, Workshop\, Community\nhttps://loch-wupp
- ertal.de/programm/kalender/chorprobe-3291
+DESCRIPTION:Chor im LOCH. Musik\, Workshop\, Community\nhttps://loch-wuppe
+ rtal.de/programm/kalender/chorprobe-3291
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3291
 END:VEVENT
@@ -110,10 +110,10 @@ BEGIN:VEVENT
 SUMMARY:Chorprobe
 DTSTART:20270202T183000Z
 DTEND:20270202T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:293b8b7ebfb7@event-collector
-DESCRIPTION:Chor im LOCH\, Musik\, Workshop\, Community\nhttps://loch-wupp
- ertal.de/programm/kalender/chorprobe-3301
+DESCRIPTION:Chor im LOCH. Musik\, Workshop\, Community\nhttps://loch-wuppe
+ rtal.de/programm/kalender/chorprobe-3301
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3301
 END:VEVENT
@@ -121,10 +121,10 @@ BEGIN:VEVENT
 SUMMARY:Chorprobe
 DTSTART:20270209T183000Z
 DTEND:20270209T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:e25d63132bc5@event-collector
-DESCRIPTION:Chor im LOCH\, Musik\, Workshop\, Community\nhttps://loch-wupp
- ertal.de/programm/kalender/chorprobe-3302
+DESCRIPTION:Chor im LOCH. Musik\, Workshop\, Community\nhttps://loch-wuppe
+ rtal.de/programm/kalender/chorprobe-3302
 LOCATION:Loch\, Wuppertal
 URL:https://loch-wuppertal.de/programm/kalender/chorprobe-3302
 END:VEVENT

@@ -2,22 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:Sundowner Collective – After Work Party
-DTSTART:20261126T180000Z
-DTEND:20261126T200000Z
-DTSTAMP:20261126T151556Z
-UID:172b8d3f3826@event-collector
-DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
- undowner-collective-after-work-party-freestyling-w-inagee-8/
-LOCATION:Pelmke\, Hagen
-URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
- party-freestyling-w-inagee-8/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jam Session / Open Mic
 DTSTART:20261127T180000Z
 DTEND:20261127T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a6bb6b0ea571@event-collector
 DESCRIPTION:Lust auf Musik\, Groove und gute Vibes? In lockerer Atmosphär
  e [...]\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic-9/
@@ -28,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:[entfällt?] Kasimir und Karoline
 DTSTART:20261127T183000Z
 DTEND:20261127T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:aae50e3a0f33@event-collector
 DESCRIPTION:Eine Produktion des Jugendclubs des Theaters an der Volme\nhtt
  ps://theaterandervolme.de/event/kasimir-und-karoline-2/
@@ -39,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry Slam – moderiert von Jan Schmidt
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:e08990dee11c@event-collector
 DESCRIPTION:moderiert von Jan Schmidt\nhttps://www.pelmke.de/veranstaltung
  en/poetry-slammoderiert-von-jan-schmidt-5/
@@ -52,7 +40,7 @@ SUMMARY:Auflegen mit Vinyl für Anfänger – Workshop mit Scala Soundsyst
  em
 DTSTART:20261128T100000Z
 DTEND:20261128T120000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:807f38fecd5f@event-collector
 DESCRIPTION:Workshop mit Scala Soundsystem\nhttps://www.pelmke.de/veransta
  ltungen/auflegen-mit-vinyl-fuer-anfaenger-workshop-mit-scala-soundsystem-2
@@ -65,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:f6f4e3f2d37f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-4/
 LOCATION:Theater an der Volme\, Hagen
@@ -75,10 +63,10 @@ BEGIN:VEVENT
 SUMMARY:Punkplattenabend: Der König macht\, was er will
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:f334f1cba979@event-collector
-DESCRIPTION:https://www.pelmke.de/veranstaltungen/punkplattenabend-der-koe
- nig-macht-was-er-will/
+DESCRIPTION:Der König macht\, was er will\nhttps://www.pelmke.de/veransta
+ ltungen/punkplattenabend-der-koenig-macht-was-er-will/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/punkplattenabend-der-koenig-mach
  t-was-er-will/
@@ -87,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:TH & the Boneshakerz
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:014bfbe4eb66@event-collector
 DESCRIPTION:Tim Husung Boneshakerz Southern Rock Auf Wunsch der Band wurde
   [...]\nhttps://werkhof-kulturzentrum.de/event/th-the-boneshakerz/
@@ -99,7 +87,7 @@ SUMMARY:Klangerzeugung durch analoge Synthese – Workshop mit Scala Sound
  system
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a4053fd1054a@event-collector
 DESCRIPTION:Workshop mit Scala Soundsystem\nhttps://www.pelmke.de/veransta
  ltungen/klangerzeugung-durch-analoge-synthese-workshop-mit-scala-soundsyst
@@ -112,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:Quartiers Brunch
 DTSTART:20261129T100000Z
 DTEND:20261129T120000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:665a7cad37dd@event-collector
 DESCRIPTION:Monatlicher Quartiersbrunch mit Beratung für Kreative & Proje
  kte in Wehringhausen! Wir wollen mehr Gemeinschaft in Wehringhausen\, desw
@@ -127,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:KUNSTLEBEN Filmsalon
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:29ccd8d0dd02@event-collector
 DESCRIPTION:Filme über Kunst und Gespräche über das Leben! Im Kino Baby
  lon\, in Kooperation mit dem Fliegenden Salon. Salon-Gastgeberin Kimberly 
@@ -141,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:Ich brauch Tapetenwechsel
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:8c984c5088f1@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ich-brauch-tapetenwechsel/
 LOCATION:Theater an der Volme\, Hagen
@@ -151,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Mukke am Mittwoch w/ WHLKLNG
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:c43e9517dcdb@event-collector
 DESCRIPTION:DJ Set und Happy Hour\nhttps://www.pelmke.de/veranstaltungen/m
  ukke-am-mittwoch-w-whlklng-dj-set-und-happy-hour-20/
@@ -163,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20261203T191500Z
 DTEND:20261203T211500Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:fffd2d771fa3@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -175,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Wintergrillen
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:008d26edf8b2@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/wintergrillen/
 LOCATION:Pelmke\, Hagen
@@ -185,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Er kam\, sah und sie siegte
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:492c5f5f771b@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2
  -2/
@@ -197,7 +185,7 @@ SUMMARY:Situationen der Demokratie – Situation 1: Demokratie & Digitalit
  ät
 DTSTART:20261205T173000Z
 DTEND:20261205T193000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:170e04f3f33a@event-collector
 DESCRIPTION:Situation 1: Demokratie & Digitalität. Podiumsgespräch mit H
  annes Kreschel / Power Plush-Konzert\nhttps://www.pelmke.de/veranstaltunge
@@ -210,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:d96eab78084d@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  1/
@@ -221,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Szeneflohmarkt am 06.12.2026
 DTSTART:20261206T110000Z
 DTEND:20261206T130000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:f8c6b1d33c59@event-collector
 DESCRIPTION:Flohmarkt für Gothic\, Metal\, Rockabilly\, Punk & More - Ein
  tritt [...]\nhttps://werkhof-kulturzentrum.de/event/szeneflohmarkt-am-06-1
@@ -233,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Metamorphose
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:2f3cacafac31@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/metamorphose/
 LOCATION:Theater an der Volme\, Hagen
@@ -243,7 +231,7 @@ BEGIN:VEVENT
 SUMMARY:Reset Pelmke
 DTSTART:20261206T170000Z
 DTEND:20261206T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:8dcc1ce84db1@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/reset-pelmke-22/
 LOCATION:Pelmke\, Hagen
@@ -253,7 +241,7 @@ BEGIN:VEVENT
 SUMMARY:Graz 2026 – eine andere Kommunalpolitik ist möglich
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:0376ab6d9333@event-collector
 DESCRIPTION:Vortrag von und mit attac Hagen\nhttps://www.pelmke.de/veranst
  altungen/graz-2026-eine-andere-kommunalpolitik-ist-moeglich-vortrag-von-un
@@ -266,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Ein bisschen Baum muss sein
 DTSTART:20261210T183000Z
 DTEND:20261210T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a7a1ff828460@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein
  /
@@ -277,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Der Klangteppich – Musik\, live und improvisiert
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:425862258d2c@event-collector
 DESCRIPTION:Musik\, live und improvisiert\nhttps://www.pelmke.de/veranstal
  tungen/der-klangteppich-musik-live-und-improvisiert-10/
@@ -289,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:abschied & Neuanfang
 DTSTART:20261211T180000Z
 DTEND:20261211T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:7ac550485064@event-collector
 DESCRIPTION:In den letzten drei Jahren ist viel passiert. Wir haben das Wi
  rrWarr gemeinsam zu einem Ort gemacht\, an dem wir uns wohlfühlen\, uns a
@@ -305,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Der Mörder war es!
 DTSTART:20261211T183000Z
 DTEND:20261211T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:1abb5f2fd3bc@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4/
 LOCATION:Theater an der Volme\, Hagen
@@ -315,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Rockpalast Revival 2.0
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:6fec57885be4@event-collector
 DESCRIPTION:Das Rockpalast Revival 2.0 kommt zurück! Am 11.12.2026 im Kul
  turzentrum [...]\nhttps://werkhof-kulturzentrum.de/event/rockpalast-reviva
@@ -327,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:StandUp-Comedy
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:52b0b6a002ae@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/standup-comedy-5/
 LOCATION:Pelmke\, Hagen
@@ -337,7 +325,7 @@ BEGIN:VEVENT
 SUMMARY:United on the Rock 12-12-2026
 DTSTART:20261212T180000Z
 DTEND:20261212T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:4bc42ed99449@event-collector
 DESCRIPTION:UNITED ON THE ROCK – ROCK\, METAL & SANDKUNST Vier [...]\nht
  tps://werkhof-kulturzentrum.de/event/united-on-the-rock-12-12-2026/
@@ -348,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261212T183000Z
 DTEND:20261212T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:398a1acd491e@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-1/
 LOCATION:Theater an der Volme\, Hagen
@@ -358,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Kneipenkonzert Kasra & Jules
 DTSTART:20261212T190000Z
 DTEND:20261212T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:d3b7e7625070@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/kneipenkonzert-kasra-jul
  es/
@@ -369,7 +357,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261213T170000Z
 DTEND:20261213T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:712faf0663d2@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-2/
 LOCATION:Theater an der Volme\, Hagen
@@ -379,10 +367,10 @@ BEGIN:VEVENT
 SUMMARY:Bleib auf dem Teppich
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:e0c2e2ae3282@event-collector
-DESCRIPTION:https://www.pelmke.de/veranstaltungen/bleib-auf-dem-teppich-ra
- p-open-mic-in-der-kneipe-6/
+DESCRIPTION:Rap-Open-Mic in der Kneipe\nhttps://www.pelmke.de/veranstaltun
+ gen/bleib-auf-dem-teppich-rap-open-mic-in-der-kneipe-6/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/bleib-auf-dem-teppich-rap-open-m
  ic-in-der-kneipe-6/
@@ -391,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:PreWeekend am 17.12.2026
 DTSTART:20261217T170000Z
 DTEND:20261217T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:5d7d13c686d5@event-collector
 DESCRIPTION:TICKETS FÜR DIE VERANSTALTUNG IM NOVEMBER GIBT ES HIER >>> [.
  ..]\nhttps://werkhof-kulturzentrum.de/event/preweekend-am-17-12-2026/
@@ -402,10 +390,10 @@ BEGIN:VEVENT
 SUMMARY:Kneipenquiz – Demokratie am Tresen
 DTSTART:20261217T190000Z
 DTEND:20261217T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:7ea89a0e93da@event-collector
-DESCRIPTION:https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-a
- m-tresen-4/
+DESCRIPTION:Demokratie am Tresen\nhttps://www.pelmke.de/veranstaltungen/kn
+ eipenquiz-demokratie-am-tresen-4/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen
  -4/
@@ -414,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:Erwin-Kostedde-Kickerturnier 2026
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:cc52c6857db4@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/kickerturnier-2026/
 LOCATION:Pelmke\, Hagen
@@ -424,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Club 2.0
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:23b84073bdf0@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-
  4/
@@ -435,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:Kilkenny Bastards am 18.12.2026
 DTSTART:20261218T190000Z
 DTEND:20261218T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:83eb4188b4f9@event-collector
 DESCRIPTION:KILKENNY BASTARDS – IRISH FOLK PUNK LIVE! Am 18. Dezember [.
  ..]\nhttps://werkhof-kulturzentrum.de/event/kilkenny-bastards-am-18-12-202
@@ -448,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:78d59e71d44f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  3/
@@ -459,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Soul Invaders / Tuffi Slippers / Putrid Cave / tba
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:3b548bf3b4b9@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slip
  pers-the-mad-moiselles-putrid-cave/
@@ -471,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:CountryRock Night – Jahresabschluss mit Siiri am 19.12.2026
 DTSTART:20261219T190000Z
 DTEND:20261219T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:f842c26cda89@event-collector
 DESCRIPTION:CountryRock Night - Jahresabschluss mit Siiri - Wenn ehrliche 
  Songs [...]\nhttps://werkhof-kulturzentrum.de/event/countryrock-jahresabsc
@@ -484,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:014c930fe7e6@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-3/
 LOCATION:Theater an der Volme\, Hagen
@@ -494,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Mit »Pelmke kulinarisch« um die Welt – Ägypten
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a80fe59c05b6@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/mit-pelmke-kulinarisch-u
  m-die-welt-aegypten/
@@ -506,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtsausklang in der Werkhof-Kneipe
 DTSTART:20261226T190000Z
 DTEND:20261226T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:38b5d451846b@event-collector
 DESCRIPTION:Ho\, ho\, ho – Schluss mit stiller Nacht! Am 26. [...]\nhttp
  s://werkhof-kulturzentrum.de/event/weihnachtsausklang-in-der-werkhof-kneip
@@ -519,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:Leselounge im Kinocafé
 DTSTART:20261227T140000Z
 DTEND:20261227T160000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:64b3251aa67d@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/leselounge-im-kinocafe-6
  /
@@ -530,10 +518,10 @@ BEGIN:VEVENT
 SUMMARY:DRECKSACK – musikalische Lesung mit Damian Copp & Sven Söhnchen
 DTSTART:20261228T183000Z
 DTEND:20261228T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:0e2bddbb4786@event-collector
-DESCRIPTION:https://www.pelmke.de/veranstaltungen/drecksack-musikalische-l
- esung-mit-damian-copp-sven-soehnchen/
+DESCRIPTION:mit Damian Copp & Sven Söhnchen\nhttps://www.pelmke.de/verans
+ taltungen/drecksack-musikalische-lesung-mit-damian-copp-sven-soehnchen/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/drecksack-musikalische-lesung-mi
  t-damian-copp-sven-soehnchen/
@@ -542,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Das Beste kommt zum Schluss
 DTSTART:20261231T170000Z
 DTEND:20261231T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:971434666363@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss
  /
@@ -553,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Das Beste kommt zum Schluss
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:7b9f10b712c0@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss
  -2/
@@ -564,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:Nevermind 2026 – here’s 2027
 DTSTART:20261231T210000Z
 DTEND:20261231T230000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:7107de0f84dd@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/nevermind-2026-heres-202
  7/
@@ -575,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270107T191500Z
 DTEND:20270107T211500Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:39fbc07465ca@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -587,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:VON WELT – Adrenalin Tour 2027 am 09-01-2027
 DTSTART:20270109T190000Z
 DTEND:20270109T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:aa169f5e888e@event-collector
 DESCRIPTION:VON WELT denken Rock neu. Intelligent\, kompromisslos und voll
  er Atmosphäre [...]\nhttps://werkhof-kulturzentrum.de/event/von-welt-adre
@@ -600,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 15.01.2027
 DTSTART:20270115T180000Z
 DTEND:20270115T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:c6412bb52fc5@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -609,10 +597,31 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/die-physiker-am-15-01-2027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Der Mörder war es!
+DTSTART:20270115T183000Z
+DTEND:20270115T203000Z
+DTSTAMP:20261127T150545Z
+UID:7b856d941a90@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4-4-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/der-moerder-war-es-4-4-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Heinz-Erhardt-Schau
+DTSTART:20270117T170000Z
+DTEND:20270117T190000Z
+DTSTAMP:20261127T150545Z
+UID:97736d34b300@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/die-heinz-erhardt-schau-10-
+ 4/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/die-heinz-erhardt-schau-10-4/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Die Physiker – am 17.01.2027
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:534b475df5e7@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -624,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 19.01.2027
 DTSTART:20270119T180000Z
 DTEND:20270119T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:410a6da75a84@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -633,10 +642,31 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/die-physiker-am-19-01-2027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pott Comedy
+DTSTART:20270120T183000Z
+DTEND:20270120T203000Z
+DTSTAMP:20261127T150545Z
+UID:943a00d022f3@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/pott-comedy/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/pott-comedy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
+DTSTART:20270122T183000Z
+DTEND:20270122T203000Z
+DTSTAMP:20261127T150545Z
+UID:71405855fa07@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
+ 3-3/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/frostbeulen-familienglueck-3-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beatles on Piano am 22.01.2027
 DTSTART:20270122T190000Z
 DTEND:20270122T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:7a136dbfcb54@event-collector
 DESCRIPTION:THE BEATLES ON PIANO Bastian Korn & Band Eine musikalische [..
  .]\nhttps://werkhof-kulturzentrum.de/event/beatles-on-piano-am-22-01-2027/
@@ -647,7 +677,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270128T180000Z
 DTEND:20270128T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:56d069484319@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-6/
@@ -659,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Jam Session / Open Mic
 DTSTART:20270129T180000Z
 DTEND:20270129T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:e9b31ea2b867@event-collector
 DESCRIPTION:Lust auf Musik\, Groove und gute Vibes? In lockerer Atmosphär
  e [...]\nhttps://werkhof-kulturzentrum.de/event/jam-session-open-mic/
@@ -667,10 +697,20 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/jam-session-open-mic/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ein Bett im Kornfeld
+DTSTART:20270129T183000Z
+DTEND:20270129T203000Z
+DTSTAMP:20261127T150545Z
+UID:b03e075f7810@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/ein-bett-im-kornfeld-1/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/ein-bett-im-kornfeld-1/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FRANK’S WHITE CANVAS // Support: Neue Paranoia
 DTSTART:20270129T183000Z
 DTEND:20270129T203000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:5936231e39f5@event-collector
 DESCRIPTION:Support: Neue Paranoia\nhttps://www.pelmke.de/veranstaltungen/
  franks-white-canvas-support-neue-paranoia/
@@ -682,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Sons of Odin am 30.01.2027
 DTSTART:20270130T190000Z
 DTEND:20270130T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a65eb84d240a@event-collector
 DESCRIPTION:SONS OF ODIN – A Tribute to Manowar Wenn epischer [...]\nhtt
  ps://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/
@@ -690,10 +730,32 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/sons-of-odin-am-30-01-2027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Auf der Vespa nach Rimini
+DTSTART:20270131T170000Z
+DTEND:20270131T190000Z
+DTSTAMP:20261127T150545Z
+UID:db524eb169d4@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-1
+ 4-4-3/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-14-4-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friedel Hiersenkötter
+DTSTART:20270204T183000Z
+DTEND:20270204T203000Z
+DTSTAMP:20261127T150545Z
+UID:325977cd3148@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/friedel-hiersenkoetter-2-2-
+ 2-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/friedel-hiersenkoetter-2-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270204T191500Z
 DTEND:20270204T211500Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:c379fc899123@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -702,10 +764,42 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-7/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Let's Party!
+DTSTART:20270205T183000Z
+DTEND:20270205T203000Z
+DTSTAMP:20261127T150545Z
+UID:665472019c4d@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/lets-party-1/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/lets-party-1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sketch Comedy Club 2.0
+DTSTART:20270206T183000Z
+DTEND:20270206T203000Z
+DTSTAMP:20261127T150545Z
+UID:92e46ee49212@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-
+ 2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
+DTSTART:20270212T183000Z
+DTEND:20270212T203000Z
+DTSTAMP:20261127T150545Z
+UID:ba08278d7aee@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
+ 3-1/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/frostbeulen-familienglueck-3-1/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ersatztermin Katy Wirtz mit Band am 12.02.2027
 DTSTART:20270212T190000Z
 DTEND:20270212T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:cb789116ef72@event-collector
 DESCRIPTION:ACHTUNG\, Ersatztermin für den 07.11.2026 Die Tickets behalte
  n ihre Gültigkeit! [...]\nhttps://werkhof-kulturzentrum.de/event/katy-wir
@@ -714,10 +808,20 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/katy-wirtz/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Honig im Kopf
+DTSTART:20270213T183000Z
+DTEND:20270213T203000Z
+DTSTAMP:20261127T150545Z
+UID:006d3c2fca4f@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/honig-im-kopf/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/honig-im-kopf/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wait for June am 13.02.2027
 DTSTART:20270213T190000Z
 DTEND:20270213T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:f8d2b61044ff@event-collector
 DESCRIPTION:Vielseitiger und detailreicher denn je wandelt die Band Wait F
  or [...]\nhttps://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-20
@@ -726,10 +830,30 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/wait-for-june-am-13-02-2027/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mother Black Cat
+SUMMARY:Irgendwas mit Liebe
+DTSTART:20270214T170000Z
+DTEND:20270214T190000Z
+DTSTAMP:20261127T150545Z
+UID:6d1ec8b432da@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/irgendwas-mit-liebe/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/irgendwas-mit-liebe/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pott Comedy
+DTSTART:20270217T183000Z
+DTEND:20270217T203000Z
+DTSTAMP:20261127T150545Z
+UID:f1a2c2227a7e@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/pott-comedy-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/pott-comedy-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[entfällt?] Mother Black Cat
 DTSTART:20270219T190000Z
 DTEND:20270219T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:5a25c676c73e@event-collector
 DESCRIPTION:Mother Black Cat – Alternative Rock mit Leidenschaft und ord
  entlich [...]\nhttps://werkhof-kulturzentrum.de/event/mother-black-cat/
@@ -737,10 +861,41 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/mother-black-cat/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Achtsam morden!
+DTSTART:20270220T183000Z
+DTEND:20270220T203000Z
+DTSTAMP:20261127T150545Z
+UID:8eba9aca8585@event-collector
+DESCRIPTION:Premiere\nhttps://theaterandervolme.de/event/achtsam-morden/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/achtsam-morden/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mother Black Cat am 20.02.2027
+DTSTART:20270220T190000Z
+DTEND:20270220T210000Z
+DTSTAMP:20261127T150545Z
+UID:ce029aeefc4f@event-collector
+DESCRIPTION:Mother Black Cat – Alternative Rock mit Leidenschaft und ord
+ entlich [...]\nhttps://werkhof-kulturzentrum.de/event/mother-black-cat/
+LOCATION:Werkhof\, Hagen
+URL:https://werkhof-kulturzentrum.de/event/mother-black-cat/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Achtsam morden!
+DTSTART:20270221T183000Z
+DTEND:20270221T203000Z
+DTSTAMP:20261127T150545Z
+UID:7afce702c70a@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/achtsam-morden-3/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/achtsam-morden-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270225T180000Z
 DTEND:20270225T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a2fd1a96a40d@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-10/
@@ -749,20 +904,53 @@ URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-10/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hagen Weltweit Show
+DTSTART:20270225T183000Z
+DTEND:20270225T203000Z
+DTSTAMP:20261127T150545Z
+UID:d614b6c80ec6@event-collector
+DESCRIPTION:Wenn das Kaff zum Kosmos wird.\nhttps://theaterandervolme.de/e
+ vent/martin-quilitz-praesentiert-westfalen-weltweit-geschichten-ueber-west
+ faelische-wurzeln-2-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/martin-quilitz-praesentiert-westfal
+ en-weltweit-geschichten-ueber-westfaelische-wurzeln-2-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Mörder war es!
+DTSTART:20270226T183000Z
+DTEND:20270226T203000Z
+DTSTAMP:20261127T150545Z
+UID:38a835d30a09@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4-4-3/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/der-moerder-war-es-4-4-3/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:QUICHOTTE „Guter Dinge“
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:391b60045fed@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/quichotte-guter-dinge/
 LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/quichotte-guter-dinge/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Deutschland\, mon amour
+DTSTART:20270227T183000Z
+DTEND:20270227T203000Z
+DTSTAMP:20261127T150545Z
+UID:fc3298eb5782@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/deutschland-mon-amour/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/deutschland-mon-amour/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:John Fogerty Coveration & King/Bon
 DTSTART:20270227T190000Z
 DTEND:20270227T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:0fab2d653fa6@event-collector
 DESCRIPTION:Zwei Legenden. Zwei Bands. Eine Nacht voller Rockgeschichte! F
  reut euch [...]\nhttps://werkhof-kulturzentrum.de/event/john-fogerty-cover
@@ -775,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270304T191500Z
 DTEND:20270304T211500Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:ee69596d3a20@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -784,10 +972,20 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/4music-night-8/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TANKRED LERCH liest
+DTSTART:20270305T183000Z
+DTEND:20270305T203000Z
+DTSTAMP:20261127T150545Z
+UID:d55248ba030d@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/tankred-lerch-liest/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/tankred-lerch-liest/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nightflow Markt – Nachttrödel
 DTSTART:20270306T170000Z
 DTEND:20270306T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:f6269084ad8b@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/nightflow-markt-nachttro
  edel-5/
@@ -795,10 +993,42 @@ LOCATION:Pelmke\, Hagen
 URL:https://www.pelmke.de/veranstaltungen/nightflow-markt-nachttroedel-5/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
+DTSTART:20270306T183000Z
+DTEND:20270306T203000Z
+DTSTAMP:20261127T150545Z
+UID:8c70b24b33a3@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
+ 3-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/frostbeulen-familienglueck-3-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auf der Vespa nach Rimini
+DTSTART:20270307T170000Z
+DTEND:20270307T190000Z
+DTSTAMP:20261127T150545Z
+UID:59bb80d6f83a@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-1
+ 4-4-1/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-14-4-1/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ein Bett im Kornfeld
+DTSTART:20270312T183000Z
+DTEND:20270312T203000Z
+DTSTAMP:20261127T150545Z
+UID:200be40d9c66@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/ein-bett-im-kornfeld-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/ein-bett-im-kornfeld-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brute Force and Ignorance
 DTSTART:20270312T190000Z
 DTEND:20270312T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:07788ad5c570@event-collector
 DESCRIPTION:BRUTE FORCE AND IGNORANCE – A Tribute to Rory Gallagher [...
  ]\nhttps://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/
@@ -806,10 +1036,20 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/brute-force-and-ignorance/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marx & Engels intim
+DTSTART:20270313T183000Z
+DTEND:20270313T203000Z
+DTSTAMP:20261127T150545Z
+UID:bf74bfb9e26e@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/marx-engels-intim/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/marx-engels-intim/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Edelweiss
 DTSTART:20270313T190000Z
 DTEND:20270313T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:ca27fc611135@event-collector
 DESCRIPTION:Edelweiss ist eine AC/DC-Coverband aus Rheinland-Pfalz\, die m
  an – wie [...]\nhttps://werkhof-kulturzentrum.de/event/edelweiss/
@@ -817,10 +1057,20 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/edelweiss/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Achtsam morden!
+DTSTART:20270314T170000Z
+DTEND:20270314T190000Z
+DTSTAMP:20261127T150545Z
+UID:88fe00f6f91c@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/achtsam-morden-1/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/achtsam-morden-1/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBURST
 DTSTART:20270314T180000Z
 DTEND:20270314T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:f515843593b4@event-collector
 DESCRIPTION:THEOCRACY – GRAND MOSAIC TOUR 2027 – Special Guest: SUNBUR
  ST [...]\nhttps://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-to
@@ -830,10 +1080,53 @@ URL:https://werkhof-kulturzentrum.de/event/theocracy-grand-mosaic-tour-202
  7-special-guest-sunburst/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pott Comedy
+DTSTART:20270317T183000Z
+DTEND:20270317T203000Z
+DTSTAMP:20261127T150545Z
+UID:b618e42bf6af@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/pott-comedy-3/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/pott-comedy-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der letzte der feurigen Liebhaber
+DTSTART:20270319T183000Z
+DTEND:20270319T203000Z
+DTSTAMP:20261127T150545Z
+UID:0240530bb77e@event-collector
+DESCRIPTION:Premiere\nhttps://theaterandervolme.de/event/der-letzte-der-fe
+ urigen-liebhaber/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/der-letzte-der-feurigen-liebhaber/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Let's Party!
+DTSTART:20270320T183000Z
+DTEND:20270320T203000Z
+DTSTAMP:20261127T150545Z
+UID:47ee004f47bc@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/lets-party-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/lets-party-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der letzte der feurigen Liebhaber
+DTSTART:20270321T170000Z
+DTEND:20270321T190000Z
+DTSTAMP:20261127T150545Z
+UID:60a10a951892@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/der-letzte-der-feurigen-lie
+ bhaber-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/der-letzte-der-feurigen-liebhaber-2
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fools Garden am 24.03.2027
 DTSTART:20270324T190000Z
 DTEND:20270324T210000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:1024c841faad@event-collector
 DESCRIPTION:Nach „Dish Of The Day“ geht die Reise weiter\, zurück [..
  .]\nhttps://werkhof-kulturzentrum.de/event/foolsgarden/
@@ -844,7 +1137,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270325T180000Z
 DTEND:20270325T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:8c7cca35467d@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-11/
@@ -856,7 +1149,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270401T181500Z
 DTEND:20270401T201500Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:184a77a18d05@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -868,7 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:Black Equinox Festival am 03.04.2027
 DTSTART:20270403T180000Z
 DTEND:20270403T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:169e77246474@event-collector
 DESCRIPTION:Genaue Infos folgen! Stehplatz - freie Platzwahl VVK 15 € [.
  ..]\nhttps://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-0
@@ -878,10 +1171,32 @@ URL:https://werkhof-kulturzentrum.de/event/black-equinox-festival-am-03-04
  -2027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pott Comedy
+DTSTART:20270414T173000Z
+DTEND:20270414T193000Z
+DTSTAMP:20261127T150545Z
+UID:0db92e8f4bc7@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/pott-comedy-4/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/pott-comedy-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der letzte der feurigen Liebhaber
+DTSTART:20270416T173000Z
+DTEND:20270416T193000Z
+DTSTAMP:20261127T150545Z
+UID:ce9eb4013161@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/der-letzte-der-feurigen-lie
+ bhaber-2-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/der-letzte-der-feurigen-liebhaber-2
+ -2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stadtaffen am 16.04.2027
 DTSTART:20270416T180000Z
 DTEND:20270416T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:1feaddb5fad3@event-collector
 DESCRIPTION:STADTAFFEN – Die ultimative Tribute-Show für alle Fans von 
  Peter [...]\nhttps://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-20
@@ -890,10 +1205,31 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/stadtaffen-am-16-04-2027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Achtsam morden!
+DTSTART:20270417T173000Z
+DTEND:20270417T193000Z
+DTSTAMP:20261127T150545Z
+UID:cc824eecb924@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/achtsam-morden-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/achtsam-morden-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auf der Vespa nach Rimini
+DTSTART:20270418T160000Z
+DTEND:20270418T180000Z
+DTSTAMP:20261127T150545Z
+UID:bc66f77d0eaf@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-1
+ 4-4-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-14-4-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270422T170000Z
 DTEND:20270422T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:10a0dcf50e34@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-13/
@@ -902,10 +1238,31 @@ URL:https://www.pelmke.de/veranstaltungen/sundowner-collective-after-work-
  party-freestyling-w-inagee-13/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Er kam\, sah und sie siegte
+DTSTART:20270423T173000Z
+DTEND:20270423T193000Z
+DTSTAMP:20261127T150545Z
+UID:a082e94aa6ab@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2
+ -2-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2-2-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Der Mörder war es!
+DTSTART:20270424T173000Z
+DTEND:20270424T193000Z
+DTSTAMP:20261127T150545Z
+UID:b1ed7f306a75@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4-4-1/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/der-moerder-war-es-4-4-1/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:It´s All Pink – Tour 2027
 DTSTART:20270424T180000Z
 DTEND:20270424T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:c5233740463e@event-collector
 DESCRIPTION:Die Hagener Tribute-Band „IT’S ALL PiNK“ bringt die grö
  ßten Hits [...]\nhttps://werkhof-kulturzentrum.de/event/its-all-pink-tour
@@ -914,10 +1271,20 @@ LOCATION:Werkhof\, Hagen
 URL:https://werkhof-kulturzentrum.de/event/its-all-pink-tour-2027/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Achtsam morden!
+DTSTART:20270430T173000Z
+DTEND:20270430T193000Z
+DTSTAMP:20261127T150545Z
+UID:beecb9da7dbd@event-collector
+DESCRIPTION:https://theaterandervolme.de/event/achtsam-morden-2-2/
+LOCATION:Theater an der Volme\, Hagen
+URL:https://theaterandervolme.de/event/achtsam-morden-2-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270506T060000Z
 DTEND:20270506T080000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:dd74c13a0653@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -929,7 +1296,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270520T170000Z
 DTEND:20270520T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:705e48be0a17@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-14/
@@ -941,7 +1308,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270603T181500Z
 DTEND:20270603T201500Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:b0a4daaef101@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -953,7 +1320,7 @@ BEGIN:VEVENT
 SUMMARY:10 Jahre Clashing Minds – Das Jubiläumskonzert
 DTSTART:20270612T170000Z
 DTEND:20270612T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:287370c32f6f@event-collector
 DESCRIPTION:Das Jubiläumskonzert\nhttps://www.pelmke.de/veranstaltungen/c
  lashing-minds/
@@ -964,7 +1331,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270624T170000Z
 DTEND:20270624T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:5144c0ed3e8a@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-15/
@@ -976,7 +1343,7 @@ BEGIN:VEVENT
 SUMMARY:4Music Night
 DTSTART:20270701T181500Z
 DTEND:20270701T201500Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:dc4c9cd54a13@event-collector
 DESCRIPTION:Für leidenschaftliche Konzertbesucher\, Musikliebhaber oder e
  infach für alle\, die sich [...]\nhttps://werkhof-kulturzentrum.de/event/
@@ -988,7 +1355,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20270923T170000Z
 DTEND:20270923T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:517b6f49687c@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-16/
@@ -1000,7 +1367,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270924T180000Z
 DTEND:20270924T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:1b65c561d058@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villai
  n-era/
@@ -1011,7 +1378,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270925T180000Z
 DTEND:20270925T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:83509c18a3c4@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villai
  n-era-2/
@@ -1022,7 +1389,7 @@ BEGIN:VEVENT
 SUMMARY:Heavy Metal Fans Festival 2027 am 15. + 16.10.2027
 DTSTART:20271015T160000Z
 DTEND:20271015T180000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:50ef9ead9d4e@event-collector
 DESCRIPTION:Das Heavy Metal Fans Festival geht in die neunte Runde! [...]
  \nhttps://werkhof-kulturzentrum.de/event/heavy-metal-fans-festival-2027-am
@@ -1035,7 +1402,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20271028T170000Z
 DTEND:20271028T190000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:a7645eda1305@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-17/
@@ -1047,7 +1414,7 @@ BEGIN:VEVENT
 SUMMARY:Sundowner Collective – After Work Party
 DTSTART:20271125T180000Z
 DTEND:20271125T200000Z
-DTSTAMP:20261126T151556Z
+DTSTAMP:20261127T150545Z
 UID:5c283d41ed80@event-collector
 DESCRIPTION:freestyling w/ inagee\nhttps://www.pelmke.de/veranstaltungen/s
  undowner-collective-after-work-party-freestyling-w-inagee-12/

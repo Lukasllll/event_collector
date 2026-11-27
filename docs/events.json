@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T16:14:30+01:00",
+ "generated": "2026-11-27T16:04:17+01:00",
  "tags": [
   "konzert",
   "jam-session",
@@ -907,7 +907,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -942,13 +942,13 @@
     "konzert"
    ],
    "genre": "Jazz, Latin",
-   "description": "Marialy Pacheco Trio",
+   "description": "",
    "url": "https://domicil-dortmund.de/programm-details/marialy-pacheco.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -968,7 +968,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -988,7 +988,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1009,7 +1009,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1029,7 +1029,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1049,7 +1049,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1089,7 +1089,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1103,13 +1103,13 @@
     "konzert"
    ],
    "genre": "Experimental, Avantgarde, Improvisation",
-   "description": "Ingrid Laubrock & Grammy Season / 19.30 h: Artist Talk",
+   "description": "19.30 h: Artist Talk",
    "url": "https://domicil-dortmund.de/programm-details/ingrid-laubrock.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1124,13 +1124,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR, Barabend, Musik, Bar",
+   "description": "OFFEN:BAR. Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/listen-t-here-der-18-und-der-40-geburtstag-gleichzeitig-2855",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1145,13 +1145,13 @@
     "party"
    ],
    "genre": "Punk",
-   "description": "",
+   "description": "Der König macht, was er will",
    "url": "https://www.pelmke.de/veranstaltungen/punkplattenabend-der-koenig-macht-was-er-will/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1171,7 +1171,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1191,7 +1191,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1211,7 +1211,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1231,7 +1231,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1251,7 +1251,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1272,7 +1272,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1293,7 +1293,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1313,7 +1313,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1327,13 +1327,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/rhizome-3006",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1353,7 +1353,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1367,13 +1367,13 @@
     "party"
    ],
    "genre": null,
-   "description": "DJ Lounge",
+   "description": "",
    "url": "https://domicil-dortmund.de/programm-details/vinyl-shake-12659.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1394,7 +1394,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1409,13 +1409,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH, Musik, Workshop",
+   "description": "Chor im LOCH. Musik, Workshop",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3135",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1435,7 +1435,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1455,7 +1455,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1469,13 +1469,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/hilde-2887",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1495,7 +1495,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1509,13 +1509,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "Pop Up Theater in Wattenscheid. Von Marlen Haushofer | Regie Alexander Ritter",
+   "description": "Pop Up Theater in Wattenscheid. Von Marlen Haushofer | Regie Alexander Ritter. Auswärts.",
    "url": "https://rottstr5-theater.de/pop-up-theater-die-wand.html",
    "location_override": "Wattenscheid",
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1529,13 +1529,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/anna-luca-small-friendly-giant-3094",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1550,12 +1550,12 @@
    ],
    "genre": null,
    "description": "",
-   "url": "https://domicil-dortmund.de/index.php/programm-details/shining-hour-11975.html",
+   "url": "https://domicil-dortmund.de/programm-details/shining-hour-11975.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1575,7 +1575,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1586,7 +1586,7 @@
    "time": "19:00",
    "time_known": true,
    "tags": [
-    "sonstiges"
+    "party"
    ],
    "genre": null,
    "description": "",
@@ -1595,7 +1595,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1615,7 +1615,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1630,12 +1630,12 @@
    ],
    "genre": null,
    "description": "",
-   "url": "https://domicil-dortmund.de/index.php/programm-details/jugend-jazzt-preistr%C3%A4gerkonzert.html",
+   "url": "https://domicil-dortmund.de/programm-details/jugend-jazzt-preistr%C3%A4gerkonzert.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1649,13 +1649,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander Ritter",
+   "description": "Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander Ritter. Gastspiel.",
    "url": "https://rottstr5-theater.de/schuld-und-s%C3%BChne.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1675,7 +1675,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1689,13 +1689,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR, Barabend, Musik, Bar",
+   "description": "OFFEN:BAR. Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/dj-karriere-b2b-mighty-maus-3196",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1715,7 +1715,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1736,7 +1736,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1756,7 +1756,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1776,7 +1776,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1816,7 +1816,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1836,7 +1836,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1857,7 +1857,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1877,7 +1877,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1897,7 +1897,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1917,7 +1917,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1958,7 +1958,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -1998,7 +1998,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2033,13 +2033,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/moving-krippenspielers-2888",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2060,7 +2060,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2081,7 +2081,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2102,7 +2102,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2123,7 +2123,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2143,7 +2143,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2163,7 +2163,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2183,7 +2183,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2203,7 +2203,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-24T16:53:00+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2217,13 +2217,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club, Musik",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/keshavara-ramesh-shotham-present-weirdly-in-time-feat-marie-tjong-ayong-3234",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2243,7 +2243,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2263,7 +2263,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2277,13 +2277,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR, Bar",
+   "description": "OFFEN:BAR. Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/combo-collage-3235",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2304,7 +2304,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-22T14:20:49+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2324,7 +2324,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2344,7 +2344,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2364,7 +2364,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2384,7 +2384,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-24T16:53:00+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2398,13 +2398,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/olivia-trummer-trio-3032",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2418,14 +2418,14 @@
     "konzert",
     "party"
    ],
-   "genre": "Rock, Electronic",
+   "genre": "Rock | Electronic",
    "description": "Rock | Electronic",
    "url": "https://rottstr5-theater.de/waveland.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2440,13 +2440,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR, Barabend, Musik, Bar",
+   "description": "OFFEN:BAR. Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/charles-petersohn-david-geer-a-joyful-noise-3161",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2466,7 +2466,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2486,7 +2486,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2507,7 +2507,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2527,7 +2527,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2541,13 +2541,13 @@
     "theater"
    ],
    "genre": null,
-   "description": "Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander Ritter",
+   "description": "Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander Ritter. Ausverkauft.",
    "url": "https://rottstr5-theater.de/schuld-und-s%C3%BChne.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2568,7 +2568,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2588,7 +2588,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2603,13 +2603,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH, Musik, Workshop",
+   "description": "Chor im LOCH. Musik, Workshop",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3137",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2624,13 +2624,13 @@
     "konzert"
    ],
    "genre": "Rap",
-   "description": "",
+   "description": "Rap-Open-Mic in der Kneipe",
    "url": "https://www.pelmke.de/veranstaltungen/bleib-auf-dem-teppich-rap-open-mic-in-der-kneipe-6/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-24T16:53:00+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2645,13 +2645,13 @@
     "party"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/mickeys-monkey-party-2889",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2671,7 +2671,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2692,7 +2692,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2706,13 +2706,13 @@
     "party"
    ],
    "genre": "Quiz",
-   "description": "",
+   "description": "Demokratie am Tresen",
    "url": "https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen-4/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2732,7 +2732,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2753,7 +2753,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2773,7 +2773,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2793,7 +2793,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2813,7 +2813,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2833,7 +2833,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2847,13 +2847,13 @@
     "konzert"
    ],
    "genre": "Special",
-   "description": "",
+   "description": "Special",
    "url": "https://domicil-dortmund.de/index.php/programm-details/herbelicious.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2868,13 +2868,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR, Barabend, Musik, Bar",
+   "description": "OFFEN:BAR. Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/mauzmon-unbreakable-daani-3186",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2894,7 +2894,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2915,7 +2915,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2935,7 +2935,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2955,7 +2955,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2975,7 +2975,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -2995,7 +2995,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3015,7 +3015,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3036,7 +3036,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3051,13 +3051,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH, Musik, Workshop",
+   "description": "Chor im LOCH. Musik, Workshop",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3138",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3077,7 +3077,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3097,7 +3097,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3117,7 +3117,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3131,13 +3131,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/mitchmaikwolf-gang-feat-werner-dickel-3140",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3152,13 +3152,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "",
+   "description": "mit Damian Copp & Sven Söhnchen",
    "url": "https://www.pelmke.de/veranstaltungen/drecksack-musikalische-lesung-mit-damian-copp-sven-soehnchen/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-20T15:05:54+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3178,7 +3178,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:59:29+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3198,7 +3198,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3218,7 +3218,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3239,7 +3239,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3259,7 +3259,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3279,7 +3279,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-20T15:05:54+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3300,7 +3300,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3320,7 +3320,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3340,7 +3340,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3360,7 +3360,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3380,7 +3380,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3400,7 +3400,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3415,13 +3415,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH, Musik, Workshop, Community",
+   "description": "Chor im LOCH. Musik, Workshop, Community",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3299",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3441,7 +3441,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-26T16:14:30+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3461,7 +3461,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "7b856d941a90",
+   "venue_id": "theater-an-der-volme",
+   "title": "Der Mörder war es!",
+   "date": "2027-01-15",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimi-Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/der-moerder-war-es-4-4-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3481,7 +3501,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3496,13 +3516,34 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR, Barabend, Musik, Bar",
+   "description": "OFFEN:BAR. Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/listen-t-here-feat-lars-dorsch-3240",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "97736d34b300",
+   "venue_id": "theater-an-der-volme",
+   "title": "Die Heinz-Erhardt-Schau",
+   "date": "2027-01-17",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "theater"
+   ],
+   "genre": "Kabarett",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/die-heinz-erhardt-schau-10-4/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3522,7 +3563,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3542,7 +3583,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "943a00d022f3",
+   "venue_id": "theater-an-der-volme",
+   "title": "Pott Comedy",
+   "date": "2027-01-20",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Comedy",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/pott-comedy/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3562,7 +3623,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "71405855fa07",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2027-01-22",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-3-3/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3582,7 +3663,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3596,19 +3677,19 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR, Barabend, Bar",
+   "description": "OFFEN:BAR. Barabend, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/christian-s-shamey-oliver-kotting-kuswolf-maik-ollhoff-3160",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
    "id": "a6f060838945",
    "venue_id": "loch",
-   "title": "Chorprobe",
+   "title": "chorprobe",
    "date": "2027-01-26",
    "time": "19:30",
    "time_known": true,
@@ -3617,13 +3698,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH, Musik, Workshop, Community",
+   "description": "Chor im LOCH. Musik, Workshop, Community",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3291",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3636,14 +3717,14 @@
    "tags": [
     "konzert"
    ],
-   "genre": "Free Jazz",
+   "genre": "Free Improvisation",
    "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/wio-3216",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-22T14:20:49+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3663,7 +3744,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3683,7 +3764,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3703,7 +3784,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "b03e075f7810",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ein Bett im Kornfeld",
+   "date": "2027-01-29",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld-1/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3723,7 +3824,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3743,7 +3844,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3763,7 +3864,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-26T16:14:30+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3783,7 +3884,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "db524eb169d4",
+   "venue_id": "theater-an-der-volme",
+   "title": "Auf der Vespa nach Rimini",
+   "date": "2027-01-31",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-14-4-3/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3798,13 +3919,33 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH, Musik, Workshop, Community",
+   "description": "Chor im LOCH. Musik, Workshop, Community",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3301",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "325977cd3148",
+   "venue_id": "theater-an-der-volme",
+   "title": "Friedel Hiersenkötter",
+   "date": "2027-02-04",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Kabarett",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/friedel-hiersenkoetter-2-2-2-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3824,7 +3965,28 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "665472019c4d",
+   "venue_id": "theater-an-der-volme",
+   "title": "Let's Party!",
+   "date": "2027-02-05",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": "Party",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/lets-party-1/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3838,13 +4000,33 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/mirna-bogdanovic-group-3128",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "92e46ee49212",
+   "venue_id": "theater-an-der-volme",
+   "title": "Sketch Comedy Club 2.0",
+   "date": "2027-02-06",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Comedy",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3864,7 +4046,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3879,13 +4061,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH, Musik, Workshop, Community",
+   "description": "Chor im LOCH. Musik, Workshop, Community",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3302",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3899,13 +4081,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/graupe-brendle-terzic-3001",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3925,7 +4107,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "ba08278d7aee",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2027-02-12",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-3-1/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3945,7 +4147,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3965,7 +4167,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -3985,7 +4187,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "006d3c2fca4f",
+   "venue_id": "theater-an-der-volme",
+   "title": "Honig im Kopf",
+   "date": "2027-02-13",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/honig-im-kopf/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4005,7 +4227,47 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "6d1ec8b432da",
+   "venue_id": "theater-an-der-volme",
+   "title": "Irgendwas mit Liebe",
+   "date": "2027-02-14",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/irgendwas-mit-liebe/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "f1a2c2227a7e",
+   "venue_id": "theater-an-der-volme",
+   "title": "Pott Comedy",
+   "date": "2027-02-17",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Comedy",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/pott-comedy-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4025,7 +4287,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4039,13 +4301,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Talsounds, Musik",
+   "description": "Talsounds. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/fluppe-3151",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4065,7 +4327,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4086,6 +4348,46 @@
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
    "last_seen": "2026-11-26T16:14:30+01:00",
+   "gone": true
+  },
+  {
+   "id": "8eba9aca8585",
+   "venue_id": "theater-an-der-volme",
+   "title": "Achtsam morden!",
+   "date": "2027-02-20",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimi-Komödie",
+   "description": "Premiere",
+   "url": "https://theaterandervolme.de/event/achtsam-morden/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "ce029aeefc4f",
+   "venue_id": "werkhof",
+   "title": "Mother Black Cat am 20.02.2027",
+   "date": "2027-02-20",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "Rock",
+   "description": "Mother Black Cat – Alternative Rock mit Leidenschaft und ordentlich [...]",
+   "url": "https://werkhof-kulturzentrum.de/event/mother-black-cat/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4105,7 +4407,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "7afce702c70a",
+   "venue_id": "theater-an-der-volme",
+   "title": "Achtsam morden!",
+   "date": "2027-02-21",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimi-Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/achtsam-morden-3/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4125,7 +4447,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4145,7 +4467,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "d614b6c80ec6",
+   "venue_id": "theater-an-der-volme",
+   "title": "Hagen Weltweit Show",
+   "date": "2027-02-25",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Comedy",
+   "description": "Wenn das Kaff zum Kosmos wird.",
+   "url": "https://theaterandervolme.de/event/martin-quilitz-praesentiert-westfalen-weltweit-geschichten-ueber-westfaelische-wurzeln-2-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4156,7 +4498,8 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "konzert"
+    "konzert",
+    "party"
    ],
    "genre": "Dance, Soul, HipHop, Afro, Afrobeat",
    "description": "",
@@ -4165,7 +4508,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "38a835d30a09",
+   "venue_id": "theater-an-der-volme",
+   "title": "Der Mörder war es!",
+   "date": "2027-02-26",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimi-Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/der-moerder-war-es-4-4-3/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4179,13 +4542,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/julian-roman-wasserfuhr-3192",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4206,7 +4569,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "fc3298eb5782",
+   "venue_id": "theater-an-der-volme",
+   "title": "Deutschland, mon amour",
+   "date": "2027-02-27",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/deutschland-mon-amour/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4226,7 +4609,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4240,13 +4623,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/elsa-3163",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4266,7 +4649,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4286,7 +4669,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "d55248ba030d",
+   "venue_id": "theater-an-der-volme",
+   "title": "TANKRED LERCH liest",
+   "date": "2027-03-05",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "lesung"
+   ],
+   "genre": "Lesung",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/tankred-lerch-liest/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4300,13 +4703,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/botticelli-baby-3263",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4326,7 +4729,47 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "8c70b24b33a3",
+   "venue_id": "theater-an-der-volme",
+   "title": "FROSTBEULEN & FAMILIENGLÜCK",
+   "date": "2027-03-06",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/frostbeulen-familienglueck-3-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "59bb80d6f83a",
+   "venue_id": "theater-an-der-volme",
+   "title": "Auf der Vespa nach Rimini",
+   "date": "2027-03-07",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-14-4-1/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4340,13 +4783,33 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/tabea-kind-trio-3162",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "200be40d9c66",
+   "venue_id": "theater-an-der-volme",
+   "title": "Ein Bett im Kornfeld",
+   "date": "2027-03-12",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/ein-bett-im-kornfeld-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4366,7 +4829,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4386,7 +4849,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "bf74bfb9e26e",
+   "venue_id": "theater-an-der-volme",
+   "title": "Marx & Engels intim",
+   "date": "2027-03-13",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/marx-engels-intim/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4406,7 +4889,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4426,7 +4909,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "88fe00f6f91c",
+   "venue_id": "theater-an-der-volme",
+   "title": "Achtsam morden!",
+   "date": "2027-03-14",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimi-Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/achtsam-morden-1/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4446,7 +4949,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "b618e42bf6af",
+   "venue_id": "theater-an-der-volme",
+   "title": "Pott Comedy",
+   "date": "2027-03-17",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Comedy",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/pott-comedy-3/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4467,7 +4990,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "0240530bb77e",
+   "venue_id": "theater-an-der-volme",
+   "title": "Der letzte der feurigen Liebhaber",
+   "date": "2027-03-19",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "Premiere",
+   "url": "https://theaterandervolme.de/event/der-letzte-der-feurigen-liebhaber/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4487,7 +5030,48 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "47ee004f47bc",
+   "venue_id": "theater-an-der-volme",
+   "title": "Let's Party!",
+   "date": "2027-03-20",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": "Party",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/lets-party-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "60a10a951892",
+   "venue_id": "theater-an-der-volme",
+   "title": "Der letzte der feurigen Liebhaber",
+   "date": "2027-03-21",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/der-letzte-der-feurigen-liebhaber-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4501,13 +5085,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/volkmann-xylouris-kontou-3296",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4527,7 +5111,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4541,13 +5125,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/kira-linn-3102",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-26T16:14:30+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4567,7 +5151,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4587,7 +5171,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4607,7 +5191,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4627,7 +5211,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4647,7 +5231,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4661,13 +5245,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Salon Knallenfalls",
+   "description": "Salon Knallenfalls. Marvin Hoffmann",
    "url": "https://loch-wuppertal.de/programm/kalender/marvin-hoffmann-3213",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4681,13 +5265,53 @@
     "konzert"
    ],
    "genre": "Special",
-   "description": "",
+   "description": "Special",
    "url": "https://domicil-dortmund.de/index.php/programm-details/fortuna-ehrenfeld.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "0db92e8f4bc7",
+   "venue_id": "theater-an-der-volme",
+   "title": "Pott Comedy",
+   "date": "2027-04-14",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Comedy",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/pott-comedy-4/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "ce9eb4013161",
+   "venue_id": "theater-an-der-volme",
+   "title": "Der letzte der feurigen Liebhaber",
+   "date": "2027-04-16",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/der-letzte-der-feurigen-liebhaber-2-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4707,7 +5331,47 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "cc824eecb924",
+   "venue_id": "theater-an-der-volme",
+   "title": "Achtsam morden!",
+   "date": "2027-04-17",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimi-Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/achtsam-morden-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "bc66f77d0eaf",
+   "venue_id": "theater-an-der-volme",
+   "title": "Auf der Vespa nach Rimini",
+   "date": "2027-04-18",
+   "time": "18:00",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-14-4-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4728,7 +5392,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4748,7 +5412,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4768,7 +5432,47 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "a082e94aa6ab",
+   "venue_id": "theater-an-der-volme",
+   "title": "Er kam, sah und sie siegte",
+   "date": "2027-04-23",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2-2-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "b1ed7f306a75",
+   "venue_id": "theater-an-der-volme",
+   "title": "Der Mörder war es!",
+   "date": "2027-04-24",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimi-Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/der-moerder-war-es-4-4-1/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4788,7 +5492,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "beecb9da7dbd",
+   "venue_id": "theater-an-der-volme",
+   "title": "Achtsam morden!",
+   "date": "2027-04-30",
+   "time": "19:30",
+   "time_known": true,
+   "tags": [
+    "theater"
+   ],
+   "genre": "Krimi-Komödie",
+   "description": "",
+   "url": "https://theaterandervolme.de/event/achtsam-morden-2-2/",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4808,7 +5532,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4828,7 +5552,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4842,13 +5566,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/kind-2983",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4862,13 +5586,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club",
+   "description": "Jazz Club. Musik",
    "url": "https://loch-wuppertal.de/programm/kalender/yumi-ito-3020",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4888,7 +5612,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4908,7 +5632,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4928,7 +5652,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4948,7 +5672,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4968,7 +5692,27 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
+   "gone": false
+  },
+  {
+   "id": "dfdf49e5d7ae",
+   "venue_id": "domicil",
+   "title": "SOUNDZZ Familienkonzert / Klangvokal präsentiert: Beat Kinetics",
+   "date": "2027-06-13",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert"
+   ],
+   "genre": "HipHop, Groove",
+   "description": "",
+   "url": "https://domicil-dortmund.de/index.php/programm-details/soundzz-klangvokal-12636.html",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -4988,7 +5732,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -5008,7 +5752,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -5028,7 +5772,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -5049,7 +5793,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -5070,7 +5814,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -5090,7 +5834,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -5110,7 +5854,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   },
   {
@@ -5130,7 +5874,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-26T16:14:30+01:00",
+   "last_seen": "2026-11-27T16:04:17+01:00",
    "gone": false
   }
  ]
