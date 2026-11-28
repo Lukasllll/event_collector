@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T16:04:17+01:00",
+ "generated": "2026-11-28T15:12:02+01:00",
  "tags": [
   "konzert",
   "jam-session",
@@ -1050,7 +1050,7 @@
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
    "last_seen": "2026-11-27T16:04:17+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "ba6cdef969e7",
@@ -1089,7 +1089,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1100,6 +1100,7 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
+    "jam-session",
     "konzert"
    ],
    "genre": "Experimental, Avantgarde, Improvisation",
@@ -1109,7 +1110,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1124,13 +1125,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR. Barabend, Musik, Bar",
+   "description": "Der 18. und der 40. Geburtstag gleichzeitig. Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/listen-t-here-der-18-und-der-40-geburtstag-gleichzeitig-2855",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1151,7 +1152,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1171,7 +1172,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1185,13 +1186,13 @@
     "party"
    ],
    "genre": "Jazz, Funk, Soul, Disco, House",
-   "description": "",
+   "description": "Jazz, Funk, Soul, Disco, House",
    "url": "https://domicil-dortmund.de/programm-details/finibaggies-presents-saturday-soul-12523.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1211,7 +1212,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1231,7 +1232,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1251,7 +1252,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1272,7 +1273,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1293,7 +1294,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1307,13 +1308,13 @@
     "konzert"
    ],
    "genre": "Pop, Rock, Indie-Pop",
-   "description": "",
+   "description": "Pop, Rock, Indie-Pop",
    "url": "https://domicil-dortmund.de/programm-details/bartholomae.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1327,13 +1328,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/rhizome-3006",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1353,7 +1354,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1373,7 +1374,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1388,13 +1389,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Jazz",
    "url": "https://domicil-dortmund.de/programm-details/monday-night-session-12627.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1415,7 +1416,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1435,7 +1436,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1455,7 +1456,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1469,13 +1470,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/hilde-2887",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1495,7 +1496,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1515,7 +1516,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1529,13 +1530,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Small Friendly Giant. Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/anna-luca-small-friendly-giant-3094",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1555,7 +1556,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1575,7 +1576,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1595,7 +1596,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1615,7 +1616,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1635,7 +1636,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1655,7 +1656,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-18T23:59:30+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1675,7 +1676,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1689,13 +1690,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR. Barabend, Musik, Bar",
+   "description": "Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/dj-karriere-b2b-mighty-maus-3196",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1715,7 +1716,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1736,7 +1737,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1756,7 +1757,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1776,7 +1777,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1816,7 +1817,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1831,12 +1832,12 @@
    ],
    "genre": null,
    "description": "",
-   "url": "https://domicil-dortmund.de/index.php/programm-details/40-party-12072.html",
+   "url": "https://domicil-dortmund.de/programm-details/40-party-12072.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1857,7 +1858,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1877,7 +1878,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1897,7 +1898,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1917,7 +1918,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1952,13 +1953,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12628.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -1998,7 +1999,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:13:22+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2033,13 +2034,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/moving-krippenspielers-2888",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2054,13 +2055,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/flinta-session-12323.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2081,7 +2082,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2102,7 +2103,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2123,7 +2124,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2137,13 +2138,13 @@
     "konzert"
    ],
    "genre": "Jazz, Vocal Jazz",
-   "description": "",
+   "description": "Jazz, Vocal Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/tineke-postma-group-feat-theo-bleckmann.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2163,7 +2164,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2183,7 +2184,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2203,7 +2204,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-24T16:53:00+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2217,13 +2218,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/keshavara-ramesh-shotham-present-weirdly-in-time-feat-marie-tjong-ayong-3234",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2243,7 +2244,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2263,7 +2264,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2277,13 +2278,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR. Bar",
+   "description": "Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/combo-collage-3235",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2304,7 +2305,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-22T14:20:49+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2324,7 +2325,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2344,7 +2345,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2364,7 +2365,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2384,7 +2385,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-24T16:53:00+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2398,13 +2399,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/olivia-trummer-trio-3032",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2425,7 +2426,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2440,13 +2441,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR. Barabend, Musik, Bar",
+   "description": "Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/charles-petersohn-david-geer-a-joyful-noise-3161",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2460,13 +2461,13 @@
     "party"
    ],
    "genre": "Jazz, Funk, Soul, Disco, House",
-   "description": "",
+   "description": "Jazz, Funk, Soul, Disco, House",
    "url": "https://domicil-dortmund.de/index.php/programm-details/finibaggies-presents-saturday-soul-12524.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2486,7 +2487,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2501,13 +2502,13 @@
     "workshop"
    ],
    "genre": "Jazz, Avantgarde, Improvisation, Acoustic",
-   "description": "",
+   "description": "Jazz, Avantgarde, Improvisation, Acoustic",
    "url": "https://domicil-dortmund.de/index.php/programm-details/soundzz-12304.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2527,7 +2528,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2547,7 +2548,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2562,13 +2563,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12629.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2588,7 +2589,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2603,13 +2604,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH. Musik, Workshop",
+   "description": "Musik, Workshop",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3137",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2624,13 +2625,13 @@
     "konzert"
    ],
    "genre": "Rap",
-   "description": "Rap-Open-Mic in der Kneipe",
+   "description": "",
    "url": "https://www.pelmke.de/veranstaltungen/bleib-auf-dem-teppich-rap-open-mic-in-der-kneipe-6/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-24T16:53:00+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2645,13 +2646,13 @@
     "party"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/mickeys-monkey-party-2889",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2671,7 +2672,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2692,7 +2693,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2706,13 +2707,13 @@
     "party"
    ],
    "genre": "Quiz",
-   "description": "Demokratie am Tresen",
+   "description": "",
    "url": "https://www.pelmke.de/veranstaltungen/kneipenquiz-demokratie-am-tresen-4/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2726,13 +2727,13 @@
     "konzert"
    ],
    "genre": "Avantgarde, Improvisation, Urban",
-   "description": "",
+   "description": "Avantgarde, Improvisation, Urban",
    "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-11960.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2753,7 +2754,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2773,7 +2774,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2793,7 +2794,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2813,7 +2814,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2833,7 +2834,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2853,7 +2854,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2868,13 +2869,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR. Barabend, Musik, Bar",
+   "description": "Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/mauzmon-unbreakable-daani-3186",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2894,7 +2895,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2908,14 +2909,14 @@
     "konzert",
     "party"
    ],
-   "genre": "Soul",
+   "genre": "Soul, Punk",
    "description": "",
    "url": "https://www.pelmke.de/veranstaltungen/soul-invaders-tuffi-slippers-the-mad-moiselles-putrid-cave/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2935,7 +2936,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2955,7 +2956,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2975,7 +2976,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -2995,7 +2996,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3015,7 +3016,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3030,13 +3031,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12630.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3051,13 +3052,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH. Musik, Workshop",
+   "description": "Musik, Workshop",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3138",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3071,13 +3072,13 @@
     "konzert"
    ],
    "genre": "Jazz, Groove, Big Band, World Music",
-   "description": "",
+   "description": "Jazz, Groove, Big Band, World Music",
    "url": "https://domicil-dortmund.de/index.php/programm-details/54-weihnachts-jazzmatinee-im-opernhaus.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3097,7 +3098,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3117,7 +3118,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3131,13 +3132,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/mitchmaikwolf-gang-feat-werner-dickel-3140",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3152,13 +3153,13 @@
     "lesung"
    ],
    "genre": null,
-   "description": "mit Damian Copp & Sven Söhnchen",
+   "description": "",
    "url": "https://www.pelmke.de/veranstaltungen/drecksack-musikalische-lesung-mit-damian-copp-sven-soehnchen/",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-20T15:05:54+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3178,7 +3179,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:59:29+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3198,7 +3199,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T00:25:38+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3212,13 +3213,13 @@
     "party"
    ],
    "genre": "Pop, Soul, Rock, House",
-   "description": "",
+   "description": "Pop, Soul, Rock, House",
    "url": "https://domicil-dortmund.de/index.php/programm-details/silvesterparty-11970.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3239,7 +3240,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3259,7 +3260,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3279,7 +3280,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-20T15:05:54+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3294,13 +3295,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/monday-night-session-12632.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3320,7 +3321,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3334,13 +3335,13 @@
     "konzert"
    ],
    "genre": "Jazz, Improvisation",
-   "description": "",
+   "description": "Jazz, Improvisation",
    "url": "https://domicil-dortmund.de/index.php/programm-details/alexandra-lehmler-trio.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3360,7 +3361,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3380,7 +3381,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3400,7 +3401,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3421,7 +3422,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3435,13 +3436,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/westfalenjazzpreistr%C3%A4ger-leif-berger-quartett.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-26T16:14:30+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3461,7 +3462,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3481,7 +3482,28 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
+   "gone": false
+  },
+  {
+   "id": "26e4f5dd31d3",
+   "venue_id": "loch",
+   "title": "Melrebelle + Superflix",
+   "date": "2027-01-15",
+   "time": "20:00",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Barabend, Musik, Bar",
+   "url": "https://loch-wuppertal.de/programm/kalender/melrebelle-superflix-3300",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-28T15:12:02+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3501,7 +3523,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3516,13 +3538,13 @@
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR. Barabend, Musik, Bar",
+   "description": "Barabend, Musik, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/listen-t-here-feat-lars-dorsch-3240",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3543,7 +3565,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3563,7 +3585,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3583,7 +3605,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3603,7 +3625,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3617,13 +3639,13 @@
     "konzert"
    ],
    "genre": "Avantgarde, Improvisation, Urban",
-   "description": "",
+   "description": "Avantgarde, Improvisation, Urban",
    "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-12381.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3643,7 +3665,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3663,7 +3685,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3674,16 +3696,17 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
+    "konzert",
     "party"
    ],
    "genre": null,
-   "description": "OFFEN:BAR. Barabend, Bar",
+   "description": "Barabend, Bar",
    "url": "https://loch-wuppertal.de/programm/kalender/christian-s-shamey-oliver-kotting-kuswolf-maik-ollhoff-3160",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3698,13 +3721,13 @@
     "workshop"
    ],
    "genre": null,
-   "description": "Chor im LOCH. Musik, Workshop, Community",
+   "description": "Musik, Workshop, Community",
    "url": "https://loch-wuppertal.de/programm/kalender/chorprobe-3291",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3717,14 +3740,14 @@
    "tags": [
     "konzert"
    ],
-   "genre": "Free Improvisation",
+   "genre": "Improvisation",
    "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/wio-3216",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-22T14:20:49+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3744,7 +3767,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3758,13 +3781,13 @@
     "konzert"
    ],
    "genre": "Jazz, Contemporary, Modern Jazz",
-   "description": "",
+   "description": "Jazz, Contemporary, Modern Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/jorge-rossy-quartet-feat-jorge-rossy-milena-casado-robert-landfermann-cornelia-nilsson.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3784,7 +3807,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3804,7 +3827,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3824,7 +3847,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3838,13 +3861,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "",
+   "description": "Bunt oder Blau präsentiert",
    "url": "https://domicil-dortmund.de/index.php/programm-details/schlakks.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3855,7 +3878,8 @@
    "time": "20:00",
    "time_known": true,
    "tags": [
-    "konzert"
+    "konzert",
+    "party"
    ],
    "genre": "Ska",
    "description": "Musik",
@@ -3864,7 +3888,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-26T16:14:30+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3884,7 +3908,28 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
+   "gone": false
+  },
+  {
+   "id": "b27ae24e4d0e",
+   "venue_id": "loch",
+   "title": "JVX",
+   "date": "2027-01-30",
+   "time": "21:30",
+   "time_known": true,
+   "tags": [
+    "konzert",
+    "party"
+   ],
+   "genre": null,
+   "description": "Barabend, Musik, Bar",
+   "url": "https://loch-wuppertal.de/programm/kalender/jvx-3293",
+   "location_override": null,
+   "recurring": false,
+   "classified": true,
+   "first_seen": "2026-11-28T15:12:02+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3904,7 +3949,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3925,7 +3970,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3945,7 +3990,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3965,7 +4010,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -3986,7 +4031,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4000,13 +4045,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/mirna-bogdanovic-group-3128",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4026,7 +4071,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4046,7 +4091,7 @@
    "recurring": true,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4068,7 +4113,7 @@
    "classified": true,
    "first_seen": "2026-11-25T16:36:10+01:00",
    "last_seen": "2026-11-27T16:04:17+01:00",
-   "gone": false
+   "gone": true
   },
   {
    "id": "072d3324218e",
@@ -4081,13 +4126,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/graupe-brendle-terzic-3001",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4107,7 +4152,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4127,7 +4172,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4147,7 +4192,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4167,7 +4212,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4181,13 +4226,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "",
+   "description": "Jazz",
    "url": "https://domicil-dortmund.de/index.php/programm-details/f%C3%B6rderpreis-jazz-domicil.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4207,7 +4252,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4227,7 +4272,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4247,7 +4292,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4267,7 +4312,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4281,13 +4326,13 @@
     "konzert"
    ],
    "genre": "Jazz, Electronics, Rock",
-   "description": "",
+   "description": "Jazz, Electronics, Rock",
    "url": "https://domicil-dortmund.de/index.php/programm-details/eivind-aarset-12432.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4301,13 +4346,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Talsounds. Musik",
+   "description": "Talsounds",
    "url": "https://loch-wuppertal.de/programm/kalender/fluppe-3151",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4321,13 +4366,13 @@
     "konzert"
    ],
    "genre": "Avantgarde, Improvisation, Urban",
-   "description": "",
+   "description": "Avantgarde, Improvisation, Urban",
    "url": "https://domicil-dortmund.de/index.php/programm-details/the-dorf-12382.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4367,7 +4412,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4387,7 +4432,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4407,7 +4452,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4427,7 +4472,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4447,7 +4492,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4467,7 +4512,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4487,7 +4532,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4502,13 +4547,13 @@
     "party"
    ],
    "genre": "Dance, Soul, HipHop, Afro, Afrobeat",
-   "description": "",
+   "description": "Dance, Soul, HipHop, Afro, Afrobeat",
    "url": "https://domicil-dortmund.de/index.php/programm-details/nubiyan-twist-12345.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4528,7 +4573,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4542,13 +4587,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/julian-roman-wasserfuhr-3192",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4569,7 +4614,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4589,7 +4634,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4609,7 +4654,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4623,13 +4668,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/elsa-3163",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4643,13 +4688,13 @@
     "konzert"
    ],
    "genre": "Jazz, Groove, Indie-Pop",
-   "description": "",
+   "description": "Jazz, Groove, Indie-Pop",
    "url": "https://domicil-dortmund.de/index.php/programm-details/opt2-girls-in-airports.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4669,7 +4714,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4689,7 +4734,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4703,13 +4748,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/botticelli-baby-3263",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4729,7 +4774,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4749,7 +4794,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4769,7 +4814,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4783,13 +4828,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/tabea-kind-trio-3162",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4809,7 +4854,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4829,7 +4874,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4849,7 +4894,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4869,7 +4914,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4889,7 +4934,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4909,7 +4954,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4929,7 +4974,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4949,7 +4994,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4969,7 +5014,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -4990,7 +5035,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5010,7 +5055,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5030,7 +5075,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5051,7 +5096,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5071,7 +5116,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5085,13 +5130,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/volkmann-xylouris-kontou-3296",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-21T14:28:13+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5111,7 +5156,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5125,13 +5170,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/kira-linn-3102",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-26T16:14:30+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5151,7 +5196,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5165,13 +5210,13 @@
     "konzert"
    ],
    "genre": "Jazz, Funk, Soul",
-   "description": "",
+   "description": "Jazz, Funk, Soul",
    "url": "https://domicil-dortmund.de/index.php/programm-details/theodor.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5185,13 +5230,13 @@
     "konzert"
    ],
    "genre": "Jazz, Big Band",
-   "description": "",
+   "description": "Jazz, Big Band",
    "url": "https://domicil-dortmund.de/index.php/programm-details/1-orchestre-national-de-jazz.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5211,7 +5256,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5231,7 +5276,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5245,13 +5290,13 @@
     "konzert"
    ],
    "genre": null,
-   "description": "Salon Knallenfalls. Marvin Hoffmann",
+   "description": "Salon Knallenfalls",
    "url": "https://loch-wuppertal.de/programm/kalender/marvin-hoffmann-3213",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5271,7 +5316,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5291,7 +5336,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5311,7 +5356,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5331,7 +5376,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5351,7 +5396,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5371,7 +5416,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5392,7 +5437,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5412,7 +5457,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-23T16:58:05+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5432,7 +5477,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5452,7 +5497,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5472,7 +5517,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5492,7 +5537,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5512,7 +5557,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5532,7 +5577,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5552,7 +5597,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5566,13 +5611,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/kind-2983",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5586,13 +5631,13 @@
     "konzert"
    ],
    "genre": "Jazz",
-   "description": "Jazz Club. Musik",
+   "description": "Jazz Club",
    "url": "https://loch-wuppertal.de/programm/kalender/yumi-ito-3020",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:31:50+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5612,7 +5657,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5632,7 +5677,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T23:08:52+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5652,7 +5697,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5672,7 +5717,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5686,13 +5731,13 @@
     "konzert"
    ],
    "genre": "Global Music",
-   "description": "",
+   "description": "Global Music",
    "url": "https://domicil-dortmund.de/index.php/programm-details/quadro-nuevo-12196.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5706,13 +5751,13 @@
     "konzert"
    ],
    "genre": "HipHop, Groove",
-   "description": "",
+   "description": "HipHop, Groove",
    "url": "https://domicil-dortmund.de/index.php/programm-details/soundzz-klangvokal-12636.html",
    "location_override": null,
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-27T16:04:17+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5732,7 +5777,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5752,7 +5797,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5772,7 +5817,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5793,7 +5838,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5814,7 +5859,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5834,7 +5879,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T02:01:43+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5854,7 +5899,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   },
   {
@@ -5874,7 +5919,7 @@
    "recurring": false,
    "classified": true,
    "first_seen": "2026-11-19T01:03:32+01:00",
-   "last_seen": "2026-11-27T16:04:17+01:00",
+   "last_seen": "2026-11-28T15:12:02+01:00",
    "gone": false
   }
  ]

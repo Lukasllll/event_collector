@@ -2,21 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-collector//DE
 BEGIN:VEVENT
-SUMMARY:[entfällt?] Kasimir und Karoline
-DTSTART:20261127T183000Z
-DTEND:20261127T203000Z
-DTSTAMP:20261127T150545Z
-UID:aae50e3a0f33@event-collector
-DESCRIPTION:Eine Produktion des Jugendclubs des Theaters an der Volme\nhtt
- ps://theaterandervolme.de/event/kasimir-und-karoline-2/
-LOCATION:Theater an der Volme\, Hagen
-URL:https://theaterandervolme.de/event/kasimir-und-karoline-2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:f6f4e3f2d37f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-4/
 LOCATION:Theater an der Volme\, Hagen
@@ -26,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Ich brauch Tapetenwechsel
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:8c984c5088f1@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ich-brauch-tapetenwechsel/
 LOCATION:Theater an der Volme\, Hagen
@@ -36,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Pop Up Theater in Wattenscheid: Die Wand
 DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:7292292bb990@event-collector
 DESCRIPTION:Pop Up Theater in Wattenscheid. Von Marlen Haushofer | Regie A
  lexander Ritter. Auswärts.\nhttps://rottstr5-theater.de/pop-up-theater-di
@@ -48,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Er kam\, sah und sie siegte
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:492c5f5f771b@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2
  -2/
@@ -59,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261204T183000Z
 DTEND:20261204T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:9c3d29094074@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter. Gastspiel.\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.html
@@ -70,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:d96eab78084d@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  1/
@@ -81,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Törleß
 DTSTART:20261205T183000Z
 DTEND:20261205T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:507b2423be94@event-collector
 DESCRIPTION:nach Robert Musil | Regie Akbar Paktin\nhttps://rottstr5-theat
  er.de/T%C3%B6rle%C3%9F.html
@@ -92,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Ein bisschen Baum muss sein
 DTSTART:20261210T183000Z
 DTEND:20261210T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:a7a1ff828460@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ein-bisschen-baum-muss-sein
  /
@@ -103,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Luisa Charlotte Schulz
 DTSTART:20261210T190000Z
 DTEND:20261210T210000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:f019964f977e@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/luisa-char
  lotte-schulz-2908
@@ -115,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Der Mörder war es!
 DTSTART:20261211T183000Z
 DTEND:20261211T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:1abb5f2fd3bc@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4/
 LOCATION:Theater an der Volme\, Hagen
@@ -125,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:StandUp-Comedy
 DTSTART:20261211T190000Z
 DTEND:20261211T210000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:52b0b6a002ae@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/standup-comedy-5/
 LOCATION:Pelmke\, Hagen
@@ -135,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261212T183000Z
 DTEND:20261212T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:398a1acd491e@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-1/
 LOCATION:Theater an der Volme\, Hagen
@@ -145,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261213T170000Z
 DTEND:20261213T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:712faf0663d2@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-2/
 LOCATION:Theater an der Volme\, Hagen
@@ -155,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Schuld und Sühne
 DTSTART:20261213T183000Z
 DTEND:20261213T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:32afa4eb940d@event-collector
 DESCRIPTION:Nach F. M. Dostojewski | Regie Martina Van Boxen & Alexander R
  itter. Ausverkauft.\nhttps://rottstr5-theater.de/schuld-und-s%C3%BChne.htm
@@ -167,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:Das große Heft
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:9a5b4927fa02@event-collector
 DESCRIPTION:von Ágota Kristóf | Regie Martina van Boxen\nhttps://rottstr
  5-theater.de/das-grosse-heft.html
@@ -178,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Club 2.0
 DTSTART:20261218T183000Z
 DTEND:20261218T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:23b84073bdf0@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-
  4/
@@ -189,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20261219T183000Z
 DTEND:20261219T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:78d59e71d44f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  3/
@@ -200,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Charles Dickens
 DTSTART:20261220T170000Z
 DTEND:20261220T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:014c930fe7e6@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/charles-dickens-3/
 LOCATION:Theater an der Volme\, Hagen
@@ -210,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Das Beste kommt zum Schluss
 DTSTART:20261231T170000Z
 DTEND:20261231T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:971434666363@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss
  /
@@ -221,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Das Beste kommt zum Schluss
 DTSTART:20261231T200000Z
 DTEND:20261231T220000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:7b9f10b712c0@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/das-beste-kommt-zum-schluss
  -2/
@@ -232,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 15.01.2027
 DTSTART:20270115T180000Z
 DTEND:20270115T200000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:c6412bb52fc5@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -244,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:Der Mörder war es!
 DTSTART:20270115T183000Z
 DTEND:20270115T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:7b856d941a90@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4-4-2/
 LOCATION:Theater an der Volme\, Hagen
@@ -254,7 +243,7 @@ BEGIN:VEVENT
 SUMMARY:Die Heinz-Erhardt-Schau
 DTSTART:20270117T170000Z
 DTEND:20270117T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:97736d34b300@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/die-heinz-erhardt-schau-10-
  4/
@@ -265,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 17.01.2027
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:534b475df5e7@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -277,7 +266,7 @@ BEGIN:VEVENT
 SUMMARY:Die Physiker – am 19.01.2027
 DTSTART:20270119T180000Z
 DTEND:20270119T200000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:410a6da75a84@event-collector
 DESCRIPTION:DIE PHYSIKER – Friedrich Dürrenmatts zeitlos aktueller Klas
  siker Drei Physiker. [...]\nhttps://werkhof-kulturzentrum.de/event/die-phy
@@ -289,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Pott Comedy
 DTSTART:20270120T183000Z
 DTEND:20270120T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:943a00d022f3@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/pott-comedy/
 LOCATION:Theater an der Volme\, Hagen
@@ -299,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20270122T183000Z
 DTEND:20270122T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:71405855fa07@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  3-3/
@@ -310,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Ein Bett im Kornfeld
 DTSTART:20270129T183000Z
 DTEND:20270129T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:b03e075f7810@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ein-bett-im-kornfeld-1/
 LOCATION:Theater an der Volme\, Hagen
@@ -320,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Auf der Vespa nach Rimini
 DTSTART:20270131T170000Z
 DTEND:20270131T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:db524eb169d4@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-1
  4-4-3/
@@ -331,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Sketch Comedy Club 2.0
 DTSTART:20270206T183000Z
 DTEND:20270206T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:92e46ee49212@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/sketch-comedy-club-2-0-2-2-
  2/
@@ -342,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20270212T183000Z
 DTEND:20270212T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:ba08278d7aee@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  3-1/
@@ -353,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Honig im Kopf
 DTSTART:20270213T183000Z
 DTEND:20270213T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:006d3c2fca4f@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/honig-im-kopf/
 LOCATION:Theater an der Volme\, Hagen
@@ -363,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Irgendwas mit Liebe
 DTSTART:20270214T170000Z
 DTEND:20270214T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:6d1ec8b432da@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/irgendwas-mit-liebe/
 LOCATION:Theater an der Volme\, Hagen
@@ -373,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Pott Comedy
 DTSTART:20270217T183000Z
 DTEND:20270217T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:f1a2c2227a7e@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/pott-comedy-2/
 LOCATION:Theater an der Volme\, Hagen
@@ -383,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:Achtsam morden!
 DTSTART:20270220T183000Z
 DTEND:20270220T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:8eba9aca8585@event-collector
 DESCRIPTION:Premiere\nhttps://theaterandervolme.de/event/achtsam-morden/
 LOCATION:Theater an der Volme\, Hagen
@@ -393,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Achtsam morden!
 DTSTART:20270221T183000Z
 DTEND:20270221T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:7afce702c70a@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/achtsam-morden-3/
 LOCATION:Theater an der Volme\, Hagen
@@ -403,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Hagen Weltweit Show
 DTSTART:20270225T183000Z
 DTEND:20270225T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:d614b6c80ec6@event-collector
 DESCRIPTION:Wenn das Kaff zum Kosmos wird.\nhttps://theaterandervolme.de/e
  vent/martin-quilitz-praesentiert-westfalen-weltweit-geschichten-ueber-west
@@ -416,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Der Mörder war es!
 DTSTART:20270226T183000Z
 DTEND:20270226T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:38a835d30a09@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4-4-3/
 LOCATION:Theater an der Volme\, Hagen
@@ -426,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:QUICHOTTE „Guter Dinge“
 DTSTART:20270226T190000Z
 DTEND:20270226T210000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:391b60045fed@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/quichotte-guter-dinge/
 LOCATION:Pelmke\, Hagen
@@ -436,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:Deutschland\, mon amour
 DTSTART:20270227T183000Z
 DTEND:20270227T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:fc3298eb5782@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/deutschland-mon-amour/
 LOCATION:Theater an der Volme\, Hagen
@@ -446,7 +435,7 @@ BEGIN:VEVENT
 SUMMARY:FROSTBEULEN & FAMILIENGLÜCK
 DTSTART:20270306T183000Z
 DTEND:20270306T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:8c70b24b33a3@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/frostbeulen-familienglueck-
  3-2/
@@ -457,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Auf der Vespa nach Rimini
 DTSTART:20270307T170000Z
 DTEND:20270307T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:59bb80d6f83a@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-1
  4-4-1/
@@ -468,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Ein Bett im Kornfeld
 DTSTART:20270312T183000Z
 DTEND:20270312T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:200be40d9c66@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/ein-bett-im-kornfeld-2/
 LOCATION:Theater an der Volme\, Hagen
@@ -478,7 +467,7 @@ BEGIN:VEVENT
 SUMMARY:Marx & Engels intim
 DTSTART:20270313T183000Z
 DTEND:20270313T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:bf74bfb9e26e@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/marx-engels-intim/
 LOCATION:Theater an der Volme\, Hagen
@@ -488,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:Achtsam morden!
 DTSTART:20270314T170000Z
 DTEND:20270314T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:88fe00f6f91c@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/achtsam-morden-1/
 LOCATION:Theater an der Volme\, Hagen
@@ -498,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Pott Comedy
 DTSTART:20270317T183000Z
 DTEND:20270317T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:b618e42bf6af@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/pott-comedy-3/
 LOCATION:Theater an der Volme\, Hagen
@@ -508,7 +497,7 @@ BEGIN:VEVENT
 SUMMARY:Abdul Kader Chahin
 DTSTART:20270318T190000Z
 DTEND:20270318T210000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:2a2831ae7f12@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/abdul-kade
  r-chahin-2748
@@ -519,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Der letzte der feurigen Liebhaber
 DTSTART:20270319T183000Z
 DTEND:20270319T203000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:0240530bb77e@event-collector
 DESCRIPTION:Premiere\nhttps://theaterandervolme.de/event/der-letzte-der-fe
  urigen-liebhaber/
@@ -530,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Der letzte der feurigen Liebhaber
 DTSTART:20270321T170000Z
 DTEND:20270321T190000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:60a10a951892@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-letzte-der-feurigen-lie
  bhaber-2/
@@ -542,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:Pott Comedy
 DTSTART:20270414T173000Z
 DTEND:20270414T193000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:0db92e8f4bc7@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/pott-comedy-4/
 LOCATION:Theater an der Volme\, Hagen
@@ -552,7 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Der letzte der feurigen Liebhaber
 DTSTART:20270416T173000Z
 DTEND:20270416T193000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:ce9eb4013161@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-letzte-der-feurigen-lie
  bhaber-2-2/
@@ -564,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Achtsam morden!
 DTSTART:20270417T173000Z
 DTEND:20270417T193000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:cc824eecb924@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/achtsam-morden-2/
 LOCATION:Theater an der Volme\, Hagen
@@ -574,7 +563,7 @@ BEGIN:VEVENT
 SUMMARY:Auf der Vespa nach Rimini
 DTSTART:20270418T160000Z
 DTEND:20270418T180000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:bc66f77d0eaf@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/auf-der-vespa-nach-rimini-1
  4-4-2/
@@ -585,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:Rebecca Pap
 DTSTART:20270418T180000Z
 DTEND:20270418T200000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:78f519e4a7a8@event-collector
 DESCRIPTION:Comedy\nhttps://loch-wuppertal.de/programm/kalender/rebecca-pa
  p-3109
@@ -596,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:Er kam\, sah und sie siegte
 DTSTART:20270423T173000Z
 DTEND:20270423T193000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:a082e94aa6ab@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/er-kam-sah-und-sie-siegte-2
  -2-2/
@@ -607,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:Der Mörder war es!
 DTSTART:20270424T173000Z
 DTEND:20270424T193000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:b1ed7f306a75@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/der-moerder-war-es-4-4-1/
 LOCATION:Theater an der Volme\, Hagen
@@ -617,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:Achtsam morden!
 DTSTART:20270430T173000Z
 DTEND:20270430T193000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:beecb9da7dbd@event-collector
 DESCRIPTION:https://theaterandervolme.de/event/achtsam-morden-2-2/
 LOCATION:Theater an der Volme\, Hagen
@@ -627,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270924T180000Z
 DTEND:20270924T200000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:1b65c561d058@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villai
  n-era/
@@ -638,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:Jan Philipp Zymny – „VILLAIN ERA“
 DTSTART:20270925T180000Z
 DTEND:20270925T200000Z
-DTSTAMP:20261127T150545Z
+DTSTAMP:20261128T141326Z
 UID:83509c18a3c4@event-collector
 DESCRIPTION:https://www.pelmke.de/veranstaltungen/jan-philipp-zymny-villai
  n-era-2/
